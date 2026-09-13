@@ -371,6 +371,7 @@ $products = array(
 $data = array(
 	'brand'    => 'bishamon',
 	'defaults' => array( 'status' => 'publish' ),
+	'product_defaults' => array( 'status' => 'draft' ),
 	'lines'    => $lines,
 	'products' => $products,
 );

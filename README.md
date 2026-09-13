@@ -45,9 +45,17 @@ php generators/bishamon.php
 
 `catalog/jet.json` is hand-maintained.
 
+## Products are drafts at launch
+
+Every catalog sets `"product_defaults": { "status": "draft" }`, so products
+import as drafts while product lines publish. Model numbers and specs from
+draft products still appear on their product line's page. To give products
+their own pages later, publish them in WordPress; the importer never changes
+an existing item's status.
+
 ## Status
 
-| Catalog | Lines | Design pages | Model numbers |
+| Catalog | Lines | Products (draft) | Model numbers |
 |---|---|---|---|
 | JET | 1 | 5 | 5 |
 | Lange Lift | 5 | 17 | 78 |

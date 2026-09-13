@@ -174,6 +174,10 @@ $products[] = array(
 
 $data['products'] = $products;
 
+// Launch with product lines only: products import as drafts, and their model
+// numbers appear on their line's page.
+$data['product_defaults'] = array( 'status' => 'draft' );
+
 // Lines: post lift tables are the primary type, then the shared attributes.
 $line_categories = array(
 	'lange-lift-manual-lift-tables'   => 'Lift Tables > Manual Lift Tables',

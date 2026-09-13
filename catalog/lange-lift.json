@@ -1529,5 +1529,8 @@
                 "https://www.langelift.com/manual-hydraulic-lift-tables-square/30-round-manual-powered-hydraulic-lift-table/"
             ]
         }
-    ]
+    ],
+    "product_defaults": {
+        "status": "draft"
+    }
 }

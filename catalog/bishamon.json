@@ -3,6 +3,9 @@
     "defaults": {
         "status": "publish"
     },
+    "product_defaults": {
+        "status": "draft"
+    },
     "lines": [
         {
             "slug": "bishamon-alpha-series",
