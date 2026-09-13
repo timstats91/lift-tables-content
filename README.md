@@ -8,6 +8,7 @@ plugin, and kept here so every fact can be reviewed, versioned and re-imported.
 ## Layout
 
 ```
+brand/               logo files, their generator and the brand guide
 brands.json          manufacturers, parent brands and parent companies
 categories.json      equipment categories and their intro copy
 catalog/<brand>.json one brand's product lines and models
@@ -44,6 +45,25 @@ php generators/bishamon.php
 ```
 
 `catalog/jet.json` is hand-maintained.
+
+## Brand
+
+`brand/brand-guide.html` is the brand guide: logo, colour, type, signature
+details, writing and imagery rules. The four logo SVGs are drawn by
+`brand/generate-logo.php`; edit and re-run it rather than editing the SVGs:
+
+```bash
+php brand/generate-logo.php
+```
+
+The site uses them through Appearance → Customize → Directory Branding:
+
+| Setting | Value |
+|---|---|
+| Accent colour | `#F5B800` |
+| Logo | `/wp-content/edc-content/lift-tables/brand/logo.svg` |
+| Reverse logo | `/wp-content/edc-content/lift-tables/brand/logo-reverse.svg` |
+| Icon | `/wp-content/edc-content/lift-tables/brand/mark.svg` |
 
 ## Products are drafts at launch
 
