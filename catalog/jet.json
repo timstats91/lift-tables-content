@@ -1,0 +1,297 @@
+{
+    "brand": "jet",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "jet-scissor-lift-tables",
+            "title": "JET Scissor Lift Tables",
+            "excerpt": "Manually operated mobile scissor lift tables from JET, rated 330 to 1,650 lb, in standard, jumbo and double-scissor models.",
+            "content": "<p>JET's scissor lift tables are light-duty mobile carts for lifting, positioning and moving materials around a shop floor. They are raised with a manually operated hydraulic pump, so they need no power supply.</p>\n<p>The range runs from the compact SLT-330F to the 1,650 lb SLT-1650, and includes the SLT-1100 jumbo table and the DSLT-770, a double scissor model with a raised height over 51 in. Every model rolls on 5 in. casters and carries JET's limited lifetime warranty.</p>",
+            "line_code": "SLT / DSLT",
+            "capacity_range": "330–1,650 lbs",
+            "key_features": [
+                "Manually operated hydraulic lift, no power required",
+                "Mobile on 5 in. casters with locking wheels",
+                "Standard, jumbo and double-scissor models",
+                "Limited lifetime warranty"
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.jettools.com/shop-tools/scissor-lift-tables"
+            ]
+        }
+    ],
+    "products": [
+        {
+            "slug": "jet-slt-330f",
+            "title": "JET SLT-330F Scissor Lift Table",
+            "line": "jet-scissor-lift-tables",
+            "menu_order": 10,
+            "sku": "SLT-330F",
+            "capacity_lbs": 330,
+            "platform_length_in": 27.5,
+            "platform_width_in": 17.75,
+            "lowered_height_in": 8.625,
+            "raised_height_in": 28.75,
+            "power_source": "manual",
+            "excerpt": "JET's most compact scissor lift table: 330 lb capacity on a 27-1/2 x 17-3/4 in. deck, with a folding handle.",
+            "content": "<p>The SLT-330F is the smallest table in JET's scissor lift range. Its 27-1/2 x 17-3/4 in. deck is rated for 330 lb and lifts from 8-5/8 in. to 28-3/4 in. in 16 pump strokes. The handle folds down for storage.</p>",
+            "specs": [
+                [
+                    "JET stock number",
+                    "JT9-140771"
+                ],
+                [
+                    "Handle",
+                    "Folding"
+                ],
+                [
+                    "Handle height",
+                    "34-1/8 in"
+                ],
+                [
+                    "Caster size",
+                    "5 in"
+                ],
+                [
+                    "Pump strokes to full height",
+                    "16"
+                ],
+                [
+                    "Net weight",
+                    "91.3 lbs"
+                ],
+                [
+                    "Warranty",
+                    "Limited lifetime"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.jettools.com/slt-330f-scissor-lift-table-with-folding-handle"
+            ]
+        },
+        {
+            "slug": "jet-slt-660f",
+            "title": "JET SLT-660F Scissor Lift Table",
+            "line": "jet-scissor-lift-tables",
+            "menu_order": 20,
+            "sku": "SLT-660F",
+            "capacity_lbs": 660,
+            "platform_length_in": 32.5,
+            "platform_width_in": 19.625,
+            "lowered_height_in": 10.625,
+            "raised_height_in": 34.125,
+            "power_source": "manual",
+            "excerpt": "660 lb mobile scissor lift table on a 32-1/2 x 19-5/8 in. deck, with a folding handle.",
+            "content": "<p>The SLT-660F doubles the capacity of JET's entry model to 660 lb, on a 32-1/2 x 19-5/8 in. deck that lifts from 10-5/8 in. to 34-1/8 in. in 13 pump strokes. Like the SLT-330F, it has a folding handle.</p>",
+            "specs": [
+                [
+                    "JET stock number",
+                    "JT9-140777"
+                ],
+                [
+                    "Handle",
+                    "Folding"
+                ],
+                [
+                    "Handle height",
+                    "40 in"
+                ],
+                [
+                    "Caster size",
+                    "5 in"
+                ],
+                [
+                    "Pump strokes to full height",
+                    "13"
+                ],
+                [
+                    "Net weight",
+                    "165 lbs"
+                ],
+                [
+                    "Warranty",
+                    "Limited lifetime"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.jettools.com/slt-660f-scissor-lift-table-with-folding-handle"
+            ]
+        },
+        {
+            "slug": "jet-dslt-770",
+            "title": "JET DSLT-770 Double Scissor Lift Table",
+            "line": "jet-scissor-lift-tables",
+            "menu_order": 30,
+            "sku": "DSLT-770",
+            "capacity_lbs": 770,
+            "platform_length_in": 35.625,
+            "platform_width_in": 20.125,
+            "lowered_height_in": 13.5625,
+            "raised_height_in": 51.125,
+            "power_source": "manual",
+            "excerpt": "Double scissor mobile lift table reaching 51-1/8 in., rated for 770 lb.",
+            "content": "<p>The DSLT-770 uses a double scissor mechanism to reach the highest working height in JET's range, 51-1/8 in., from a lowered height of 13-9/16 in. It carries 770 lb on a 35-5/8 x 20-1/8 in. deck and reaches full height in 21 pump strokes.</p>",
+            "specs": [
+                [
+                    "JET stock number",
+                    "JT9-140778"
+                ],
+                [
+                    "Scissor type",
+                    "Double"
+                ],
+                [
+                    "Handle height",
+                    "39 in"
+                ],
+                [
+                    "Caster size",
+                    "5 in"
+                ],
+                [
+                    "Pump strokes to full height",
+                    "21"
+                ],
+                [
+                    "Net weight",
+                    "235 lbs"
+                ],
+                [
+                    "Warranty",
+                    "Limited lifetime"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.jettools.com/dslt-770-double-scissor-lift-table-770lbs-capacity"
+            ]
+        },
+        {
+            "slug": "jet-slt-1100",
+            "title": "JET SLT-1100 Jumbo Scissor Lift Table",
+            "line": "jet-scissor-lift-tables",
+            "menu_order": 40,
+            "sku": "SLT-1100",
+            "capacity_lbs": 1100,
+            "platform_length_in": 63,
+            "platform_width_in": 31.5,
+            "lowered_height_in": 11.125,
+            "raised_height_in": 36,
+            "power_source": "manual",
+            "excerpt": "JET's jumbo scissor lift table, rated for 1,100 lb.",
+            "content": "<p>The SLT-1100 is JET's jumbo scissor lift table, with the largest deck in the range and an 1,100 lb capacity. It lifts from 11-1/8 in. to 36 in. in 33 pump strokes.</p>",
+            "specs": [
+                [
+                    "JET stock number",
+                    "JT9-140780"
+                ],
+                [
+                    "Handle height",
+                    "39 in"
+                ],
+                [
+                    "Caster size",
+                    "5 in"
+                ],
+                [
+                    "Pump strokes to full height",
+                    "33"
+                ],
+                [
+                    "Net weight",
+                    "295 lbs"
+                ],
+                [
+                    "Warranty",
+                    "Limited lifetime"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.jettools.com/slt-1100-jumbo-scissor-lift-table"
+            ],
+            "notes": "JET lists table size 63 x 31-1/2 in. but assembled dimensions of 50.75 x 29.75 x 37.75 in., which contradict each other. Table size used as published; verify before launch."
+        },
+        {
+            "slug": "jet-slt-1650",
+            "title": "JET SLT-1650 Scissor Lift Table",
+            "line": "jet-scissor-lift-tables",
+            "menu_order": 50,
+            "sku": "SLT-1650",
+            "capacity_lbs": 1650,
+            "platform_length_in": 39.375,
+            "platform_width_in": 20.125,
+            "lowered_height_in": 16,
+            "raised_height_in": 35.625,
+            "power_source": "manual",
+            "excerpt": "JET's highest-capacity scissor lift table: 1,650 lb on a 39-3/8 x 20-1/8 in. deck.",
+            "content": "<p>The SLT-1650 has the highest capacity in JET's scissor lift range, 1,650 lb, on a 39-3/8 x 20-1/8 in. deck. It lifts from 16 in. to 35-5/8 in. in 15 pump strokes.</p>",
+            "specs": [
+                [
+                    "JET stock number",
+                    "JT9-140779"
+                ],
+                [
+                    "Handle height",
+                    "40 in"
+                ],
+                [
+                    "Caster size",
+                    "5 in"
+                ],
+                [
+                    "Pump strokes to full height",
+                    "15"
+                ],
+                [
+                    "Net weight",
+                    "259.5 lbs"
+                ],
+                [
+                    "Warranty",
+                    "Limited lifetime"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.jettools.com/slt-1650-scissor-lift-table"
+            ]
+        }
+    ]
+}

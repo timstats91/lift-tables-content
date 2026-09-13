@@ -1,0 +1,1533 @@
+{
+    "brand": "lange-lift",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "lange-lift-manual-lift-tables",
+            "title": "Lange Lift Manual Lift Tables",
+            "excerpt": "Foot-pump hydraulic lift tables with a rotating deck, Lange Lift's original design built since 1934.",
+            "content": "<p>Manual lift tables are Lange Lift's flagship product, made since 1934 and first used as die-handling carts. A foot pump raises the table, and a second pedal lowers it for offloading or seated work, so no power supply is needed.</p>\n<p>Tables come with a square deck, rated from 1,000 to 4,000 lb, or a round deck rated from 1,000 to 2,000 lb. Both lower to 27 in. and raise to 45 in., giving 18 in. of vertical travel.</p>",
+            "capacity_range": "1,000–4,000 lbs",
+            "key_features": [
+                "Foot-pump hydraulic lift, no power required",
+                "Square or round deck",
+                "Deck rotates 360 degrees and locks at any height",
+                "27 in. lowered, 45 in. raised, 18 in. travel",
+                "Two swivel and two rigid casters with a foot-operated floor lock",
+                "Built in Menomonee Falls, Wisconsin"
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/manual-hydraulic-lift-tables-main/"
+            ]
+        },
+        {
+            "slug": "lange-lift-electric-lift-tables",
+            "title": "Lange Lift Electric Lift Tables",
+            "excerpt": "120V electric-over-hydraulic lift tables with 24 to 48 in. decks, rated 1,000 to 5,000 lb.",
+            "content": "<p>Lange Lift's electric tables are built for high-cycle work where lifting and lowering speed matters. A 120V AC motor drives the hydraulics from a standard outlet, and guarded dual foot switches raise and lower the table. A hand-adjustable valve sets the lowering speed.</p>\n<p>Square decks come in 24, 30, 36 and 48 in. sizes, each rated from 1,000 to 5,000 lb. Every table lowers to 27 in. and raises to 45 in. Model numbers encode the configuration: the L-136-EP is the 1,000 lb table with a 36 in. deck.</p>",
+            "line_code": "EP",
+            "capacity_range": "1,000–5,000 lbs",
+            "key_features": [
+                "120V AC electric-over-hydraulic power",
+                "Guarded dual foot switch controls",
+                "24, 30, 36 and 48 in. square decks",
+                "Adjustable lowering speed",
+                "Deck rotates 360 degrees and locks at any height",
+                "27 in. lowered, 45 in. raised, 18 in. travel"
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/electric-powered-hydraulic-lift-tables/",
+                "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-battery-lift-tables",
+            "title": "Lange Lift Battery Lift Tables",
+            "excerpt": "Cordless battery-powered hydraulic lift tables for areas without outlets, with 24 to 48 in. decks.",
+            "content": "<p>Lange Lift's battery tables suit work away from electrical outlets, including outdoors. An onboard DC motor raises the table, which lowers by gravity at a speed set by a hand-adjustable valve. Controls are on a coil-cord pendant that reaches about 10 ft, and the base-mounted charger plugs into a standard 110V outlet.</p>\n<p>Square decks come in 24, 30, 36 and 48 in. sizes, each rated from 1,000 to 5,000 lb, with a 27 in. lowered height and 45 in. raised height.</p>",
+            "capacity_range": "1,000–5,000 lbs",
+            "key_features": [
+                "Onboard battery and DC motor, no cords or hoses in use",
+                "Coil-cord pendant control reaching about 10 ft",
+                "Base-mounted charger for a standard 110V outlet",
+                "24, 30, 36 and 48 in. square decks",
+                "Deck rotates 360 degrees and locks at any height",
+                "27 in. lowered, 45 in. raised, 18 in. travel"
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/battery-powered-hydraulic-lift-tables/"
+            ],
+            "line_code": "BP"
+        },
+        {
+            "slug": "lange-lift-air-lift-tables",
+            "title": "Lange Lift Air Lift Tables",
+            "excerpt": "Air-over-hydraulic lift tables for spray booths and combustible environments, with 24 to 48 in. decks.",
+            "content": "<p>Lange Lift's air-powered tables are made for spray booths and other combustible environments where electrical equipment is not allowed. An air motor drives the hydraulic ram, controlled by a foot-operated air valve pedal. Lange recommends shop air at 80 PSI and 50 CFM, and an onboard filter, regulator and lubricator conditions the supply.</p>\n<p>Square decks come in 24, 30, 36 and 48 in. sizes, each rated from 1,000 to 5,000 lb, with a 27 in. lowered height and 45 in. raised height.</p>",
+            "capacity_range": "1,000–5,000 lbs",
+            "key_features": [
+                "Air-over-hydraulic power, no electrical components",
+                "Foot-operated air valve pedal",
+                "Recommended supply: 80 PSI at 50 CFM",
+                "24, 30, 36 and 48 in. square decks",
+                "Deck rotates 360 degrees and locks at any height",
+                "27 in. lowered, 45 in. raised, 18 in. travel"
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/air-powered-hydraulic-lift-tables/"
+            ],
+            "line_code": "AP"
+        },
+        {
+            "slug": "lange-lift-modified-custom-lifts",
+            "title": "Lange Lift Modified & Custom Lifts",
+            "excerpt": "Lange Lift tables modified or custom-built for specific applications, from 100 to 10,000 lb.",
+            "content": "<p>Any Lange Lift table can be modified for a specific application, and the company also builds custom scissor lifts, tilters and upenders, box dumpers, lift carts and turntables. Capacities range from 100 to 10,000 lb across manual, electric, battery and air power.</p>\n<p>Options include round and machined decks, ball transfers, roller conveyors, deck covers, tooling slots, tilting decks, powered rotation, alternative casters, and floor-mounted stationary versions.</p>",
+            "capacity_range": "100–10,000 lbs",
+            "key_features": [
+                "Modifications to any standard Lange table",
+                "Custom scissor lifts, tilters, box dumpers, lift carts and turntables",
+                "Tilting decks, powered rotation, ball transfers and roller conveyors",
+                "Floor-mounted stationary versions available"
+            ],
+            "categories": [
+                "Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/modified-custom-lifts/",
+                "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/"
+            ]
+        }
+    ],
+    "products": [
+        {
+            "slug": "lange-lift-24-inch-manual-hydraulic-lift-table",
+            "title": "Lange Lift 24-Inch Manual Hydraulic Lift Table",
+            "line": "lange-lift-manual-lift-tables",
+            "menu_order": 10,
+            "platform_length_in": 24,
+            "platform_width_in": 24,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "manual",
+            "voltage": "",
+            "excerpt": "Mobile manual post lift table with a 24 in. square rotating deck, rated 1,000–4,000 lb, models L-124 to L-424.",
+            "content": "<p>This Lange Lift table has a 24 in. square steel deck, the most compact standard deck, suited to smaller parts, dies and fixtures and to tight working areas. It is offered with manual power in 4 capacities from 1,000 to 4,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A foot pump raises the deck and a second pedal lowers it, so the table needs no power supply and can be used anywhere it can be rolled. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-124, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-124",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-224",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-324",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-424",
+                    "capacity_lbs": 4000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "24 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "24 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Manual foot pump"
+                ],
+                [
+                    "Controls",
+                    "Foot pedals: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/manual-hydraulic-lift-tables-square/24-manual-powered-hydraulic-lift-table/"
+            ]
+        },
+        {
+            "slug": "lange-lift-30-inch-manual-hydraulic-lift-table",
+            "title": "Lange Lift 30-Inch Manual Hydraulic Lift Table",
+            "line": "lange-lift-manual-lift-tables",
+            "menu_order": 20,
+            "platform_length_in": 30,
+            "platform_width_in": 30,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "manual",
+            "voltage": "",
+            "excerpt": "Mobile manual post lift table with a 30 in. square rotating deck, rated 1,000–4,000 lb, models L-130 to L-430.",
+            "content": "<p>This Lange Lift table has a 30 in. square steel deck, a mid-size deck that balances footprint against working surface. It is offered with manual power in 4 capacities from 1,000 to 4,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A foot pump raises the deck and a second pedal lowers it, so the table needs no power supply and can be used anywhere it can be rolled. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-130, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-130",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-230",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-330",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-430",
+                    "capacity_lbs": 4000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "30 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "30 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Manual foot pump"
+                ],
+                [
+                    "Controls",
+                    "Foot pedals: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/manual-hydraulic-lift-tables-square/30-manual-powered-hydraulic-lift-table/"
+            ]
+        },
+        {
+            "slug": "lange-lift-36-inch-manual-hydraulic-lift-table",
+            "title": "Lange Lift 36-Inch Manual Hydraulic Lift Table",
+            "line": "lange-lift-manual-lift-tables",
+            "menu_order": 30,
+            "platform_length_in": 36,
+            "platform_width_in": 36,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "manual",
+            "voltage": "",
+            "excerpt": "Mobile manual post lift table with a 36 in. square rotating deck, rated 1,000–4,000 lb, models L-136 to L-436.",
+            "content": "<p>This Lange Lift table has a 36 in. square steel deck, a larger deck for bigger parts, fixtures and assemblies. It is offered with manual power in 4 capacities from 1,000 to 4,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A foot pump raises the deck and a second pedal lowers it, so the table needs no power supply and can be used anywhere it can be rolled. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-136, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-136",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-236",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-336",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-436",
+                    "capacity_lbs": 4000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "36 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "36 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Manual foot pump"
+                ],
+                [
+                    "Controls",
+                    "Foot pedals: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/manual-hydraulic-lift-tables-square/36-manual-powered-hydraulic-lift-table/"
+            ]
+        },
+        {
+            "slug": "lange-lift-48-inch-manual-hydraulic-lift-table",
+            "title": "Lange Lift 48-Inch Manual Hydraulic Lift Table",
+            "line": "lange-lift-manual-lift-tables",
+            "menu_order": 40,
+            "platform_length_in": 48,
+            "platform_width_in": 48,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "manual",
+            "voltage": "",
+            "excerpt": "Mobile manual post lift table with a 48 in. square rotating deck, rated 1,000–4,000 lb, models L-148 to L-448.",
+            "content": "<p>This Lange Lift table has a 48 in. square steel deck, the largest standard deck, for wide parts, larger assemblies and several items at once. It is offered with manual power in 4 capacities from 1,000 to 4,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A foot pump raises the deck and a second pedal lowers it, so the table needs no power supply and can be used anywhere it can be rolled. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-148, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-148",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-248",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-348",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-448",
+                    "capacity_lbs": 4000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "48 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "48 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Manual foot pump"
+                ],
+                [
+                    "Controls",
+                    "Foot pedals: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/manual-hydraulic-lift-tables-square/48-manual-powered-hydraulic-lift-table/"
+            ]
+        },
+        {
+            "slug": "lange-lift-24-inch-electric-hydraulic-lift-table",
+            "title": "Lange Lift 24-Inch Electric Hydraulic Lift Table",
+            "line": "lange-lift-electric-lift-tables",
+            "menu_order": 50,
+            "platform_length_in": 24,
+            "platform_width_in": 24,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "electric",
+            "voltage": "120V AC",
+            "excerpt": "Mobile electric post lift table with a 24 in. square rotating deck, rated 1,000–5,000 lb, models L-124-EP to L-524-EP.",
+            "content": "<p>This Lange Lift table has a 24 in. square steel deck, the most compact standard deck, suited to smaller parts, dies and fixtures and to tight working areas. It is offered with electric power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A 120V AC motor drives the hydraulics from a standard outlet, and guarded dual foot switches raise and lower the deck for quick, repeated cycling. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-124-EP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-124-EP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-224-EP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-324-EP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-424-EP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-524-EP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "24 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "24 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "120V AC electric-over-hydraulic motor"
+                ],
+                [
+                    "Controls",
+                    "Guarded dual foot switch: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/electric-powered-hydraulic-lift-tables/24-electric-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-30-inch-electric-hydraulic-lift-table",
+            "title": "Lange Lift 30-Inch Electric Hydraulic Lift Table",
+            "line": "lange-lift-electric-lift-tables",
+            "menu_order": 60,
+            "platform_length_in": 30,
+            "platform_width_in": 30,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "electric",
+            "voltage": "120V AC",
+            "excerpt": "Mobile electric post lift table with a 30 in. square rotating deck, rated 1,000–5,000 lb, models L-130-EP to L-530-EP.",
+            "content": "<p>This Lange Lift table has a 30 in. square steel deck, a mid-size deck that balances footprint against working surface. It is offered with electric power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A 120V AC motor drives the hydraulics from a standard outlet, and guarded dual foot switches raise and lower the deck for quick, repeated cycling. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-130-EP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-130-EP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-230-EP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-330-EP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-430-EP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-530-EP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "30 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "30 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "120V AC electric-over-hydraulic motor"
+                ],
+                [
+                    "Controls",
+                    "Guarded dual foot switch: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/electric-powered-hydraulic-lift-tables/30-electric-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-36-inch-electric-hydraulic-lift-table",
+            "title": "Lange Lift 36-Inch Electric Hydraulic Lift Table",
+            "line": "lange-lift-electric-lift-tables",
+            "menu_order": 70,
+            "platform_length_in": 36,
+            "platform_width_in": 36,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "electric",
+            "voltage": "120V AC",
+            "excerpt": "Mobile electric post lift table with a 36 in. square rotating deck, rated 1,000–5,000 lb, models L-136-EP to L-536-EP.",
+            "content": "<p>This Lange Lift table has a 36 in. square steel deck, a larger deck for bigger parts, fixtures and assemblies. It is offered with electric power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A 120V AC motor drives the hydraulics from a standard outlet, and guarded dual foot switches raise and lower the deck for quick, repeated cycling. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-136-EP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-136-EP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-236-EP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-336-EP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-436-EP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-536-EP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "36 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "36 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "120V AC electric-over-hydraulic motor"
+                ],
+                [
+                    "Controls",
+                    "Guarded dual foot switch: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-48-inch-electric-hydraulic-lift-table",
+            "title": "Lange Lift 48-Inch Electric Hydraulic Lift Table",
+            "line": "lange-lift-electric-lift-tables",
+            "menu_order": 80,
+            "platform_length_in": 48,
+            "platform_width_in": 48,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "electric",
+            "voltage": "120V AC",
+            "excerpt": "Mobile electric post lift table with a 48 in. square rotating deck, rated 1,000–5,000 lb, models L-148-EP to L-548-EP.",
+            "content": "<p>This Lange Lift table has a 48 in. square steel deck, the largest standard deck, for wide parts, larger assemblies and several items at once. It is offered with electric power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>A 120V AC motor drives the hydraulics from a standard outlet, and guarded dual foot switches raise and lower the deck for quick, repeated cycling. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-148-EP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-148-EP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-248-EP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-348-EP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-448-EP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-548-EP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "48 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "48 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "120V AC electric-over-hydraulic motor"
+                ],
+                [
+                    "Controls",
+                    "Guarded dual foot switch: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/electric-powered-hydraulic-lift-tables/48-electric-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-24-inch-battery-hydraulic-lift-table",
+            "title": "Lange Lift 24-Inch Battery Hydraulic Lift Table",
+            "line": "lange-lift-battery-lift-tables",
+            "menu_order": 90,
+            "platform_length_in": 24,
+            "platform_width_in": 24,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "battery",
+            "voltage": "12V DC",
+            "excerpt": "Mobile battery post lift table with a 24 in. square rotating deck, rated 1,000–5,000 lb, models L-124-BP to L-524-BP.",
+            "content": "<p>This Lange Lift table has a 24 in. square steel deck, the most compact standard deck, suited to smaller parts, dies and fixtures and to tight working areas. It is offered with battery power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An enclosed 12V deep cycle battery powers a DC motor, with push-button pendant controls and an on-board charger, so the table lifts at the touch of a button with no cord or hose in use. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-124-BP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-124-BP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-224-BP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-324-BP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-424-BP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-524-BP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "24 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "24 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Enclosed 12V deep cycle battery, DC motor, on-board charger"
+                ],
+                [
+                    "Controls",
+                    "Push-button coil-cord pendant: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/battery-powered-hydraulic-lift-tables/24-battery-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-30-inch-battery-hydraulic-lift-table",
+            "title": "Lange Lift 30-Inch Battery Hydraulic Lift Table",
+            "line": "lange-lift-battery-lift-tables",
+            "menu_order": 100,
+            "platform_length_in": 30,
+            "platform_width_in": 30,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "battery",
+            "voltage": "12V DC",
+            "excerpt": "Mobile battery post lift table with a 30 in. square rotating deck, rated 1,000–5,000 lb, models L-130-BP to L-530-BP.",
+            "content": "<p>This Lange Lift table has a 30 in. square steel deck, a mid-size deck that balances footprint against working surface. It is offered with battery power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An enclosed 12V deep cycle battery powers a DC motor, with push-button pendant controls and an on-board charger, so the table lifts at the touch of a button with no cord or hose in use. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-130-BP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-130-BP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-230-BP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-330-BP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-430-BP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-530-BP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "30 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "30 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Enclosed 12V deep cycle battery, DC motor, on-board charger"
+                ],
+                [
+                    "Controls",
+                    "Push-button coil-cord pendant: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/battery-powered-hydraulic-lift-tables/30-battery-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-36-inch-battery-hydraulic-lift-table",
+            "title": "Lange Lift 36-Inch Battery Hydraulic Lift Table",
+            "line": "lange-lift-battery-lift-tables",
+            "menu_order": 110,
+            "platform_length_in": 36,
+            "platform_width_in": 36,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "battery",
+            "voltage": "12V DC",
+            "excerpt": "Mobile battery post lift table with a 36 in. square rotating deck, rated 1,000–5,000 lb, models L-136-BP to L-536-BP.",
+            "content": "<p>This Lange Lift table has a 36 in. square steel deck, a larger deck for bigger parts, fixtures and assemblies. It is offered with battery power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An enclosed 12V deep cycle battery powers a DC motor, with push-button pendant controls and an on-board charger, so the table lifts at the touch of a button with no cord or hose in use. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-136-BP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-136-BP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-236-BP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-336-BP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-436-BP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-536-BP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "36 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "36 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Enclosed 12V deep cycle battery, DC motor, on-board charger"
+                ],
+                [
+                    "Controls",
+                    "Push-button coil-cord pendant: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/battery-powered-hydraulic-lift-tables/36-battery-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-48-inch-battery-hydraulic-lift-table",
+            "title": "Lange Lift 48-Inch Battery Hydraulic Lift Table",
+            "line": "lange-lift-battery-lift-tables",
+            "menu_order": 120,
+            "platform_length_in": 48,
+            "platform_width_in": 48,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "battery",
+            "voltage": "12V DC",
+            "excerpt": "Mobile battery post lift table with a 48 in. square rotating deck, rated 1,000–5,000 lb, models L-148-BP to L-548-BP.",
+            "content": "<p>This Lange Lift table has a 48 in. square steel deck, the largest standard deck, for wide parts, larger assemblies and several items at once. It is offered with battery power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An enclosed 12V deep cycle battery powers a DC motor, with push-button pendant controls and an on-board charger, so the table lifts at the touch of a button with no cord or hose in use. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-148-BP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-148-BP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-248-BP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-348-BP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-448-BP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-548-BP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "48 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "48 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Enclosed 12V deep cycle battery, DC motor, on-board charger"
+                ],
+                [
+                    "Controls",
+                    "Push-button coil-cord pendant: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/battery-powered-hydraulic-lift-tables/48-battery-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-24-inch-air-hydraulic-lift-table",
+            "title": "Lange Lift 24-Inch Air Hydraulic Lift Table",
+            "line": "lange-lift-air-lift-tables",
+            "menu_order": 130,
+            "platform_length_in": 24,
+            "platform_width_in": 24,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "pneumatic",
+            "voltage": "",
+            "excerpt": "Mobile air post lift table with a 24 in. square rotating deck, rated 1,000–5,000 lb, models L-124-AP to L-524-AP.",
+            "content": "<p>This Lange Lift table has a 24 in. square steel deck, the most compact standard deck, suited to smaller parts, dies and fixtures and to tight working areas. It is offered with air power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An air motor drives the hydraulics from shop air, controlled by a foot-operated air valve, with no electrical components, which makes it suitable for spray booths and other areas where electrical equipment is not allowed. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-124-AP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-124-AP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-224-AP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-324-AP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-424-AP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-524-AP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "24 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "24 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Air motor, 80 PSI at 50 CFM recommended, on-board filter, regulator and lubricator"
+                ],
+                [
+                    "Controls",
+                    "Air valve pedal: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/air-powered-hydraulic-lift-tables/24-air-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-30-inch-air-hydraulic-lift-table",
+            "title": "Lange Lift 30-Inch Air Hydraulic Lift Table",
+            "line": "lange-lift-air-lift-tables",
+            "menu_order": 140,
+            "platform_length_in": 30,
+            "platform_width_in": 30,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "pneumatic",
+            "voltage": "",
+            "excerpt": "Mobile air post lift table with a 30 in. square rotating deck, rated 1,000–5,000 lb, models L-130-AP to L-530-AP.",
+            "content": "<p>This Lange Lift table has a 30 in. square steel deck, a mid-size deck that balances footprint against working surface. It is offered with air power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An air motor drives the hydraulics from shop air, controlled by a foot-operated air valve, with no electrical components, which makes it suitable for spray booths and other areas where electrical equipment is not allowed. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-130-AP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-130-AP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-230-AP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-330-AP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-430-AP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-530-AP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "30 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "30 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Air motor, 80 PSI at 50 CFM recommended, on-board filter, regulator and lubricator"
+                ],
+                [
+                    "Controls",
+                    "Air valve pedal: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/air-powered-hydraulic-lift-tables/30-air-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-36-inch-air-hydraulic-lift-table",
+            "title": "Lange Lift 36-Inch Air Hydraulic Lift Table",
+            "line": "lange-lift-air-lift-tables",
+            "menu_order": 150,
+            "platform_length_in": 36,
+            "platform_width_in": 36,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "pneumatic",
+            "voltage": "",
+            "excerpt": "Mobile air post lift table with a 36 in. square rotating deck, rated 1,000–5,000 lb, models L-136-AP to L-536-AP.",
+            "content": "<p>This Lange Lift table has a 36 in. square steel deck, a larger deck for bigger parts, fixtures and assemblies. It is offered with air power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An air motor drives the hydraulics from shop air, controlled by a foot-operated air valve, with no electrical components, which makes it suitable for spray booths and other areas where electrical equipment is not allowed. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-136-AP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-136-AP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-236-AP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-336-AP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-436-AP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-536-AP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "36 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "36 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Air motor, 80 PSI at 50 CFM recommended, on-board filter, regulator and lubricator"
+                ],
+                [
+                    "Controls",
+                    "Air valve pedal: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/air-powered-hydraulic-lift-tables/36-air-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-48-inch-air-hydraulic-lift-table",
+            "title": "Lange Lift 48-Inch Air Hydraulic Lift Table",
+            "line": "lange-lift-air-lift-tables",
+            "menu_order": 160,
+            "platform_length_in": 48,
+            "platform_width_in": 48,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "pneumatic",
+            "voltage": "",
+            "excerpt": "Mobile air post lift table with a 48 in. square rotating deck, rated 1,000–5,000 lb, models L-148-AP to L-548-AP.",
+            "content": "<p>This Lange Lift table has a 48 in. square steel deck, the largest standard deck, for wide parts, larger assemblies and several items at once. It is offered with air power in 5 capacities from 1,000 to 5,000 lb, and every model lifts from 27 in. to 45 in.</p>\n<p>An air motor drives the hydraulics from shop air, controlled by a foot-operated air valve, with no electrical components, which makes it suitable for spray booths and other areas where electrical equipment is not allowed. The deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock. Model numbers encode the configuration: in L-148-AP, the first digit is the capacity in thousands of pounds and the next two are the deck size.</p>",
+            "models": [
+                {
+                    "model": "L-148-AP",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-248-AP",
+                    "capacity_lbs": 2000
+                },
+                {
+                    "model": "L-348-AP",
+                    "capacity_lbs": 3000
+                },
+                {
+                    "model": "L-448-AP",
+                    "capacity_lbs": 4000
+                },
+                {
+                    "model": "L-548-AP",
+                    "capacity_lbs": 5000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "48 in square, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "48 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Air motor, 80 PSI at 50 CFM recommended, on-board filter, regulator and lubricator"
+                ],
+                [
+                    "Controls",
+                    "Air valve pedal: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/air-powered-hydraulic-lift-tables/48-air-powered-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "lange-lift-30-inch-round-manual-hydraulic-lift-table",
+            "title": "Lange Lift 30-Inch Round Manual Hydraulic Lift Table",
+            "line": "lange-lift-manual-lift-tables",
+            "menu_order": 45,
+            "platform_length_in": 30,
+            "platform_width_in": 30,
+            "lowered_height_in": 27,
+            "raised_height_in": 45,
+            "power_source": "manual",
+            "excerpt": "Mobile manual post lift table with a 30 in. round rotating deck on a 24 in. base, rated 1,000–2,000 lb.",
+            "content": "<p>Lange Lift's round-deck manual table puts a 30 in. diameter steel deck on a compact 24 in. square base, giving a larger working surface than the 24 in. square table without a bigger footprint. It is offered in 1,000 and 2,000 lb capacities, and both lift from 27 in. to 45 in.</p>\n<p>A foot pump raises the deck and a second pedal lowers it, so no power supply is needed. The round deck rotates a full 360 degrees and locks at any height, and the table rolls on two rigid and two swivel cast iron casters with a foot-operated floor lock.</p>",
+            "models": [
+                {
+                    "model": "L-124-30RD",
+                    "capacity_lbs": 1000
+                },
+                {
+                    "model": "L-224-30RD",
+                    "capacity_lbs": 2000
+                }
+            ],
+            "specs": [
+                [
+                    "Deck",
+                    "30 in diameter round, formed and welded steel"
+                ],
+                [
+                    "Base",
+                    "24 in square, formed steel legs, welded steel frame"
+                ],
+                [
+                    "Power",
+                    "Manual foot pump"
+                ],
+                [
+                    "Controls",
+                    "Foot pedals: lift and lower"
+                ],
+                [
+                    "Vertical travel",
+                    "18 in"
+                ],
+                [
+                    "Deck rotation",
+                    "360 degrees, continuous, with lock handle at any height"
+                ],
+                [
+                    "Casters",
+                    "5 in cast iron, 2 rigid and 2 swivel"
+                ],
+                [
+                    "Floor lock",
+                    "Foot-actuated"
+                ],
+                [
+                    "Made in",
+                    "Menomonee Falls, Wisconsin, USA"
+                ]
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.langelift.com/manual-hydraulic-lift-tables-square/30-round-manual-powered-hydraulic-lift-table/"
+            ]
+        }
+    ]
+}

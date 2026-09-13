@@ -1,0 +1,274 @@
+{
+  "defaults": {
+    "status": "publish",
+    "categories": ["Lift Tables"]
+  },
+  "brands": [
+    {
+      "slug": "southworth-products",
+      "title": "Southworth Products",
+      "excerpt": "Portland, Maine manufacturer of Backsaver lift tables, PalletPal pallet positioners and tilters, and part of Southworth International Group.",
+      "content": "<p>Southworth Products is a Portland, Maine manufacturer of ergonomic lifting and positioning equipment. The company traces its roots in Portland back to the 1870s and introduced its first line of lift tables in 1957.</p>\n<p>Its lift tables are sold under the Backsaver name, alongside PalletPal pallet positioners, Dandy lift carts and levelers, and E-Z Reach container tilters.</p>\n<p>Southworth is part of Southworth International Group (SIGI), which also owns Presto Lifts in the United States and the Marco, Hymo and Gruse lift table brands in Europe.</p>",
+      "website_url": "https://www.southworthproducts.com/",
+      "headquarters": "Portland, Maine",
+      "owner": "Southworth International Group",
+      "sources": [
+        "https://www.southworthproducts.com/our-company/about-us/",
+        "https://sigi-global.com/our-brands",
+        "https://www.southworthproducts.com/products/powered-dandy-lift-tables/"
+      ]
+    },
+    {
+      "slug": "presto-lifts",
+      "title": "Presto Lifts",
+      "excerpt": "Foxborough, Massachusetts maker of lift tables, tilters and stackers, part of Southworth International Group.",
+      "content": "<p>Presto Lifts is a Foxborough, Massachusetts maker of lift tables, tilters, stackers and pallet positioning equipment, with manufacturing in northeast Arkansas.</p>\n<p>The Presto name has been used on manually propelled lifts and stackers since 1977, and scissor lift tables for in-plant use were added in 1990. Southworth International Group formed Presto Lifts in 2002, making it a sister company of Southworth Products.</p>\n<p>In late 2016 Presto acquired ECOA, adding heavier-capacity and custom-designed scissor lifts to its range.</p>",
+      "website_url": "https://prestolifts.com/",
+      "headquarters": "Foxborough, Massachusetts",
+      "owner": "Southworth International Group",
+      "sources": [
+        "https://prestolifts.com/about-us/company-history",
+        "https://us.metoree.com/companies/168103/",
+        "https://www.sigi-global.com/origins"
+      ]
+    },
+    {
+      "slug": "ecoa",
+      "title": "ECOA",
+      "excerpt": "Heavy-duty scissor lifts, tilters and dock lifts, made by Presto Lifts since 2016.",
+      "content": "<p>ECOA is a line of heavy-duty scissor lift equipment with a history dating back to 1960. The business, originally ECOA Industrial Products of Hialeah, Florida, became part of Presto Lifts in late 2016.</p>\n<p>The range covers hydraulic scissor lift tables, extended-travel lifts, the Magnum super heavy-duty series, upenders and tilters, loading dock scissor lifts, and custom-designed units. ECOA equipment is now built at Presto's production facility in northeast Arkansas.</p>",
+      "website_url": "https://prestolifts.com/products/ecoa-equipment",
+      "founded_year": 1960,
+      "parent": "presto-lifts",
+      "sources": [
+        "https://prestolifts.com/products/ecoa-equipment",
+        "https://www.dcvelocity.com/articles/28326-presto-lifts-acquires-ecoa-industrial-lift-products"
+      ]
+    },
+    {
+      "slug": "autoquip",
+      "title": "Autoquip",
+      "excerpt": "Guthrie, Oklahoma manufacturer of scissor lifts, dock lifts and turntables since 1947, and owner of the American Lifts brand.",
+      "content": "<p>Autoquip is a Guthrie, Oklahoma manufacturer of scissor lift tables, dock lifts, turntables and vertical reciprocating conveyors. It was founded in 1947 and has operated from Guthrie since 1974.</p>\n<p>Autoquip has been owned by Miner Enterprises of Geneva, Illinois since 1970. It bought the American Lifts business from Columbus McKinnon in 2009 and now sells it as its standard lift product line. In 2024 it acquired the German lift table maker J.A. Becker &amp; S&ouml;hne (JAB).</p>",
+      "website_url": "https://autoquip.com/",
+      "headquarters": "Guthrie, Oklahoma",
+      "founded_year": 1947,
+      "owner": "Miner Enterprises",
+      "sources": [
+        "https://autoquip.com/about-autoquip/",
+        "https://autoquip.com/autoquip-acquires-american-lifts/",
+        "https://jab-becker.de/en/jab-joins-forces-with-us-based-company-autoquip-corporation/"
+      ]
+    },
+    {
+      "slug": "american-lifts",
+      "title": "American Lifts",
+      "excerpt": "Standard scissor lifts and tilters, originally from Greensburg, Indiana and now built by Autoquip.",
+      "content": "<p>American Lifts is a line of standard scissor lifts and tilters. It was built for decades in Greensburg, Indiana, and is now manufactured by Autoquip in Guthrie, Oklahoma.</p>\n<p>Autoquip bought the American Lifts business from Columbus McKinnon in 2009 and moved its manufacturing to Guthrie. The range includes the TorkLift pantograph lifts, Compact Lift, TiltLift, 90 Degree and Tork tilters, and Air Cargo dock lifts.</p>",
+      "website_url": "https://autoquip.com/products/american-lifts/",
+      "headquarters": "Guthrie, Oklahoma",
+      "parent": "autoquip",
+      "sources": [
+        "https://autoquip.com/products/american-lifts/",
+        "https://autoquip.com/autoquip-acquires-american-lifts/",
+        "https://www.reliableplant.com/Read/21254/columbus-mckinnon-sells-american-lifts-business-to-autoquip"
+      ]
+    },
+    {
+      "slug": "bishamon",
+      "title": "Bishamon",
+      "excerpt": "Lift tables and pallet positioners from Japan's Sugiyasu, sold in North America by Bishamon Industries of Ontario, California.",
+      "content": "<p>Bishamon Industries Corporation, based in Ontario, California, sells Bishamon-brand lift tables, pallet positioners and pallet trucks in North America.</p>\n<p>Bishamon is a brand of Sugiyasu Co., Ltd. of Japan, which also uses the name on automotive service lifts. The North American range includes the EZ Loader and UniLift pallet positioners and the ALPHA, EZ UP, LoProfile, CompacLift and MobiLift lift tables.</p>",
+      "website_url": "https://bishamon.com/",
+      "headquarters": "Ontario, California",
+      "owner": "Sugiyasu Co., Ltd.",
+      "sources": [
+        "https://bishamon.com/about-us-pg-en/",
+        "https://bishamon.co.jp/en/"
+      ]
+    },
+    {
+      "slug": "advance-lifts",
+      "title": "Advance Lifts",
+      "excerpt": "St. Charles, Illinois manufacturer of dock lifts and production lift tables, founded in 1974.",
+      "content": "<p>Advance Lifts is a St. Charles, Illinois manufacturer founded in 1974, originally as a builder of dock lifts. Its range has since grown to include production lift tables, tilters, turntables and dumpers.</p>\n<p>The company builds its equipment at a 120,000 sq. ft. facility in St. Charles and says its lifts are made in the USA.</p>",
+      "website_url": "https://www.advancelifts.com/",
+      "headquarters": "St. Charles, Illinois",
+      "founded_year": 1974,
+      "sources": [
+        "https://www.advancelifts.com/",
+        "https://www.thomasnet.com/company/advance-lifts-inc-997186/profile"
+      ]
+    },
+    {
+      "slug": "vestil",
+      "title": "Vestil Manufacturing",
+      "excerpt": "Family-owned Angola, Indiana maker of electric, pneumatic and portable scissor lift tables, founded in 1957.",
+      "content": "<p>Vestil Manufacturing is a family-owned maker and distributor of material handling equipment, headquartered in Angola, Indiana. It was founded in 1957 in Albion, Michigan, to make truck and rail dock equipment, and moved to Angola in 1982.</p>\n<p>Vestil's catalog spans more than a thousand product lines. Its lift tables include electric hydraulic, pneumatic and portable scissor lift tables, and powered tables with manual rotation.</p>",
+      "website_url": "https://www.vestil.com/",
+      "headquarters": "Angola, Indiana",
+      "founded_year": 1957,
+      "sources": [
+        "https://www.vestil.com/page-about.php",
+        "https://www.vestil.com/category.php?CID=49"
+      ]
+    },
+    {
+      "slug": "lift-products",
+      "title": "Lift Products Inc.",
+      "excerpt": "Waukesha, Wisconsin manufacturer of standard and custom hydraulic lift tables, established in 1994.",
+      "content": "<p>Lift Products Inc. is a Waukesha, Wisconsin manufacturer of ergonomic industrial equipment, established in 1994.</p>\n<p>It builds standard and custom hydraulic lift tables in light, medium and high duty ratings, including mobile, rotating, low-profile, stainless steel, ground-entry, tilting and multi-stage designs. It also makes tilt tables, upenders and electric platform trucks.</p>",
+      "website_url": "https://www.liftproducts.com/",
+      "headquarters": "Waukesha, Wisconsin",
+      "founded_year": 1994,
+      "sources": [
+        "https://www.liftproducts.com/",
+        "https://www.liftproducts.com/resource/about-us.html"
+      ]
+    },
+    {
+      "slug": "air-technical-industries",
+      "title": "Air Technical Industries",
+      "excerpt": "Mentor, Ohio manufacturer of hydraulic lift tables, maintenance lifts and cranes, founded in 1964.",
+      "content": "<p>Air Technical Industries is a Mentor, Ohio manufacturer of lifting and handling equipment, founded in 1964.</p>\n<p>Alongside hydraulic lift tables, its range includes maintenance lifts, floor cranes, jib and gantry cranes, and manipulators, serving industries from automotive and aerospace to food processing and power generation.</p>",
+      "website_url": "https://airtechnical.com/",
+      "headquarters": "Mentor, Ohio",
+      "founded_year": 1964,
+      "sources": [
+        "https://airtechnical.com/",
+        "https://www.materialhandling247.com/company/air_technical_industries"
+      ]
+    },
+    {
+      "slug": "beacon-industries",
+      "title": "Beacon Industries",
+      "excerpt": "St. Louis, Missouri supplier of hydraulic lift tables rated up to 30,000 lb, in business since 1949.",
+      "content": "<p>Beacon Industries is a St. Louis, Missouri supplier of material handling equipment, in business since 1949.</p>\n<p>Its lift table range includes hydraulic scissor lift tables for loads up to 30,000 lb and portable scissor lift carts. Beacon also offers loading dock equipment, drum handling equipment and warehouse safety products.</p>",
+      "website_url": "https://www.beacontechnology.com/",
+      "headquarters": "St. Louis, Missouri",
+      "founded_year": 1949,
+      "sources": [
+        "https://www.beacontechnology.com/",
+        "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift-table/"
+      ]
+    },
+    {
+      "slug": "wesco-industrial-products",
+      "title": "Wesco Industrial Products",
+      "excerpt": "North Wales, Pennsylvania maker of manual and powered lift tables since 1948, now part of ASSA ABLOY.",
+      "content": "<p>Wesco Industrial Products is a North Wales, Pennsylvania maker of material handling equipment, founded in 1948 in Philadelphia. Its range includes manual and powered lift tables from 200 to 6,000 lb capacity, alongside hand trucks, platform trucks and stackers.</p>\n<p>Wesco acquired Lexco Engineering and Manufacturing Co. in 2007, adding custom die lift tables. Wesco is part of Integrated Warehouse Solutions, which ASSA ABLOY acquired in 2024.</p>",
+      "website_url": "https://www.wescomfg.com/",
+      "headquarters": "North Wales, Pennsylvania",
+      "founded_year": 1948,
+      "owner": "ASSA ABLOY",
+      "sources": [
+        "https://www.wescomfg.com/about-us-2/",
+        "https://www.assaabloy.com/group/en/news-media/press-releases/id.bd4af3c44f060885"
+      ]
+    },
+    {
+      "slug": "lexco",
+      "title": "Lexco",
+      "excerpt": "Hydraulic lift tables and die handlers for the tool and die market, made by Wesco Industrial Products.",
+      "content": "<p>Lexco is a line of hydraulic lift tables and die handlers aimed at the tool and die market.</p>\n<p>It comes from Lexco Engineering and Manufacturing Co., a builder of custom lift tables that Wesco Industrial Products acquired in 2007. Wesco continues to sell the range under the Lexco name.</p>",
+      "website_url": "https://www.wescomfg.com/lexco-lift-die-tables/",
+      "parent": "wesco-industrial-products",
+      "sources": [
+        "https://www.wescomfg.com/lexco-lift-die-tables/",
+        "https://www.wescomfg.com/about-us-2/"
+      ]
+    },
+    {
+      "slug": "premier-handling-solutions",
+      "title": "Premier Handling Solutions",
+      "excerpt": "Elgin, Illinois manufacturer of pallet handling equipment whose PHS Lift division supplies lift tables.",
+      "content": "<p>Premier Handling Solutions is an Elgin, Illinois manufacturer of material handling and supply chain equipment, in business since 1977.</p>\n<p>Its core lines include pallet inverters, pallet dispensers and industrial washing systems. Its PHS Lift division supplies hydraulic and electric lift tables, including rotating, multi-stage, double-wide, heavy-duty and pneumatic models.</p>",
+      "website_url": "https://www.phsinc.com/",
+      "headquarters": "Elgin, Illinois",
+      "founded_year": 1977,
+      "sources": [
+        "https://www.phsinc.com/",
+        "https://www.phsinc.com/lift-tables/"
+      ]
+    },
+    {
+      "slug": "pentalift",
+      "title": "Pentalift Equipment",
+      "excerpt": "Ontario manufacturer of lift tables and loading dock equipment, founded in 1983 and selling in the US since 1986.",
+      "content": "<p>Pentalift Equipment is a Canadian manufacturer of lift tables, positioning equipment and loading dock equipment. It was founded in Guelph, Ontario in 1983 and is now based in nearby Puslinch.</p>\n<p>Pentalift entered the US market in 1986 and sells through distributors in many states, with a US mailing address in Buffalo, New York. Its lift tables include pre-engineered, custom and multi-stage models, alongside dock lifts, dock levelers and vehicle restraints.</p>",
+      "website_url": "https://www.pentalift.com/",
+      "headquarters": "Puslinch, Ontario",
+      "founded_year": 1983,
+      "sources": [
+        "https://www.pentalift.com/about-us/",
+        "https://www.mmh.com/company/pentalift"
+      ]
+    },
+    {
+      "slug": "blue-giant",
+      "title": "Blue Giant",
+      "excerpt": "Mississauga, Ontario dock and lift equipment manufacturer, founded in 1963, building scissor lift tables in Louisville, Kentucky.",
+      "content": "<p>Blue Giant is a Mississauga, Ontario manufacturer of loading dock and material handling equipment, founded in 1963.</p>\n<p>Its scissor lift tables are built at a 65,000 sq. ft. facility in Louisville, Kentucky, where the lift table operation moved in 2022. That same year Blue Giant acquired Cormac Industrial, adding pneumatic lift tables to its range. It also makes dock lifts, dock levelers and vehicle restraints.</p>",
+      "website_url": "https://www.bluegiant.com/",
+      "headquarters": "Mississauga, Ontario",
+      "founded_year": 1963,
+      "sources": [
+        "https://www.bluegiant.com/en/about-blue-giant/",
+        "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/"
+      ]
+    },
+    {
+      "slug": "econo-lift",
+      "title": "Econo Lift",
+      "excerpt": "Mississauga, Ontario manufacturer of lift tables, tilters and turntables serving Canada and the US.",
+      "content": "<p>Econo Lift Limited is a Mississauga, Ontario manufacturer of ergonomic material handling equipment. The company reports more than 30 years in business and serves customers in both Canada and the United States.</p>\n<p>Its lift tables, including double scissor models, are offered alongside tilters, turntables, upenders, dumpers and stackers, in both standard and custom designs.</p>",
+      "website_url": "https://econolift.net/",
+      "headquarters": "Mississauga, Ontario",
+      "sources": [
+        "https://econolift.net/",
+        "https://econolift.net/lifts-tilts/double-scissor-lift-tables/"
+      ]
+    },
+    {
+      "slug": "superlift",
+      "title": "Superlift Material Handling",
+      "excerpt": "Kitchener, Ontario supplier of heavy-duty, stainless steel and cleanroom scissor lift tables across North America.",
+      "content": "<p>Superlift Material Handling supplies heavy-duty industrial lift equipment across North America from Kitchener, Ontario, with a US location in Myrtle Beach, South Carolina.</p>\n<p>Its range includes single, double and triple scissor lift tables, stainless steel and cleanroom lift tables for food and pharmaceutical work, and custom-built lifts.</p>",
+      "website_url": "https://superlift.net/",
+      "headquarters": "Kitchener, Ontario",
+      "sources": [
+        "https://superlift.net/",
+        "https://superlift.net/collections/standard-lift-products"
+      ]
+    },
+    {
+      "slug": "lange-lift",
+      "title": "Lange Lift",
+      "excerpt": "Family-owned Menomonee Falls, Wisconsin maker of mobile hydraulic lift tables, built in the USA since 1934.",
+      "content": "<p>Lange Lift Company is a family-owned, veteran-owned manufacturer of hydraulic lift tables in Menomonee Falls, Wisconsin. The original Lange Lift elevating table was designed in the 1930s by Anthony Lange, and the company has built its tables in Wisconsin since 1934.</p>\n<p>Its standard tables are mobile lifts with a deck that rotates a full 360 degrees and locks at any height, offered with manual foot-pump, electric, battery or air power. First built as die-handling carts, they are used today in machining, welding, assembly and aerospace work. Lange also builds modified and custom lifts, including scissor lifts, tilters, box dumpers and turntables.</p>",
+      "website_url": "https://www.langelift.com/",
+      "headquarters": "Menomonee Falls, Wisconsin",
+      "founded_year": 1934,
+      "sources": [
+        "https://www.langelift.com/about-us/",
+        "https://www.langelift.com/manual-hydraulic-lift-tables-main/",
+        "https://www.langelift.com/battery-powered-hydraulic-lift-tables/",
+        "https://www.langelift.com/modified-custom-lifts/"
+      ]
+    },
+    {
+      "slug": "jet",
+      "title": "JET",
+      "excerpt": "Light-duty mobile scissor lift tables from JET, a JPW Industries brand sold through industrial distributors.",
+      "content": "<p>JET is a brand of JPW Industries of La Vergne, Tennessee, which designs and markets woodworking, metalworking and material handling equipment for professional shops. JET has served the industrial market for more than 60 years, and its products are sold through industrial distributors.</p>\n<p>JET's lift tables are light-duty mobile scissor carts rated from 330 to 1,650 lb, lifted by a manually operated hydraulic pump and built for moving and positioning parts, tooling and materials around a shop floor.</p>",
+      "website_url": "https://www.jettools.com/",
+      "headquarters": "La Vergne, Tennessee",
+      "owner": "JPW Industries",
+      "sources": [
+        "https://www.jpwindustries.com/jet-tools-introduces-new-generation-of-material-lifts-with-2-lifts-in-1-functionality/",
+        "https://www.inddist.com/mergers-acquisitions/news/13774418/metalworking-distributor-jpw-industries-to-be-privately-acquired",
+        "https://www.jettools.com/shop-tools/scissor-lift-tables"
+      ]
+    }
+  ]
+}
