@@ -10,6 +10,7 @@ plugin, and kept here so every fact can be reviewed, versioned and re-imported.
 ```
 brand/               logo files, their generator and the brand guide
 brands.json          manufacturers, parent brands and parent companies
+pages.json           site pages and the theme template each one uses
 categories.json      equipment categories and their intro copy
 catalog/<brand>.json one brand's product lines and models
 generators/          scripts that build catalog files for large model matrices
@@ -27,6 +28,7 @@ reference them):
 php tools/import-brands.php     <this repo>/brands.json
 php tools/import-categories.php <this repo>/categories.json
 php tools/import-catalog.php    <this repo>/catalog/jet.json
+php tools/import-pages.php      <this repo>/pages.json
 ```
 
 Add `--dry-run` to see what would change. A normal run only creates missing

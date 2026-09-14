@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "slug": "request-a-quote",
+      "title": "Request a quote",
+      "template": "page-templates/request-a-quote.php",
+      "excerpt": "Describe the lift table you need and get quotes from distributors who sell it."
+    },
+    {
+      "slug": "list-your-company",
+      "title": "List your company",
+      "template": "page-templates/list-your-company.php",
+      "excerpt": "List your distributorship in the Lift Tables directory and receive quote requests for the brands you carry."
+    }
+  ]
+}
