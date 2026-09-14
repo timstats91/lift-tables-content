@@ -14,6 +14,7 @@ pages.json           site pages and the theme template each one uses
 categories.json      equipment categories and their intro copy
 catalog/<brand>.json one brand's product lines and models
 generators/          scripts that build catalog files and category illustrations
+images/lines/        manufacturer photos for product lines, with credit and source in images.json
 images/categories/   one drawing per equipment category, built by generators/category-images.php
   png/               the same drawings as 1200 x 800 PNG, exported by generators/category-pngs.php
 ```
@@ -81,6 +82,31 @@ The site uses them through Appearance → Customize → Directory Branding:
 | Logo | `/wp-content/edc-content/lift-tables/brand/logo.svg` |
 | Reverse logo | `/wp-content/edc-content/lift-tables/brand/logo-reverse.svg` |
 | Icon | `/wp-content/edc-content/lift-tables/brand/mark.svg` |
+
+## Product line photos
+
+`images/lines/images.json` lists a photo for each product line: the post, the
+processed file, alt text, who it's credited to, the page it came from and the
+original file's URL. **These are manufacturer photos used before asking
+permission**; each is credited on the site with a link to its source.
+
+To rebuild the processed files, download each entry's `original` into a folder
+named `<slug>.<ext>`, then:
+
+```bash
+php -d extension=gd -d memory_limit=2G generators/line-images.php --from=<folder>
+php tools/import-images.php <this repo>/images/lines/images.json   # from the plugin directory, with GD loaded
+```
+
+The generator trims cut-out shots and centres them on white at 1200 x 900, or
+centre-crops real photos (`"fit": "cover"`). It never retouches the product.
+Lange Lift Modified & Custom Lifts has no photo: the only original found was
+300 px, too small to use; its card shows its category drawing instead.
+
+**To take images down** (for example, if a manufacturer asks), delete their
+entries from `images.json` and run the importer with `--prune`. That removes
+the featured images and deletes the files from the media library. A single
+image can also be deleted from Media in WordPress.
 
 ## Products are drafts at launch
 

@@ -1,0 +1,135 @@
+{
+  "note": "Manufacturer product photos, used with credit and a link to the source page. Permission has not been requested yet; remove an entry and run the importer with --prune to take its image down.",
+  "images": [
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-alpha-series",
+      "file": "images/lines/bishamon-alpha-series.jpg",
+      "alt": "Bishamon ALPHA Series lift table",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/alpha/",
+      "original": "https://bishamon.com/wp-content/uploads/2024/12/ALPHA-L44K-2.png",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-ez-up-series",
+      "file": "images/lines/bishamon-ez-up-series.jpg",
+      "alt": "Bishamon EZ UP pneumatic lift table with a turntable top and foot control",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/ezup-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/03/Lift-Table-EZUP-EZU-Main-Image.gif",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-loprofile-lx-series",
+      "file": "images/lines/bishamon-loprofile-lx-series.jpg",
+      "alt": "Bishamon LoProfile LX Series lift table",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/loprofile-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/03/Lift-Table-LoProfile-LX-Bishamon-lp-1-1.gif",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-compaclift-x-series",
+      "file": "images/lines/bishamon-compaclift-x-series.jpg",
+      "alt": "Bishamon CompacLift X Series lift table",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/compaclift-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/03/Lift-Table-CompacLift-X-Main-Image.gif",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-mobilift-series",
+      "file": "images/lines/bishamon-mobilift-series.jpg",
+      "alt": "Bishamon MobiLift mobile lift table",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/mobilift-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/03/Mobile-Lift-Tables-BX-BXB-Main-Image.jpg",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-ez-loader",
+      "file": "images/lines/bishamon-ez-loader.jpg",
+      "alt": "Bishamon EZ Loader self-leveling pallet positioner",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/ez-loader-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2025/08/Bishamon-EZ-Self-Leveling-Pallet-Positoner.png",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-ez-off-lifter",
+      "file": "images/lines/bishamon-ez-off-lifter.jpg",
+      "alt": "Bishamon EZ-Off Lifter",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/ezoff-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2025/08/EZ-Off-Lifter-Roating-Lift.png",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "bishamon-mobileveler-esx",
+      "file": "images/lines/bishamon-mobileveler-esx.jpg",
+      "alt": "Bishamon MobiLeveler ESX self-leveling cart",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/mobileveleresx-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/03/Mobile-Handling-MobiLeveler-ESX-Main-Image.gif",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "lange-lift-manual-lift-tables",
+      "file": "images/lines/lange-lift-manual-lift-tables.jpg",
+      "alt": "Lange Lift manual hydraulic lift table with a foot pump",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/manual-hydraulic-lift-tables-square/36-manual-powered-hydraulic-lift-table/",
+      "original": "https://www.langelift.com/wp-content/uploads/2023/03/L-130-Foot-Pump-Manual-Hydraulic-Lift-Table-A.png",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "lange-lift-electric-lift-tables",
+      "file": "images/lines/lange-lift-electric-lift-tables.jpg",
+      "alt": "Lange Lift electric powered hydraulic lift table",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/",
+      "original": "https://langelift.com/wp-content/uploads/2023/03/Electric-Powered-Hydraulic-Ergonomic-Lift-Table-L-548-EP-A.jpg",
+      "fit": "cover"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "lange-lift-battery-lift-tables",
+      "file": "images/lines/lange-lift-battery-lift-tables.jpg",
+      "alt": "Lange Lift battery powered hydraulic lift table",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/battery-powered-hydraulic-lift-tables/36-battery-powered-hydraulic-lift-tables/",
+      "original": "https://www.langelift.com/wp-content/uploads/2023/03/L-130-BP-Battery-Powered-Hydraulic-Lift-Table-A.png",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "lange-lift-air-lift-tables",
+      "file": "images/lines/lange-lift-air-lift-tables.jpg",
+      "alt": "Lange Lift air powered hydraulic lift table",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/air-powered-hydraulic-lift-tables/36-air-powered-hydraulic-lift-tables/",
+      "original": "https://www.langelift.com/wp-content/uploads/2023/03/L-130-AP-Air-Powered-Hydraulic-Lift-Table-A.png",
+      "fit": "contain"
+    },
+    {
+      "post_type": "edc_product_line",
+      "slug": "jet-scissor-lift-tables",
+      "file": "images/lines/jet-scissor-lift-tables.jpg",
+      "alt": "JET SLT-660F scissor lift table with folding handle",
+      "credit": "JET",
+      "source": "https://www.jettools.com/slt-660f-scissor-lift-table-with-folding-handle",
+      "original": "https://assets.jpwindustries.com/transform/85edc02e-02dc-45a1-9584-501a63ff62b1/140777_main_png",
+      "fit": "contain"
+    }
+  ]
+}
