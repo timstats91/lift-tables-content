@@ -1470,6 +1470,7 @@ footer.doc-foot {
 			<h3>Adding or changing a drawing</h3>
 			<ul class="rules">
 				<li><strong>Edit the generator, never the SVG.</strong> Build the new drawing from the shared parts in <code>generators/category-images.php</code> (<code>scissor_table()</code>, <code>caster()</code>, <code>cylinder()</code>, <code>crate()</code>, <code>pallet()</code>, <code>dim_v()</code>), then run <code>php generators/category-images.php</code>.</li>
+				<li><strong>Export PNGs</strong> with <code>php generators/category-pngs.php</code> after any change. It renders each drawing in headless Chrome at 1200 × 800 on the Galvanized drawing-grid ground and writes <code>images/categories/png/&lt;slug&gt;.png</code>. Use the PNGs wherever SVG isn’t accepted: link previews on social networks, email and messaging apps, presentations and print. They have a ground rather than transparency because some link previews show transparent areas as black.</li>
 				<li><strong>Name the file after the category slug:</strong> <code>images/categories/scissor-lift-tables.svg</code>, and give it a plain title such as "Scissor lift table". The title becomes the image's alt text.</li>
 				<li><strong>Point the category at it</strong> with <code>"image"</code> in <code>categories.json</code> and run the category importer. Unchanged files are left alone; a changed file replaces the existing image in the media library, so every page picks it up.</li>
 				<li><strong>A new niche site</strong> reuses the same parts and rules with its own equipment, and its own safety colour in place of yellow.</li>
@@ -1513,7 +1514,7 @@ footer.doc-foot {
 					<tbody>
 						<tr><td>Logo files</td><td><code>lift-tables-content/brand/logo.svg</code>, <code>logo-reverse.svg</code>, <code>logo-mono.svg</code>, <code>mark.svg</code></td></tr>
 						<tr><td>Logo source</td><td><code>brand/generate-logo.php</code> draws all four. Edit it and re-run it rather than editing the SVGs.</td></tr>
-						<tr><td>Category illustrations</td><td><code>images/categories/*.svg</code>, drawn by <code>generators/category-images.php</code> and assigned in <code>categories.json</code></td></tr>
+						<tr><td>Category illustrations</td><td><code>images/categories/*.svg</code>, drawn by <code>generators/category-images.php</code> and assigned in <code>categories.json</code>. PNG copies at 1200 × 800 in <code>images/categories/png/</code>, exported by <code>generators/category-pngs.php</code></td></tr>
 						<tr><td>This guide</td><td><code>brand/brand-guide.src.html</code>; run <code>php brand/build-guide.php</code> to rebuild <code>brand-guide.html</code> with the current logo and drawings</td></tr>
 						<tr><td>Site settings</td><td>Appearance → Customize → Directory Branding: accent colour <code>#F5B800</code>, logo, reverse logo, icon</td></tr>
 						<tr><td>Design tokens</td><td><code>equipment-directory/style.css</code>, the <code>:root</code> block</td></tr>

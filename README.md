@@ -15,6 +15,7 @@ categories.json      equipment categories and their intro copy
 catalog/<brand>.json one brand's product lines and models
 generators/          scripts that build catalog files and category illustrations
 images/categories/   one drawing per equipment category, built by generators/category-images.php
+  png/               the same drawings as 1200 x 800 PNG, exported by generators/category-pngs.php
 ```
 
 Each entry carries a `sources` list of the pages its facts came from. Sources
@@ -59,7 +60,13 @@ fills in the current logo files and drawings.
 Category illustrations are drawn by `generators/category-images.php` into
 `images/categories/<slug>.svg` and assigned through `"image"` in
 `categories.json`; the category importer puts them in the media library. The
-brand guide sets out how they're constructed. The four logo SVGs are drawn by
+brand guide sets out how they're constructed. After changing a drawing, re-export
+the PNG copies (used where SVG isn't accepted, such as link previews):
+
+```bash
+php generators/category-images.php
+php generators/category-pngs.php
+``` The four logo SVGs are drawn by
 `brand/generate-logo.php`; edit and re-run it rather than editing the SVGs:
 
 ```bash
