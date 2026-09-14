@@ -8,12 +8,13 @@ plugin, and kept here so every fact can be reviewed, versioned and re-imported.
 ## Layout
 
 ```
-brand/               logo files, their generator and the brand guide
+brand/               logo files, their generator, and the brand guide with its source and build script
 brands.json          manufacturers, parent brands and parent companies
 pages.json           site pages and the theme template each one uses
 categories.json      equipment categories and their intro copy
 catalog/<brand>.json one brand's product lines and models
-generators/          scripts that build catalog files for large model matrices
+generators/          scripts that build catalog files and category illustrations
+images/categories/   one drawing per equipment category, built by generators/category-images.php
 ```
 
 Each entry carries a `sources` list of the pages its facts came from. Sources
@@ -51,7 +52,14 @@ php generators/bishamon.php
 ## Brand
 
 `brand/brand-guide.html` is the brand guide: logo, colour, type, signature
-details, writing and imagery rules. The four logo SVGs are drawn by
+details, category illustrations, writing and imagery rules. Edit
+`brand/brand-guide.src.html` and rebuild with `php brand/build-guide.php`, which
+fills in the current logo files and drawings.
+
+Category illustrations are drawn by `generators/category-images.php` into
+`images/categories/<slug>.svg` and assigned through `"image"` in
+`categories.json`; the category importer puts them in the media library. The
+brand guide sets out how they're constructed. The four logo SVGs are drawn by
 `brand/generate-logo.php`; edit and re-run it rather than editing the SVGs:
 
 ```bash

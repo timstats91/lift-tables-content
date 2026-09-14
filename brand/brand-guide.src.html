@@ -1,0 +1,1528 @@
+<title>Lift Tables Brand Guide</title>
+<meta name="description" content="Logo, colour, type, signature details, writing rules and the niche family system for the Lift Tables directory.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,400..800&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root {
+	--ink: #18212a;
+	--steel: #2b3742;
+	--muted: #5c6975;
+	--line: #d6dce1;
+	--line-strong: #aab4bd;
+	--surface: #f3f5f7;
+	--surface-2: #e8ecef;
+	--bg: #ffffff;
+	--yellow: #f5b800;
+	--yellow-deep: #ce9b00;
+	--yellow-wash: #fef5d6;
+	--on-yellow: #18212a;
+	--pass: #1e6f43;
+	--fail: #b3261e;
+	--font: "Archivo", "Helvetica Neue", Arial, sans-serif;
+	--mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Consolas, monospace;
+	color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme="light"]) {
+		--ink: #e9edf0;
+		--steel: #c9d1d8;
+		--muted: #9aa6b1;
+		--line: #2c3843;
+		--line-strong: #4a5764;
+		--surface: #182129;
+		--surface-2: #1f2a34;
+		--bg: #10161c;
+		--yellow-deep: #f5b800;
+		--yellow-wash: #33290d;
+		--pass: #6fcf97;
+		--fail: #ff8a80;
+		color-scheme: dark;
+	}
+}
+
+:root[data-theme="dark"] {
+	--ink: #e9edf0;
+	--steel: #c9d1d8;
+	--muted: #9aa6b1;
+	--line: #2c3843;
+	--line-strong: #4a5764;
+	--surface: #182129;
+	--surface-2: #1f2a34;
+	--bg: #10161c;
+	--yellow-deep: #f5b800;
+	--yellow-wash: #33290d;
+	--pass: #6fcf97;
+	--fail: #ff8a80;
+	color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+body {
+	margin: 0;
+	background: var(--bg);
+	color: var(--ink);
+	font-family: var(--font);
+	font-size: 16px;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: var(--ink);
+	text-decoration-color: var(--yellow-deep);
+	text-decoration-thickness: 2px;
+	text-underline-offset: 3px;
+}
+
+a:hover { text-decoration-color: var(--ink); }
+
+:focus-visible {
+	outline: 2px solid var(--ink);
+	outline-offset: 2px;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	line-height: 1.15;
+	letter-spacing: -.015em;
+	text-wrap: balance;
+}
+
+p { margin: 0 0 1em; max-width: 68ch; }
+
+code, .mono { font-family: var(--mono); }
+
+code {
+	font-size: .875em;
+	padding: 1px 5px;
+	background: var(--surface-2);
+	border-radius: 2px;
+}
+
+.label {
+	margin: 0 0 8px;
+	color: var(--muted);
+	font-family: var(--mono);
+	font-size: .72rem;
+	font-weight: 500;
+	letter-spacing: .08em;
+	text-transform: uppercase;
+}
+
+/* Layout ---------------------------------------------------------- */
+
+.page {
+	display: grid;
+	grid-template-columns: 200px minmax(0, 1fr);
+	gap: 56px;
+	max-width: 1180px;
+	margin: 0 auto;
+	padding: 0 32px 96px;
+}
+
+.toc {
+	position: sticky;
+	top: 0;
+	align-self: start;
+	padding-top: 40px;
+}
+
+.toc ol {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-left: 1px solid var(--line);
+}
+
+.toc a {
+	display: block;
+	margin-left: -1px;
+	padding: 5px 0 5px 14px;
+	border-left: 2px solid transparent;
+	color: var(--muted);
+	font-size: .9rem;
+	text-decoration: none;
+}
+
+.toc a:hover {
+	border-left-color: var(--yellow);
+	color: var(--ink);
+}
+
+main { min-width: 0; }
+
+/* Cover ----------------------------------------------------------- */
+
+.cover {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) auto;
+	gap: 40px;
+	align-items: end;
+	padding: 48px 0 44px;
+	border-bottom: 1px solid var(--ink);
+}
+
+.cover h1 {
+	font-size: clamp(2.6rem, 1.8rem + 3vw, 4.2rem);
+	font-stretch: 122%;
+	font-weight: 800;
+	letter-spacing: -.03em;
+	line-height: .98;
+	margin-bottom: 18px;
+}
+
+.cover p {
+	color: var(--steel);
+	font-size: 1.125rem;
+	margin: 0;
+}
+
+/* Rating plate */
+.plate {
+	position: relative;
+	display: inline-flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background: var(--bg);
+	border: 1px solid var(--ink);
+	clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 0 100%);
+}
+
+.plate::after {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 14px;
+	height: 14px;
+	background: linear-gradient(to top right, transparent calc(50% - 1px), var(--ink) calc(50% - 1px), var(--ink) calc(50% + 1px), transparent calc(50% + 1px));
+	content: "";
+}
+
+.plate li {
+	display: flex;
+	flex-direction: column;
+	margin: 0 0 -1px -1px;
+	padding: 10px 26px 10px 16px;
+	border-left: 1px solid var(--line);
+	border-bottom: 1px solid var(--line);
+	font-family: var(--mono);
+	font-size: .95rem;
+	font-weight: 500;
+	white-space: nowrap;
+}
+
+.plate span {
+	color: var(--muted);
+	font-size: .66rem;
+	letter-spacing: .08em;
+	text-transform: uppercase;
+}
+
+/* Sections -------------------------------------------------------- */
+
+section {
+	padding-top: 72px;
+	scroll-margin-top: 8px;
+}
+
+/* Dimension rule: a hairline with end ticks. */
+.rule {
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	justify-content: space-between;
+	gap: 8px 24px;
+	margin-bottom: 28px;
+	padding-bottom: 12px;
+	border-bottom: 1px solid var(--ink);
+}
+
+.rule::before,
+.rule::after {
+	position: absolute;
+	bottom: -5px;
+	width: 1px;
+	height: 9px;
+	background: var(--ink);
+	content: "";
+}
+
+.rule::before { left: 0; }
+.rule::after { right: 0; }
+
+.rule h2 {
+	font-size: clamp(1.6rem, 1.3rem + 1vw, 2.1rem);
+	font-stretch: 112%;
+	font-weight: 750;
+}
+
+.rule .label { margin: 0; }
+
+h3 {
+	margin: 40px 0 12px;
+	font-size: 1.125rem;
+	font-weight: 650;
+}
+
+.lede {
+	color: var(--steel);
+	font-size: 1.125rem;
+}
+
+.grid-2 {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 16px;
+}
+
+.grid-3 {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 16px;
+}
+
+/* Positioning */
+.traits {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-top: 1px solid var(--line);
+	border-left: 1px solid var(--line);
+}
+
+.traits li {
+	padding: 18px 20px 20px;
+	border-right: 1px solid var(--line);
+	border-bottom: 1px solid var(--line);
+}
+
+.traits strong {
+	display: block;
+	margin-bottom: 6px;
+	font-size: 1.2rem;
+	font-stretch: 110%;
+}
+
+.traits p {
+	margin: 0;
+	color: var(--muted);
+	font-size: .95rem;
+}
+
+.facts {
+	display: grid;
+	grid-template-columns: 160px minmax(0, 1fr);
+	margin: 0;
+	border-top: 1px solid var(--line);
+}
+
+.facts dt,
+.facts dd {
+	margin: 0;
+	padding: 14px 0;
+	border-bottom: 1px solid var(--line);
+}
+
+.facts dt {
+	color: var(--muted);
+	font-family: var(--mono);
+	font-size: .75rem;
+	letter-spacing: .08em;
+	padding-top: 17px;
+	text-transform: uppercase;
+}
+
+/* Logo */
+.specimen {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	gap: 28px;
+	min-height: 200px;
+	padding: 24px;
+	border: 1px solid var(--line);
+}
+
+.specimen svg {
+	display: block;
+	width: auto;
+	max-width: 100%;
+	height: 44px;
+}
+
+.specimen .label { margin: 0; }
+
+.specimen--light { background: #ffffff; border-color: #d6dce1; }
+.specimen--light .label { color: #5c6975; }
+.specimen--dark { background: #18212a; border-color: #18212a; }
+.specimen--dark .label { color: #aeb8c1; }
+.specimen--grey { background: #e8ecef; border-color: #e8ecef; }
+.specimen--grey .label { color: #5c6975; }
+.specimen--mark svg { height: 64px; }
+
+.construction {
+	padding: 24px;
+	overflow-x: auto;
+	background: #ffffff;
+	border: 1px solid #d6dce1;
+}
+
+.construction svg {
+	display: block;
+	width: 100%;
+	min-width: 560px;
+	height: auto;
+}
+
+.construction__notes {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 16px;
+	margin-top: 16px;
+}
+
+.construction__notes p {
+	margin: 0;
+	color: var(--muted);
+	font-size: .92rem;
+}
+
+.construction__notes strong {
+	display: block;
+	color: var(--ink);
+	font-family: var(--mono);
+	font-size: .8rem;
+	font-weight: 500;
+}
+
+.donts {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+	gap: 0;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-top: 1px solid var(--line);
+	border-left: 1px solid var(--line);
+}
+
+.donts li {
+	position: relative;
+	padding: 14px 16px 14px 40px;
+	border-right: 1px solid var(--line);
+	border-bottom: 1px solid var(--line);
+	font-size: .95rem;
+}
+
+.donts li::before {
+	position: absolute;
+	top: 13px;
+	left: 14px;
+	color: var(--fail);
+	font-family: var(--mono);
+	font-weight: 600;
+	content: "\00D7";
+}
+
+/* Colour */
+.swatches {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 12px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.swatch {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid var(--line);
+}
+
+.swatch__chip {
+	display: flex;
+	align-items: flex-end;
+	height: 108px;
+	padding: 10px 12px;
+	font-family: var(--mono);
+	font-size: .75rem;
+	font-weight: 500;
+}
+
+.swatch__body {
+	padding: 10px 12px 12px;
+	font-size: .88rem;
+}
+
+.swatch__name {
+	display: block;
+	font-weight: 650;
+}
+
+.swatch__role {
+	display: block;
+	color: var(--muted);
+	font-size: .82rem;
+	line-height: 1.45;
+}
+
+.swatch--wide { grid-column: span 2; }
+
+.ratio {
+	display: flex;
+	height: 40px;
+	margin: 12px 0 8px;
+	border: 1px solid var(--line);
+}
+
+.ratio span { display: block; height: 100%; }
+
+.ratio-key {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px 20px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	color: var(--muted);
+	font-family: var(--mono);
+	font-size: .75rem;
+}
+
+.table-wrap {
+	overflow-x: auto;
+	border: 1px solid var(--line-strong);
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: .92rem;
+}
+
+th, td {
+	padding: 10px 14px;
+	border-bottom: 1px solid var(--line);
+	text-align: left;
+	vertical-align: middle;
+}
+
+thead th {
+	background: var(--ink);
+	color: var(--bg);
+	font-family: var(--mono);
+	font-size: .68rem;
+	font-weight: 500;
+	letter-spacing: .08em;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+tbody tr:last-child th,
+tbody tr:last-child td { border-bottom: 0; }
+
+td.num,
+.models td,
+.models tbody th {
+	font-family: var(--mono);
+	font-variant-numeric: tabular-nums;
+	white-space: nowrap;
+}
+
+.models tbody th { font-weight: 600; }
+.models tbody tr:nth-child(even) { background: var(--surface); }
+
+.pair {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 64px;
+	padding: 4px 10px;
+	border: 1px solid #aab4bd;
+	font-weight: 650;
+}
+
+.pass { color: var(--pass); font-family: var(--mono); font-weight: 600; }
+.fail { color: var(--fail); font-family: var(--mono); font-weight: 600; }
+
+/* Type */
+.type-specimen {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+	border-top: 1px solid var(--line);
+	border-left: 1px solid var(--line);
+}
+
+.type-specimen > div {
+	padding: 24px;
+	border-right: 1px solid var(--line);
+	border-bottom: 1px solid var(--line);
+}
+
+.type-specimen__glyphs {
+	margin: 4px 0 12px;
+	font-size: 3.6rem;
+	line-height: 1;
+}
+
+.scale {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-top: 1px solid var(--line);
+}
+
+.scale li {
+	display: grid;
+	grid-template-columns: 150px minmax(0, 1fr);
+	gap: 20px;
+	align-items: baseline;
+	padding: 16px 0;
+	border-bottom: 1px solid var(--line);
+}
+
+.scale .label { margin: 0; }
+
+.scale__sample {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+/* Details */
+.detail {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+	gap: 32px;
+	align-items: center;
+	padding: 28px 0;
+	border-bottom: 1px solid var(--line);
+}
+
+.detail:first-of-type { border-top: 1px solid var(--line); }
+
+.detail h3 { margin-top: 0; }
+
+.detail p {
+	margin: 0;
+	color: var(--muted);
+}
+
+.detail__demo {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 150px;
+	padding: 24px;
+	background: var(--surface);
+	background-image:
+		linear-gradient(var(--surface-2) 1px, transparent 1px),
+		linear-gradient(90deg, var(--surface-2) 1px, transparent 1px);
+	background-size: 20px 20px;
+}
+
+.detail__demo .rule {
+	width: 100%;
+	margin: 0;
+}
+
+.detail__demo .rule h2 { font-size: 1.4rem; }
+
+.chamfer-demo {
+	width: 180px;
+	height: 110px;
+	background: var(--ink);
+	clip-path: polygon(0 0, calc(100% - 28px) 0, 100% 28px, 100% 100%, 0 100%);
+}
+
+.drawing {
+	width: 100%;
+	max-width: 420px;
+}
+
+.drawing svg { display: block; width: 100%; height: auto; }
+
+.lift-diagram { margin: 0; }
+.lift-diagram__ground { stroke: var(--ink); stroke-width: 2; }
+.lift-diagram__hatch { stroke: var(--line-strong); stroke-width: 1.5; }
+.lift-diagram__frame { fill: var(--bg); stroke: var(--ink); stroke-width: 2; }
+.lift-diagram__platform { fill: var(--yellow); stroke: var(--ink); stroke-width: 2; }
+.lift-diagram__leg-edge { stroke: var(--ink); stroke-width: 16; }
+.lift-diagram__leg { stroke: var(--bg); stroke-width: 12; }
+.lift-diagram__cylinder { stroke: var(--muted); stroke-width: 9; }
+.lift-diagram__pin { fill: var(--bg); stroke: var(--ink); stroke-width: 2; }
+.lift-diagram__dims line { stroke: var(--muted); stroke-width: 1; }
+.lift-diagram__dims text { fill: var(--muted); font-family: var(--mono); font-size: 11px; letter-spacing: .1em; }
+
+/* Components */
+.buttons {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+	align-items: center;
+}
+
+.btn {
+	display: inline-flex;
+	align-items: center;
+	padding: 12px 20px;
+	border: 1px solid var(--ink);
+	border-radius: 2px;
+	background: var(--ink);
+	color: var(--bg);
+	font-size: .95rem;
+	font-weight: 650;
+}
+
+.btn--accent { background: var(--yellow); border-color: var(--yellow); color: var(--on-yellow); }
+.btn--ghost { background: transparent; border-color: var(--line-strong); color: var(--ink); }
+
+.component-notes {
+	margin: 14px 0 0;
+	padding: 0;
+	list-style: none;
+	color: var(--muted);
+	font-size: .92rem;
+}
+
+.component-notes li { padding: 3px 0; }
+.component-notes strong { color: var(--ink); font-weight: 600; }
+
+.card {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	max-width: 300px;
+	padding: 18px 20px;
+	background: var(--bg);
+	border: 1px solid var(--line);
+	border-radius: 2px;
+}
+
+.card__title {
+	margin-bottom: 10px;
+	font-size: 1.0625rem;
+	font-stretch: 104%;
+	font-weight: 650;
+	line-height: 1.3;
+}
+
+.card__specs {
+	display: grid;
+	grid-auto-columns: max-content;
+	grid-auto-flow: column;
+	grid-template-columns: minmax(0, 1fr);
+}
+
+.card__specs > span {
+	display: flex;
+	flex-direction: column;
+	padding: 10px 18px 0 0;
+	border-top: 1px solid var(--line);
+	font-family: var(--mono);
+	font-size: .875rem;
+	font-weight: 500;
+}
+
+.card__specs > span + span {
+	padding-left: 16px;
+	border-left: 1px solid var(--line);
+}
+
+.card__specs small {
+	color: var(--muted);
+	font-size: .66rem;
+	letter-spacing: .08em;
+	text-transform: uppercase;
+}
+
+.form-demo {
+	padding: 28px;
+	background: #18212a;
+	color: #ffffff;
+	clip-path: polygon(0 0, calc(100% - 24px) 0, 100% 24px, 100% 100%, 0 100%);
+}
+
+.form-demo strong {
+	display: block;
+	margin-bottom: 14px;
+	font-size: 1.25rem;
+	font-stretch: 108%;
+}
+
+.form-demo__fields {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 10px;
+	margin-bottom: 14px;
+}
+
+.form-demo__fields span {
+	display: block;
+	height: 38px;
+	background: #ffffff;
+	border-radius: 2px;
+}
+
+.form-demo__submit {
+	display: inline-block;
+	padding: 10px 20px;
+	background: #f5b800;
+	color: #18212a;
+	font-weight: 700;
+	border-radius: 2px;
+}
+
+/* Writing */
+.dodont {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	border-top: 1px solid var(--line);
+	border-left: 1px solid var(--line);
+}
+
+.dodont > div {
+	padding: 14px 18px;
+	border-right: 1px solid var(--line);
+	border-bottom: 1px solid var(--line);
+	font-size: .95rem;
+}
+
+.dodont .label { margin-bottom: 2px; }
+.dodont .yes { color: var(--pass); }
+.dodont .no { color: var(--fail); }
+
+.rules {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	counter-reset: none;
+}
+
+.rules li {
+	position: relative;
+	max-width: 72ch;
+	padding: 10px 0 10px 24px;
+	border-bottom: 1px solid var(--line);
+}
+
+.rules li::before {
+	position: absolute;
+	top: 1.05em;
+	left: 0;
+	width: 8px;
+	height: 8px;
+	background: var(--yellow);
+	outline: 1px solid var(--ink);
+	content: "";
+}
+
+/* Family */
+.family {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 12px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.family li {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid var(--line);
+}
+
+.family__plate {
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	height: 120px;
+	padding: 12px;
+	clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 22px, 100% 100%, 0 100%);
+	font-family: var(--mono);
+	font-size: .72rem;
+	font-weight: 500;
+}
+
+.family__plate b {
+	font-family: var(--font);
+	font-size: 1.05rem;
+	font-stretch: 116%;
+	font-weight: 800;
+	letter-spacing: .01em;
+	text-transform: uppercase;
+}
+
+.family__body {
+	padding: 10px 12px 12px;
+	font-size: .88rem;
+}
+
+.family__body span {
+	display: block;
+	color: var(--muted);
+	font-size: .82rem;
+}
+
+.status {
+	display: inline-block;
+	margin-top: 6px;
+	padding: 1px 6px;
+	border: 1px solid var(--line-strong);
+	font-family: var(--mono);
+	font-size: .66rem;
+	letter-spacing: .06em;
+	text-transform: uppercase;
+}
+
+.status--live { background: var(--yellow); border-color: var(--yellow); color: #18212a; }
+
+/* Category illustrations */
+.anatomy {
+	padding: 20px;
+	overflow-x: auto;
+	background: #ffffff;
+	border: 1px solid #d6dce1;
+}
+
+.anatomy svg {
+	display: block;
+	width: 100%;
+	min-width: 640px;
+	height: auto;
+}
+
+.sheet {
+	display: grid;
+	grid-template-columns: repeat(4, minmax(0, 1fr));
+	gap: 0;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-top: 1px solid var(--line);
+	border-left: 1px solid var(--line);
+}
+
+.sheet li {
+	display: flex;
+	flex-direction: column;
+	border-right: 1px solid var(--line);
+	border-bottom: 1px solid var(--line);
+}
+
+.sheet__art {
+	padding: 10px 12px 6px;
+	background-color: #f3f5f7;
+	background-image:
+		linear-gradient(#e8ecef 1px, transparent 1px),
+		linear-gradient(90deg, #e8ecef 1px, transparent 1px);
+	background-size: 14px 14px;
+}
+
+.sheet__art img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.sheet__name {
+	padding: 8px 12px 10px;
+	font-size: .85rem;
+	font-weight: 600;
+	line-height: 1.3;
+}
+
+.spec-rows td:first-child {
+	width: 30%;
+	font-weight: 600;
+	white-space: nowrap;
+}
+
+footer.doc-foot {
+	margin-top: 80px;
+	padding-top: 20px;
+	border-top: 1px solid var(--line);
+	color: var(--muted);
+	font-family: var(--mono);
+	font-size: .75rem;
+}
+
+/* Responsive */
+@media (max-width: 1000px) {
+	.page { grid-template-columns: minmax(0, 1fr); gap: 0; }
+	.toc { display: none; }
+	.swatches, .family, .sheet { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 720px) {
+	.page { padding: 0 18px 64px; }
+	.cover { grid-template-columns: minmax(0, 1fr); }
+	.grid-2, .grid-3, .traits, .type-specimen, .detail, .construction__notes, .dodont { grid-template-columns: minmax(0, 1fr); }
+	.facts { grid-template-columns: minmax(0, 1fr); }
+	.facts dt { padding-bottom: 0; border-bottom: 0; }
+	.scale li { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+	.swatch--wide { grid-column: auto; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+	* { transition: none !important; }
+}
+</style>
+
+<div class="page">
+	<nav class="toc" aria-label="Contents">
+		<p class="label">Contents</p>
+		<ol>
+			<li><a href="#positioning">Positioning</a></li>
+			<li><a href="#logo">Logo</a></li>
+			<li><a href="#colour">Colour</a></li>
+			<li><a href="#type">Typography</a></li>
+			<li><a href="#details">Signature details</a></li>
+			<li><a href="#components">Components</a></li>
+			<li><a href="#writing">Writing</a></li>
+			<li><a href="#imagery">Imagery</a></li>
+			<li><a href="#illustrations">Category illustrations</a></li>
+			<li><a href="#family">Niche sites</a></li>
+			<li><a href="#files">Files and settings</a></li>
+		</ol>
+	</nav>
+
+	<main>
+		<header class="cover">
+			<div>
+				<p class="label">Brand guide</p>
+				<h1>Lift Tables</h1>
+				<p>A directory of lift tables sold in the United States and Canada. This guide covers the identity and the rules that keep the website consistent as it grows.</p>
+			</div>
+			<ul class="plate" aria-label="Document details">
+				<li><span>Version</span>1.1</li>
+				<li><span>Updated</span>2026-09-13</li>
+				<li><span>Theme</span>0.3.0</li>
+			</ul>
+		</header>
+
+		<!-- Positioning -->
+		<section id="positioning">
+			<div class="rule"><h2>Positioning</h2><p class="label">Who it's for and how it sounds</p></div>
+
+			<p class="lede">The brand borrows its look from documents buyers already trust: manufacturer spec sheets, capacity plates and engineering drawings. Lift tables are bought on numbers, so the numbers lead.</p>
+
+			<dl class="facts">
+				<dt>What it is</dt>
+				<dd>Manufacturers, product lines and model numbers for lift tables, plus the distributors who sell them.</dd>
+				<dt>Who it's for</dt>
+				<dd>People who specify or buy lift tables: plant and maintenance managers, safety and ergonomics leads, purchasing. Also distributors who want those buyers' quote requests.</dd>
+				<dt>What it offers</dt>
+				<dd>Compare lift tables by capacity, platform size and model, then get a quote from a distributor.</dd>
+				<dt>Design idea</dt>
+				<dd>The spec sheet. Steel neutrals, one safety colour, figures in monospace, square corners with a single chamfer.</dd>
+			</dl>
+
+			<h3>Personality</h3>
+			<ul class="traits">
+				<li><strong>Precise</strong><p>Exact figures, real units, model numbers exactly as the manufacturer prints them. Never clinical or cold.</p></li>
+				<li><strong>Plainspoken</strong><p>Short sentences that tell a buyer what a table does and what to check. No hype, no superlatives.</p></li>
+				<li><strong>Useful</strong><p>Every element helps someone compare or act. Decoration earns its place by carrying information.</p></li>
+			</ul>
+		</section>
+
+		<!-- Logo -->
+		<section id="logo">
+			<div class="rule"><h2>Logo</h2><p class="label">Badge and wordmark</p></div>
+
+			<p>The badge is a steel plate with one chamfered corner. It holds a scissor lift table seen from the side: a safety-yellow platform, crossed legs on a pivot, and a base frame. The wordmark is drawn, not typed, so it looks the same everywhere and needs no font.</p>
+
+			<div class="grid-2">
+				<div class="specimen specimen--light">{{LOGO}}<p class="label">Primary · light backgrounds</p></div>
+				<div class="specimen specimen--dark">{{LOGO_REVERSE}}<p class="label">Reverse · dark backgrounds</p></div>
+				<div class="specimen specimen--grey">{{LOGO_MONO}}<p class="label">One colour · embossing, engraving, single-ink print</p></div>
+				<div class="specimen specimen--light specimen--mark">{{MARK}}<p class="label">Mark · favicon, avatar, app icon</p></div>
+			</div>
+
+			<h3>Construction</h3>
+			<div class="construction" role="img" aria-label="The logo on its construction grid">
+				<svg viewBox="-24 -24 258 88" xmlns="http://www.w3.org/2000/svg">
+					<defs>
+						<pattern id="unit" width="2" height="2" patternUnits="userSpaceOnUse">
+							<path d="M2 0H0V2" fill="none" stroke="#e8ecef" stroke-width=".15" />
+						</pattern>
+					</defs>
+					<rect x="-24" y="-24" width="258" height="88" fill="url(#unit)" />
+					<rect x="-20" y="-20" width="250" height="80" fill="none" stroke="#aab4bd" stroke-width=".3" stroke-dasharray="1.5 1" />
+					<line x1="-24" y1="10" x2="234" y2="10" stroke="#f5b800" stroke-width=".3" />
+					<line x1="-24" y1="30" x2="234" y2="30" stroke="#f5b800" stroke-width=".3" />
+					{{LOGO_INNER}}
+					<g font-family="IBM Plex Mono, monospace" font-size="3.2" fill="#5c6975">
+						<text x="232" y="11.2" text-anchor="end">CAP</text>
+						<text x="232" y="33.2" text-anchor="end">BASE</text>
+						<text x="-19" y="-21.5">CLEAR SPACE 20 UNITS</text>
+					</g>
+				</svg>
+			</div>
+			<div class="construction__notes">
+				<p><strong>Badge</strong>40 units square, 8-unit chamfer top right. The platform is always the site's safety colour.</p>
+				<p><strong>Wordmark</strong>20-unit caps with 4-unit strokes. A, B and S take 45° chamfers to match the badge.</p>
+				<p><strong>Clear space</strong>20 units on every side, equal to the cap height. Nothing enters the dashed box.</p>
+			</div>
+
+			<h3>Minimum sizes</h3>
+			<div class="table-wrap">
+				<table>
+					<thead><tr><th>Version</th><th>Screen</th><th>Print</th></tr></thead>
+					<tbody>
+						<tr><td>Full logo</td><td class="num">24 px tall</td><td class="num">0.4 in tall</td></tr>
+						<tr><td>Mark</td><td class="num">16 px</td><td class="num">0.25 in</td></tr>
+					</tbody>
+				</table>
+			</div>
+
+			<h3>Don't</h3>
+			<ul class="donts">
+				<li>Set "Lift Tables" in a typeface next to the badge</li>
+				<li>Recolour the platform with anything but the safety colour</li>
+				<li>Stretch, skew, rotate or outline the logo</li>
+				<li>Add shadows, bevels, gradients or hazard stripes</li>
+				<li>Put the primary logo on yellow or on a busy photo</li>
+				<li>Move the badge below or after the wordmark</li>
+			</ul>
+		</section>
+
+		<!-- Colour -->
+		<section id="colour">
+			<div class="rule"><h2>Colour</h2><p class="label">Steel neutrals, one safety colour</p></div>
+
+			<p>The neutrals are greys with a slight blue cast, like cold-rolled steel. Safety yellow is the only brand colour. It is <strong>paint, never ink</strong>: use it for fills, never for text on white. It reaches only 1.8:1 against white, so it can't be read as text.</p>
+
+			<ul class="swatches">
+				<li class="swatch swatch--wide"><span class="swatch__chip" style="background:#f5b800;color:#18212a">#F5B800</span><span class="swatch__body"><span class="swatch__name">Safety Yellow</span><span class="swatch__role">The lift platform, quote and listing buttons, featured badges, active states. Text on it is Steel Ink.</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#ce9b00;color:#18212a">#CE9B00</span><span class="swatch__body"><span class="swatch__name">Yellow Deep</span><span class="swatch__role">Link underlines, button hover</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#fef5d6;color:#18212a">#FEF5D6</span><span class="swatch__body"><span class="swatch__name">Yellow Wash</span><span class="swatch__role">Row and tile hover</span></span></li>
+				<li class="swatch swatch--wide"><span class="swatch__chip" style="background:#18212a;color:#ffffff">#18212A</span><span class="swatch__body"><span class="swatch__name">Steel Ink</span><span class="swatch__role">Body text, headings, primary buttons, the footer and quote form, table headers.</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#2b3742;color:#ffffff">#2B3742</span><span class="swatch__body"><span class="swatch__name">Blued Steel</span><span class="swatch__role">Dark hover, lede text</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#5c6975;color:#ffffff">#5C6975</span><span class="swatch__body"><span class="swatch__name">Gauge Grey</span><span class="swatch__role">Secondary text, labels</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#aab4bd;color:#18212a">#AAB4BD</span><span class="swatch__body"><span class="swatch__name">Line Strong</span><span class="swatch__role">Input and table borders</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#d6dce1;color:#18212a">#D6DCE1</span><span class="swatch__body"><span class="swatch__name">Plate Line</span><span class="swatch__role">Hairlines, card borders</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#e8ecef;color:#18212a">#E8ECEF</span><span class="swatch__body"><span class="swatch__name">Galvanized Deep</span><span class="swatch__role">Drawing grid, muted panels</span></span></li>
+				<li class="swatch"><span class="swatch__chip" style="background:#f3f5f7;color:#18212a">#F3F5F7</span><span class="swatch__body"><span class="swatch__name">Galvanized</span><span class="swatch__role">Surfaces, table stripes</span></span></li>
+			</ul>
+
+			<h3>Proportion</h3>
+			<p>On a typical page, yellow is a few small, deliberate marks. If a screen looks yellow, there's too much.</p>
+			<div class="ratio" role="img" aria-label="About 68 percent white and galvanized, 22 percent steel ink, 7 percent greys, 3 percent safety yellow">
+				<span style="width:68%;background:#f3f5f7"></span>
+				<span style="width:22%;background:#18212a"></span>
+				<span style="width:7%;background:#5c6975"></span>
+				<span style="width:3%;background:#f5b800"></span>
+			</div>
+			<ul class="ratio-key">
+				<li>68% white + galvanized</li>
+				<li>22% steel ink</li>
+				<li>7% greys</li>
+				<li>3% safety yellow</li>
+			</ul>
+
+			<h3>Contrast</h3>
+			<div class="table-wrap">
+				<table>
+					<thead><tr><th>Pair</th><th>Use</th><th>Ratio</th><th>WCAG AA text</th></tr></thead>
+					<tbody>
+						<tr><td><span class="pair" style="background:#ffffff;color:#18212a">Aa</span></td><td>Steel Ink on white</td><td class="num">16.3:1</td><td class="pass">Pass</td></tr>
+						<tr><td><span class="pair" style="background:#ffffff;color:#5c6975">Aa</span></td><td>Gauge Grey on white</td><td class="num">5.6:1</td><td class="pass">Pass</td></tr>
+						<tr><td><span class="pair" style="background:#f3f5f7;color:#5c6975">Aa</span></td><td>Gauge Grey on Galvanized</td><td class="num">5.1:1</td><td class="pass">Pass</td></tr>
+						<tr><td><span class="pair" style="background:#f5b800;color:#18212a">Aa</span></td><td>Steel Ink on Safety Yellow</td><td class="num">9.1:1</td><td class="pass">Pass</td></tr>
+						<tr><td><span class="pair" style="background:#18212a;color:#f5b800">Aa</span></td><td>Safety Yellow on Steel Ink</td><td class="num">9.1:1</td><td class="pass">Pass</td></tr>
+						<tr><td><span class="pair" style="background:#18212a;color:#aeb8c1">Aa</span></td><td>Muted text on Steel Ink</td><td class="num">8.1:1</td><td class="pass">Pass</td></tr>
+						<tr><td><span class="pair" style="background:#ffffff;color:#f5b800">Aa</span></td><td>Safety Yellow on white</td><td class="num">1.8:1</td><td class="fail">Fail · never</td></tr>
+					</tbody>
+				</table>
+			</div>
+			<p style="margin-top:12px;color:var(--muted);font-size:.92rem">Red <code>#B3261E</code> and green <code>#1E6F43</code> are for form errors and confirmations only. They are never brand colours.</p>
+		</section>
+
+		<!-- Type -->
+		<section id="type">
+			<div class="rule"><h2>Typography</h2><p class="label">Two families, three roles</p></div>
+
+			<div class="type-specimen">
+				<div>
+					<p class="label">Display and text</p>
+					<div class="type-specimen__glyphs" style="font-stretch:122%;font-weight:800;letter-spacing:-.03em">Aa Gg 49</div>
+					<p style="margin:0"><strong>Archivo</strong>, a grotesque with a variable width axis. Headlines run wide (112–122%) and heavy (700–800) with tight tracking. Body text uses normal width at 400–650.</p>
+				</div>
+				<div>
+					<p class="label">Data and labels</p>
+					<div class="type-specimen__glyphs" style="font-family:var(--mono);font-weight:500">L-4436</div>
+					<p style="margin:0"><strong>IBM Plex Mono</strong> for model numbers, capacities, dimensions and labels. Every character is the same width, so columns of figures line up. Labels are uppercase with 0.08em tracking.</p>
+				</div>
+			</div>
+
+			<h3>Scale</h3>
+			<ul class="scale">
+				<li><span class="label">Hero · 68 / 0.98</span><span class="scale__sample" style="font-size:clamp(2rem,1.2rem + 3vw,4.25rem);font-stretch:122%;font-weight:800;letter-spacing:-.03em;line-height:1">By the numbers.</span></li>
+				<li><span class="label">H1 · 48 / 1.05</span><span class="scale__sample" style="font-size:clamp(1.8rem,1.4rem + 1.6vw,3rem);font-stretch:112%;font-weight:700;letter-spacing:-.015em">Scissor Lift Tables</span></li>
+				<li><span class="label">H2 · 28 / 1.15</span><span class="scale__sample" style="font-size:1.75rem;font-stretch:108%;font-weight:700">17 models</span></li>
+				<li><span class="label">H3 · 18 / 1.3</span><span class="scale__sample" style="font-size:1.125rem;font-weight:650">Bishamon ALPHA L22K Electric Scissor Lift Table</span></li>
+				<li><span class="label">Body · 16 / 1.6</span><span class="scale__sample">Hydraulic lift tables use a cylinder filled with hydraulic fluid to raise the platform.</span></li>
+				<li><span class="label">Data · 14 mono</span><span class="scale__sample mono" style="font-size:.875rem">L22K-3153 · 2,200 lbs · 31 x 53 in · 8-3/4 in</span></li>
+				<li><span class="label">Label · 11 mono caps</span><span class="scale__sample label" style="margin:0;color:var(--ink)">Raised height</span></li>
+			</ul>
+		</section>
+
+		<!-- Details -->
+		<section id="details">
+			<div class="rule"><h2>Signature details</h2><p class="label">Four things only this brand does</p></div>
+
+			<div class="detail">
+				<div>
+					<h3>The rating plate</h3>
+					<p>Key figures sit in bordered cells with one chamfered corner, like the capacity plate on real equipment. Use it for a page's headline facts: series, capacity, model count, headquarters.</p>
+				</div>
+				<div class="detail__demo">
+					<ul class="plate">
+						<li><span>Series</span>ALPHA</li>
+						<li><span>Capacity</span>2,200–6,600 lbs</li>
+						<li><span>Models</span>17</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="detail">
+				<div>
+					<h3>The dimension rule</h3>
+					<p>Section headings sit on a hairline with end ticks, like a dimension line on a drawing. The optional link on the right reads as a callout.</p>
+				</div>
+				<div class="detail__demo">
+					<div class="rule"><h2>Product lines</h2><p class="label">All product lines →</p></div>
+				</div>
+			</div>
+
+			<div class="detail">
+				<div>
+					<h3>The chamfer</h3>
+					<p>One 45° cut on the top-right corner. It appears on the badge, the rating plate, the quote form and listing badges, and nowhere else. Every other corner is square, with a 2 px radius at most.</p>
+				</div>
+				<div class="detail__demo"><div class="chamfer-demo" role="img" aria-label="A dark panel with a chamfered top-right corner"></div></div>
+			</div>
+
+			<div class="detail">
+				<div>
+					<h3>The technical drawing</h3>
+					<p>Illustrations are side elevations in ink line with dimension callouts in mono caps. Yellow goes only on the part that lifts. On the home page this drawing raises its platform once as the page loads.</p>
+				</div>
+				<div class="detail__demo"><div class="drawing"><figure class="lift-diagram" aria-hidden="true">
+	<svg class="lift-diagram__svg" viewBox="0 0 540 360" focusable="false">
+		<defs>
+			<pattern id="edt-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+				<line x1="0" y1="0" x2="0" y2="8" class="lift-diagram__hatch" />
+			</pattern>
+		</defs>
+		<rect x="40" y="324" width="440" height="14" fill="url(#edt-hatch)" />
+		<line x1="40" y1="324" x2="480" y2="324" class="lift-diagram__ground" />
+		<rect x="112" y="300" width="318" height="24" class="lift-diagram__frame" />
+		<line data-part="cylinder" x1="196" y1="300" x2="264.57" y2="196.8" class="lift-diagram__cylinder" />
+								<g data-part="leg-back">
+				<line x1="132" y1="128" x2="352.94" y2="300" class="lift-diagram__leg-edge" />
+				<line x1="132" y1="128" x2="352.94" y2="300" class="lift-diagram__leg" />
+			</g>
+								<g data-part="leg-front">
+				<line x1="132" y1="300" x2="352.94" y2="128" class="lift-diagram__leg-edge" />
+				<line x1="132" y1="300" x2="352.94" y2="128" class="lift-diagram__leg" />
+			</g>
+		<rect data-part="platform" x="96" y="108" width="350" height="20" class="lift-diagram__platform" />
+		<circle data-part="pin-base" cx="132" cy="300" r="5" class="lift-diagram__pin" />
+		<circle data-part="pin-top" cx="132" cy="128" r="5" class="lift-diagram__pin" />
+		<circle data-part="roller-base" cx="352.94" cy="300" r="7" class="lift-diagram__pin" />
+		<circle data-part="roller-top" cx="352.94" cy="128" r="7" class="lift-diagram__pin" />
+		<circle data-part="pivot" cx="242.47" cy="214" r="6" class="lift-diagram__pin" />
+		<g class="lift-diagram__dims">
+			<g data-part="dim-length">
+				<line x1="96" y1="82" x2="446" y2="82" />
+				<line x1="96" y1="74" x2="96" y2="104" />
+				<line x1="446" y1="74" x2="446" y2="104" />
+				<text x="271" y="74" text-anchor="middle">PLATFORM</text>
+			</g>
+			<g data-part="dim-height">
+				<line x1="494" y1="324" x2="494" y2="108" />
+				<line x1="456" y1="108" x2="502" y2="108" />
+				<line x1="486" y1="324" x2="502" y2="324" />
+				<text x="0" y="0" transform="translate(484 216) rotate(-90)" text-anchor="middle">HEIGHT</text>
+			</g>
+		</g>
+	</svg>
+</figure></div></div>
+			</div>
+		</section>
+
+		<!-- Components -->
+		<section id="components">
+			<div class="rule"><h2>Components</h2><p class="label">How the pieces behave</p></div>
+
+			<h3 style="margin-top:0">Buttons</h3>
+			<div class="buttons">
+				<span class="btn btn--accent">Request a quote</span>
+				<span class="btn">Search</span>
+				<span class="btn btn--ghost">List your company</span>
+			</div>
+			<ul class="component-notes">
+				<li><strong>Yellow</strong> is for the action that connects a buyer with a distributor: request a quote, send the request, list a company.</li>
+				<li><strong>Ink</strong> is for everything else that submits or navigates.</li>
+				<li><strong>Ghost</strong> is for secondary actions next to a primary one, and for the header.</li>
+			</ul>
+
+			<div class="grid-2" style="margin-top:40px;align-items:start">
+				<div>
+					<h3 style="margin-top:0">Cards</h3>
+					<div class="card">
+						<span class="label" style="margin:0">Bishamon</span>
+						<span class="card__title">Bishamon ALPHA Series Lift Tables</span>
+						<span class="card__specs"><span><small>Capacity</small>2,200–6,600 lbs</span><span><small>Models</small>17</span></span>
+					</div>
+					<ul class="component-notes">
+						<li>Text first. Show an image only if the post has one. No grey placeholders.</li>
+						<li>Spec cells at the foot: label in mono caps, value in mono.</li>
+					</ul>
+				</div>
+				<div>
+					<h3 style="margin-top:0">Quote form</h3>
+					<div class="form-demo" role="img" aria-label="A dark chamfered form panel with white fields and a yellow button">
+						<strong>Get a quote on ALPHA Series</strong>
+						<div class="form-demo__fields"><span></span><span></span><span></span><span></span></div>
+						<span class="form-demo__submit">Send request</span>
+					</div>
+					<ul class="component-notes">
+						<li>The loudest block on a page, and only one per page.</li>
+						<li>Dark steel, chamfered, with white fields and a yellow submit button.</li>
+					</ul>
+				</div>
+			</div>
+
+			<h3>Model tables</h3>
+			<div class="table-wrap">
+				<table class="models">
+					<thead><tr><th>Model</th><th>Capacity</th><th>Platform</th><th>Lowered</th><th>Raised</th></tr></thead>
+					<tbody>
+						<tr><th scope="row">L22K-3153</th><td>2,200 lbs</td><td>31 x 53 in</td><td>8-3/4 in</td><td>40 in</td></tr>
+						<tr><th scope="row">L22K-4053</th><td>2,200 lbs</td><td>40 x 53 in</td><td>8-1/2 in</td><td>39-1/2 in</td></tr>
+						<tr><th scope="row">L22K-TT</th><td>2,200 lbs</td><td>43 in dia. rotating</td><td>11-1/2 in</td><td>41-1/2 in</td></tr>
+					</tbody>
+				</table>
+			</div>
+			<ul class="component-notes">
+				<li>Ink header in mono caps, every cell in mono, alternate rows striped. A column with no data on any row is dropped rather than filled with dashes.</li>
+			</ul>
+		</section>
+
+		<!-- Writing -->
+		<section id="writing">
+			<div class="rule"><h2>Writing</h2><p class="label">Figures, names and claims</p></div>
+
+			<ul class="rules">
+				<li><strong>Capacity in lbs, dimensions in inches.</strong> Fractions to the nearest 1/16: <code>8-3/4 in</code>, not <code>8.75"</code>.</li>
+				<li><strong>Platform length first:</strong> <code>31 x 53 in</code>. Round decks: <code>43 in dia.</code></li>
+				<li><strong>Model numbers exactly as the manufacturer prints them,</strong> set in mono. Never reformat or abbreviate them.</li>
+				<li><strong>Sentence case</strong> for headings, buttons and labels. Proper names keep their own capitals: ALPHA, EZ Loader.</li>
+				<li><strong>Buttons say what happens:</strong> "Request a quote", "Find a distributor", "List your company".</li>
+				<li><strong>State only what a source supports.</strong> No invented ratings, availability, prices or "best". Say "listed" rather than "every".</li>
+				<li><strong>Pallet positioners that are lift tables</strong> may use "pallet positioner" in the title, but the copy describes the lifting table.</li>
+			</ul>
+
+			<h3>Examples</h3>
+			<div class="dodont">
+				<div><p class="label yes">Write</p>Rated 2,200 lbs, lifts from 8-3/4 in to 40 in.</div>
+				<div><p class="label no">Not</p>Heavy-duty powerhouse that handles anything you throw at it!</div>
+				<div><p class="label yes">Write</p>152 model numbers across 14 product lines</div>
+				<div><p class="label no">Not</p>Every lift table on the market</div>
+				<div><p class="label yes">Write</p>Get a quote on Bishamon ALPHA Series Lift Tables</div>
+				<div><p class="label no">Not</p>Click here to learn more</div>
+			</div>
+		</section>
+
+		<!-- Imagery -->
+		<section id="imagery">
+			<div class="rule"><h2>Imagery</h2><p class="label">Photos, logos and drawings</p></div>
+
+			<ul class="rules">
+				<li><strong>Product photos</strong> come from the manufacturer, with permission, on white or light grey. Square-on or three-quarter view, no watermarks.</li>
+				<li><strong>Brand logos</strong> come from the manufacturer and sit on a white panel with padding, never recoloured.</li>
+				<li><strong>Illustrations</strong> follow the technical drawing: ink lines, yellow only on the lifting part. Each equipment category has one; see <a href="#illustrations">Category illustrations</a>.</li>
+				<li><strong>No AI-generated pictures of real products.</strong> They won't match the real model, and buyers compare real models.</li>
+				<li><strong>No stock photos</strong> of people pointing at tablets or shaking hands, and no decorative hazard stripes.</li>
+			</ul>
+		</section>
+
+		<!-- Category illustrations -->
+		<section id="illustrations">
+			<div class="rule"><h2>Category illustrations</h2><p class="label">One drawing per table type</p></div>
+
+			<p class="lede">Every equipment category has a drawing of that type of table, seen from the side. They appear in the table type tiles on the home page and on category pages, and at the top of each category page.</p>
+
+			<p>The drawings are written in code, not drawn by hand. <code>generators/category-images.php</code> builds all of them from a small set of shared parts, so every table uses the same line weights, colours and proportions, and changing a rule changes every drawing at once. Scissor geometry is calculated rather than eyeballed: the legs pivot on fixed pins at one end and roll at the other, and the span follows from the leg length and the lift height, just as it does on a real table.</p>
+
+			<ul class="sheet" aria-label="All category illustrations">
+				{{CATEGORY_SHEET}}
+			</ul>
+
+			<h3>Anatomy of a drawing</h3>
+			<div class="anatomy" role="img" aria-label="The scissor lift table drawing with its parts labelled">
+				<svg viewBox="0 0 800 330" xmlns="http://www.w3.org/2000/svg">
+					<g transform="translate(160 10)">{{SCISSOR_INNER}}</g>
+					<g font-family="IBM Plex Mono, ui-monospace, monospace" font-size="12">
+						<g fill="#18212a" font-weight="600">
+							<text x="16" y="36">DECK</text>
+							<text x="16" y="106">SCISSOR LEG</text>
+							<text x="16" y="176">CYLINDER</text>
+							<text x="16" y="246">FIXED PIN</text>
+							<text x="16" y="306">GROUND</text>
+							<text x="784" y="86" text-anchor="end">HEIGHT</text>
+							<text x="784" y="186" text-anchor="end">ROLLER</text>
+							<text x="784" y="266" text-anchor="end">BASE FRAME</text>
+						</g>
+						<g fill="#5c6975">
+							<text x="16" y="52">Safety Yellow, the only yellow</text>
+							<text x="16" y="122">18 px ink bar, 12 px white core</text>
+							<text x="16" y="192">Gauge Grey barrel, ink rod</text>
+							<text x="16" y="262">6 px radius, 3 px outline</text>
+							<text x="16" y="322">3 px ink line, 45° hatch</text>
+							<text x="784" y="102" text-anchor="end">1.5 px grey, 18 px ticks</text>
+							<text x="784" y="202" text-anchor="end">8 px radius, rolls as it rises</text>
+							<text x="784" y="282" text-anchor="end">3 px ink outline, white fill</text>
+						</g>
+					</g>
+					<g stroke="#aab4bd" stroke-width="1.25" fill="none">
+						<path d="M53 32 H290 L310 142"/>
+						<path d="M103 102 H320 L353 234"/>
+						<path d="M82 172 H330 L380 243"/>
+						<path d="M89 242 H270 L300 262"/>
+						<path d="M67 302 H200 L240 293"/>
+						<path d="M733 82 H620 L580 150"/>
+						<path d="M733 182 H560 L513 262"/>
+						<path d="M704 262 H540 L500 274"/>
+					</g>
+					<g fill="#18212a">
+						<circle cx="310" cy="142" r="3"/>
+						<circle cx="353" cy="234" r="3"/>
+						<circle cx="380" cy="243" r="3"/>
+						<circle cx="300" cy="262" r="3"/>
+						<circle cx="240" cy="293" r="3"/>
+						<circle cx="580" cy="150" r="3"/>
+						<circle cx="513" cy="262" r="3"/>
+						<circle cx="500" cy="274" r="3"/>
+					</g>
+				</svg>
+			</div>
+
+			<h3>Construction rules</h3>
+			<div class="table-wrap">
+				<table class="spec-rows">
+					<thead><tr><th>Element</th><th>Rule</th></tr></thead>
+					<tbody>
+						<tr><td>Canvas</td><td>480 × 320 px (3:2), transparent. The page supplies the drawing-grid background, so one file works on any surface.</td></tr>
+						<tr><td>View</td><td>Side elevation, square-on. No perspective, no shading, no shadows.</td></tr>
+						<tr><td>Ground</td><td>A 3 px Steel Ink line at y 276, over a 14 px band of 45° hatching in Line Strong <code>#AAB4BD</code>.</td></tr>
+						<tr><td>Outlines</td><td>3 px Steel Ink <code>#18212A</code>, square ends. Filled shapes are white.</td></tr>
+						<tr><td>Yellow</td><td>Safety Yellow <code>#F5B800</code> on the part that lifts, and nothing else: the deck, turntable or top plate.</td></tr>
+						<tr><td>Secondary parts</td><td>Gauge Grey <code>#5C6975</code>: cylinders, hoses, loads, pallets, pallet jacks, arrows and dimension lines. Lighter details in Line Strong.</td></tr>
+						<tr><td>Scissor legs</td><td>An 18 px ink bar with a 12 px white core, so crossed legs stay readable at thumbnail size. Heavy duty uses 26 / 16 px; low profile 12 / 7 px.</td></tr>
+						<tr><td>Pins</td><td>Fixed pins 6 px radius, rollers 8 px, centre pivot 7 px, all white with a 3 px outline. Heavy duty adds 2 px to each.</td></tr>
+						<tr><td>Dimension line</td><td>One vertical line, floor to deck top, 1.5 px Gauge Grey with 18 px end ticks. On the right, or on the left when a power unit takes the right. Left out where height isn't the point: tilt tables show their angle instead, and floor level tables show the flush floor.</td></tr>
+						<tr><td>Text</td><td>None. Fonts don't load inside an image file, and a drawing without words works in any language. The category name is set beside the image by the page.</td></tr>
+						<tr><td>One idea each</td><td>Every drawing adds a single feature to the standard table that makes its type recognisable. If a second feature is needed to tell two drawings apart, the first one isn't clear enough.</td></tr>
+					</tbody>
+				</table>
+			</div>
+
+			<h3>What each drawing shows</h3>
+			<div class="table-wrap">
+				<table class="spec-rows">
+					<thead><tr><th>Category</th><th>Distinguishing feature</th></tr></thead>
+					<tbody>
+						<tr><td>Lift Tables</td><td>The standard scissor table carrying a crate: the whole category at a glance.</td></tr>
+						<tr><td>Scissor</td><td>The standard table alone: base, one scissor pair, cylinder, deck.</td></tr>
+						<tr><td>Mobile</td><td>Casters under the base and a push handle.</td></tr>
+						<tr><td>Post</td><td>A single telescoping column with braces under the deck, no scissor.</td></tr>
+						<tr><td>Double Scissor</td><td>Two scissor pairs stacked for more travel.</td></tr>
+						<tr><td>Rotating</td><td>A turntable on a bearing above the deck, with a rotation arrow.</td></tr>
+						<tr><td>Tilt</td><td>A deck hinged at one end and raised by a cylinder, tipping a crate, with the angle marked.</td></tr>
+						<tr><td>Pallet</td><td>A pallet on the deck, drawn as deck boards and three blocks.</td></tr>
+						<tr><td>Low Profile</td><td>A table only a few inches high, with a pallet jack beside it.</td></tr>
+						<tr><td>Floor Level</td><td>The table set in a pit so the deck sits flush with the floor.</td></tr>
+						<tr><td>Heavy Duty</td><td>Heavier legs, frame and deck, twin cylinders and a dense steel load.</td></tr>
+						<tr><td>Stainless Steel</td><td>Washdown droplets over the table.</td></tr>
+						<tr><td>Hydraulic</td><td>A wider cylinder, with a hose to a power unit and pressure gauge.</td></tr>
+						<tr><td>Electric</td><td>A motor unit marked with a lightning bolt, and a power cord and plug.</td></tr>
+						<tr><td>Pneumatic</td><td>An air bag (bellows) lift in place of the scissor, with an air line and coupler.</td></tr>
+						<tr><td>Manual</td><td>A foot pump with a pedal and a downward arrow, on a mobile base.</td></tr>
+						<tr><td>Battery Powered</td><td>A battery with + and − terminals on a mobile base.</td></tr>
+					</tbody>
+				</table>
+			</div>
+
+			<h3>Adding or changing a drawing</h3>
+			<ul class="rules">
+				<li><strong>Edit the generator, never the SVG.</strong> Build the new drawing from the shared parts in <code>generators/category-images.php</code> (<code>scissor_table()</code>, <code>caster()</code>, <code>cylinder()</code>, <code>crate()</code>, <code>pallet()</code>, <code>dim_v()</code>), then run <code>php generators/category-images.php</code>.</li>
+				<li><strong>Name the file after the category slug:</strong> <code>images/categories/scissor-lift-tables.svg</code>, and give it a plain title such as "Scissor lift table". The title becomes the image's alt text.</li>
+				<li><strong>Point the category at it</strong> with <code>"image"</code> in <code>categories.json</code> and run the category importer. Unchanged files are left alone; a changed file replaces the existing image in the media library, so every page picks it up.</li>
+				<li><strong>A new niche site</strong> reuses the same parts and rules with its own equipment, and its own safety colour in place of yellow.</li>
+			</ul>
+		</section>
+
+		<!-- Family -->
+		<section id="family">
+			<div class="rule"><h2>Niche sites</h2><p class="label">One theme, one safety colour per site</p></div>
+
+			<p>Every site in the network shares the theme, type, neutrals, chamfer and badge shape. Only three things change: the name, the equipment drawn inside the badge, and the safety colour. The colours come from the ANSI Z535.1 safety palette, so the sites read as a family. Red is kept for errors on every site.</p>
+
+			<ul class="family">
+				<li>
+					<div class="family__plate" style="background:#f5b800;color:#18212a"><b>Lift Tables</b><span>#F5B800</span></div>
+					<div class="family__body">Safety Yellow<span>Text on it: Steel Ink, 9.1:1</span><span class="status status--live">Live</span></div>
+				</li>
+				<li>
+					<div class="family__plate" style="background:#f26a1b;color:#18212a"><b>Dock Lifts</b><span>#F26A1B</span></div>
+					<div class="family__body">Safety Orange<span>Text on it: Steel Ink, 5.3:1</span><span class="status">Proposed</span></div>
+				</li>
+				<li>
+					<div class="family__plate" style="background:#1f5aa6;color:#ffffff"><b>Pallet Jacks</b><span>#1F5AA6</span></div>
+					<div class="family__body">Safety Blue<span>Text on it: white, 6.8:1</span><span class="status">Proposed</span></div>
+				</li>
+				<li>
+					<div class="family__plate" style="background:#1e7a46;color:#ffffff"><b>Forklifts</b><span>#1E7A46</span></div>
+					<div class="family__body">Safety Green<span>Text on it: white, 5.3:1</span><span class="status">Proposed</span></div>
+				</li>
+			</ul>
+			<p style="margin-top:14px;color:var(--muted);font-size:.92rem">The theme picks ink or white text for whatever safety colour a site sets, so any colour in the palette works without extra CSS.</p>
+		</section>
+
+		<!-- Files -->
+		<section id="files">
+			<div class="rule"><h2>Files and settings</h2><p class="label">Where everything lives</p></div>
+
+			<div class="table-wrap">
+				<table>
+					<thead><tr><th>Asset</th><th>Location</th></tr></thead>
+					<tbody>
+						<tr><td>Logo files</td><td><code>lift-tables-content/brand/logo.svg</code>, <code>logo-reverse.svg</code>, <code>logo-mono.svg</code>, <code>mark.svg</code></td></tr>
+						<tr><td>Logo source</td><td><code>brand/generate-logo.php</code> draws all four. Edit it and re-run it rather than editing the SVGs.</td></tr>
+						<tr><td>Category illustrations</td><td><code>images/categories/*.svg</code>, drawn by <code>generators/category-images.php</code> and assigned in <code>categories.json</code></td></tr>
+						<tr><td>This guide</td><td><code>brand/brand-guide.src.html</code>; run <code>php brand/build-guide.php</code> to rebuild <code>brand-guide.html</code> with the current logo and drawings</td></tr>
+						<tr><td>Site settings</td><td>Appearance → Customize → Directory Branding: accent colour <code>#F5B800</code>, logo, reverse logo, icon</td></tr>
+						<tr><td>Design tokens</td><td><code>equipment-directory/style.css</code>, the <code>:root</code> block</td></tr>
+						<tr><td>Fonts</td><td>Archivo and IBM Plex Mono from Google Fonts, both under the SIL Open Font License</td></tr>
+					</tbody>
+				</table>
+			</div>
+
+			<footer class="doc-foot">Lift Tables brand guide · version 1.1 · 2026-09-13</footer>
+		</section>
+	</main>
+</div>
