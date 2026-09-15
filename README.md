@@ -49,7 +49,9 @@ php generators/lange-lift.php
 php generators/bishamon.php
 ```
 
-`catalog/jet.json` is hand-maintained.
+`catalog/jet.json`, `catalog/autoquip.json`, `catalog/american-lifts.json`,
+`catalog/advance-lifts.json` and `catalog/air-technical-industries.json` are
+hand-maintained. The last four hold product lines only, with no product entries.
 
 ## Brand
 
@@ -123,11 +125,24 @@ an existing item's status.
 | JET | 1 | 5 | 5 |
 | Lange Lift | 5 | 17 | 78 |
 | Bishamon | 8 | 16 | 69 |
+| Autoquip | 16 | 0 | 0 |
+| American Lifts | 8 | 0 | 0 |
+| Advance Lifts | 14 | 0 | 0 |
+| Air Technical Industries | 14 | 0 | 0 |
 
 Brands in `brands.json` without a catalog file yet: Southworth, Presto, ECOA,
-Autoquip, American Lifts, Advance Lifts, Vestil, Lift Products, Air Technical
-Industries, Beacon, Wesco, Lexco, Premier Handling Solutions, Pentalift,
-Blue Giant, Econo Lift, Superlift.
+Vestil, Lift Products, Beacon, Wesco, Lexco, Premier Handling Solutions,
+Pentalift, Blue Giant, Econo Lift, Superlift.
+
+The Autoquip, American Lifts, Advance Lifts and Air Technical Industries
+catalogs cover lift tables, tilt tables and pallet positioners only. Dock
+lifts, VRCs, turntables without a lift, upenders, dumpers, coil cars and
+personnel work platforms are left out. Where a manufacturer sells several
+platform configurations of one design as separate families (Autoquip Series 35
+and Super Titan, and its three mechanical lifts), they are one line here.
+Autoquip lists its Single Arm and Double Arm lifts as replaced, so they are
+not included. Capacity ranges for Autoquip and American Lifts come from
+Autoquip's model API, linked in each line's sources.
 
 ## Open questions
 

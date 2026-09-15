@@ -1,0 +1,414 @@
+{
+    "brand": "autoquip",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "autoquip-series-35-scissor-lift-tables",
+            "title": "Autoquip Series 35 Scissor Lift Tables",
+            "excerpt": "Autoquip's core stationary scissor lift, rated 1,500 to 24,000 lb with 24 to 60 in. of travel, in standard, narrow, wide and double-scissor configurations.",
+            "content": "<p>Series 35 is Autoquip's most widely used scissor lift table, built for pallet handling, assembly and ergonomic work positioning. Each table ships with prewired controls and an onboard hydraulic power unit, so installation comes down to anchoring it to the floor and connecting power.</p>\n<p>Standard tables are rated from 1,500 to 15,000 lb with 24 to 60 in. of travel. The same design comes in an Extra Narrow stance for tight spaces and an Extra Wide stance for wide, bulky loads, both rated 2,500 to 15,000 lb. For heavier or larger loads, Double Long, Double Wide and Extra Wide Double Long versions put two scissor mechanisms under one platform and are rated 4,000 to 24,000 lb.</p>",
+            "line_code": "S35",
+            "capacity_range": "1,500–24,000 lbs",
+            "key_features": [
+                "24 to 60 in. of vertical travel",
+                "Standard, Extra Narrow and Extra Wide single-scissor stances",
+                "Double Long, Double Wide and Extra Wide Double Long versions up to 24,000 lb",
+                "Prewired controls and onboard hydraulic power unit",
+                "Maintenance devices to block the scissors open for service",
+                "Two-year parts warranty"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/series-35/",
+                "https://autoquip.com/products/scissor-lift-tables/series-35-extra-narrow/",
+                "https://autoquip.com/products/scissor-lift-tables/series-35-extra-wide/",
+                "https://autoquip.com/products/scissor-lift-tables/series-35-double-long/",
+                "https://autoquip.com/products/scissor-lift-tables/series-35-double-wide/",
+                "https://autoquip.com/products/scissor-lift-tables/series-35-exw-double-long/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=series-35&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-series-35-low-profile-lift-tables",
+            "title": "Autoquip Series 35 Low Profile Lift Tables",
+            "excerpt": "Series 35 scissor lifts that lower to 5 in., for roll-on loading, rated 1,000 to 4,000 lb with 24 to 48 in. of travel.",
+            "content": "<p>The Series 35 Low Profile lowers to just 5 in., so loads can be rolled on and off close to floor level rather than placed by forklift. It suits packing, assembly and positioning stations where material arrives on pallet jacks or carts.</p>\n<p>Models are rated from 1,000 to 4,000 lb with 24 to 48 in. of travel, raising the platform to between 29 and 53 in. Like the rest of the Series 35 range, each table has prewired controls and an onboard hydraulic power unit. A turntable top is available separately.</p>",
+            "line_code": "S35 LP",
+            "capacity_range": "1,000–4,000 lbs",
+            "key_features": [
+                "5 in. lowered height for roll-on loading",
+                "24 to 48 in. of vertical travel",
+                "Prewired controls and onboard hydraulic power unit",
+                "Optional turntable top",
+                "Two-year parts warranty"
+            ],
+            "categories": [
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/series-35-low-profile/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=series-35-low-profile&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-series-35-rover-mobile-lift-tables",
+            "title": "Autoquip Series 35 Rover Mobile Lift Tables",
+            "excerpt": "Battery-powered mobile Series 35 scissor lifts, rated 2,500 to 6,000 lb, for sharing between work stations.",
+            "content": "<p>The Series 35 Rover is a self-contained, battery-powered version of the Series 35 scissor lift, built to be moved between work stations rather than anchored at one. A 12V DC power unit, battery and 110V charger are all onboard, so first-time setup only involves charging the battery.</p>\n<p>Standard models have 36 or 48 in. of travel and are rated from 2,500 to 6,000 lb. Every table comes with four casters, lockable for stability, and a removable push handle. Other travel lengths from 24 to 60 in. are available to order.</p>",
+            "line_code": "S35 RM",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "Onboard 12V DC power unit, battery and 110V charger",
+                "Four casters with locks and a removable push handle",
+                "36 and 48 in. travel standard; 24 to 60 in. on request",
+                "Removable battery cover",
+                "Two-year parts warranty"
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/series-35-rover-mobile/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=series-35-rover-mobile&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-series-35-double-high-lift-tables",
+            "title": "Autoquip Series 35 Double High Lift Tables",
+            "excerpt": "Two Series 35 scissor assemblies stacked for 48 to 120 in. of travel on a small footprint, rated up to about 10,000 lb.",
+            "content": "<p>Series 35 Double High tables stack two scissor assemblies and weld them together, doubling the vertical travel of a single table without enlarging its footprint. The smaller base lets operators stand closer to the load, and the tables are used for everything from pallet stacking to raising parts to elevated work areas.</p>\n<p>Autoquip lists models with 48 to 120 in. of travel. Capacities run from about 1,400 lb on the tallest, lightest models to about 10,300 lb, and lowered heights range from 13 to 25 in. depending on travel.</p>",
+            "line_code": "S35 DH",
+            "capacity_range": "1,400–10,300 lbs",
+            "key_features": [
+                "Two stacked scissor assemblies",
+                "48 to 120 in. of vertical travel",
+                "Small footprint for the travel it provides",
+                "Prewired controls and onboard hydraulic power unit",
+                "Two-year parts warranty"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/series-35-double-high/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=series-35-double-high&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-series-35-triple-high-lift-tables",
+            "title": "Autoquip Series 35 Triple High Lift Tables",
+            "excerpt": "Three stacked Series 35 scissor assemblies for 72 to 180 in. of travel, for high-reach landings.",
+            "content": "<p>Series 35 Triple High tables stack and weld three scissor assemblies to reach high landings, mezzanines and elevated work positions from a comparatively small footprint.</p>\n<p>Travel ranges from 72 to 180 in. Autoquip rates the range from 1,500 to 6,000 lb in its descriptions, while its model list runs from 300 lb on the tallest, narrowest models to 6,600 lb. Check the rating for the specific travel and platform needed.</p>",
+            "line_code": "S35 TH",
+            "capacity_range": "300–6,600 lbs",
+            "key_features": [
+                "Three stacked scissor assemblies",
+                "72 to 180 in. of vertical travel",
+                "Prewired controls and onboard hydraulic power unit",
+                "Maintenance devices to block the scissors open for service",
+                "Two-year parts warranty"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/series-35-triple-high/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=series-35-triple-high&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-titan-scissor-lift-tables",
+            "title": "Autoquip Titan Scissor Lift Tables",
+            "excerpt": "Heavy-duty scissor lifts with a compact footprint and high edge-load ratings, rated 1,000 to 15,000 lb.",
+            "content": "<p>The Titan puts the lifting capacity of a large scissor lift into the size of a smaller one. It is built to keep platform deflection low under heavy loads and to take high edge loads, which makes it a common choice for sheet feeding in metal and wood fabrication and for coil handling.</p>\n<p>Autoquip lists more than a hundred Titan models, rated from 1,000 to 15,000 lb with travel from 13 to 96 in. Pivot points use maintenance-free bearings, and hydraulic velocity fuses stop the platform if a hose ruptures.</p>",
+            "line_code": "TTN",
+            "capacity_range": "1,000–15,000 lbs",
+            "key_features": [
+                "High edge-load ratings for sheet and coil handling",
+                "13 to 96 in. of vertical travel",
+                "Maintenance-free bearings at pivot points",
+                "Hydraulic velocity fuses",
+                "Prewired controls and onboard power unit",
+                "Two-year parts warranty"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/titan-scissor-lift-table/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=titan-scissor-lift-table&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-super-titan-scissor-lift-tables",
+            "title": "Autoquip Super Titan Scissor Lift Tables",
+            "excerpt": "Autoquip's highest-capacity scissor lifts, rated 5,000 lb for a single Super Titan up to 135,000 lb for the four-scissor Quad.",
+            "content": "<p>Super Titan is Autoquip's flagship heavy-duty scissor lift, with the highest capacities of any of its single-scissor hydraulic lifts. It is engineered to control very heavy loads with minimal platform deflection, using lifetime-lubricated bearings and direct-thrust lifting cylinders.</p>\n<p>A single Super Titan is rated from 5,000 to 52,000 lb. For heavier or oversize loads, the Double Long joins two lifts end to end and the Double Wide joins two side by side, both rated up to 85,000 lb. The Super Titan Quad joins four lifts end to end and side to side, reaching 135,000 lb. Travel ranges from 12 to 120 in.</p>",
+            "line_code": "STN",
+            "capacity_range": "5,000–135,000 lbs",
+            "key_features": [
+                "Single, Double Long, Double Wide and Quad configurations",
+                "Up to 135,000 lb on the Super Titan Quad",
+                "12 to 120 in. of vertical travel",
+                "Lifetime-lubricated bearings and direct-thrust cylinders",
+                "Hydraulic velocity fuses",
+                "Two-year parts warranty"
+            ],
+            "categories": [
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/super-titan/",
+                "https://autoquip.com/products/scissor-lift-tables/super-titan-double-long/",
+                "https://autoquip.com/products/scissor-lift-tables/super-titan-double-wide/",
+                "https://autoquip.com/products/scissor-lift-tables/super-titan-quad/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=super-titan-quad&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-q-lift-scissor-lifts",
+            "title": "Autoquip Q Lift Scissor Lifts",
+            "excerpt": "Compact high-travel scissor lifts with 49 to 74 in. of travel and small platforms, rated up to 6,500 lb.",
+            "content": "<p>The Q Lift is a compact, high-travel scissor lift for raising material and tools to high work positions where floor space is tight. Its small platforms and low lowered heights let it fit among other equipment and let workers stand close to the load.</p>\n<p>Standard models provide 49 to 74 in. of travel. Autoquip's model list runs from 700 to 6,500 lb, with lowered heights between 7 and about 14 in. Controls are prewired and the power unit is onboard.</p>",
+            "line_code": "QDL",
+            "capacity_range": "700–6,500 lbs",
+            "key_features": [
+                "49 to 74 in. of vertical travel",
+                "Small footprint and platform sizes",
+                "Maintenance-free bearings at pivot points",
+                "Hydraulic velocity fuses",
+                "Prewired controls and onboard power unit"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/q-lift-scissor-lift/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=q-lift-scissor-lift&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-double-pantograph-scissor-lifts",
+            "title": "Autoquip Double Pantograph Scissor Lifts",
+            "excerpt": "Two vertically stacked, pinned scissor sets for 36 to 144 in. of travel, rated up to 12,000 lb.",
+            "content": "<p>In a Double Pantograph lift, two sets of scissors are stacked and pinned directly together, then raised as one by common hydraulic cylinders. The result is a stable structure for high travel on a small footprint, so the lift fits among other equipment and operators can stand close to it.</p>\n<p>Autoquip's model list covers 36 to 144 in. of travel and capacities from 500 to 12,000 lb. Scissor rollers run captured in structural steel channels, pivots use spiral-wound bearings, and a remote power unit runs a low-pressure hydraulic circuit.</p>",
+            "line_code": "DPL",
+            "capacity_range": "500–12,000 lbs",
+            "key_features": [
+                "Two stacked, pinned scissor sets on common cylinders",
+                "36 to 144 in. of vertical travel",
+                "Rollers captured in structural steel channels",
+                "Spiral-wound bearings at every pivot",
+                "Remote power unit with low-pressure hydraulic circuit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/double-pantograph/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=double-pantograph&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-mechanical-scissor-lifts",
+            "title": "Autoquip Mechanical Scissor Lifts",
+            "excerpt": "Programmable scissor lifts driven by stacking chain, ball screw or spiral column actuators instead of hydraulics, rated 2,000 to 8,000 lb.",
+            "content": "<p>Autoquip's mechanical scissor lifts replace the hydraulic cylinder with a mechanical actuator that supports the load from beneath. Because the actuator's stroke matches the lift's travel one to one, the platform can be sent to programmed heights with good repeatability and holds its position indefinitely, which suits alignment and precision work.</p>\n<p>Three actuators are offered: a column of interlocked chains (Stacking Chain), a vertical ball screw, which is the quietest and has the lowest profile, lowering to 5 in., and a spiral column of interlocking rings and bands (Electro-Mechanical). Each is rated from 2,000 to 8,000 lb with 24 to 60 in. of travel, and can be driven by a variable-frequency drive and PLC.</p>",
+            "line_code": "TRK SC / VBS / EML",
+            "capacity_range": "2,000–8,000 lbs",
+            "key_features": [
+                "Stacking chain, vertical ball screw or spiral column actuators",
+                "Programmable stops with a 1:1 actuator stroke to lift travel",
+                "Holds position indefinitely with no hydraulic drift",
+                "24 to 60 in. of vertical travel",
+                "Over- and under-travel limit switches",
+                "Drive motors rated for variable-frequency drive control"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/stacking-chain-mechanical/",
+                "https://autoquip.com/products/scissor-lift-tables/vertical-ball-screw-mechanical/",
+                "https://autoquip.com/products/scissor-lift-tables/electro-mechanical-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "autoquip-xlr-pan-style-scissor-lifts",
+            "title": "Autoquip XLR Pan Style Scissor Lifts",
+            "excerpt": "Pan style scissor lifts that collapse to 1/2 in. for pallet jack loading, rated 2,000 to 4,000 lb with up to 48 in. of travel.",
+            "content": "<p>The XLR is a pan style scissor lift that collapses to 1/2 in., low enough for pallet jacks and other wheeled loads to roll on without a pit. A hinged ramp at the front doubles as a toe guard as the platform lands. Its narrow 4 in. reach over the sides lets operators work close to the pallet without bending.</p>\n<p>Models are rated at 2,000 or 4,000 lb with 36 or 48 in. of travel. The hydraulic power unit sits at the end of the base frame for easy access, and an air-powered version is also available.</p>",
+            "line_code": "XLR",
+            "capacity_range": "2,000–4,000 lbs",
+            "key_features": [
+                "Collapses to 1/2 in. for pallet jack loading without a pit",
+                "4 in. reach over the sides",
+                "Hinged ramp that also serves as a toe guard",
+                "36 or 48 in. of vertical travel",
+                "Power unit at the end of the base frame",
+                "Pneumatic actuators available"
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/xlr-hydraulic/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=xlr-hydraulic&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-abs-pneumatic-scissor-lifts",
+            "title": "Autoquip ABS Pneumatic Scissor Lifts",
+            "excerpt": "Air bag scissor lifts for short travel and oil-free areas, rated 2,000 to 6,000 lb with 5 to 15 in. of travel.",
+            "content": "<p>ABS lifts are raised by heavy industrial air bags mounted at an angle, which keeps the collapsed height low. With no hydraulic oil to leak, they suit clean rooms, and they are an economical choice for transferring, stacking and shuttling loads over short distances.</p>\n<p>Models are rated from 2,000 to 6,000 lb with 5 to 15 in. of travel. They connect to shop air with a quick-disconnect fitting, and a flow control mounted on the air bag limits descent if a hose or bag ruptures.</p>",
+            "line_code": "ABS",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "Air bag actuation with no hydraulic oil",
+                "5 to 15 in. of vertical travel",
+                "Quick-disconnect shop air connection",
+                "Flow control limits descent if a hose or bag ruptures",
+                "Captured base rollers"
+            ],
+            "categories": [
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Scissor Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/abs-pneumatic/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=abs-pneumatic&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-air-force-lift-and-tilt-tables",
+            "title": "Autoquip Air Force Lift and Tilt Tables",
+            "excerpt": "Air bag lift and tilt tables that raise containers 24 in. and tilt them 30 degrees, rated 3,000 lb.",
+            "content": "<p>The Air Force Lift and Tilt Table raises a load and tilts it toward the operator using industrial air bags instead of hydraulics, so there is no oil to leak. Operators can adjust height and tilt as a container empties, keeping parts within easy reach.</p>\n<p>The standard model is rated for 3,000 lb, with 24 in. of lift and 30 degrees of tilt. A built-in air damper reduces bounce as the platform lowers, fork pockets let it be moved between work stations, and it connects to shop air with a quick-disconnect fitting.</p>",
+            "line_code": "AFT",
+            "capacity_range": "3,000 lbs",
+            "key_features": [
+                "Air bag lifting and tilting with no hydraulic oil",
+                "24 in. of lift and 30 degrees of tilt",
+                "Built-in air damper reduces bounce",
+                "Fork pockets for moving between work stations",
+                "Quick-disconnect shop air connection"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Scissor Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/air-force-lift-and-tilt-table/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=air-force-lift-and-tilt-table&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-air-force-pneumatic-tilters",
+            "title": "Autoquip Air Force Pneumatic Tilters",
+            "excerpt": "Air-powered tilt tables that angle containers 30 degrees toward the operator, rated 3,000 lb.",
+            "content": "<p>Air Force Pneumatic Tilters tilt a container or pallet toward the operator so parts stay within reach as it is loaded or unloaded. They are driven by industrial air bags, so there is no hydraulic oil to leak.</p>\n<p>The standard model is rated for 3,000 lb and tilts 30 degrees from a 7-1/4 in. lowered height. It connects to shop air with a quick-disconnect fitting, has built-in fork pockets for moving between work stations, and uses an air damper to reduce bounce as the platform lowers.</p>",
+            "capacity_range": "3,000 lbs",
+            "key_features": [
+                "Air bag tilting with no hydraulic oil",
+                "30 degrees of tilt",
+                "7-1/4 in. lowered height",
+                "Built-in air damper reduces bounce",
+                "Fork pockets and quick-disconnect air fitting"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/tilters/air-force-pneumatic-tilters/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=air-force-pneumatic-tilters&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-series-35-tilters",
+            "title": "Autoquip Series 35 Tilters",
+            "excerpt": "Hydraulic tilt tables built on the Series 35 design, tilting 30 to 90 degrees and rated 2,000 to 8,000 lb.",
+            "content": "<p>Series 35 Tilters bring the construction of Autoquip's Series 35 lift tables to tilt tables, for presenting bins and baskets to operators, upending loads and giving access to parts. Double-acting hydraulic cylinders control the speed of the platform both as it tilts and as it returns.</p>\n<p>Models tilt 30, 45 or 90 degrees and are rated from 2,000 to 8,000 lb, with lowered heights of 8 to 9 in. Controls are prewired and the drive unit is onboard. A tilter can be combined with a Series 35 lift table for lift and tilt, though Autoquip sells the two as separate units.</p>",
+            "line_code": "STL",
+            "capacity_range": "2,000–8,000 lbs",
+            "key_features": [
+                "30, 45 and 90 degree models",
+                "Double-acting cylinders control tilt speed both ways",
+                "8 to 9 in. lowered height",
+                "Prewired controls and onboard drive unit",
+                "Hydraulic velocity fuses",
+                "Can be paired with a Series 35 lift table"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/tilters/series-35-tilters/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=series-35-tilters&per_page=-1"
+            ]
+        },
+        {
+            "slug": "autoquip-autotilt-portable-tilters",
+            "title": "Autoquip AutoTilt Portable Tilters",
+            "excerpt": "Battery-powered portable fork tilters that tip containers up to 89 degrees and roll between work stations, rated 2,000 and 4,000 lb.",
+            "content": "<p>The AutoTilt is a portable tilter for loading and unloading containers and then carrying them to the next work station. Its forks slide under a container and tilt it toward the operator, keeping small parts within reach. It runs on an onboard battery, so it needs no outlet or air supply.</p>\n<p>Two models are rated at 2,000 and 4,000 lb and tilt up to 89 degrees, stopping short of dumping the load. Tapered forks help with alignment, and straddle-style forks are available. A foot-operated floor lock, wheel locks and foot guards around the wheels keep it steady and safe while in use.</p>",
+            "line_code": "APT",
+            "capacity_range": "2,000–4,000 lbs",
+            "key_features": [
+                "Onboard 12V deep-cycle battery; no installation needed",
+                "Tilts up to 89 degrees",
+                "Tapered forks, or straddle-style forks",
+                "Phenolic wheels with needle bearings",
+                "Foot-operated floor lock, wheel locks and foot guards",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/tilters/autotilt-portable-tilter/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=autotilt-portable-tilter&per_page=-1"
+            ]
+        }
+    ]
+}

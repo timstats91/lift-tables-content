@@ -1,0 +1,353 @@
+{
+    "brand": "advance-lifts",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "advance-lifts-p-series-lift-tables",
+            "title": "Advance Lifts P Series Lift Tables",
+            "excerpt": "Advance Lifts' most popular production scissor lifts, rated 2,000 to 12,000 lb in single, double wide, double long and double extra long versions.",
+            "content": "<p>The P Series is Advance Lifts' general-purpose electric-hydraulic scissor lift table, built for a wide range of manufacturing work. Advance designs for the lowest cost per cycle and backs the structure with a 10 year or 250,000 cycle warranty, whichever comes first, alongside one year of parts and labor.</p>\n<p>Single scissor tables are rated from 2,000 to 8,000 lb with 24 to 72 in. of travel, on platforms from 24 x 36 in. up to 72 x 144 in. Double Wide tables reach 9,600 lb on wider platforms, and Double Long and Double Extra Long tables are rated 5,000 to 12,000 lb for platforms up to 366 in. long.</p>",
+            "line_code": "P / PDW / PDL",
+            "capacity_range": "2,000–12,000 lbs",
+            "key_features": [
+                "Single, Double Wide, Double Long and Double Extra Long versions",
+                "Patented platform centering devices",
+                "UL listed controllers",
+                "Machine grade cylinders and double wire braid hoses",
+                "10 year / 250,000 cycle structural warranty; 1 year parts and labor"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/scissors-lifts-tables/production-p-series-lift-tables/",
+                "https://www.advancelifts.com/scissors-lifts-tables/single-scissors-p-series-lift-tables/",
+                "https://www.advancelifts.com/scissors-lift-tables/double-wide-pdw-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-hd-series-lift-tables",
+            "title": "Advance Lifts HD Series Heavy Duty Lift Tables",
+            "excerpt": "Heavy-duty hydraulic scissor lifts for loads beyond the P Series, rated 8,000 to 24,000 lb.",
+            "content": "<p>The HD Series picks up where the P Series leaves off, for higher-capacity lifting in production and material handling. It shares the P Series' patented platform centering devices, UL listed controllers and machine grade cylinders.</p>\n<p>Single scissor tables are rated from 8,000 to 12,000 lb, Double Wide tables from 12,800 to 16,000 lb and Double Long tables from 16,000 to 24,000 lb. All versions offer 24 to 60 in. of travel, with platforms up to 132 x 114 in. on the Double Wide and up to 194 in. long on the Double Long.</p>",
+            "line_code": "HD",
+            "capacity_range": "8,000–24,000 lbs",
+            "key_features": [
+                "Single, Double Wide and Double Long versions",
+                "24 to 60 in. of vertical travel",
+                "Patented platform centering devices",
+                "UL listed controllers",
+                "10 year / 250,000 cycle structural warranty; 1 year parts and labor"
+            ],
+            "categories": [
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/scissors-lifts-tables/heavy-duty-hd-series-lift-tables/",
+                "https://www.advancelifts.com/scissors-lifts-tables/single-scissors-hd-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-super-duty-and-jumbo-lift-tables",
+            "title": "Advance Lifts Super Duty and Jumbo Lift Tables",
+            "excerpt": "Very large, high-capacity scissor lifts rated 5,000 to 60,000 lb, including jumbo lifts with up to 99 in. of travel.",
+            "content": "<p>Super Duty lifts are a step up from the HD Series for very large lifting requirements. Many are modified dock lifts, so their edge-load ratings are a higher share of capacity than on smaller tables. Jumbo lifts are examples of the very large special lifts Advance builds, and are often quoted to the exact requirement.</p>\n<p>Single Long Super Duty tables are rated 5,000 to 20,000 lb and Double Long tables 10,000 to 30,000 lb, both with 24 to 58 in. of travel. Jumbo lifts range from 6,000 to 60,000 lb with 58 to 99 in. of travel. The range carries two years of parts and labor and a 10 year structural warranty.</p>",
+            "line_code": "SD / JSL / JDL",
+            "capacity_range": "5,000–60,000 lbs",
+            "key_features": [
+                "Single Long, Double Long and Jumbo versions",
+                "High edge-load ratings",
+                "Super Duty platforms from 6 x 8 ft to 8 x 24 ft",
+                "UL listed controllers",
+                "2 years parts and labor; 10 year structural warranty"
+            ],
+            "categories": [
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/scissors-lifts-tables/super-duty-sd-jumbo-jsl-series-lift-tables/",
+                "https://www.advancelifts.com/scissors-lift-tables/super-duty-sd-series-lift-tables/",
+                "https://www.advancelifts.com/scissors-lift-tables/jumbo-jdl-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-high-cycle-lift-tables",
+            "title": "Advance Lifts High Cycle and Ultra High Cycle Lift Tables",
+            "excerpt": "Fast scissor lifts for automated machine feeding, with 1,000,000 and 3,000,000 cycle structural warranties.",
+            "content": "<p>High Cycle (HC) lifts are built for automated feeding and off-loading, where a lift racks up cycles quickly. They run at twice the standard speed of the P Series, with soft start and stop, continuously running power units and a 1,000,000 cycle structural warranty. HC models are rated 2,500 or 4,000 lb with 18 or 31 in. of travel.</p>\n<p>Ultra High Cycle (UHC) lifts are built more like machine tools: sliders replace wheels, double-acting cylinders connect directly to the platform corners, and speeds reach 40 ft per minute. Positioning can be as accurate as plus or minus 0.030 in. with the optional control system. UHC models are rated 3,000 or 6,000 lb with 32 in. of travel, and carry a 3,000,000 cycle structural warranty.</p>",
+            "line_code": "HC / UHC",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "1,000,000 cycle (HC) and 3,000,000 cycle (UHC) structural warranties",
+                "Soft start and soft stop",
+                "Continuously running power units",
+                "UHC speeds up to 40 ft per minute",
+                "Optional position control to plus or minus 0.030 in.",
+                "Custom valve block for cylinder isolation and multi-speed operation"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/scissors-lift-tables/high-ultra-high-cycle-lifts/",
+                "https://www.advancelifts.com/scissors-lift-tables/high-cycle-hc-series-lifts/",
+                "https://www.advancelifts.com/scissors-lift-tables/ultra-high-cycle-uhc-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-air-spring-lift-tables",
+            "title": "Advance Lifts AT Series Air Spring Lift Tables",
+            "excerpt": "Scissor lift tables raised by air springs from shop air, rated 1,000 to 16,000 lb with 24 in. of travel.",
+            "content": "<p>AT Series tables are raised by air springs instead of hydraulic cylinders. That makes them less expensive, leaves nothing to leak, and means they need no electrical connection, only shop air. The trade-off is some springiness when the platform is stopped between fully up and fully down. Where that matters, Advance suggests a hydraulic lift with an air motor.</p>\n<p>Single tables are rated from 1,000 to 8,000 lb, and Double Long and Double Wide tables from 2,000 to 16,000 lb. All have 24 in. of travel. The air springs carry a lifetime warranty.</p>",
+            "line_code": "AT / ATDL / ATDW",
+            "capacity_range": "1,000–16,000 lbs",
+            "key_features": [
+                "Air spring actuation from shop air; no electrical connection",
+                "Single, Double Long and Double Wide versions",
+                "24 in. of vertical travel",
+                "Patented platform centering devices",
+                "Lifetime warranty on air springs"
+            ],
+            "categories": [
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pallet Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/scissors-lifts-tables/air-spring-actuated-at-series-lift-tables/",
+                "https://www.advancelifts.com/scissors-lift-tables/air-spring-actuated-at-series/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-multi-stage-lift-tables",
+            "title": "Advance Lifts MSL and BFL Multi-Stage Lift Tables",
+            "excerpt": "Multi-stage scissor lifts for high travel, from 48 in. up to 18 ft, rated 2,000 to 12,000 lb.",
+            "content": "<p>Advance Lifts offers a large standard range of multi-stage scissor lifts, which stack scissor stages to reach far higher than a single scissor of the same platform length. MSL Series lifts are for platforms smaller than 6 x 8 ft, with 48 to 144 in. of travel and capacities from 2,000 to 12,000 lb.</p>\n<p>BFL Series lifts pair high travel with large platforms, 6 x 8 ft or bigger, to move multiple pallets or heavy loads up a floor or onto high mezzanines. They are rated 2,000 to 6,000 lb with 10 to 18 ft of travel, use tubular steel legs, and include a manual lowering valve. Custom multi-stage lifts are also built.</p>",
+            "line_code": "MSL / BFL",
+            "capacity_range": "2,000–12,000 lbs",
+            "key_features": [
+                "MSL: 48 to 144 in. of travel on platforms under 6 x 8 ft",
+                "BFL: 10 to 18 ft of travel on platforms 6 x 8 ft or larger",
+                "Patented platform centering devices",
+                "UL listed controllers",
+                "Optional electrically interlocked folding gates on BFL lifts"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/scissors-lifts-tables/multi-stage-msl-scissors-lifts-tables/",
+                "https://www.advancelifts.com/scissors-lift-tables/multi-stage-msl-series-lift-tables/",
+                "https://www.advancelifts.com/scissors-lift-tables/big-friggin-bfl-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-pallet-pro-palletizers",
+            "title": "Advance Lifts Pallet Pro Palletizers",
+            "excerpt": "Rotating pallet positioners in spring, air and electric-hydraulic versions, rated 2,500 to 4,500 lb.",
+            "content": "<p>Pallet Pro palletizers keep the top layer of a pallet at a comfortable height while it is loaded or unloaded, and each has a 43 in. finger-protected rotating turntable so the operator can bring any side of the load within reach. Fork truck pick-up points under the platform make them easy to move.</p>\n<p>The mechanical SL-S rises on springs as weight comes off and needs no power or controls, and carries a lifetime warranty. The pneumatic SL-P works the same way on an air spring, with the operator setting the air pressure to suit the load. Both are rated 4,500 lb. For exact vertical positioning, the electric-hydraulic PL-2524 and PL-4024 are rated 2,500 and 4,000 lb, with 24 in. of travel, 110V plug-in power and a foot switch.</p>",
+            "line_code": "SL-S / SL-P / PL",
+            "capacity_range": "2,500–4,500 lbs",
+            "key_features": [
+                "43 in. finger-protected rotating turntable",
+                "Spring (SL-S), air spring (SL-P) and electric-hydraulic (PL) versions",
+                "SL-S and SL-P self-level with no controls",
+                "PL models plug into 110V and use a foot switch",
+                "Built-in fork truck pick-up points",
+                "Lifetime warranty on SL-S; 10 year structural warranty on SL-P and PL"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/palletizer-self-leveling-lifts/",
+                "https://www.advancelifts.com/palletizer/model-sl-s-mechanical-self-leveling-palletizer/",
+                "https://www.advancelifts.com/palletizer-self-leveling-lifts/model-sl-p-pneumatic-self-leveling-palletizer/",
+                "https://www.advancelifts.com/palletizer-self-leveling-lifts/model-pl-2524-pl-4024-series-electrichydraulic-palletizer/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-pt-series-lift-and-tilt-tables",
+            "title": "Advance Lifts PT Series Lift and Tilt Tables",
+            "excerpt": "Hydraulic tables that lift and tilt independently, rated 2,000 to 5,500 lb with 24 to 48 in. of travel and up to 60 degrees of tilt.",
+            "content": "<p>PT Series tables combine a scissor lift and a tilter in one optimized unit, for work where lifting and tilting need to be controlled separately. A single internally mounted power unit drives both functions.</p>\n<p>Models are rated from 2,000 to 5,500 lb, with 24, 36 or 48 in. of lift and 30, 45 or 60 degrees of tilt. Lowered heights are about 14 in., and platforms range from 30 x 36 in. to 48 x 60 in. The tables use Advance's patented platform centering devices and UL listed controllers.</p>",
+            "line_code": "PT",
+            "capacity_range": "2,000–5,500 lbs",
+            "key_features": [
+                "Independent lift and tilt",
+                "24, 36 or 48 in. of lift",
+                "30, 45 or 60 degrees of tilt",
+                "Single internally mounted power unit",
+                "Patented platform centering devices",
+                "UL listed controllers"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/tilt-tables-upenders/pt-series-hydraulic-lifts-tilt-tables-2000-5500-24-48-travel-30-45-60-degree-of-tilt/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-att-series-air-lift-and-tilt-tables",
+            "title": "Advance Lifts ATT Series Air Lift and Tilt Tables",
+            "excerpt": "Air-operated lift and tilt tables with 24 in. of lift and 35 degrees of tilt, rated 1,500 to 6,000 lb.",
+            "content": "<p>ATT Series tables lift and tilt on shop air alone, with no electrical connection, and are built to keep weight down and value up. Two shock absorbers smooth the tilting motion.</p>\n<p>Models are rated from 1,500 to 6,000 lb, with 24 in. of lift and 35 degrees of tilt, from lowered heights of 15 to about 17 in. A pressure safety relief and a safety orifice limit lowering speed if the air supply line ruptures.</p>",
+            "line_code": "ATT",
+            "capacity_range": "1,500–6,000 lbs",
+            "key_features": [
+                "Runs on shop air; no electricity needed",
+                "24 in. of lift and 35 degrees of tilt",
+                "Two shock absorbers smooth tilting",
+                "Patented platform centering devices",
+                "Safety orifice controls descent if the supply line ruptures"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Scissor Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/tilt-tables-upenders/att-series-air-lift-tilt-tables-1500-6000-24-travel-35-degree-of-tilt/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-tt-series-electric-tilt-tables",
+            "title": "Advance Lifts TT Series Electric Tilt Tables",
+            "excerpt": "Electric-hydraulic tilt tables that tip containers 30, 45 or 60 degrees toward the operator, rated 2,000 to 6,000 lb.",
+            "content": "<p>TT Series tilters tip containers toward workers at a work station, cutting down the bending and stretching that lead to fatigue and back injuries.</p>\n<p>Models are rated at 2,000, 4,000 or 6,000 lb and tilt 30, 45 or 60 degrees, all from an 8 in. lowered height. 30 and 45 degree tables use one cylinder on platforms up to 48 x 48 in.; 60 degree tables use two cylinders on platforms up to 60 x 60 in. Tilters of 45 and 60 degrees use double-acting machine grade cylinders.</p>",
+            "line_code": "TT",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "30, 45 and 60 degree models",
+                "8 in. lowered height",
+                "Double-acting cylinders on 45 and 60 degree models",
+                "UL listed controllers",
+                "Double wire braid hoses and mild steel reservoirs"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/tilt-tables-upenders/electric-tilters-tt/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-ati-series-air-tilt-tables",
+            "title": "Advance Lifts ATI Series Air Tilt Tables",
+            "excerpt": "Air spring tilt tables that angle toward the operator as a bin empties, rated 1,000 to 6,000 lb.",
+            "content": "<p>ATI Series tilters run on shop air at a minimum of 60 psi and need no electrical connection. Because they tilt on air springs, the tilt angle can increase as the load gets lighter, automatically turning the bin toward the operator as it is unloaded.</p>\n<p>Models are rated from 1,000 to 6,000 lb and tilt 35 degrees from a 7-1/4 in. lowered height, on platforms up to 72 x 48 in. Standard controls are hand valves on pipe stanchions, with foot controls optional. Motion-dampening shock absorbers are fitted, and the air springs carry a lifetime warranty.</p>",
+            "line_code": "ATI",
+            "capacity_range": "1,000–6,000 lbs",
+            "key_features": [
+                "Shop air at 60 psi minimum; no electricity needed",
+                "Tilt angle increases as the load lightens",
+                "35 degrees of tilt from a 7-1/4 in. lowered height",
+                "Motion-dampening shock absorbers and safety maintenance locks",
+                "Lifetime warranty on air springs"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/tilt-tables-upenders/air-operted-tilters-ati/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-bin-tilters",
+            "title": "Advance Lifts Bin Tilters",
+            "excerpt": "Hydraulic tilters that tip pallets, carts and bins 87 degrees, in portable battery and stationary pan models rated 2,000 and 4,000 lb.",
+            "content": "<p>Advance Lifts bin tilters reduce reaching and bending into parts containers, with models suited to palletized loads, carts and stacker bins. All tilt 87 degrees.</p>\n<p>The portable BT (standard forks) and BTS (straddle) models run on a 12V DC deep-cycle battery with a built-in charger, and have step-down floor locks and ankle guards around the casters. The stationary BTP pan tilter has a 50 x 50 in. pan and a 1 HP 110V AC motor. Each model comes in 2,000 and 4,000 lb capacities.</p>",
+            "line_code": "BT / BTS / BTP",
+            "capacity_range": "2,000–4,000 lbs",
+            "key_features": [
+                "87 degrees of tilt",
+                "Portable BT and BTS models with 12V battery and built-in charger",
+                "Stationary BTP pan tilter with 110V motor",
+                "Step-down floor locks and caster ankle guards on portable models",
+                "Optional backrest extension, warning light and audible alarm"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/tilt-tables-upenders/bin-tilters-bt/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-pm-pp-series-lift-and-turn-tables",
+            "title": "Advance Lifts PM and PP Series Lift and Turn Tables",
+            "excerpt": "Hydraulic scissor lifts with manual or powered turntables, rated 1,800 to 10,000 lb with 24 to 48 in. of travel.",
+            "content": "<p>These lift and turn tables combine a scissor lift and a turntable in one optimized unit, for work where lifting and rotating need to be controlled separately. A single internally mounted power unit drives the lift.</p>\n<p>PM Series tables have a manual turntable and are rated 2,000 to 5,500 lb with 24, 36 or 48 in. of travel. PP Series tables have a powered turntable and are rated 1,800 to 5,300 lb with 36 or 48 in. of travel. Heavy-duty HDEWP powered-turn models are rated 6,000 to 10,000 lb with 36 in. of travel.</p>",
+            "line_code": "PM / PP",
+            "capacity_range": "1,800–10,000 lbs",
+            "key_features": [
+                "Manual (PM) or powered (PP) turntable",
+                "24 to 48 in. of vertical travel",
+                "Single internally mounted power unit",
+                "Patented platform centering devices",
+                "UL listed controllers"
+            ],
+            "categories": [
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/turn-tables/lift-turn-pm-pp-series/"
+            ]
+        },
+        {
+            "slug": "advance-lifts-atr-series-air-lift-and-turn-tables",
+            "title": "Advance Lifts ATR Series Air Lift and Turn Tables",
+            "excerpt": "Air-operated scissor lifts with a 360 degree turntable, rated 1,500 to 6,000 lb with 24 in. of travel.",
+            "content": "<p>ATR Series tables lift and rotate a load on shop air alone, with no electrical connection, and are built to keep weight down and value up. The turntable rotates a full 360 degrees.</p>\n<p>Models are rated from 1,500 to 6,000 lb with 24 in. of travel, from lowered heights of 10-3/4 to 13 in. A pressure safety relief and a safety orifice limit lowering speed if the air supply line ruptures, and highly modified or custom versions are available.</p>",
+            "line_code": "ATR",
+            "capacity_range": "1,500–6,000 lbs",
+            "key_features": [
+                "Runs on shop air; no electricity needed",
+                "360 degree turntable",
+                "24 in. of vertical travel",
+                "Patented platform centering devices",
+                "Safety orifice controls descent if the supply line ruptures"
+            ],
+            "categories": [
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Scissor Lift Tables"
+            ],
+            "sources": [
+                "https://www.advancelifts.com/turn-tables/air-operated-lift-turn-atr-series/"
+            ]
+        }
+    ]
+}

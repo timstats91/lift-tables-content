@@ -1,0 +1,217 @@
+{
+    "brand": "american-lifts",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "american-lifts-torklift-scissor-lift-tables",
+            "title": "American Lifts TorkLift Scissor Lift Tables",
+            "excerpt": "Premium heavy-duty scissor lift tables rated 1,500 to 30,000 lb with 24 to 72 in. of travel.",
+            "content": "<p>TorkLift is the premium scissor lift table in the American Lifts range, now built by Autoquip. Every table comes with captured rollers, a two-piece self-aligning cylinder, one-piece axle pins and high-impact spiral-wound bearings, all aimed at a rigid lift with a long service life.</p>\n<p>Autoquip's model list covers 24 to 72 in. of travel and capacities from 1,500 to 30,000 lb. Standard models can be bought as listed, and the range is also widely customized for specific applications.</p>",
+            "line_code": "TRK T1",
+            "capacity_range": "1,500–30,000 lbs",
+            "key_features": [
+                "Scissor rollers captured in structural steel channels",
+                "Two-piece self-aligning cylinder rods",
+                "One-piece removable center axle pin",
+                "Spiral-wound bearings at every pivot",
+                "24 to 72 in. of vertical travel",
+                "Low-pressure hydraulic circuit with velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/american-lifts/",
+                "https://autoquip.com/products/scissor-lift-tables/torklift/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=torklift&per_page=-1"
+            ]
+        },
+        {
+            "slug": "american-lifts-torklift-t2-double-pantograph-lifts",
+            "title": "American Lifts TorkLift T2 Double Pantograph Lifts",
+            "excerpt": "Two stacked, pinned scissor sets for 36 to 144 in. of travel on a small footprint, rated 2,000 to 10,000 lb.",
+            "content": "<p>The TorkLift T2 stacks two sets of scissors, pins them directly together and raises them as one with common hydraulic cylinders. This gives a stable, high-travel work station lift that takes up little floor space, with the same premium components as the single-scissor TorkLift.</p>\n<p>Travel ranges from 36 to 144 in. and capacities from 2,000 to 10,000 lb. Controls come prewired to a remote power unit, so installation involves anchoring the lift and connecting power.</p>",
+            "line_code": "TRK T2",
+            "capacity_range": "2,000–10,000 lbs",
+            "key_features": [
+                "Two stacked, pinned scissor sets on common cylinders",
+                "36 to 144 in. of vertical travel",
+                "Small footprint for the travel it provides",
+                "Captured rollers and spiral-wound bearings",
+                "Prewired controls with remote power unit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/torklift-t2-double-pantograph/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=torklift-t2-double-pantograph&per_page=-1"
+            ]
+        },
+        {
+            "slug": "american-lifts-torklift-t3-triple-pantograph-lifts",
+            "title": "American Lifts TorkLift T3 Triple Pantograph Lifts",
+            "excerpt": "Three stacked scissor sets for high-travel lifting in minimal floor space, rated 2,000 to 10,000 lb.",
+            "content": "<p>The TorkLift T3 pins three vertically stacked scissor sets together and raises them with common hydraulic cylinders, reaching higher than the T2 from a similarly compact footprint.</p>\n<p>Autoquip describes the T3 with 72 to 144 in. of travel and capacities of 2,000 to 6,000 lb, while its current model list extends from 48 to 300 in. of travel and up to 10,000 lb. Confirm the rating for the travel and platform you need.</p>",
+            "line_code": "TRK T3",
+            "capacity_range": "2,000–10,000 lbs",
+            "key_features": [
+                "Three stacked, pinned scissor sets",
+                "High travel from a compact footprint",
+                "Captured rollers and spiral-wound bearings",
+                "Two-piece self-aligning cylinder rods",
+                "Prewired controls with remote power unit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/torklift-t3-triple-pantograph/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=torklift-t3-triple-pantograph&per_page=-1"
+            ]
+        },
+        {
+            "slug": "american-lifts-torklift-t4-quad-pantograph-lifts",
+            "title": "American Lifts TorkLift T4 Quad Pantograph Lifts",
+            "excerpt": "Four stacked scissor sets with 132 to 546 in. of travel, rated 2,000 to 6,000 lb, for indoor or outdoor use.",
+            "content": "<p>The TorkLift T4 stacks four scissor sets, giving the most travel in the TorkLift range. It is used to move goods to upper storage levels and other high landings, and is suitable for both indoor and outdoor installations.</p>\n<p>Travel ranges from 132 to 546 in. and capacities from 2,000 to 6,000 lb. Like the other TorkLift pantograph lifts, it uses captured rollers, spiral-wound bearings and a remote power unit.</p>",
+            "line_code": "TRK T4",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "Four stacked, pinned scissor sets",
+                "132 to 546 in. of vertical travel",
+                "Indoor and outdoor use",
+                "Captured rollers and spiral-wound bearings",
+                "Prewired controls with remote power unit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/torklift-t4-quad-pantograph/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=torklift-t4-quad-pantograph&per_page=-1"
+            ]
+        },
+        {
+            "slug": "american-lifts-compact-lift-tables",
+            "title": "American Lifts Compact Lift Tables",
+            "excerpt": "Small-footprint scissor lift tables with low lowered heights, rated 500 to 12,000 lb with 25 to 84 in. of travel.",
+            "content": "<p>The Compact Lift packs high load capacity into a small platform and low lowered height, for smaller lifting jobs and work areas where floor space is limited. It shares the TorkLift's premium construction, including captured rollers and a removable one-piece center axle pin.</p>\n<p>Autoquip's model list covers capacities from 500 to 12,000 lb and 25 to 84 in. of travel, with lowered heights from 5 to 12 in. Controls are prewired and the power unit is onboard, and the design is often customized for specialized applications.</p>",
+            "line_code": "CPT",
+            "capacity_range": "500–12,000 lbs",
+            "key_features": [
+                "Small platforms and 5 to 12 in. lowered heights",
+                "25 to 84 in. of vertical travel",
+                "Captured rollers and spiral-wound bearings",
+                "One-piece removable center axle pin",
+                "Prewired controls and onboard power unit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/american-lifts/",
+                "https://autoquip.com/products/scissor-lift-tables/compact-lift/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=compact-lift&per_page=-1"
+            ]
+        },
+        {
+            "slug": "american-lifts-tiltlift-lift-and-tilt-tables",
+            "title": "American Lifts TiltLift Lift and Tilt Tables",
+            "excerpt": "Combined lift and 45 degree tilt tables with a non-intrusive design, rated 2,000 to 8,000 lb.",
+            "content": "<p>TiltLift combines lifting and tilting in one unit, for loading and unloading containers, assembly and work positioning. Its non-intrusive design keeps the load centered over the base frame as it tilts, so the table needs little floor space and operators can stand close to the work.</p>\n<p>Models are rated from 2,000 to 8,000 lb, with about 22 to 25 in. of lift and 45 degrees of tilt. The low collapsed height adds to its working range, and controls come prewired with an onboard power unit.</p>",
+            "line_code": "TLA",
+            "capacity_range": "2,000–8,000 lbs",
+            "key_features": [
+                "Lift and 45 degree tilt in one unit",
+                "Non-intrusive design keeps the load over the base",
+                "Low collapsed height",
+                "Captured rollers and spiral-wound bearings",
+                "Prewired controls and onboard power unit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/american-lifts/",
+                "https://autoquip.com/products/tilters/tiltlift/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=tiltlift&per_page=-1"
+            ]
+        },
+        {
+            "slug": "american-lifts-90-degree-tilters",
+            "title": "American Lifts 90 Degree Tilters",
+            "excerpt": "Hydraulic tilters that rotate containers a full 90 degrees and back, rated 2,000 to 6,000 lb.",
+            "content": "<p>90 Degree Tilters use double-acting hydraulic cylinders to both tilt a load or container through 90 degrees and return it, at a controlled speed. They keep the contents of bins and baskets within reach, reducing reaching and bending at work stations.</p>\n<p>Models are rated from 2,000 to 6,000 lb, with lowered heights from 7 to 12 in. The hydraulic power unit sits inside the base frame or can be mounted remotely, and controls come prewired.</p>",
+            "line_code": "TLT",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "90 degrees of powered tilt and return",
+                "Double-acting hydraulic cylinders",
+                "7 to 12 in. lowered heights",
+                "Internal or remote hydraulic power unit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/american-lifts/",
+                "https://autoquip.com/products/tilters/90-degree-tilter/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=90-degree-tilter&per_page=-1"
+            ]
+        },
+        {
+            "slug": "american-lifts-tork-non-intrusive-tilters",
+            "title": "American Lifts Tork Non-Intrusive Tilters",
+            "excerpt": "45 degree tilters that stay within their own footprint, rated 2,200 to 8,000 lb.",
+            "content": "<p>Tork tilters are designed so the platform stays within its own footprint as it tilts, keeping the load centered over the base frame and freeing floor space around the operator. They share the TorkLift's premium components, including captured rollers, a two-piece self-aligning cylinder and spiral-wound bearings.</p>\n<p>Models tilt 45 degrees and are rated from 2,200 to 8,000 lb, with lowered heights under 10 in. A spring-return system lowers an empty platform faster, and controls come prewired with an onboard power unit.</p>",
+            "line_code": "TNI",
+            "capacity_range": "2,200–8,000 lbs",
+            "key_features": [
+                "Non-intrusive 45 degree tilt within its own footprint",
+                "Automatic spring return for faster lowering when empty",
+                "Captured rollers and spiral-wound bearings",
+                "Two-piece self-aligning cylinder rods",
+                "Prewired controls and onboard power unit",
+                "Hydraulic velocity fuses"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/american-lifts/",
+                "https://autoquip.com/products/tilters/tork-non-intrusive-tilter/",
+                "https://autoquip.com/wp-json/lifts/v1/filter?productLine=tork-non-intrusive-tilter&per_page=-1"
+            ]
+        }
+    ]
+}

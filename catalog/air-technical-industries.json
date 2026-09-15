@@ -1,0 +1,323 @@
+{
+    "brand": "air-technical-industries",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "ati-zero-low-lift-tables",
+            "title": "Air Technical Industries Zero-Low Lift Tables",
+            "excerpt": "Hydraulic scissor lift tables that lower to floor level for roll-on loading without a pit, rated 250 to 50,000 lb.",
+            "content": "<p>ATI's Zero-Low Lift Tables lower their platform all the way to the floor, so pallet jacks, carts and other wheeled equipment can roll straight on without a pit or ramp. Once loaded, the table raises the work to a comfortable height for assembly, packaging, staging or pallet handling.</p>\n<p>Capacities run from 250 to 50,000 lb, with lift heights up to 96 in. and a wide range of platform sizes. Stationary and mobile models are available, and powered controls can be added for one-touch operation or integration with conveyors and production equipment.</p>",
+            "capacity_range": "250–50,000 lbs",
+            "key_features": [
+                "Lowers to floor level for roll-on, roll-off loading",
+                "No pit or ramp required",
+                "Lift heights up to 96 in.",
+                "Stationary and mobile models",
+                "Optional powered controls and automation",
+                "Custom platform sizes available"
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/zero-low-scissors-lift-tables/",
+                "https://airtechnical.com/shop/lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-low-profile-zero-low-lift-tables",
+            "title": "Air Technical Industries Low-Profile Zero-Low Lift Tables",
+            "excerpt": "Floor-level lift tables with lower fenders for pallet truck loading, rated 1,000 and 2,500 lb with lift heights up to 48 in.",
+            "content": "<p>The Low-Profile Zero-Low is a version of ATI's floor-level lift table with lower, narrower fenders. A pallet truck can set the load across the fenders, and the pallet sits closer to the operator, which improves reach and can remove the need for a forklift at the station.</p>\n<p>Tables are rated at 1,000 or 2,500 lb, with lift heights up to 48 in. and a choice of platform sizes. They can be powered by 110V single-phase or 230/460V three-phase electric motors, or by air, with push-button or foot-pedal controls.</p>",
+            "capacity_range": "1,000–2,500 lbs",
+            "key_features": [
+                "Lower fenders bring the pallet closer to the operator",
+                "Designed for pallet truck loading",
+                "Lift heights up to 48 in.",
+                "110V, 230/460V three-phase or air power",
+                "Push-button or foot-pedal controls"
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/low-profile-zero-low-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-zero-low-lift-and-tilt-tables",
+            "title": "Air Technical Industries Zero-Low Lift and Tilt Tables",
+            "excerpt": "Floor-level tables that lift a load up to 46 in. and tilt it 45 degrees, rated 250 to 6,000 lb.",
+            "content": "<p>The Zero-Low Lift and Tilt Table takes a load from floor level, lifts it to working height and then tilts it toward the operator, so the contents of a container stay within easy reach. It is aimed at assembly, packaging and other ergonomic work stations where operators would otherwise bend and stretch into bins.</p>\n<p>Capacities range from 250 to 6,000 lb, with up to 46 in. of lift and 45 degrees of tilt. Tilt up to 90 degrees is available at reduced capacity.</p>",
+            "capacity_range": "250–6,000 lbs",
+            "key_features": [
+                "Loads at floor level, then lifts and tilts",
+                "Up to 46 in. of lift",
+                "45 degrees of tilt; up to 90 degrees at reduced capacity",
+                "Reduces bending, reaching and stretching"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Scissor Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/zero-low-lift-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "ati-zero-low-3-point-entry-lift-tables",
+            "title": "Air Technical Industries Zero-Low 3-Point Entry Lift Tables",
+            "excerpt": "Floor-level lift tables that load from three sides, rated 1,000 and 2,500 lb with raised heights up to 48 in.",
+            "content": "<p>ATI's 3-Point Entry Zero-Low table can be loaded from three sides and then raised close to the operator. The platform is lifted by double roller chains and travels on adjustable rollers, which keeps it level without rubbing or binding.</p>\n<p>Tables are rated at 1,000 or 2,500 lb and raise to 48 in., with modifications available for more travel. Decks come in 30 x 30, 36 x 36, 42 x 42 and 48 x 48 in. sizes. Power can be a manual hydraulic hand pump or an electric motor at 110V or 220/440V three-phase, with push-button or foot-pedal controls.</p>",
+            "capacity_range": "1,000–2,500 lbs",
+            "key_features": [
+                "Loads from three sides",
+                "Raised heights up to 48 in.",
+                "Double roller lifting chains",
+                "Adjustable rollers keep the platform level",
+                "30, 36, 42 and 48 in. square decks",
+                "Manual hand pump or electric power"
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/zero-low-3-point-entry-lift-tables-2/"
+            ]
+        },
+        {
+            "slug": "ati-zero-low-crate-positioners",
+            "title": "Air Technical Industries Zero-Low Crate Positioners",
+            "excerpt": "Floor-level positioners that tilt crates up to 60 degrees and raise them up to 36 in., rated 250 to 4,000 lb.",
+            "content": "<p>Zero-Low Crate Positioners lower to floor level for loading, then tilt a crate or container up to 60 degrees so its contents come within reach. The tilting motion also raises the load up to 36 in., which makes the positioner an economical alternative to a scissor lift table for this kind of work.</p>\n<p>Capacities range from 250 to 4,000 lb. The retaining plate adjusts to different heights, and units must be anchored to the floor before use.</p>",
+            "capacity_range": "250–4,000 lbs",
+            "key_features": [
+                "Lowers to floor level for loading",
+                "Tilts up to 60 degrees",
+                "Raises loads up to 36 in. without a scissor mechanism",
+                "Adjustable-height retaining plate",
+                "Floor-anchored"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/zero-low-crate-positioners/"
+            ]
+        },
+        {
+            "slug": "ati-hydraulic-lift-tables",
+            "title": "Air Technical Industries Hydraulic Lift Tables",
+            "excerpt": "Industrial hydraulic scissor lift tables rated 500 to 20,000 lb as standard, with custom models up to 50,000 lb.",
+            "content": "<p>ATI's hydraulic lift tables are general-purpose scissor lifts for lifting, positioning, feeding and aligning work in manufacturing, assembly and warehouse operations. Standard models are rated from 500 to 20,000 lb with lift heights up to 70 in., and custom-engineered tables go up to 50,000 lb.</p>\n<p>Options include wheels for moving tables around a facility, self-propelled walk-behind and track-guided drives, and pit-mounted dock lift configurations. Custom models up to 20,000 lb can also be built with a mechanical screw drive in place of hydraulics for precise, repeatable positioning.</p>",
+            "capacity_range": "500–20,000 lbs",
+            "key_features": [
+                "Standard models from 500 to 20,000 lb; custom up to 50,000 lb",
+                "Lift heights up to 70 in.",
+                "Optional wheels, walk-behind drive or track-guided drive",
+                "Pit-mounted dock lift configuration available",
+                "Mechanical screw drive option on custom models"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/hydraulic-lift-table/"
+            ]
+        },
+        {
+            "slug": "ati-vertical-column-lift-tables",
+            "title": "Air Technical Industries Vertical Column Lift Tables",
+            "excerpt": "Screw-driven mast lifts with a cantilevered platform open on three sides, rated 50 to 2,500 lb.",
+            "content": "<p>The Vertical Column Lift Table raises a cantilevered platform on a slender vertical mast, driven by a screw actuator instead of hydraulics. The platform is open on three sides for loading, the mast keeps the footprint small, and the oil-free design suits clean rooms, food processing, labs and data centers.</p>\n<p>Standard models are rated from 50 to 2,500 lb, with platforms from 12 x 12 to 48 x 48 in. and travel from as low as 1/4 in. up to about 36 in. Power can be 120V or 230/460V electric, battery or air. Controls range from pendants, foot pedals and wireless remotes to PLC integration with encoder, stepper or servo feedback. Tables come in carbon steel, stainless steel or aluminum, and a wheel package turns one into a mobile stacker.</p>",
+            "capacity_range": "50–2,500 lbs",
+            "key_features": [
+                "Screw actuator with no hydraulic fluid",
+                "Cantilevered platform open on three sides",
+                "Travel from 1/4 in. off the floor to about 36 in.",
+                "Electric, battery or air power",
+                "PLC integration with encoder, stepper or servo feedback",
+                "Carbon steel, stainless steel or aluminum construction"
+            ],
+            "categories": [
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/vertical-column-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-mini-scissor-lift-tables",
+            "title": "Air Technical Industries Mini Scissor Lift Tables",
+            "excerpt": "Compact electro-mechanical scissor lifts for labs and light assembly, rated up to 250 lb with platform heights up to 70 in.",
+            "content": "<p>Mini Scissor Lift Tables are compact lifts for laboratories, electronics assembly, packaging and other light-duty work where a full-size lift table would be too big. They lift with an electro-mechanical ball screw, so there is no hydraulic drift or fluid to leak, and they are operated with a rocker switch pendant.</p>\n<p>Capacities run up to 250 lb, with platform heights up to 70 in. Double-scissor versions add travel in the same footprint. Options include casters, a low-profile turntable, a stainless steel platform or full stainless construction for clean rooms, a manual acme screw drive, and hydraulic operation for higher duty cycles.</p>",
+            "capacity_range": "Up to 250 lbs",
+            "key_features": [
+                "Electro-mechanical ball screw drive with no hydraulic drift",
+                "Platform heights up to 70 in.",
+                "Double-scissor versions for more travel",
+                "Stainless steel platform or full stainless construction",
+                "Optional casters and low-profile turntable",
+                "Manual acme screw and hydraulic versions available"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/mini-scissors-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-tandem-scissor-lift-tables",
+            "title": "Air Technical Industries Tandem Scissor Lift Tables",
+            "excerpt": "Long-platform scissor lifts for sheets, bar stock and oversize loads, up to 20 ft long and rated 2,000 to 50,000 lb.",
+            "content": "<p>Tandem Scissor Lift Tables place scissor mechanisms under a long platform to lift and position long or large loads, such as sheets of plastic or aluminum, bar stock and tubing, with the weight spread evenly.</p>\n<p>Platforms run up to 20 ft long and lift heights up to 8 ft, with capacities from 2,000 to 50,000 lb. A heavy-duty pressure relief valve protects against overloading, and ATI also builds self-propelled versions.</p>",
+            "capacity_range": "2,000–50,000 lbs",
+            "key_features": [
+                "Platforms up to 20 ft long",
+                "Lift heights up to 8 ft",
+                "Capacities up to 50,000 lb",
+                "Heavy-duty pressure relief valve prevents overloading",
+                "Self-propelled versions available"
+            ],
+            "categories": [
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/tandem-scissors-lift-table/"
+            ]
+        },
+        {
+            "slug": "ati-double-scissor-lift-tables",
+            "title": "Air Technical Industries Double Scissor Lift Tables",
+            "excerpt": "Stacked-scissor lift tables with raised heights up to 108 in., rated 500 to 10,000 lb.",
+            "content": "<p>ATI's Double Scissor Lift Tables stack two scissor mechanisms to reach higher without taking up more floor space. They are used for installation, maintenance and assembly work at elevated heights, and are built from welded steel, with reinforcing ribs on larger models.</p>\n<p>Capacities range from 500 to 10,000 lb, with raised heights up to 108 in. on standard models. Tables can be operated by a manual hydraulic pump or powered, and a mechanical screw version is available up to 6,000 lb. A double-acting cylinder package is also offered.</p>",
+            "capacity_range": "500–10,000 lbs",
+            "key_features": [
+                "Two stacked scissor mechanisms",
+                "Raised heights up to 108 in.",
+                "Manual hydraulic pump or powered operation",
+                "Mechanical screw version up to 6,000 lb",
+                "Double-acting cylinder package available"
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/double-scissors-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-lift-and-tilt-tables",
+            "title": "Air Technical Industries Lift-and-Tilt Tables",
+            "excerpt": "Hydraulic tables that lift up to 60 in. and tilt 45 degrees, rated up to 10,000 lb.",
+            "content": "<p>ATI's Lift-and-Tilt Tables raise a load to working height and tilt it toward the operator, making loading, unloading and assembly easier on the back. The hydraulic power source and controls are mounted remotely, and an 8 in. retaining plate holds the load as it tilts.</p>\n<p>Tables are rated up to 10,000 lb, with raised heights up to 60 in. and 45 degrees of tilt. A 90 degree tilt option turns the table into a coil or crate upender, with capacity reduced by half beyond 45 degrees and by 75 percent at 90 degrees. Tables must be fastened to the floor, and outriggers are available.</p>",
+            "capacity_range": "1,000–10,000 lbs",
+            "key_features": [
+                "Raised heights up to 60 in.",
+                "45 degrees of tilt; 90 degree option at reduced capacity",
+                "Remote hydraulic power source and controls",
+                "8 in. retaining plate; larger plates available",
+                "Optional double-acting power system for controlled lowering"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/lift-and-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "ati-crate-positioners",
+            "title": "Air Technical Industries Crate Positioners",
+            "excerpt": "Floor-mounted positioners that tilt boxes, crates and coils up to 90 degrees, rated 2,000 to 10,000 lb.",
+            "content": "<p>ATI Crate Positioners tilt boxes, crates and other containers lengthwise, up to 90 degrees, to reposition them from side to end or side to side. They are commonly used within conveyor systems where a lift is not required, and V-shaped or round tops are available for upending coils and rolls.</p>\n<p>Standard units are rated from 2,000 to 10,000 lb, with custom units up to 50,000 lb. The standard retaining plate is 24 in. high, with larger plates available. Positioners must be bolted to the floor, and outriggers, wheels and stand mounting are options.</p>",
+            "capacity_range": "2,000–10,000 lbs",
+            "key_features": [
+                "Tilts lengthwise up to 90 degrees",
+                "Custom units up to 50,000 lb",
+                "V-shaped or round tops for coils and rolls",
+                "24 in. retaining plate; larger plates available",
+                "Optional outriggers, wheels and stand mounting"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/crate-positioner-upender-tilt-table/"
+            ]
+        },
+        {
+            "slug": "ati-mechanical-lift-tables",
+            "title": "Air Technical Industries Mechanical Lift Tables",
+            "excerpt": "Lightweight crank or electric work positioning tables rated 250 to 1,000 lb with raised heights up to 84 in.",
+            "content": "<p>ATI's Mechanical Lift Tables are lightweight, economical work positioners for assembly work, load positioning and moving material from a low position to a high one. The platform is raised by an acme screw or a cable winch, which runs quietly and holds the load locked in position.</p>\n<p>Tables are rated from 250 to 1,000 lb, with raised heights up to 84 in. They are operated by hand crank as standard, with 110V single-phase electric power available. Decks come in butcher block, which is gentle on sensitive parts, or metal for rougher loads, and wheels are optional.</p>",
+            "capacity_range": "250–1,000 lbs",
+            "key_features": [
+                "Acme screw or cable winch lift that holds position",
+                "Raised heights up to 84 in.",
+                "Hand crank or 110V electric operation",
+                "Butcher block or metal deck",
+                "Optional wheels"
+            ],
+            "categories": [
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/mechanical-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-post-lift-tables",
+            "title": "Air Technical Industries Post Lift Tables",
+            "excerpt": "Portable hydraulic post tables with foot-operated lifting, in 2-post models rated 500 to 1,000 lb and 4-post models rated 2,000 to 6,000 lb.",
+            "content": "<p>ATI's Post Lift Tables are portable, foot-operated hydraulic tables for general shop work: positioning dies and fixtures, feeding presses, leveling tools and moving material between work stations. Wheels and a push handle make them easy to move, and the foot-operated cylinder needs no external power.</p>\n<p>2-post models are rated from 500 to 1,000 lb with a 49 in. raised height. 4-post models add stability for heavier loads, rated from 2,000 to 6,000 lb with a 60 in. raised height. A plug-in electric motor or a non-sparking air motor is optional.</p>",
+            "capacity_range": "500–6,000 lbs",
+            "key_features": [
+                "Foot-operated hydraulic cylinder",
+                "Wheels and push handle",
+                "2-post models: 500 to 1,000 lb, 49 in. raised height",
+                "4-post models: 2,000 to 6,000 lb, 60 in. raised height",
+                "Optional plug-in electric or non-sparking air motor"
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/post-lift-tables/"
+            ]
+        }
+    ]
+}
