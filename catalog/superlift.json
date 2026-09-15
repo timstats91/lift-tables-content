@@ -1,0 +1,379 @@
+{
+    "brand": "superlift",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "superlift-standard-scissor-lift-tables",
+            "title": "Superlift Standard Scissor Lift Tables",
+            "excerpt": "Hydraulic scissor lift tables with velocity fuses, overload protection and North American components, with custom sizes available.",
+            "content": "<p>Superlift Standard Scissor Lifts are hydraulic lift tables with rugged welded frames, reinforced platforms, heavy-duty cam followers and hard-chromed cylinders. Velocity fuses on all cylinders, built-in pressure relief valves for overload protection and lifetime no-lubrication DU bearings are standard.</p>\n<p>Superlift uses North American components and gives a one-year warranty. Options include photo eyes, electro-mechanical toe guards, tilting tops, low-profile versions, stainless steel or galvanized construction, custom paint, portable units and custom sizes.</p>",
+            "line_code": "Standard",
+            "key_features": [
+                "Velocity fuses on all cylinders",
+                "Built-in overload protection",
+                "No-lubrication DU bearings",
+                "Stainless and galvanized options",
+                "Custom sizes"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/standard-scissor-lifts"
+            ]
+        },
+        {
+            "slug": "superlift-double-and-triple-scissor-lift-tables",
+            "title": "Superlift Double and Triple Scissor Lift Tables",
+            "excerpt": "Extended-travel scissor lifts rated 1,000 to 12,000 lb, raising loads up to 35 ft on a small footprint.",
+            "content": "<p>Superlift's double and triple scissor lift tables give high lift on a small footprint, for mezzanine lifts, personnel work platforms and automated palletizing systems. Frames are welded hollow structural tube with steel plates laminated to the sides for stability.</p>\n<p>Double scissor lifts are rated 1,000 to 12,000 lb with up to 18 ft of travel, and triple scissor lifts raise up to 10,000 lb to heights of 35 ft. Velocity fuses, overload protection and spherical bearings with grease fittings are standard, with rotating, tilting, conveyor and ball transfer tops, skirts and self-propelled versions available.</p>",
+            "line_code": "Double / Triple",
+            "capacity_range": "1,000–12,000 lbs",
+            "key_features": [
+                "1,000 to 12,000 lb capacities",
+                "Up to 35 ft lift height",
+                "Small footprint",
+                "Laminated tube frames",
+                "Self-propelled option"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/double-scissor-lifts",
+                "https://superlift.net/products/triple-scissor-lifts"
+            ]
+        },
+        {
+            "slug": "superlift-heavy-capacity-scissor-lift-tables",
+            "title": "Superlift Heavy Capacity Scissor Lift Tables",
+            "excerpt": "Heavy capacity hydraulic scissor lifts with hollow structural tube scissor arms and UL and CSA approved components.",
+            "content": "<p>Superlift Heavy Capacity Scissor Lifts use extremely heavy-duty hollow structural tube scissor arms, reinforced platforms, heavy-duty cam followers and chromed-ram hydraulic cylinders.</p>\n<p>Spherical bearings with grease fittings, velocity fuses on all cylinders and built-in overload protection are standard, all components are UL and CSA approved, and custom sizes are available.</p>",
+            "line_code": "Heavy Capacity",
+            "key_features": [
+                "Hollow structural tube scissor arms",
+                "Reinforced platforms",
+                "Velocity fuses on all cylinders",
+                "UL and CSA approved components"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/heavy-duty-scissor-lifts"
+            ]
+        },
+        {
+            "slug": "superlift-low-profile-lift-tables",
+            "title": "Superlift Low Profile Lift Tables",
+            "excerpt": "Low collapsed height scissor lift tables with welded frames, with ramp, turntable and portable options.",
+            "content": "<p>Superlift Low Profile Lift Tables have a low collapsed height, heavy-duty all-welded frames and DU bushings, with a one-year warranty.</p>\n<p>Options include smaller and larger platforms, loading ramps, turntables, rotating platforms, ball transfer tops, safety skirts and portable units.</p>",
+            "line_code": "Low Profile",
+            "key_features": [
+                "Low collapsed height",
+                "All-welded frames",
+                "Loading ramp option",
+                "Turntable and ball transfer options"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/low-profile-lift-table"
+            ]
+        },
+        {
+            "slug": "superlift-ground-level-scissor-lifts",
+            "title": "Superlift Ground Level Scissor Lifts",
+            "excerpt": "Ground level scissor lift tables loaded without ramps or pits, in painted steel and 304 or 316 stainless steel.",
+            "content": "<p>Superlift Ground Level Scissor Lifts lower to floor level so loads can be moved on and off without ramps or pits. They have velocity fuses, overload protection, reinforced platforms, heavy-duty cam followers and no-lubrication bearings.</p>\n<p>A stainless steel version in 304 or 316 steel is rated 3,000 lb, and a semi-portable stainless version rated up to 4,000 lb can be moved when empty for sanitation. Self-propelled, conveyor, ball transfer, skirt, photo eye and toe guard options are available.</p>",
+            "line_code": "Ground Level",
+            "key_features": [
+                "Floor level loading",
+                "No ramp or pit needed",
+                "Stainless steel versions",
+                "Semi-portable option",
+                "Velocity fuses and overload protection"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/ground-level-scissor-lifts",
+                "https://superlift.net/products/stainless-steel-ground-level-scissor",
+                "https://superlift.net/products/stainless-steel-semi-portable-ground-level-lift"
+            ]
+        },
+        {
+            "slug": "superlift-pneumatic-lift-and-tilt-tables",
+            "title": "Superlift Pneumatic Lift and Tilt Tables",
+            "excerpt": "Air bag lift tables, lift and tilt tables and tilters using Firestone airbags with a lifetime guarantee.",
+            "content": "<p>Superlift's pneumatic lift tables, lift and tilt tables and tilt tables use Firestone airbags, which carry a lifetime guarantee, on heavy-duty welded frames. They are simple to operate and need little maintenance.</p>\n<p>Options include AC, air or DC powered units, custom sizes and platforms, stainless steel construction and larger load centers. Stainless steel pneumatic tilters are also offered in 304L or 316L steel, floor or stand mounted, with capacities from 500 to 5,000 lb.</p>",
+            "line_code": "Pneumatic",
+            "key_features": [
+                "Firestone airbags with lifetime guarantee",
+                "Lift, lift and tilt, and tilt versions",
+                "Low maintenance",
+                "Stainless steel tilters"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/pneumatic-lift-tables",
+                "https://superlift.net/products/pneumatic-lift-and-tilt-tables",
+                "https://superlift.net/products/pneumatic-tilts",
+                "https://superlift.net/products/stainless-steel-pneumatic-tilter"
+            ]
+        },
+        {
+            "slug": "superlift-lift-and-tilt-tables",
+            "title": "Superlift Lift and Tilt Tables",
+            "excerpt": "Hydraulic scissor lift tables with a tilting platform and a 12 in. retaining back plate, in painted and stainless steel.",
+            "content": "<p>Superlift Standard Lift and Tilts raise and tilt loads toward the operator, with a 12 in. high retaining back plate, a remote power pack, reinforced platforms, velocity fuses on all cylinders and overload protection.</p>\n<p>Options include self-propelled units, higher travel, internal power packs, larger platforms, skirts and foot controls. A stainless steel scissor lift and tilt table is available for sanitary washdown areas.</p>",
+            "line_code": "Lift & Tilt",
+            "key_features": [
+                "Lift and tilt",
+                "12 in. retaining back plate",
+                "Remote power pack",
+                "Self-propelled option",
+                "Stainless steel version"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/standard-lift-and-tilts",
+                "https://superlift.net/products/stainless-steel-scissor-lift-and-tilt-table"
+            ]
+        },
+        {
+            "slug": "superlift-tilt-tables",
+            "title": "Superlift Tilt Tables",
+            "excerpt": "Hydraulic tilt tables with a 12 in. retaining back plate and AC, air or DC power.",
+            "content": "<p>Superlift Standard Tilts have a heavy-duty welded frame, velocity fuses on all cylinders and a 12 in. high retaining back plate, with a one-year warranty.</p>\n<p>They are offered with AC, air or DC power, in smaller or larger platform sizes and custom designs.</p>",
+            "line_code": "Standard Tilts",
+            "key_features": [
+                "12 in. retaining back plate",
+                "Velocity fuses on all cylinders",
+                "AC, air or DC power",
+                "Custom designs"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/standard-tilts"
+            ]
+        },
+        {
+            "slug": "superlift-ground-level-tilters",
+            "title": "Superlift Ground Level Tilters",
+            "excerpt": "Floor-level tilters loaded by pallet truck that tilt up to 90 degrees, rated 1,000 to 4,000 lb, in painted or stainless steel.",
+            "content": "<p>Superlift Ground Level Tilters are loaded at floor level with a pallet truck and tilt up to 90 degrees, reaching 33 in. high with a maximum 30 in. reach to the back plate when tilted.</p>\n<p>Painted models are rated 1,000, 2,000 or 4,000 lb with air/hydraulic foot pedal or AC power. A sanitary 304L or 316L stainless steel version with a no-weld platform and washdown motor is rated 2,000 to 4,000 lb. Photo eyes, skirts, adjusted tilt angles and semi-portable dolly handles are optional.</p>",
+            "line_code": "Ground Level Tilter",
+            "capacity_range": "1,000–4,000 lbs",
+            "key_features": [
+                "Pallet truck loading at floor level",
+                "Tilts up to 90 degrees",
+                "1,000 to 4,000 lb capacities",
+                "Stainless steel sanitary version"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/ground-level-tilters",
+                "https://superlift.net/products/stainless-steel-sanitary-ground-level-tilter"
+            ]
+        },
+        {
+            "slug": "superlift-portable-tote-box-and-combo-tilters",
+            "title": "Superlift Portable Tote Box and Combo Tilters",
+            "excerpt": "Battery-powered portable tilters that tip tote boxes and combos up to 90 degrees, including stainless steel combo tilters for food plants.",
+            "content": "<p>Superlift Portable Tote Box Tilters tilt containers from 0 to 90 degrees using an internally mounted 1 HP DC motor with flow control, with a battery and external charger included. Stationary, straddle and AC or air powered versions are available.</p>\n<p>Stainless steel and galvanized combo tilters tip combos of meat or ingredients from floor level up to 90 degrees in food production, in battery or 110 V AC washdown versions. Stainless models are fork-over designs, available with a built-in lift to suit operator height.</p>",
+            "line_code": "Tote Box / Combo",
+            "key_features": [
+                "Tilts 0 to 90 degrees",
+                "Battery powered with charger",
+                "Stainless combo tilters for food plants",
+                "Straddle and fork-over versions"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/portable-tote-box-tilters",
+                "https://superlift.net/products/stainless-combo-tilters"
+            ]
+        },
+        {
+            "slug": "superlift-stainless-steel-lift-tables",
+            "title": "Superlift Stainless Steel Lift Tables",
+            "excerpt": "Sanitary 304 and 316 stainless steel scissor lift tables for food, pharmaceutical and cleanroom washdown areas.",
+            "content": "<p>Superlift builds stainless steel lift tables for sanitary washdown areas in pharmaceutical, food processing, dairy, bakery, laboratory and cosmetic plants, with continuous welds and stainless steel hydraulic cylinders. Plate scissor arms are used for lower capacities, and Superlift's patented Z beam for double and triple lifts.</p>\n<p>Wash down lift tables are rated 1,000 to 4,500 lb, economy tables to 1,000 lb, and stationary tables are available in 304L or 316L with 2B, electropolished or 35 RA finishes. Electric actuator lift tables for cleanrooms use no hydraulic fluid, hold position without drift and carry up to 4,000 lb.</p>",
+            "line_code": "Stainless",
+            "key_features": [
+                "304 and 316 stainless steel",
+                "Continuous sanitary welds",
+                "Stainless hydraulic cylinders",
+                "Electric actuator cleanroom models",
+                "Capacities up to 4,500 lb"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/stainless-steel-lift-table",
+                "https://superlift.net/products/stainless-steel-wash-down-lift-table",
+                "https://superlift.net/products/stainless-steel-economy-lift-tables",
+                "https://superlift.net/products/stainless-steel-stationary-lift-table",
+                "https://superlift.net/products/stainless-steel-electric-lift-tables"
+            ]
+        },
+        {
+            "slug": "superlift-stainless-steel-portable-lift-tables",
+            "title": "Superlift Stainless Steel Portable Lift Tables",
+            "excerpt": "Mobile stainless steel lift tables for cleanrooms, with foot pump, battery, air, AC and powered drive versions.",
+            "content": "<p>Superlift's stainless steel portable lift tables move and position materials in cleanrooms, pharmaceutical plants, food processing and laboratories. Cleanroom portable tables in 304L or 316L steel have Delrin rollers and bushings, platforms up to 48 x 72 in. and lift heights up to 78 in., with foot pump, battery, air or AC power.</p>\n<p>The range includes a 1,200 lb 316 stainless foot pump table with no electrical parts, a portable double scissor table, a mini semi-portable table, a portable table with a powered rotator, and a powered drive cleanroom table with a 750 lb lift capacity and 1,200 lb drive capacity.</p>",
+            "line_code": "Stainless Portable",
+            "key_features": [
+                "304L and 316L stainless steel",
+                "Foot pump, battery, air or AC power",
+                "Lift heights up to 78 in.",
+                "Powered drive and rotator versions"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/stainless-steel-portable-lift-table",
+                "https://superlift.net/products/stainless-steel-clean-room-portable-lift-tables",
+                "https://superlift.net/products/stainless-steel-cleanroom-foot-pump-lift-table",
+                "https://superlift.net/products/stainless-steel-portable-double-scissor-lift-table",
+                "https://superlift.net/products/cleanroom-powered-drive-electric-lift-table",
+                "https://superlift.net/products/portable-lift-and-tilt"
+            ]
+        },
+        {
+            "slug": "superlift-stainless-steel-high-lift-scissor-tables",
+            "title": "Superlift Stainless Steel Double and Triple Scissor Lift Tables",
+            "excerpt": "Stainless steel double, triple and quad scissor lifts for cleanroom mezzanine access, raising up to 10,000 lb to 216 in.",
+            "content": "<p>Superlift's stainless steel double and triple scissor lift tables provide high lift for mezzanines and batch processing in pharmaceutical, food, dairy, bakery and laboratory plants.</p>\n<p>Triple scissor models raise up to 10,000 lb to heights of 216 in., and quad lifts are also offered. Standard and polished stainless finishes are cleanroom compliant, with epoxy-coated, galvanized and painted steel versions and stainless enclosures and mezzanines available.</p>",
+            "line_code": "Stainless Double / Triple",
+            "key_features": [
+                "Double, triple and quad scissors",
+                "Up to 10,000 lb",
+                "Heights up to 216 in.",
+                "Cleanroom compliant finishes"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/stainless-steel-double-and-triple-lift-table",
+                "https://superlift.net/products/stainless-steel-triple-scissors-lift-tables"
+            ]
+        },
+        {
+            "slug": "superlift-stainless-steel-low-profile-lift-tables",
+            "title": "Superlift Stainless Steel Low Profile Lift Tables",
+            "excerpt": "Stainless steel low profile lift tables, including an E-shaped 3,000 lb table loaded by pallet truck from 4.1 in.",
+            "content": "<p>Superlift's stainless steel low profile lift tables have a low collapsed height for easier loading in food, pharmaceutical and cleanroom areas, with welded frames and Delrin bushings.</p>\n<p>The \"E\" Low Profile Lift Table has an E-shaped platform that a pallet truck can load directly, a 4.1 in. lowered height, a 3,000 lb capacity, 304 or 316 stainless steel construction, and a washdown motor with NEMA 4 controls.</p>",
+            "line_code": "Stainless Low Profile",
+            "key_features": [
+                "Low collapsed height",
+                "E-shaped platform for pallet trucks",
+                "4.1 in. lowered height",
+                "3,000 lb E model",
+                "Washdown motor and NEMA 4 controls"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/stainless-steel-low-profile-table",
+                "https://superlift.net/products/stainless-steel-e-low-profile-lift-table"
+            ]
+        },
+        {
+            "slug": "superlift-stainless-steel-self-adjusting-pallet-positioners",
+            "title": "Superlift Stainless Steel Self-Adjusting Pallet Positioners",
+            "excerpt": "Sanitary stainless steel pallet positioners with spring or air self-leveling and a turntable, for loads of 250 to 4,500 lb.",
+            "content": "<p>Superlift's stainless steel pallet positioners raise and lower automatically as pallets are loaded or unloaded, keeping the top of the load at a comfortable height. Spring-loaded EASY Loaders self-level loads from 250 to 4,500 lb without motors or hydraulics, with a built-in turntable for near-side loading.</p>\n<p>Air-actuated self-adjusting positioners avoid springs that can rust, with solid formed platforms and base frames, bolt-together designs without weld pinholes and Delrin rollers, bushings and bearings. Sanitation packages, operator-adjusted and explosion-proof designs are available.</p>",
+            "line_code": "EASY Loader",
+            "capacity_range": "250–4,500 lbs",
+            "key_features": [
+                "Self-levels 250 to 4,500 lb",
+                "Spring or air actuated",
+                "Built-in turntable",
+                "Sanitary stainless construction",
+                "Delrin rollers and bearings"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://superlift.net/products/stainless-steel-spring-loaded-pallet-positioner-pallet-loader",
+                "https://superlift.net/products/stainless-steel-spring-actuated-level-loader",
+                "https://superlift.net/products/stainless-steel-self-adjusting-pallet-positioners",
+                "https://superlift.net/products/stainless-steel-pneumatic-lift-table"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,528 @@
+{
+    "brand": "pentalift",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "pentalift-pro-series-lift-tables",
+            "title": "Pentalift Pro-Series Hydraulic Lift Tables",
+            "excerpt": "Heavy-duty hydraulic scissor lift tables rated 2,500 to 6,000 lb with 24 to 48 in. of travel, factory load tested.",
+            "content": "<p>The Pro-Series is Pentalift's standard hydraulic scissor lift table for manufacturing, assembly, packaging, palletizing, machine feeding and inspection. It is built from heavy-duty structural steel with an electric hydraulic power unit and a push-button pendant control, and each unit is factory assembled and load tested before shipment.</p>\n<p>Standard models are rated 2,500, 4,000 or 6,000 lb with 24, 36 or 48 in. of vertical travel, lowered heights of 7 or 7-1/2 in. and raised heights up to 55-1/2 in. Options include accordion skirting, toe sensors, portable and semi-portable configurations, travel limit switches, foot pedal controls, remote power units and custom platform sizes.</p>",
+            "line_code": "Pro-Series",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "2,500, 4,000 and 6,000 lb capacities",
+                "24, 36 or 48 in. of travel",
+                "7 or 7-1/2 in. lowered height",
+                "Factory load tested",
+                "Portable and semi-portable options"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-pro-series-lift-and-tilt-tables",
+            "title": "Pentalift Pro-Series Lift and Tilt Tables",
+            "excerpt": "A Pro-Series tilt table mounted on a Pro-Series lift table, for loads of 2,500 to 5,000 lb.",
+            "content": "<p>Pentalift's Pro-Series Lift and Tilt Table combines a Pro-Series tilt table with a Pro-Series lift table, raising a container and tilting it within easy reach of the operator. The tilt table pivots on the rolling end of the lift platform for stability.</p>\n<p>It is available in 2,500, 4,000 and 5,000 lb capacities.</p>",
+            "line_code": "Pro-Series",
+            "capacity_range": "2,500–5,000 lbs",
+            "key_features": [
+                "Lifts and tilts containers",
+                "2,500, 4,000 and 5,000 lb capacities",
+                "Tilt table pivots on the lift's rolling end",
+                "Reduces bending and reaching"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-series-lift-and-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-pro-series-lift-and-rotate-tables",
+            "title": "Pentalift Pro-Series Hydraulic Lift and Rotate Tables",
+            "excerpt": "Hydraulic lift tables with a manual rotating top for palletizing and assembly, rated 2,000 to 5,500 lb.",
+            "content": "<p>The Pro-Series Hydraulic Lift and Rotate raises the load and lets the operator rotate it into reach, for palletizing, depalletizing and work station assembly. Its manual rotating top is secured by a countersunk central cap screw so the platform cannot be lifted off or misaligned during loading.</p>\n<p>It is available in 2,000, 3,500 and 5,500 lb capacities. Rotation stop options include a manual shaft lock, spring-activated detent stops and a spring-loaded rotator lock, each at 90-degree increments.</p>",
+            "line_code": "Pro-Series",
+            "capacity_range": "2,000–5,500 lbs",
+            "key_features": [
+                "Manual rotating top",
+                "2,000, 3,500 and 5,500 lb capacities",
+                "Top secured by a central cap screw",
+                "Optional 90-degree rotation stops"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-series-hydraulic-lift-and-rotate/"
+            ]
+        },
+        {
+            "slug": "pentalift-pro-series-tilters",
+            "title": "Pentalift Pro-Series Tilters",
+            "excerpt": "Hydraulic container tilters rated 2,500 to 6,000 lb that tip parts within easy reach of the operator.",
+            "content": "<p>Pro-Series Tilters tip containers toward the operator so parts are within easy reach, reducing repetitive bending and reaching.</p>\n<p>They are available in 2,500, 4,000 and 6,000 lb capacities.</p>",
+            "line_code": "Pro-Series",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "2,500, 4,000 and 6,000 lb capacities",
+                "Tilts containers toward the operator",
+                "Reduces bending and reaching"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-series-tilters/"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-pneumatic-lift-tables",
+            "title": "Pentalift ProAir Pneumatic Lift Tables",
+            "excerpt": "Lift tables that run on the plant air supply, rated 2,000 to 6,000 lb.",
+            "content": "<p>ProAir pneumatic lift tables run on a facility's compressed air supply, with no electrical hydraulic power unit, and Pentalift describes them as easy to install.</p>\n<p>They are available in 2,000, 4,000 and 6,000 lb capacities.</p>",
+            "line_code": "ProAir",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "Powered by plant air",
+                "2,000, 4,000 and 6,000 lb capacities",
+                "No hydraulic power unit"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-air-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-pneumatic-lift-and-tilt-tables",
+            "title": "Pentalift ProAir Pneumatic Lift and Tilt Tables",
+            "excerpt": "Air-powered lift and tilt tables rated 2,000 to 6,000 lb.",
+            "content": "<p>ProAir Lift and Tilt Tables raise and tilt loads using a facility's compressed air supply, combining Pentalift's ProAir pneumatic lift with a tilting platform.</p>\n<p>They are available in 2,000, 4,000 and 6,000 lb capacities.</p>",
+            "line_code": "ProAir",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "Powered by plant air",
+                "Lifts and tilts",
+                "2,000, 4,000 and 6,000 lb capacities"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-air-pneumatic-lift-and-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-pneumatic-lift-and-rotate-tables",
+            "title": "Pentalift ProAir Pneumatic Lift and Rotate Tables",
+            "excerpt": "Air-powered lift tables with a rotating top, rated 2,000 to 6,000 lb.",
+            "content": "<p>ProAir Lift and Rotate tables raise, lower and rotate product into a comfortable working position using plant air. Rotation lets the operator load and unload at the side closest to them, reducing reaching and awkward lifting.</p>\n<p>They are available in 2,000, 4,000 and 6,000 lb capacities.</p>",
+            "line_code": "ProAir",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "Powered by plant air",
+                "Rotating top",
+                "2,000, 4,000 and 6,000 lb capacities"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-air-pneumatic-lift-and-rotate/"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-pneumatic-tilters",
+            "title": "Pentalift ProAir Pneumatic Tilters",
+            "excerpt": "Air-powered container tilters rated 2,000 to 6,000 lb, with a range of floor stand heights.",
+            "content": "<p>ProAir Pneumatic Tilters tip containers into position for comfortable part placement or removal, powered by plant air. A heavy-duty tilt retaining bar avoids the tangling of a retaining chain.</p>\n<p>They are available in 2,000, 4,000 and 6,000 lb capacities, with a wide range of floor stand heights.</p>",
+            "line_code": "ProAir",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "Powered by plant air",
+                "2,000, 4,000 and 6,000 lb capacities",
+                "Tilt retaining bar",
+                "Range of floor stand heights"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pro-air-pneumatic-tilters/"
+            ]
+        },
+        {
+            "slug": "pentalift-ltni-lift-and-tilt-non-intrusive",
+            "title": "Pentalift LTNI Lift and Tilt Non-Intrusive",
+            "excerpt": "Bin positioners that lift and tilt at the same time without pushing the operator back, rated 2,500 to 6,000 lb.",
+            "content": "<p>The LTNI positions bins within easy reach in congested work areas. A conventional hinged tilter forces the operator back as it tilts; the LTNI lifts and tilts the container at the same time so the operator doesn't have to move.</p>\n<p>It is available in 2,500, 4,000 and 6,000 lb capacities.</p>",
+            "line_code": "LTNI",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "Simultaneous lift and tilt",
+                "Doesn't push the operator back",
+                "2,500, 4,000 and 6,000 lb capacities",
+                "Suited to congested work areas"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/ltni-lift-and-tilt-non-intrusive/"
+            ]
+        },
+        {
+            "slug": "pentalift-10l-series-lift-tables",
+            "title": "Pentalift 10L Series Lift Tables",
+            "excerpt": "Heavy-duty hydraulic lift tables rated 8,000 to 10,000 lb on comparatively small platforms, with a 10 in. lowered height.",
+            "content": "<p>The 10L Series is Pentalift's heavy-duty hydraulic lift table for applications that need a high capacity on a comparatively small platform.</p>\n<p>Capacities range from 8,000 to 10,000 lb, with 29, 38 or 45 in. of travel, a 10 in. lowered height on all models and platforms from 28 x 48 to 60 x 84 in.</p>",
+            "line_code": "10L",
+            "capacity_range": "8,000–10,000 lbs",
+            "key_features": [
+                "8,000 to 10,000 lb capacities",
+                "29, 38 or 45 in. of travel",
+                "10 in. lowered height",
+                "Platforms from 28 x 48 to 60 x 84 in."
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/10l-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-12l-series-lift-tables",
+            "title": "Pentalift 12L Series Lift Tables",
+            "excerpt": "Industrial hydraulic scissor lift tables rated 3,000 to 15,000 lb with a 12 in. lowered height and up to 59 in. of travel.",
+            "content": "<p>The 12L Series is a heavy-duty hydraulic scissor lift table with a 12 in. lowered height, solid steel scissor legs, reinforced pivot points, maintenance-free bearings and Pentalift's Pentaflow hydraulic bypass cylinders. A remote power unit and push-button pendant are standard.</p>\n<p>Capacities range from 3,000 to 15,000 lb with up to 59 in. of travel. Standard models are surface mounted with straight platform edges, and pit-mounted versions use bevelled toe guards or toe sensors. Options include limit switches, skirting, high-duty-cycle packages and central grease systems.</p>",
+            "line_code": "12L",
+            "capacity_range": "3,000–15,000 lbs",
+            "key_features": [
+                "3,000 to 15,000 lb capacities",
+                "12 in. lowered height",
+                "Up to 59 in. of travel",
+                "Pentaflow hydraulic cylinders",
+                "Surface or pit mounting"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/12l-lift-tables-12-inch-low-height-hydraulic-scissor-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-ir-series-lift-tables",
+            "title": "Pentalift IR Series Lift Tables",
+            "excerpt": "Industrial hydraulic lift tables rated 1,000 to 2,000 lb with a 7 in. lowered height and 36 in. of travel.",
+            "content": "<p>IR Series lift tables are Pentalift's lighter industrial hydraulic lift tables.</p>\n<p>They are rated 1,000, 1,500 or 2,000 lb. All models have a 7 in. lowered height and 36 in. of vertical travel, with platforms from 24 x 48 to 48 x 72 in.</p>",
+            "line_code": "IR",
+            "capacity_range": "1,000–2,000 lbs",
+            "key_features": [
+                "1,000 to 2,000 lb capacities",
+                "7 in. lowered height",
+                "36 in. of travel",
+                "Platforms from 24 x 48 to 48 x 72 in."
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/ir-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-l-series-low-height-lift-tables",
+            "title": "Pentalift L-Series 4.3 in. Low Height Lift Tables",
+            "excerpt": "Heavy-duty hydraulic scissor lift tables with a 4.3 in. lowered height, rated 1,500 to 4,000 lb.",
+            "content": "<p>Pentalift's L-Series low height lift tables are heavy-duty hydraulic scissor lifts with a 4.3 in. lowered height, for material handling and system applications that need the platform as low as possible.</p>\n<p>Capacities run from 1,500 to 4,000 lb, with 27 to 36 in. of travel and platforms from 30 x 48 to 48 x 80 in.</p>",
+            "line_code": "L",
+            "capacity_range": "1,500–4,000 lbs",
+            "key_features": [
+                "4.3 in. lowered height",
+                "1,500 to 4,000 lb capacities",
+                "27 to 36 in. of travel",
+                "Platforms from 30 x 48 to 48 x 80 in."
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/4-3-low-height-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-tl-series-tandem-lift-tables",
+            "title": "Pentalift TL-Series Tandem Lift Tables",
+            "excerpt": "Heavy-duty tandem hydraulic scissor lift tables with an 8 in. lowered height and platforms to 60 x 168 in., rated 5,000 to 12,000 lb.",
+            "content": "<p>TL-Series tandem lift tables are heavy-duty hydraulic scissor lifts with long platforms, for manufacturing, processing and distribution work where longer materials are handled. They have an 8 in. lowered height.</p>\n<p>They are rated 5,000, 8,000 or 12,000 lb with 24, 36 or 48 in. of travel, on platforms from 24 x 96 to 60 x 168 in.</p>",
+            "line_code": "TL",
+            "capacity_range": "5,000–12,000 lbs",
+            "key_features": [
+                "8 in. lowered height",
+                "5,000, 8,000 and 12,000 lb capacities",
+                "24, 36 or 48 in. of travel",
+                "Platforms up to 60 x 168 in."
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/8-inch-lowered-height-tandem-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-tlh-series-tandem-lift-tables",
+            "title": "Pentalift TLH-Series Tandem Lift Tables",
+            "excerpt": "Heavy-duty tandem lift tables rated 10,000 to 40,000 lb, with platforms from 48 x 180 to 96 x 240 in.",
+            "content": "<p>TLH-series tandem lift tables are heavy-duty hydraulic scissor lifts for lifting and positioning heavy, long loads in manufacturing, processing and distribution.</p>\n<p>Capacities range from 10,000 to 40,000 lb, with platforms from 48 x 180 to 96 x 240 in. Most models lower to 15 in. and offer 50 or 59 in. of travel; the 40,000 lb table lowers to 22 in. and has 59 in. of travel.</p>",
+            "line_code": "TLH",
+            "capacity_range": "10,000–40,000 lbs",
+            "key_features": [
+                "10,000 to 40,000 lb capacities",
+                "Platforms from 48 x 180 to 96 x 240 in.",
+                "15 in. lowered height on most models",
+                "50 or 59 in. of travel"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/15-inch-lowered-height-tandem-lift-table/"
+            ]
+        },
+        {
+            "slug": "pentalift-nl-series-no-low-lift-tables",
+            "title": "Pentalift NL-Series No Low Lift Tables",
+            "excerpt": "Floor-level hydraulic lift tables loaded directly by pallet truck, with 35 in. of travel and 2,500 to 6,000 lb capacities.",
+            "content": "<p>NL-Series No Low Lift Tables give pallet trucks true floor-level access, so pallets can be loaded without a pit or approach ramp and raised to a working height for depalletizing, assembly and packaging. A bevelled front edge eases pallet jack entry.</p>\n<p>Platforms range from 44 x 48 to 50 x 54 in., sized around common pallets, with 35 in. of vertical travel and capacities of 2,500, 4,000 and 6,000 lb.</p>",
+            "line_code": "NL",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "Floor-level pallet truck loading",
+                "No pit or ramp required",
+                "35 in. of travel",
+                "2,500, 4,000 and 6,000 lb capacities",
+                "Bevelled entry edge"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/nl-series-no-low-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-nlt-series-no-low-lift-and-tilt-tables",
+            "title": "Pentalift NLT-Series No Low Lift & Tilt Tables",
+            "excerpt": "Floor-level lift tables with a 30 or 45 degree tilting platform, loaded by pallet truck, rated 2,500 to 6,000 lb.",
+            "content": "<p>The NLT-Series adds a tilting platform to Pentalift's NL-Series no low lift table. Pallets are loaded at floor level by pallet truck with no pit or ramp, then raised and tilted toward the operator for better access and visibility.</p>\n<p>Platforms range from 44 x 48 to 50 x 54 in., with about 34 to 35 in. of travel, tilt angles of 30 or 45 degrees and capacities of 2,500, 4,000 and 6,000 lb.</p>",
+            "line_code": "NLT",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "Floor-level pallet truck loading",
+                "30 or 45 degrees of tilt",
+                "34 to 35 in. of travel",
+                "2,500, 4,000 and 6,000 lb capacities"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/no-low-lift-and-tilt-tables-2/"
+            ]
+        },
+        {
+            "slug": "pentalift-double-scissor-lift-tables",
+            "title": "Pentalift Double Scissor Lift Tables",
+            "excerpt": "High-travel double scissor lift tables with about 43 to 90 in. of travel, rated 2,500 to 6,000 lb.",
+            "content": "<p>Pentalift's double scissor lift tables give more lift height than a standard table without a larger footprint, for moving pallets, products and equipment between work levels. They use reinforced structural steel scissors, full-width hinge pins, guided upper and lower rollers and Pentaflow hydraulic cylinders.</p>\n<p>Standard models are rated 2,500, 4,000 or 6,000 lb, with platforms from 24 x 36 to 54 x 84 in. and about 43 to 90 in. of vertical travel.</p>",
+            "line_code": "DSL",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "About 43 to 90 in. of travel",
+                "2,500, 4,000 and 6,000 lb capacities",
+                "Platforms from 24 x 36 to 54 x 84 in.",
+                "Pentaflow hydraulic cylinders"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/double-scissor-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-tsl-series-triple-scissor-lift-tables",
+            "title": "Pentalift TSL-Series Triple Scissor Lift Tables",
+            "excerpt": "Heavy-duty triple scissor lift tables with up to 180 in. of travel for mezzanine access, rated 2,500 to 6,000 lb.",
+            "content": "<p>TSL-Series triple scissor lift tables are heavy-duty hydraulic lifts for small-footprint, high-lift work such as mezzanine access, processing, storage and material transfer.</p>\n<p>They lower to 22 or 28 in., with standard platforms from 36 x 48 to 48 x 72 in. (optionally up to 60 x 84 in.) and up to 180 in. of travel. Capacities are 2,500, 4,000 and 6,000 lb.</p>",
+            "line_code": "TSL",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "Up to 180 in. of travel",
+                "2,500, 4,000 and 6,000 lb capacities",
+                "22 or 28 in. lowered height",
+                "Small footprint"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/triple-scissor-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-qsl-series-quadruple-scissor-lift-tables",
+            "title": "Pentalift QSL-Series Quadruple Scissor Lift Tables",
+            "excerpt": "Four-stage scissor lift tables for small-footprint, high-lift mezzanine access, rated 2,500 to 6,000 lb.",
+            "content": "<p>QSL-series quadruple scissor lift tables are used for small-footprint, high-lift applications such as mezzanine access for processing, storage and material transfer.</p>\n<p>They are available in capacities from 2,500 to 6,000 lb.</p>",
+            "line_code": "QSL",
+            "capacity_range": "2,500–6,000 lbs",
+            "key_features": [
+                "Four scissor stages",
+                "2,500 to 6,000 lb capacities",
+                "Small footprint, high lift",
+                "Mezzanine access"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/quadruple-scissor-lift-tables/"
+            ]
+        },
+        {
+            "slug": "pentalift-portable-bin-tilters",
+            "title": "Pentalift Portable Bin Tilters",
+            "excerpt": "Battery-powered hydraulic bin tilters on locking casters, rated 2,000 or 4,000 lb, in portable and stationary versions.",
+            "content": "<p>Pentalift bin tilters tip parts containers within easy reach of the operator, improving comfort and reducing the risk of injury and damage to parts.</p>\n<p>They are rated 2,000 or 4,000 lb, in portable and stationary configurations. Portable models have an internal self-contained battery and charger, large locking phenolic casters and a three-position control, with a hydraulic velocity fuse and maintenance-free bearings.</p>",
+            "line_code": "Bin Tilter",
+            "capacity_range": "2,000–4,000 lbs",
+            "key_features": [
+                "2,000 or 4,000 lb capacities",
+                "Internal battery and charger",
+                "Large locking phenolic casters",
+                "Hydraulic velocity fuse",
+                "Portable or stationary"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/portable-bin-tilters/"
+            ]
+        },
+        {
+            "slug": "pentalift-mechanical-bin-tilters",
+            "title": "Pentalift Mechanical Bin Tilters",
+            "excerpt": "Unpowered bin tilters that self-lock at 30 degrees, rated 500 to 4,000 lb, with platforms up to 72 x 72 in.",
+            "content": "<p>Pentalift mechanical tilts position parts containers within easy reach without a power supply. The platform self-locks at 30 degrees of tilt, with a foot pedal lock release and a spring-return locking latch.</p>\n<p>Capacities run from 500 to 4,000 lb, with standard platforms up to 72 x 72 in. Corner stops on the tilt platform and welded lagging brackets are standard.</p>",
+            "line_code": "Mechanical Tilt",
+            "capacity_range": "500–4,000 lbs",
+            "key_features": [
+                "No power required",
+                "Self-locks at 30 degrees",
+                "500 to 4,000 lb capacities",
+                "Platforms up to 72 x 72 in.",
+                "Foot pedal lock release"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/mechanical-bin-tilters/"
+            ]
+        },
+        {
+            "slug": "pentalift-pentaloader-self-leveling-pallet-lift-tables",
+            "title": "Pentalift Pentaloader Self-Leveling Pallet Lift Tables",
+            "excerpt": "Spring-powered self-leveling pallet positioners with a 360-degree turntable, rated up to 4,500 lb.",
+            "content": "<p>The Pentaloader is a self-leveling pallet lift table that keeps the top layer of a pallet at a comfortable working height as it is built or unloaded. A patented spring-cam mechanism does the work with no electrical, hydraulic or pneumatic connections, and a 360-degree turntable lets the operator rotate the pallet instead of walking around it.</p>\n<p>Four models (XPL1, XPL2, PL1 and PL2) each have a 48 x 48 in. platform and a maximum capacity of 4,500 lb, with a spring set for a defined pallet weight range and four settings adjusted with quick U-pins. Corner locator tabs are standard, with turntable brakes, skirting and fork pockets optional.</p>",
+            "line_code": "Pentaloader",
+            "capacity_range": "Up to 4,500 lbs",
+            "key_features": [
+                "Spring-powered self-leveling",
+                "360-degree turntable",
+                "48 x 48 in. platform",
+                "Up to 4,500 lb",
+                "No power connections"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/solutions/pentaloader-automatic-self-leveling-palletizer-2/"
+            ]
+        }
+    ]
+}

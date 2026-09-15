@@ -1,0 +1,3194 @@
+{
+    "brand": "lift-products",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "lift-products-guardian-lift-tables",
+            "title": "Lift Products Guardian Lift Tables",
+            "excerpt": "Light-duty 1,100 lb scissor lift tables with a perimeter safety bar, built to US and European lift table standards.",
+            "content": "<p>The Guardian Series is Lift Products' safety-focused light-duty lift table, designed as an ergonomic work station. It has an aluminium perimeter safety bar that stops descent on contact with an obstruction, safety gaps between the scissor arms to prevent trapping, a check valve against hose failure and hinged maintenance bars.</p>\n<p>Lift Products says the Guardian meets both ANSI and European lift table standards. All models are rated 1,100 lb, with 23-1/4 to 39-3/8 in. of travel, and can be used above floor or in a pit.</p>",
+            "line_code": "LPB",
+            "key_features": [
+                "1,100 lb capacity",
+                "Aluminium perimeter safety bar",
+                "Anti-trap gaps between scissor arms",
+                "Check valve stops lowering if a hose breaks",
+                "Meets ANSI and European standards"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/guardian_lift_tables.html",
+                "https://www.liftproducts.com/lifttables/standard.html"
+            ],
+            "capacity_range": "1,100 lbs"
+        },
+        {
+            "slug": "lift-products-g-series-lift-tables",
+            "title": "Lift Products G-Series Lift Tables",
+            "excerpt": "Economical light-duty scissor lift tables rated 2,000 or 3,000 lb, stocked for shipment within 24 hours.",
+            "content": "<p>The G-Series is Lift Products' economical lift table for light-duty applications. A full perimeter safety bar stops the table if it contacts an obstruction, and the operator resets it at the controls. Flip-down maintenance bars and an upper limit switch are standard.</p>\n<p>2G models are rated 2,000 lb and 3G models, which use two lift cylinders, 3,000 lb. All have 32 in. of travel and a 1.7 HP motor on a 115 V, 15 A circuit. They are stock items that usually ship within 24 hours.</p>",
+            "line_code": "2G / 3G",
+            "key_features": [
+                "2,000 and 3,000 lb capacities",
+                "Full perimeter safety bar",
+                "1.7 HP motor on 115 V power",
+                "Upper limit switch",
+                "Stock models, usually ship in 24 hours"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/2G-3G.html"
+            ],
+            "capacity_range": "2,000–3,000 lbs"
+        },
+        {
+            "slug": "lift-products-max-m22-m33-lift-tables",
+            "title": "Lift Products Max-M22/M33 Lift Tables",
+            "excerpt": "Medium-duty 2,200 and 3,300 lb scissor lift tables with 36 in. of travel and four standard platform sizes.",
+            "content": "<p>The Max-M22/33 brings the main features of Lift Products' Max-Lift into a more economical medium-duty table. It is pre-cut at the Wisconsin plant so it can ship quickly, with one of four standard platform sizes or a custom size.</p>\n<p>Capacities are 2,200 or 3,300 lb with 36 in. of vertical travel. It has cam rollers captured by a Lift-Lok design, Teflon cylinder seals, retractable maintenance bars and a magnetic-backed control box, and is rated to ANSI MH29.1.</p>",
+            "line_code": "M22 / M33",
+            "key_features": [
+                "2,200 and 3,300 lb capacities",
+                "36 in. vertical travel",
+                "Four standard platform sizes",
+                "Magnetic-backed control box",
+                "Quick ship"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/M22.html"
+            ],
+            "capacity_range": "2,200–3,300 lbs"
+        },
+        {
+            "slug": "lift-products-max-lift-scissor-lift-tables",
+            "title": "Lift Products Max-Lift Scissor Lift Tables",
+            "excerpt": "Lift Products' flagship built-to-order scissor lift table, rated 2,000 to 6,000 lb with 24 to 72 in. of travel.",
+            "content": "<p>The Max-Lift is Lift Products' flagship stationary lift table and its most customizable, built to order for both low-cycle and high-cycle work. Grease fittings on the cam rollers and pivots, trapped Lift-Lok rollers, Teflon cylinder seals and a 15-minute duty motor are standard.</p>\n<p>Capacities run from 2,000 to 6,000 lb with 24 to 72 in. of travel, on standard, 36 in. wide (LPT3W) and 48 in. wide (LPT4W) bases. Options include conveyor and rotating tops, tapered toe guards and DC operation.</p>",
+            "line_code": "LPT",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "24 to 72 in. of travel",
+                "Regreasable cam rollers and pivots",
+                "15-minute duty motor",
+                "Built to order with many options"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/max_lift.html",
+                "https://www.liftproducts.com/lifttables/maxlift/max-lift-specs.html"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "lift-products-max-lift-xl-heavy-duty-lift-tables",
+            "title": "Lift Products Max-Lift XL Heavy Duty Lift Tables",
+            "excerpt": "Re-engineered heavy-duty Max-Lift tables rated 8,000 and 10,000 lb, with 5 in. bore cylinders and solid scissor arms.",
+            "content": "<p>The Max-Lift XL was re-engineered from the ground up for extra heavy-duty industrial work, rather than being a Max-Lift with a higher rating. It uses larger rollers with a roller bridge plate, thicker platform steel and 1.5 x 8 in. solid scissor arms.</p>\n<p>Double clevis-mounted 5 in. bore cylinders keep hydraulic pressure low, allowing an internal 3 HP power unit. The XL is rated 8,000 or 10,000 lb and built to order in the USA with US steel and components.</p>",
+            "line_code": "XLPT",
+            "key_features": [
+                "8,000 and 10,000 lb capacities",
+                "5 in. bore low-pressure cylinders",
+                "1.5 x 8 in. solid scissor arms",
+                "Internal 3 HP power unit",
+                "Built to order in the USA"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/max-lift-xl.html"
+            ],
+            "capacity_range": "8,000–10,000 lbs"
+        },
+        {
+            "slug": "lift-products-max-lift-tandem-lift-tables",
+            "title": "Lift Products Max-Lift Double Long and Double Wide Lift Tables",
+            "excerpt": "Two Max-Lift scissor assemblies in one frame for very long or very wide platforms, with capacities up to 12,000 lb.",
+            "content": "<p>Lift Products builds two scissor assemblies into one frame for loads too long or too wide for a single scissor. The Double Long (LPT-XXL) places them end to end, for platforms from 8 to 16 ft long. The Double Wide (LPT-XXW) places them side by side, for platforms up to 12 ft wide.</p>\n<p>Both designs raise edge, side and overall load capacity: standard ratings start at 2,000 lb and go up to 12,000 lb. They share the Max-Lift's grease fittings, trapped rollers, Teflon seals and 15-minute motor.</p>",
+            "line_code": "LPT-XXL / LPT-XXW",
+            "capacity_range": "2,000–12,000 lbs",
+            "key_features": [
+                "Two scissor assemblies in one frame",
+                "Platforms 8 to 16 ft long or up to 12 ft wide",
+                "Capacities up to 12,000 lb",
+                "Increased edge and side load capacity"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/tandem/double-long.html",
+                "https://www.liftproducts.com/lifttables/tandem/double-wide.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-lift-double-high-lift-tables",
+            "title": "Lift Products Max-Lift Double High Lift Tables",
+            "excerpt": "Multi-stage Max-Lift tables with one complete lift stacked on another, for 48 to 120 in. of travel on smaller platforms.",
+            "content": "<p>The Double High Max-Lift gives more vertical travel than a single scissor allows on the same platform size. Instead of joining two sets of scissor arms, Lift Products stacks one complete table on another, with an intermediate platform frame that keeps the scissors aligned and limits deflection under offset loads.</p>\n<p>Models give 48 to 120 in. of travel, with standard capacities from 2,000 lb and up to 5,000 lb (4,000 lb on the 96 and 120 in. models). It shares the Max-Lift's grease fittings, trapped rollers, Teflon seals and 15-minute motor.</p>",
+            "line_code": "LPT-XXH",
+            "capacity_range": "2,000–5,000 lbs",
+            "key_features": [
+                "One complete lift stacked on another",
+                "48 to 120 in. of travel",
+                "Capacities up to 5,000 lb",
+                "Intermediate frame limits deflection",
+                "Made in the USA"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/multi-stage.html"
+            ]
+        },
+        {
+            "slug": "lift-products-mml-lift-carts",
+            "title": "Lift Products MML Lift Carts",
+            "excerpt": "Foot-pump scissor lift carts rated 330 to 2,200 lb, for order picking, die handling, assembly and delivery.",
+            "content": "<p>The MML Maxx-Mini Lifters are portable scissor lift carts for order picking, die handling, assembly and use as a delivery cart. A hydraulic foot pump raises the platform, and a lowering lever on the push handle controls descent.</p>\n<p>Models are rated from 330 to 2,200 lb. They have an upper lift limit bypass, retractable maintenance bars and non-marking poly casters, with brakes on the rear swivel casters.</p>",
+            "line_code": "MML",
+            "key_features": [
+                "330 to 2,200 lb capacities",
+                "Hydraulic foot pump",
+                "Lowering lever on the handle",
+                "Retractable maintenance bars",
+                "Non-marking poly casters with brakes"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mml.html"
+            ],
+            "capacity_range": "330–2,200 lbs"
+        },
+        {
+            "slug": "lift-products-mml-pss-stainless-steel-lift-carts",
+            "title": "Lift Products MML-PSS Stainless Steel Lift Carts",
+            "excerpt": "Foot-pump scissor lift carts with a passivated stainless steel finish for washdown and corrosive environments.",
+            "content": "<p>MML-PSS lift carts are the passivated stainless steel version of Lift Products' MML carts, made for washdown applications and corrosive environments.</p>\n<p>Three models are rated from 400 to 1,000 lb, with up to 39 in. of travel. Like the MML, they have a hydraulic foot pump, a lowering lever on the handle, an upper lift limit bypass, maintenance bars and non-marking poly casters.</p>",
+            "line_code": "MML-PSS",
+            "key_features": [
+                "Passivated stainless steel finish",
+                "400 to 1,000 lb capacities",
+                "Hydraulic foot pump",
+                "Retractable maintenance bars"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mml-pss.html"
+            ],
+            "capacity_range": "400–1,000 lbs"
+        },
+        {
+            "slug": "lift-products-mmle-battery-powered-lift-carts",
+            "title": "Lift Products MMLE Battery Powered Lift Carts",
+            "excerpt": "Push-around scissor lift carts with a 12 V battery-powered lift, rated 1,100 to 2,200 lb.",
+            "content": "<p>The MMLE is a DC electric version of Lift Products' Maxx-Mini lift cart, for order picking, die handling and assembly where powered lifting is preferred over a foot pump.</p>\n<p>Push-button controls sit on the handle, and an onboard 12 V battery powers the lift motor. A battery charge indicator and a fully automatic internal 110 V charger are built in. Models are rated 1,100 to 2,200 lb.</p>",
+            "line_code": "MMLE",
+            "key_features": [
+                "12 V battery-powered lift",
+                "Push-button controls on the handle",
+                "Built-in battery charge indicator",
+                "Automatic internal charger",
+                "Retractable maintenance bars"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mmle.html"
+            ],
+            "capacity_range": "1,100–2,200 lbs"
+        },
+        {
+            "slug": "lift-products-mmla-linear-actuated-lift-carts",
+            "title": "Lift Products MMLA Linear Actuated Lift Carts",
+            "excerpt": "Quiet 12 V linear actuator scissor lift carts with no hydraulics, rated 330 or 550 lb, for precision and clean room work.",
+            "content": "<p>MMLA lift carts raise and lower with a 12 V DC linear actuator instead of hydraulics, so there is no risk of oil leaks or the platform drifting down over time. They are designed for precision work, clean rooms and quiet environments, operated from a pendant on a coiled cord.</p>\n<p>Capacities are 330 or 550 lb, with up to 34 in. of vertical travel and platforms of 19.7 x 31.5 or 24 x 35.8 in. An onboard automatic charger, battery discharge indicator and non-marking medical casters are standard.</p>",
+            "line_code": "MMLA",
+            "key_features": [
+                "Linear actuator lift, no hydraulics",
+                "330 and 550 lb capacities",
+                "Up to 34 in. of travel",
+                "Coiled-cord pendant control",
+                "Onboard automatic charger"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mmla.html"
+            ],
+            "capacity_range": "330–550 lbs"
+        },
+        {
+            "slug": "lift-products-lpmc-self-propelled-lift-carts",
+            "title": "Lift Products LPMC Self Propelled Lift Carts",
+            "excerpt": "Max-Lift tables on a heavy-duty transaxle drive, rated 2,000 to 3,000 lb, with lifting disabled while driving.",
+            "content": "<p>The LPMC combines a heavy-duty transaxle drive system with Lift Products' Max-Lift table to make a self-propelled lift cart. Roller grip controls drive the cart, a handle-mounted pendant controls the lift, and lifting is disabled during travel.</p>\n<p>Standard ratings are 2,000 to 3,000 lb. The LPMC is built to order and can be customized in platform size, shape and top design, as well as in the drive unit's controls, size and caster arrangement. Non-marking pneumatic tires are standard.</p>",
+            "line_code": "LPMC",
+            "key_features": [
+                "Self-propelled transaxle drive",
+                "2,000 to 3,000 lb capacities",
+                "Lift disabled while driving",
+                "Non-marking pneumatic tires",
+                "Built to order"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/mobile/lpmc.html"
+            ],
+            "capacity_range": "2,000–3,000 lbs"
+        },
+        {
+            "slug": "lift-products-lpt-mgv-self-propelled-lift-tables",
+            "title": "Lift Products LPT-MGV Self Propelled Lift Tables",
+            "excerpt": "Electric hydraulic scissor lift tables hinged to a powered pallet jack drive, rated 2,000 to 6,000 lb.",
+            "content": "<p>The LPT-MGV is an electric hydraulic scissor lift driven by a powered pallet jack with its forks removed. The lift is hinged to the drive unit so all four lift casters stay on the floor on uneven surfaces.</p>\n<p>The lift has its own motor and shares the drive unit's battery and onboard charger. It is controlled from a magnetic pendant, and the drive is disabled while the lift is raised. Capacities run from 2,000 to 6,000 lb, built to order with conveyor, ball transfer and stainless steel tops available.</p>",
+            "line_code": "LPT-MGV",
+            "key_features": [
+                "Driven by a powered pallet jack",
+                "2,000 to 6,000 lb capacities",
+                "Hinged drive keeps all casters on the floor",
+                "Drive disabled while raised",
+                "AC traction control"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/mobile/mgv.html"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "lift-products-moto-cart-jr-lift-carts",
+            "title": "Lift Products Moto-Cart Jr. Lift Carts",
+            "excerpt": "Battery-driven four-wheel electric carts with a 1,000 lb scissor lift table, in electric or foot-pump lift versions.",
+            "content": "<p>The Moto-Cart Jr. is an economical four-wheel electric cart with a transaxle drive and roller grip controls. Its maintenance-free batteries recharge from a standard 115 V automatic charger, and its quiet drive and non-marking tires suit office floors as well as industrial ones.</p>\n<p>The JRMC-ELT has a fully electric lift table with up to 45.5 in. of travel, suited to frequent height changes. The JRMC-MLT uses a foot pump for occasional or small adjustments. Both carry 1,000 lb.</p>",
+            "line_code": "JRMC-ELT / JRMC-MLT",
+            "key_features": [
+                "Battery-powered transaxle drive",
+                "1,000 lb capacity",
+                "Electric or foot-pump lift",
+                "Non-marking pneumatic tires",
+                "Automatic 115 V charger"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/electriccarts/moto-cart-jr-elt.html",
+                "https://www.liftproducts.com/electriccarts/moto-cart-jr-lt.html"
+            ],
+            "capacity_range": "1,000 lbs"
+        },
+        {
+            "slug": "lift-products-roto-max-work-positioners",
+            "title": "Lift Products Roto-Max Work Positioners",
+            "excerpt": "Electric hydraulic rotating lift tables with a 43 in. turntable and 6.5 in. lowered height, including a semi-stainless edition.",
+            "content": "<p>The Roto-Max is an electric hydraulic work positioner that lets the operator set the load height and rotate the 43 in. diameter top for access without stretching or walking around. Its 6.5 in. lowered height gives easy access to the top layer of a pallet, and it raises to 32.5 in. plus pallet height.</p>\n<p>A 1.5 HP motor runs on a standard 115 V, 20 A circuit. The semi-stainless Roto-Max SS adds a stainless steel top, base frame and bearings, Steel-It coated scissor arms, a water-resistant remote power unit and a waterproof limit switch.</p>",
+            "line_code": "RTMX",
+            "key_features": [
+                "43 in. diameter rotating top",
+                "6.5 in. lowered height",
+                "1.5 HP motor on 115 V power",
+                "Semi-stainless SS edition",
+                "Regreasable cam rollers"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/rotating/roto_max.html",
+                "https://www.liftproducts.com/lifttables/stainless/roto-max-ss.html"
+            ],
+            "capacity_range": "2,500–3,500 lbs"
+        },
+        {
+            "slug": "lift-products-guardian-lift-n-spin",
+            "title": "Lift Products Guardian Lift-N-Spin",
+            "excerpt": "A 2,000 lb low-profile rotating lift table with a 4.25 in. lowered height, loaded by pallet truck.",
+            "content": "<p>The Guardian Lift-N-Spin is a low-profile rotating lift table that can be loaded with a manual or electric pallet truck. Its automatic transition plate gives a smooth surface from the ramp onto the turntable, drops once the lift rises 1/4 in. so the top can spin, and raises again when the table is fully lowered.</p>\n<p>It lowers to 4.25 in. and raises to 35 in., and is rated 2,000 lb. A 1 HP remote power unit runs on 115 V single phase, with 230/460 V three phase optional. An aluminium safety bar stops descent on contact.</p>",
+            "line_code": "LPBL-LS",
+            "key_features": [
+                "4.25 in. lowered height",
+                "45 in. diameter rotating top",
+                "Automatic transition plate",
+                "1 HP remote power unit",
+                "Aluminium safety bar"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/rotating/guardian_lift_spin.html"
+            ],
+            "capacity_range": "2,000 lbs"
+        },
+        {
+            "slug": "lift-products-lpsl-level-loaders",
+            "title": "Lift Products LPSL Level Loaders",
+            "excerpt": "Self-levelling rotating pallet positioners using springs or an air bag, for loads of 220 to 4,400 lb.",
+            "content": "<p>LPSL Level Loaders keep the top of a pallet load at an ergonomic height as it is built or unloaded. As weight is added the platform lowers, and as it is removed the platform rises. A standard turntable rotates 360 degrees, and fork pockets allow the unit to be moved.</p>\n<p>The spring model needs no power and comes with three springs that can be removed for lighter loads, covering 440 to 4,400 lb; a stainless steel version with galvanized springs is also offered. The LPSL-AIR uses an air bag set with a pressure regulator, covering 220 to 4,400 lb and positioning loads between 10.4 and 28 in.</p>",
+            "line_code": "LPSL",
+            "capacity_range": "220–4,400 lbs",
+            "key_features": [
+                "Spring or air bag levelling",
+                "Loads from 220 to 4,400 lb",
+                "360-degree turntable",
+                "Spring model needs no power",
+                "Standard fork pockets"
+            ],
+            "categories": [
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/rotating/spring-level-loader.html",
+                "https://www.liftproducts.com/lifttables/rotating/air-bag-level-loader.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-low-profile-lift-tables",
+            "title": "Lift Products Guardian Low Profile Lift Tables",
+            "excerpt": "Low-profile scissor lift tables rated 1,100 to 3,300 lb, lowering to about 3-1/4 in. with no pit, in painted or stainless versions.",
+            "content": "<p>Guardian Low Profile lift tables lower to 3.25 in., so they can be loaded without a floor pit and suit tall pallets and operators of different heights. They carry the Guardian safety features: a perimeter safety bar, anti-trap scissor gaps, a check valve and a 1 HP remote power unit.</p>\n<p>Models are rated 1,100, 2,200 or 3,300 lb, with lowered heights of 3-1/4 to 3-5/8 in. The LPBL-SG version for wet applications has a stainless steel platform and base, a cold galvanized scissor assembly, stainless steel pins, Steel-It epoxy cylinders and IP55 electrical connections.</p>",
+            "line_code": "LPBL",
+            "key_features": [
+                "3-1/4 to 3-5/8 in. lowered height",
+                "1,100 to 3,300 lb capacities",
+                "Perimeter safety bar and check valve",
+                "1 HP remote power unit",
+                "Stainless/galvanized SG version"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/lowprofile/guardian.html",
+                "https://www.liftproducts.com/lifttables/stainless/lpbl-sg.html"
+            ],
+            "capacity_range": "1,100–3,300 lbs"
+        },
+        {
+            "slug": "lift-products-guardian-e-lift-tables",
+            "title": "Lift Products Guardian E-Lift Tables",
+            "excerpt": "E-shaped low-profile lift tables rated 2,200 lb, loaded from the floor with a 27 in. pallet truck.",
+            "content": "<p>The Guardian E-Lift is a low-profile lift table for open-bottom pallets, skids, containers and wire baskets. Its E-shaped platform has a 28.9 in. center opening, so a standard 27 in. wide pallet truck can load it from the floor, and a center support keeps the pallet from sagging.</p>\n<p>It is rated 2,200 lb, lowers to 3-1/8 in. and has the Guardian safety bar, anti-trap scissor gaps and a 1 HP remote power unit. The LPBLE-SG version has stainless and galvanized construction for wet applications.</p>",
+            "line_code": "LPBLE",
+            "key_features": [
+                "E-shaped platform for 27 in. pallet trucks",
+                "2,200 lb capacity",
+                "3-1/8 in. lowered height",
+                "Guardian safety bar",
+                "Stainless/galvanized SG version"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/lowprofile/elift.html",
+                "https://www.liftproducts.com/lifttables/stainless/lpble-sg.html"
+            ],
+            "capacity_range": "2,200 lbs"
+        },
+        {
+            "slug": "lift-products-guardian-u-lift-tables",
+            "title": "Lift Products Guardian U-Lift Tables",
+            "excerpt": "U-shaped low-profile lift tables rated 2,200 or 3,300 lb, loaded from the floor with a 21 in. pallet truck.",
+            "content": "<p>The Guardian U-Lift has a U-shaped low-profile platform for wire baskets, containers and open-bottom plastic or wooden pallets. A 21 in. wide manual or electric pallet truck loads it directly from the floor, with no ramp or pit, which also removes a ramp's tripping hazard.</p>\n<p>Models are rated 2,200 or 3,300 lb, with the Guardian safety bar, anti-trap scissor gaps and a 1 HP remote power unit. The LPBLU-SG version has stainless and galvanized construction for wet applications.</p>",
+            "line_code": "LPBLU",
+            "key_features": [
+                "U-shaped platform for 21 in. pallet trucks",
+                "2,200 and 3,300 lb capacities",
+                "No ramp or pit needed",
+                "Guardian safety bar",
+                "Stainless/galvanized SG version"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/lowprofile/ulift.html",
+                "https://www.liftproducts.com/lifttables/stainless/lpblu-sg.html"
+            ],
+            "capacity_range": "2,200–3,300 lbs"
+        },
+        {
+            "slug": "lift-products-sxt-stainless-steel-lift-tables",
+            "title": "Lift Products SXT Stainless Steel Lift Tables",
+            "excerpt": "USDA-approved T304 stainless steel scissor lift tables for washdown areas in food, chemical and pharmaceutical plants.",
+            "content": "<p>The SXT is a hydraulic lift table for washdown areas, built from T304 stainless steel with a passivated sanitary finish and no dead-end spaces. Lift Products describes it as USDA approved for food processing, chemical and pharmaceutical work.</p>\n<p>It has fully enclosed dual low-pressure cylinders and an internally mounted motor with a white epoxy finish; full stainless cylinders and a remote power unit are optional. The platform is larger than the base frame, leaving a foot-protection gap when lowered.</p>",
+            "line_code": "SXT",
+            "key_features": [
+                "T304 stainless steel construction",
+                "Passivated sanitary finish",
+                "Enclosed dual hydraulic cylinders",
+                "Washguard motor",
+                "USDA approved"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/sxt.html"
+            ],
+            "capacity_range": "4,000 lbs"
+        },
+        {
+            "slug": "lift-products-sxtlp-stainless-steel-ground-entry-lift-tables",
+            "title": "Lift Products SXTLP Stainless Steel Ground Entry Lift Tables",
+            "excerpt": "T304 stainless steel ground entry lift tables with a 0.5 in. lowered height, loaded directly by pallet jack.",
+            "content": "<p>The SXTLP is a stainless steel ground entry lift table for washdown areas. With a front-bevelled 0.5 in. lowered platform, it can be loaded by a stainless pallet jack with no ramp or other equipment.</p>\n<p>It is built from T304 stainless steel with a passivated sanitary finish, enclosed dual hydraulic cylinders and a self-contained remote power unit in a stainless box, on 115 V single phase. Side walls are only 2.5 in. wide to reduce reaching.</p>",
+            "line_code": "SXTLP",
+            "key_features": [
+                "0.5 in. lowered height",
+                "T304 stainless steel construction",
+                "Loaded directly by pallet jack",
+                "2.5 in. narrow side walls",
+                "USDA approved"
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/sxtlp.html"
+            ],
+            "capacity_range": "2,500 lbs"
+        },
+        {
+            "slug": "lift-products-level-lifter-ground-entry-lift-tables",
+            "title": "Lift Products Level Lifter Ground Entry Lift Tables",
+            "excerpt": "Ground entry lift tables with a 0.5 in. lowered height and a four-point lift system, rated 2,500 to 4,000 lb.",
+            "content": "<p>The Level Lifter is a ground entry lift table for jobs that call for a pit-mounted lift where a pit isn't practical. It lowers to 0.5 in., and its lip is bevelled a full 3 in. into the platform for smooth entry with a hand pallet truck.</p>\n<p>An exclusive four-point lift system minimizes platform deflection for unstable loads. Thin side walls allow easy access, and a photo eye interrupts lowering if something is in the way. Capacities are 2,500 to 4,000 lb.</p>",
+            "line_code": "LL",
+            "key_features": [
+                "0.5 in. lowered height",
+                "Four-point lift system",
+                "3 in. bevelled entry lip",
+                "Photo eye obstruction stop",
+                "2,500 to 4,000 lb capacities"
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/groundentry/level_lifter.html"
+            ],
+            "capacity_range": "2,500–4,000 lbs"
+        },
+        {
+            "slug": "lift-products-max-lift-and-tilt-tables",
+            "title": "Lift Products Max-Lift & Tilt Tables",
+            "excerpt": "Electric hydraulic tables that lift and tilt independently, with 45, 60 or 90 degrees of tilt and 2,000 to 5,000 lb capacities.",
+            "content": "<p>Max-Lift & Tilt tables lift and tilt the load for better access in parts handling and assembly. Lift and tilt are independent functions, and the tables are fully customizable.</p>\n<p>They are available with 45, 60 or 90 degrees of tilt. 45-degree models are powered up and gravity down, while 60- and 90-degree models are powered both ways with double-acting cylinders. Capacities run from 2,000 to 5,000 lb.</p>",
+            "line_code": "LPTTL",
+            "key_features": [
+                "Independent lift and tilt",
+                "45, 60 or 90 degrees of tilt",
+                "2,000 to 5,000 lb capacities",
+                "Double-acting cylinders on 60/90-degree models"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/tilting/max-lift-tilt.html"
+            ],
+            "capacity_range": "2,000–5,000 lbs"
+        },
+        {
+            "slug": "lift-products-compact-lift-and-tilt-tables",
+            "title": "Lift Products Compact Lift & Tilt Tables",
+            "excerpt": "Heavy-duty tables that lift and tilt together within their own base frame, to 45 degrees, rated 2,000 to 6,000 lb.",
+            "content": "<p>The Max-Compact Lift & Tilt (LPECTL) lifts and tilts within its own base frame, so it takes up little floor space. A hinged steel extension on the scissor arms tilts the platform toward the operator as the table rises, combining both motions in one stroke.</p>\n<p>Capacities run from 2,000 to 6,000 lb, with up to 45 degrees of tilt and platforms from 24 x 48 to 48 x 48 in. Double-acting cylinders, an internal 1 HP motor, a NEMA 4X pushbutton box and a 12 in. lip on the pivot end are standard.</p>",
+            "line_code": "LPECTL",
+            "key_features": [
+                "Combined lift and tilt",
+                "Tilt to 45 degrees",
+                "2,000 to 6,000 lb capacities",
+                "Works within its own base frame",
+                "Double-acting cylinders"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/tilters/compact-lift.html"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "lift-products-max-tilt-tilt-tables",
+            "title": "Lift Products Max-Tilt Tilt Tables",
+            "excerpt": "Electric hydraulic tilt tables with 45 or 90 degrees of tilt, rated 2,000 to 6,000 lb, with a 4 in. platform lip.",
+            "content": "<p>Max-Tilt tables tilt a container or load toward the operator for better access to its contents. They are available with 45 or 90 degrees of tilt: 45-degree models are powered up and gravity down, and 90-degree models are powered both ways with double-acting cylinders.</p>\n<p>Capacities run from 2,000 to 6,000 lb. A ribbed steel deck keeps the load stable through the stroke, and a standard 4 in. lip holds most containers, with custom lips available.</p>",
+            "line_code": "LPTT",
+            "key_features": [
+                "45 or 90 degrees of tilt",
+                "2,000 to 6,000 lb capacities",
+                "Ribbed steel platform deck",
+                "Standard 4 in. lip",
+                "15-minute duty motor"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/tilters/max-tilt.html"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "lift-products-maxx-ergo-tilters",
+            "title": "Lift Products Maxx-Ergo Tilters",
+            "excerpt": "Manual pump tote and container tilters with 0 to 35 degrees of tilt, rated 2,000 to 3,000 lb.",
+            "content": "<p>Maxx-Ergo Tilters tilt totes, tubs, wire baskets, boxes and other containers to make parts easier to reach. A manual hydraulic pump, with handles on both sides, sets the tilt angle between 0 and 35 degrees, and an air bag actuator is available for faster or repetitive tilting and clean rooms.</p>\n<p>Capacities run from 2,000 to 3,000 lb. The base model lowers to 9 in., with an adjustable-height base (18 to 22 in.), a fixed raised base and casters as options. A 4 in. lip and fork pockets are standard.</p>",
+            "line_code": "LPDW",
+            "key_features": [
+                "0 to 35 degrees of tilt",
+                "2,000 to 3,000 lb capacities",
+                "Manual pump with handles on both sides",
+                "Optional air actuator",
+                "Standard fork pockets"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/tilters/max-ergo-tilter.html"
+            ],
+            "capacity_range": "2,000–3,000 lbs"
+        },
+        {
+            "slug": "lift-products-work-positioners",
+            "title": "Lift Products Work Positioners",
+            "excerpt": "Mobile single-post work positioners with hydraulic or pneumatic height adjustment and a tilting or rotating top.",
+            "content": "<p>Lift Products' work positioners are compact mobile stands that put a work piece at the user's preferred height. Each has a telescoping post with a safety lever and four swivel poly casters with brakes, and they collapse for storage.</p>\n<p>The MXH15 raises with a hydraulic foot pump, even under load, and has a platform that tilts to 40 degrees. The ML15 uses a pneumatic cylinder with a height-lock knob and the same tilting platform. The MXHR has a hydraulic foot pump and a 23.5 in. top that rotates 360 degrees with a brake.</p>",
+            "line_code": "MXH / ML / MXHR",
+            "key_features": [
+                "Hydraulic or pneumatic height adjustment",
+                "Tilting (0 to 40 degrees) or rotating top",
+                "330 to 440 lb capacities",
+                "Swivel casters with brakes",
+                "Compact, collapsible design"
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/workpositioners/hydraulic.html",
+                "https://www.liftproducts.com/workpositioners/pneumatic.html",
+                "https://www.liftproducts.com/workpositioners/rotating.html"
+            ],
+            "capacity_range": "330–440 lbs"
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "lift-products-guardian-models",
+            "title": "Lift Products Guardian Models",
+            "line": "lift-products-guardian-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 1,100 lb, with 23-1/4–39-3/8 in. of travel.",
+            "models": [
+                {
+                    "model": "LPB-10-0",
+                    "capacity_lbs": 1100,
+                    "platform": "31.5 x 39.38 in",
+                    "lowered_height_in": 7.86,
+                    "raised_height_in": 31,
+                    "notes": "23-1/4 in travel"
+                },
+                {
+                    "model": "LPB-10-1",
+                    "capacity_lbs": 1100,
+                    "platform": "31.5 x 49.25 in",
+                    "lowered_height_in": 7.86,
+                    "raised_height_in": 39.38,
+                    "notes": "31-1/2 in travel"
+                },
+                {
+                    "model": "LPB-10-2",
+                    "capacity_lbs": 1100,
+                    "platform": "39.38 x 49.25 in",
+                    "lowered_height_in": 7.86,
+                    "raised_height_in": 39.38,
+                    "notes": "31-1/2 in travel"
+                },
+                {
+                    "model": "LPB-10-3",
+                    "capacity_lbs": 1100,
+                    "platform": "31.5 x 59 in",
+                    "lowered_height_in": 8.63,
+                    "raised_height_in": 48,
+                    "notes": "39-3/8 in travel"
+                },
+                {
+                    "model": "LPB-10-4",
+                    "capacity_lbs": 1100,
+                    "platform": "39.38 x 59 in",
+                    "lowered_height_in": 8.63,
+                    "raised_height_in": 48,
+                    "notes": "39-3/8 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/guardian_lift_tables.html"
+            ]
+        },
+        {
+            "slug": "lift-products-g-series-models",
+            "title": "Lift Products G-Series Models",
+            "line": "lift-products-g-series-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 2,000–3,000 lb, with 32 in. of travel.",
+            "models": [
+                {
+                    "model": "2G-2849",
+                    "capacity_lbs": 2000,
+                    "platform": "28 x 49 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "2G-3849",
+                    "capacity_lbs": 2000,
+                    "platform": "38 x 49 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "3G-3049",
+                    "capacity_lbs": 3000,
+                    "platform": "30 x 49 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "3G-3849",
+                    "capacity_lbs": 3000,
+                    "platform": "38 x 49 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "3G-4848",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "32 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/2G-3G.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-m22-m33-models",
+            "title": "Lift Products Max-M22/M33 Models",
+            "line": "lift-products-max-m22-m33-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,200–3,300 lb, with 36 in. of travel.",
+            "models": [
+                {
+                    "model": "M22-36",
+                    "capacity_lbs": 2200,
+                    "platform": "24 x 48 to 42 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "M33-36",
+                    "capacity_lbs": 3300,
+                    "platform": "24 x 48 to 42 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "36 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/M22.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-lift-models",
+            "title": "Lift Products Max-Lift Models",
+            "line": "lift-products-max-lift-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "76 models rated 2,000–6,000 lb, with 24–72 in. of travel.",
+            "models": [
+                {
+                    "model": "LPT-020-24",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPT-025-24",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPT-030-24",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPT-035-24",
+                    "capacity_lbs": 3500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPT-040-24",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPT-050-24",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPT-060-24",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPT-020-36",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-030-36",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-035-36",
+                    "capacity_lbs": 3500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-040-36",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-045-36",
+                    "capacity_lbs": 4500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-050-36",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-060-36",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-020-48",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-025-48",
+                    "capacity_lbs": 2500,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-030-48",
+                    "capacity_lbs": 3000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-035-48",
+                    "capacity_lbs": 3500,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-040-48",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-050-48",
+                    "capacity_lbs": 5000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-060-48",
+                    "capacity_lbs": 6000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-020-60",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-025-60",
+                    "capacity_lbs": 2500,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-030-60",
+                    "capacity_lbs": 3000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-035-60",
+                    "capacity_lbs": 3500,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-040-60",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-050-60",
+                    "capacity_lbs": 5000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 68,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-060-60",
+                    "capacity_lbs": 6000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 68,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-020-72",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 86.5,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "LPT-025-72",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 86.5,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "LPT-030-72",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 86.5,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "LPT3W-020-36",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-030-36",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-035-36",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-040-36",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-045-36",
+                    "capacity_lbs": 4500,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-050-36",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-060-36",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT3W-020-48",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT3W-025-48",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT3W-030-48",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT3W-035-48",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT3W-040-48",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT3W-050-48",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT3W-060-48",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT3W-020-60",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 84 to 60 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT3W-025-60",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 84 to 60 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT3W-030-60",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 84 to 60 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT3W-035-60",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 84 to 60 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT3W-040-60",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 84 to 60 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT3W-050-60",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 84 to 60 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT3W-060-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 84 to 60 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT4W-020-36",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-030-36",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-035-36",
+                    "capacity_lbs": 3500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-040-36",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-045-36",
+                    "capacity_lbs": 4500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-050-36",
+                    "capacity_lbs": 5000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-060-36",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT4W-020-48",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT4W-025-48",
+                    "capacity_lbs": 2500,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT4W-030-48",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT4W-035-48",
+                    "capacity_lbs": 3500,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT4W-040-48",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT4W-050-48",
+                    "capacity_lbs": 5000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT4W-060-48",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT4W-020-60",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT4W-025-60",
+                    "capacity_lbs": 2500,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT4W-030-60",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT4W-035-60",
+                    "capacity_lbs": 3500,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT4W-040-60",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT4W-050-60",
+                    "capacity_lbs": 5000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT4W-060-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/maxlift/max-lift-specs.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-lift-xl-models",
+            "title": "Lift Products Max-Lift XL Models",
+            "line": "lift-products-max-lift-xl-heavy-duty-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 8,000–10,000 lb, with 36 in. of travel.",
+            "models": [
+                {
+                    "model": "XLPT-080-36",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "XLPT-100-36",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/max-lift-xl.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-lift-xxl-models",
+            "title": "Lift Products Max-Lift Double Long Models",
+            "line": "lift-products-max-lift-tandem-lift-tables",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000 lb, with 36–60 in. of travel.",
+            "models": [
+                {
+                    "model": "LPT-36XXL",
+                    "capacity_lbs": 2000,
+                    "platform": "26 x 96 to 48 x 144 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "available up to 12,000 lb, 36 in travel"
+                },
+                {
+                    "model": "LPT-48XXL",
+                    "capacity_lbs": 2000,
+                    "platform": "27 x 130 to 48 x 192 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "available up to 12,000 lb, 48 in travel"
+                },
+                {
+                    "model": "LPT-60XXL",
+                    "capacity_lbs": 2000,
+                    "platform": "27 x 170 to 48 x 216 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "available up to 12,000 lb, 60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/tandem/double-long.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-lift-xxw-models",
+            "title": "Lift Products Max-Lift Double Wide Models",
+            "line": "lift-products-max-lift-tandem-lift-tables",
+            "menu_order": 20,
+            "excerpt": "3 models rated 2,000 lb, with 36–60 in. of travel.",
+            "models": [
+                {
+                    "model": "LPT-36XXW",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 50 to 96 x 74 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "available up to 12,000 lb, 36 in travel"
+                },
+                {
+                    "model": "LPT-48XXW",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 66 to 96 x 98 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "available up to 12,000 lb, 48 in travel"
+                },
+                {
+                    "model": "LPT-60XXW",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 86 to 96 x 110 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "available up to 12,000 lb, 60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/tandem/double-wide.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-lift-xxh-models",
+            "title": "Lift Products Max-Lift Double High Models",
+            "line": "lift-products-max-lift-double-high-lift-tables",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,000 lb, with 48–120 in. of travel.",
+            "models": [
+                {
+                    "model": "LPT-48XXH",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 62.5,
+                    "notes": "available up to 5,000 lb, 48 in travel"
+                },
+                {
+                    "model": "LPT-72XXH",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 86.5,
+                    "notes": "available up to 5,000 lb, 72 in travel"
+                },
+                {
+                    "model": "LPT-96XXH",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 64 to 48 x 88 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 111,
+                    "notes": "available up to 4,000 lb, 96 in travel"
+                },
+                {
+                    "model": "LPT-120XXH",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 136,
+                    "notes": "available up to 4,000 lb, 120 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/multi-stage.html"
+            ]
+        },
+        {
+            "slug": "lift-products-mml-models",
+            "title": "Lift Products MML Models",
+            "line": "lift-products-mml-lift-carts",
+            "menu_order": 10,
+            "excerpt": "10 models rated 330–2,200 lb, with 20–45 in. of travel.",
+            "models": [
+                {
+                    "model": "MML-15",
+                    "capacity_lbs": 330,
+                    "platform": "17.8 x 27.5 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 30,
+                    "notes": "20 in travel"
+                },
+                {
+                    "model": "MML-25",
+                    "capacity_lbs": 550,
+                    "platform": "19.8 x 32.8 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "MML-50",
+                    "capacity_lbs": 1100,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 39,
+                    "notes": "22 in travel"
+                },
+                {
+                    "model": "MML-50XLN",
+                    "capacity_lbs": 1100,
+                    "platform": "24.5 x 60 in",
+                    "lowered_height_in": 15.8,
+                    "raised_height_in": 43.3,
+                    "notes": "27-1/2 in travel"
+                },
+                {
+                    "model": "MML-50XLW",
+                    "capacity_lbs": 1100,
+                    "platform": "31.5 x 47.3 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 46.8,
+                    "notes": "32-5/16 in travel"
+                },
+                {
+                    "model": "MML-75",
+                    "capacity_lbs": 1650,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 39,
+                    "notes": "22 in travel"
+                },
+                {
+                    "model": "MML-100",
+                    "capacity_lbs": 2200,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 39,
+                    "notes": "22 in travel"
+                },
+                {
+                    "model": "MML-100XL",
+                    "capacity_lbs": 2200,
+                    "platform": "31.5 x 47.3 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 48,
+                    "notes": "31 in travel"
+                },
+                {
+                    "model": "MML-30D",
+                    "capacity_lbs": 660,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 62,
+                    "notes": "45 in travel"
+                },
+                {
+                    "model": "MML-50D",
+                    "capacity_lbs": 1100,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 62,
+                    "notes": "45 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mml.html"
+            ]
+        },
+        {
+            "slug": "lift-products-mml-pss-models",
+            "title": "Lift Products MML-PSS Models",
+            "line": "lift-products-mml-pss-stainless-steel-lift-carts",
+            "menu_order": 10,
+            "excerpt": "3 models rated 400–1,000 lb, with 20-1/2–39 in. of travel.",
+            "models": [
+                {
+                    "model": "MML-15PSS",
+                    "capacity_lbs": 400,
+                    "platform": "17.5 x 27.5 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 29.5,
+                    "notes": "20-1/2 in travel"
+                },
+                {
+                    "model": "MML-25DPSS",
+                    "capacity_lbs": 800,
+                    "platform": "19.5 x 36.25 in",
+                    "lowered_height_in": 14.25,
+                    "raised_height_in": 53,
+                    "notes": "39 in travel"
+                },
+                {
+                    "model": "MML-50PSS",
+                    "capacity_lbs": 1000,
+                    "platform": "19.5 x 32.5 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 35.5,
+                    "notes": "24 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mml-pss.html"
+            ]
+        },
+        {
+            "slug": "lift-products-mmle-models",
+            "title": "Lift Products MMLE Models",
+            "line": "lift-products-mmle-battery-powered-lift-carts",
+            "menu_order": 10,
+            "excerpt": "4 models rated 1,100–2,200 lb, with 18–44 in. of travel.",
+            "models": [
+                {
+                    "model": "MMLE-100",
+                    "capacity_lbs": 2200,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 19.3,
+                    "raised_height_in": 37.3,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "MMLE-100-XL",
+                    "capacity_lbs": 2200,
+                    "platform": "31.5 x 47.3 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 48,
+                    "notes": "31 in travel"
+                },
+                {
+                    "model": "MMLE-50D",
+                    "capacity_lbs": 1100,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 19.5,
+                    "raised_height_in": 63.5,
+                    "notes": "44 in travel"
+                },
+                {
+                    "model": "MMLE-80D",
+                    "capacity_lbs": 1760,
+                    "platform": "20.5 x 39.8 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 57,
+                    "notes": "37 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mmle.html"
+            ]
+        },
+        {
+            "slug": "lift-products-mmla-models",
+            "title": "Lift Products MMLA Models",
+            "line": "lift-products-mmla-linear-actuated-lift-carts",
+            "menu_order": 10,
+            "excerpt": "4 models rated 330–550 lb, with 18-11/16–34-3/8 in. of travel.",
+            "models": [
+                {
+                    "model": "MMLA-151D",
+                    "capacity_lbs": 330,
+                    "platform": "19.7 x 31.5 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 50.4,
+                    "notes": "34-3/8 in travel"
+                },
+                {
+                    "model": "MMLA-152D",
+                    "capacity_lbs": 330,
+                    "platform": "24 x 35.8 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 50.4,
+                    "notes": "34-3/8 in travel"
+                },
+                {
+                    "model": "MMLA-251",
+                    "capacity_lbs": 550,
+                    "platform": "19.7 x 31.5 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 32.7,
+                    "notes": "18-11/16 in travel"
+                },
+                {
+                    "model": "MMLA-252",
+                    "capacity_lbs": 550,
+                    "platform": "24 x 35.8 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 32.7,
+                    "notes": "18-11/16 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/liftcarts/mmla.html"
+            ]
+        },
+        {
+            "slug": "lift-products-lpmc-models",
+            "title": "Lift Products LPMC Models",
+            "line": "lift-products-lpmc-self-propelled-lift-carts",
+            "menu_order": 10,
+            "excerpt": "9 models rated 2,000–3,000 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "LPMC-020-24",
+                    "capacity_lbs": 2000,
+                    "platform": "26 x 41 to 48 x 60 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPMC-025-24",
+                    "capacity_lbs": 2500,
+                    "platform": "26 x 41 to 48 x 60 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPMC-030-24",
+                    "capacity_lbs": 2500,
+                    "platform": "26 x 41 to 48 x 60 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LPMC-020-36",
+                    "capacity_lbs": 2000,
+                    "platform": "26 x 48 to 48 x 72 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPMC-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "26 x 48 to 48 x 72 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPMC-030-36",
+                    "capacity_lbs": 3000,
+                    "platform": "26 x 48 to 48 x 72 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPMC-020-48",
+                    "capacity_lbs": 2000,
+                    "platform": "26 x 64 to 48 x 84 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPMC-025-48",
+                    "capacity_lbs": 2500,
+                    "platform": "26 x 64 to 48 x 84 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPMC-030-48",
+                    "capacity_lbs": 3000,
+                    "platform": "26 x 64 to 48 x 84 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/mobile/lpmc.html"
+            ]
+        },
+        {
+            "slug": "lift-products-lpt-mgv-models",
+            "title": "Lift Products LPT-MGV Models",
+            "line": "lift-products-lpt-mgv-self-propelled-lift-tables",
+            "menu_order": 10,
+            "excerpt": "24 models rated 2,000–6,000 lb, with 36–60 in. of travel.",
+            "models": [
+                {
+                    "model": "LPT-MGV-020-36",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-030-36",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-035-36",
+                    "capacity_lbs": 3500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-040-36",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-045-36",
+                    "capacity_lbs": 4500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-050-36",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-060-36",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LPT-MGV-020-48",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-025-48",
+                    "capacity_lbs": 2500,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-030-48",
+                    "capacity_lbs": 3000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-035-48",
+                    "capacity_lbs": 3500,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-040-48",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-045-48",
+                    "capacity_lbs": 4500,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-050-48",
+                    "capacity_lbs": 5000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-060-48",
+                    "capacity_lbs": 6000,
+                    "platform": "25 x 64 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LPT-MGV-020-60",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-MGV-025-60",
+                    "capacity_lbs": 2500,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-MGV-030-60",
+                    "capacity_lbs": 3000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-MGV-035-60",
+                    "capacity_lbs": 3500,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-MGV-040-60",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-MGV-045-60",
+                    "capacity_lbs": 4500,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-MGV-050-60",
+                    "capacity_lbs": 5000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LPT-MGV-060-60",
+                    "capacity_lbs": 6000,
+                    "platform": "25 x 84 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/mobile/mgv.html"
+            ]
+        },
+        {
+            "slug": "lift-products-moto-cart-jr-elt-models",
+            "title": "Lift Products Moto-Cart Jr. ELT Models",
+            "line": "lift-products-moto-cart-jr-lift-carts",
+            "menu_order": 10,
+            "excerpt": "2 models rated 1,000 lb, with 17-5/16–45-1/2 in. of travel.",
+            "models": [
+                {
+                    "model": "JRMC-11-ELT",
+                    "capacity_lbs": 1000,
+                    "platform": "23 x 43 in",
+                    "lowered_height_in": 18.5,
+                    "raised_height_in": 64,
+                    "notes": "45-1/2 in travel"
+                },
+                {
+                    "model": "JRMC-11-ELT-M",
+                    "capacity_lbs": 1000,
+                    "platform": "23.6 x 39.4 in",
+                    "lowered_height_in": 18.1,
+                    "raised_height_in": 35.4,
+                    "notes": "17-5/16 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/electriccarts/moto-cart-jr-elt.html"
+            ]
+        },
+        {
+            "slug": "lift-products-moto-cart-jr-mlt-models",
+            "title": "Lift Products Moto-Cart Jr. MLT Models",
+            "line": "lift-products-moto-cart-jr-lift-carts",
+            "menu_order": 20,
+            "excerpt": "1 model rated 1,000 lb, with 25 in. of travel.",
+            "models": [
+                {
+                    "model": "JRMC-11-MLT",
+                    "capacity_lbs": 1000,
+                    "platform": "23 x 39.4 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 41,
+                    "notes": "25 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/electriccarts/moto-cart-jr-lt.html"
+            ]
+        },
+        {
+            "slug": "lift-products-roto-max-models",
+            "title": "Lift Products Roto-Max Models",
+            "line": "lift-products-roto-max-work-positioners",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,500–3,500 lb, with 26 in. of travel.",
+            "models": [
+                {
+                    "model": "RTMX-25HS",
+                    "capacity_lbs": 2500,
+                    "platform": "43 in round",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 32.5,
+                    "notes": "26 in travel"
+                },
+                {
+                    "model": "RTMX-30",
+                    "capacity_lbs": 3000,
+                    "platform": "43 in round",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 32.5,
+                    "notes": "26 in travel"
+                },
+                {
+                    "model": "RTMX-35",
+                    "capacity_lbs": 3500,
+                    "platform": "43 in round",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 32.5,
+                    "notes": "26 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/rotating/roto_max.html"
+            ]
+        },
+        {
+            "slug": "lift-products-roto-max-ss-models",
+            "title": "Lift Products Roto-Max SS Models",
+            "line": "lift-products-roto-max-work-positioners",
+            "menu_order": 20,
+            "excerpt": "3 models rated 2,500–3,500 lb, with 26 in. of travel.",
+            "models": [
+                {
+                    "model": "RTMX-25HS-SS",
+                    "capacity_lbs": 2500,
+                    "platform": "43 in round",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 32.5,
+                    "notes": "26 in travel"
+                },
+                {
+                    "model": "RTMX-30-SS",
+                    "capacity_lbs": 3000,
+                    "platform": "43 in round",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 32.5,
+                    "notes": "26 in travel"
+                },
+                {
+                    "model": "RTMX-35-SS",
+                    "capacity_lbs": 3500,
+                    "platform": "43 in round",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 32.5,
+                    "notes": "26 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/roto-max-ss.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-lift-n-spin-models",
+            "title": "Lift Products Guardian Lift-N-Spin Models",
+            "line": "lift-products-guardian-lift-n-spin",
+            "menu_order": 10,
+            "excerpt": "1 model rated 2,000 lb, with 30-3/4 in. of travel.",
+            "models": [
+                {
+                    "model": "LPBL-20-2-LS",
+                    "capacity_lbs": 2000,
+                    "platform": "45 in round",
+                    "lowered_height_in": 4.25,
+                    "raised_height_in": 35,
+                    "notes": "30-3/4 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/rotating/guardian_lift_spin.html"
+            ]
+        },
+        {
+            "slug": "lift-products-lpsl-spring-models",
+            "title": "Lift Products LPSL Spring Level Loader Models",
+            "line": "lift-products-lpsl-level-loaders",
+            "menu_order": 10,
+            "excerpt": "1 model rated 4,400 lb, with 18-1/2 in. of travel.",
+            "models": [
+                {
+                    "model": "LPSL-44",
+                    "capacity_lbs": 4400,
+                    "platform": "43 in round",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 28,
+                    "notes": "self-levels 440–4,400 lb, 18-1/2 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/rotating/spring-level-loader.html"
+            ]
+        },
+        {
+            "slug": "lift-products-lpsl-air-models",
+            "title": "Lift Products LPSL-AIR Level Loader Models",
+            "line": "lift-products-lpsl-level-loaders",
+            "menu_order": 20,
+            "excerpt": "1 model rated 4,400 lb, with 17-5/8 in. of travel.",
+            "models": [
+                {
+                    "model": "LPSL-44-AIR",
+                    "capacity_lbs": 4400,
+                    "platform": "44 in round",
+                    "lowered_height_in": 10.4,
+                    "raised_height_in": 28,
+                    "notes": "self-levels 220–4,400 lb, 17-5/8 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/rotating/air-bag-level-loader.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-low-profile-models",
+            "title": "Lift Products Guardian Low Profile Models",
+            "line": "lift-products-guardian-low-profile-lift-tables",
+            "menu_order": 10,
+            "excerpt": "6 models rated 1,100–3,300 lb, with 29-1/2–30-3/4 in. of travel.",
+            "models": [
+                {
+                    "model": "LPBL-10-1",
+                    "capacity_lbs": 1100,
+                    "platform": "31.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-10-2",
+                    "capacity_lbs": 1100,
+                    "platform": "39.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-20-1",
+                    "capacity_lbs": 2200,
+                    "platform": "31.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-20-2",
+                    "capacity_lbs": 2200,
+                    "platform": "39.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-30-1",
+                    "capacity_lbs": 3300,
+                    "platform": "31.5 x 61 in",
+                    "lowered_height_in": 3.63,
+                    "raised_height_in": 33.13,
+                    "notes": "29-1/2 in travel"
+                },
+                {
+                    "model": "LPBL-30-2",
+                    "capacity_lbs": 3300,
+                    "platform": "39.5 x 61 in",
+                    "lowered_height_in": 3.63,
+                    "raised_height_in": 33.13,
+                    "notes": "29-1/2 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/lowprofile/guardian.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-low-profile-sg-models",
+            "title": "Lift Products Guardian Low Profile SG Models",
+            "line": "lift-products-guardian-low-profile-lift-tables",
+            "menu_order": 20,
+            "excerpt": "6 models rated 1,100–3,300 lb, with 29-1/2–30-3/4 in. of travel.",
+            "models": [
+                {
+                    "model": "LPBL-10-1-SG",
+                    "capacity_lbs": 1100,
+                    "platform": "31.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-10-2-SG",
+                    "capacity_lbs": 1100,
+                    "platform": "39.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-20-1-SG",
+                    "capacity_lbs": 2200,
+                    "platform": "31.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-20-2-SG",
+                    "capacity_lbs": 2200,
+                    "platform": "39.5 x 55 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBL-30-1-SG",
+                    "capacity_lbs": 3300,
+                    "platform": "31.5 x 61 in",
+                    "lowered_height_in": 3.63,
+                    "raised_height_in": 33.13,
+                    "notes": "29-1/2 in travel"
+                },
+                {
+                    "model": "LPBL-30-2-SG",
+                    "capacity_lbs": 3300,
+                    "platform": "39.5 x 61 in",
+                    "lowered_height_in": 3.63,
+                    "raised_height_in": 33.13,
+                    "notes": "29-1/2 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/lpbl-sg.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-e-lift-models",
+            "title": "Lift Products Guardian E-Lift Models",
+            "line": "lift-products-guardian-e-lift-tables",
+            "menu_order": 10,
+            "excerpt": "1 model rated 2,200 lb, with 30-3/4 in. of travel.",
+            "models": [
+                {
+                    "model": "LPBLE-20",
+                    "capacity_lbs": 2200,
+                    "platform": "50 x 55.88 in",
+                    "lowered_height_in": 3.13,
+                    "raised_height_in": 33.88,
+                    "notes": "30-3/4 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/lowprofile/elift.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-e-lift-sg-models",
+            "title": "Lift Products Guardian E-Lift SG Models",
+            "line": "lift-products-guardian-e-lift-tables",
+            "menu_order": 20,
+            "excerpt": "1 model rated 2,200 lb, with 30-3/4 in. of travel.",
+            "models": [
+                {
+                    "model": "LPBLE-20-SG",
+                    "capacity_lbs": 2200,
+                    "platform": "50 x 55.88 in",
+                    "lowered_height_in": 3.13,
+                    "raised_height_in": 33.88,
+                    "notes": "30-3/4 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/lpble-sg.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-u-lift-models",
+            "title": "Lift Products Guardian U-Lift Models",
+            "line": "lift-products-guardian-u-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,200–3,300 lb, with 29-1/2–30-3/4 in. of travel.",
+            "models": [
+                {
+                    "model": "LPBLU-20",
+                    "capacity_lbs": 2200,
+                    "platform": "50 x 55.88 in",
+                    "lowered_height_in": 3.13,
+                    "raised_height_in": 33.88,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBLU-30",
+                    "capacity_lbs": 3300,
+                    "platform": "45.63 x 59.88 in",
+                    "lowered_height_in": 3.63,
+                    "raised_height_in": 33.88,
+                    "notes": "29-1/2 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/lowprofile/ulift.html"
+            ]
+        },
+        {
+            "slug": "lift-products-guardian-u-lift-sg-models",
+            "title": "Lift Products Guardian U-Lift SG Models",
+            "line": "lift-products-guardian-u-lift-tables",
+            "menu_order": 20,
+            "excerpt": "2 models rated 2,200–3,300 lb, with 29-1/2–30-3/4 in. of travel.",
+            "models": [
+                {
+                    "model": "LPBLU-20-SG",
+                    "capacity_lbs": 2200,
+                    "platform": "50 x 55.88 in",
+                    "lowered_height_in": 3.13,
+                    "raised_height_in": 33.88,
+                    "notes": "30-3/4 in travel"
+                },
+                {
+                    "model": "LPBLU-30-SG",
+                    "capacity_lbs": 3300,
+                    "platform": "45.63 x 59.88 in",
+                    "lowered_height_in": 3.63,
+                    "raised_height_in": 33.88,
+                    "notes": "29-1/2 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/lpblu-sg.html"
+            ]
+        },
+        {
+            "slug": "lift-products-sxt-models",
+            "title": "Lift Products SXT Models",
+            "line": "lift-products-sxt-stainless-steel-lift-tables",
+            "menu_order": 10,
+            "excerpt": "1 model rated 4,000 lb, with 27 in. of travel.",
+            "models": [
+                {
+                    "model": "SXT-040-36",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 36,
+                    "notes": "27 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/sxt.html"
+            ]
+        },
+        {
+            "slug": "lift-products-sxtlp-models",
+            "title": "Lift Products SXTLP Models",
+            "line": "lift-products-sxtlp-stainless-steel-ground-entry-lift-tables",
+            "menu_order": 10,
+            "excerpt": "1 model rated 2,500 lb, with 36 in. of travel.",
+            "models": [
+                {
+                    "model": "SXTLP-25",
+                    "capacity_lbs": 2500,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 37,
+                    "notes": "36 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/stainless/sxtlp.html"
+            ]
+        },
+        {
+            "slug": "lift-products-level-lifter-models",
+            "title": "Lift Products Level Lifter Models",
+            "line": "lift-products-level-lifter-ground-entry-lift-tables",
+            "menu_order": 10,
+            "excerpt": "8 models rated 2,500–4,000 lb, with 23-1/2–29-1/2 in. of travel.",
+            "models": [
+                {
+                    "model": "LL-24-25-4450",
+                    "capacity_lbs": 2500,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 24,
+                    "notes": "23-1/2 in travel"
+                },
+                {
+                    "model": "LL-24-30-4450",
+                    "capacity_lbs": 3000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 24,
+                    "notes": "23-1/2 in travel"
+                },
+                {
+                    "model": "LL-24-35-4450",
+                    "capacity_lbs": 3500,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 24,
+                    "notes": "23-1/2 in travel"
+                },
+                {
+                    "model": "LL-24-40-4450",
+                    "capacity_lbs": 4000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 24,
+                    "notes": "23-1/2 in travel"
+                },
+                {
+                    "model": "LL-30-25-4450",
+                    "capacity_lbs": 2500,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 30,
+                    "notes": "29-1/2 in travel"
+                },
+                {
+                    "model": "LL-30-30-4450",
+                    "capacity_lbs": 3000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 30,
+                    "notes": "29-1/2 in travel"
+                },
+                {
+                    "model": "LL-30-35-4450",
+                    "capacity_lbs": 3500,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 30,
+                    "notes": "29-1/2 in travel"
+                },
+                {
+                    "model": "LL-30-40-4450",
+                    "capacity_lbs": 4000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 30,
+                    "notes": "29-1/2 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/groundentry/level_lifter.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-lift-and-tilt-models",
+            "title": "Lift Products Max-Lift & Tilt Models",
+            "line": "lift-products-max-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "18 models rated 2,000–5,000 lb, with 24–48 in. of travel and 45–60 degrees of tilt.",
+            "models": [
+                {
+                    "model": "LPTTL-20-45-24",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-40-45-24",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-50-45-24",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-20-45-36",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-40-45-36",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-50-45-36",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-20-45-48",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 64 to 48 x 64 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-40-45-48",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 64 to 48 x 64 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-50-45-48",
+                    "capacity_lbs": 5000,
+                    "platform": "25 x 64 to 48 x 64 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPTTL-20-60-24",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-30-60-24",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-40-60-24",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 41,
+                    "notes": "24 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-20-60-36",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-30-60-36",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-40-60-36",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 60 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 53,
+                    "notes": "36 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-20-60-48",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 64 to 48 x 64 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-30-60-48",
+                    "capacity_lbs": 3000,
+                    "platform": "25 x 64 to 48 x 64 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel, 60° tilt"
+                },
+                {
+                    "model": "LPTTL-40-60-48",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 64 to 48 x 64 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 65,
+                    "notes": "48 in travel, 60° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/lifttables/tilting/max-lift-tilt.html"
+            ]
+        },
+        {
+            "slug": "lift-products-compact-lift-and-tilt-models",
+            "title": "Lift Products Compact Lift & Tilt Models",
+            "line": "lift-products-compact-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 14-3/8 in. of travel and 45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "LPECTL-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 24.38,
+                    "notes": "14-3/8 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPECTL-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 24.38,
+                    "notes": "14-3/8 in travel, 45° tilt"
+                },
+                {
+                    "model": "LPECTL-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 24.38,
+                    "notes": "14-3/8 in travel, 45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/tilters/compact-lift.html"
+            ]
+        },
+        {
+            "slug": "lift-products-max-tilt-models",
+            "title": "Lift Products Max-Tilt Models",
+            "line": "lift-products-max-tilt-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 90 degrees of tilt.",
+            "models": [
+                {
+                    "model": "LPTT-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 72 x 72 in",
+                    "lowered_height_in": 10,
+                    "notes": "45 or 90° tilt"
+                },
+                {
+                    "model": "LPTT-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 72 x 72 in",
+                    "lowered_height_in": 10,
+                    "notes": "45 or 90° tilt"
+                },
+                {
+                    "model": "LPTT-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 72 x 72 in",
+                    "lowered_height_in": 10,
+                    "notes": "45 or 90° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/tilters/max-tilt.html"
+            ]
+        },
+        {
+            "slug": "lift-products-maxx-ergo-tilter-models",
+            "title": "Lift Products Maxx-Ergo Tilter Models",
+            "line": "lift-products-maxx-ergo-tilters",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–3,000 lb, with 35 degrees of tilt.",
+            "models": [
+                {
+                    "model": "LPDW-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 50 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "35° tilt"
+                },
+                {
+                    "model": "LPDW-25",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 36 to 50 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "35° tilt"
+                },
+                {
+                    "model": "LPDW-30",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 36 to 50 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "35° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/tilters/max-ergo-tilter.html"
+            ]
+        },
+        {
+            "slug": "lift-products-mxh15-models",
+            "title": "Lift Products MXH15 Work Positioner Models",
+            "line": "lift-products-work-positioners",
+            "menu_order": 10,
+            "excerpt": "1 model rated 330 lb, with 14 in. of travel and 40 degrees of tilt.",
+            "models": [
+                {
+                    "model": "MXH15",
+                    "capacity_lbs": 330,
+                    "platform": "19.75 x 16 in",
+                    "lowered_height_in": 28,
+                    "raised_height_in": 42,
+                    "notes": "14 in travel, 40° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/workpositioners/hydraulic.html"
+            ]
+        },
+        {
+            "slug": "lift-products-ml15-models",
+            "title": "Lift Products ML15 Work Positioner Models",
+            "line": "lift-products-work-positioners",
+            "menu_order": 20,
+            "excerpt": "2 models rated 330 lb, with 7–13-5/8 in. of travel and 40 degrees of tilt.",
+            "models": [
+                {
+                    "model": "ML15A",
+                    "capacity_lbs": 330,
+                    "platform": "16 x 20 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 27,
+                    "notes": "7 in travel, 40° tilt"
+                },
+                {
+                    "model": "ML15B",
+                    "capacity_lbs": 330,
+                    "platform": "16 x 20 in",
+                    "lowered_height_in": 28.6,
+                    "raised_height_in": 42,
+                    "notes": "13-5/8 in travel, 40° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/workpositioners/pneumatic.html"
+            ]
+        },
+        {
+            "slug": "lift-products-mxhr-models",
+            "title": "Lift Products MXHR Work Positioner Models",
+            "line": "lift-products-work-positioners",
+            "menu_order": 30,
+            "excerpt": "2 models rated 440 lb, with 10–14 in. of travel.",
+            "models": [
+                {
+                    "model": "MXHR20A",
+                    "capacity_lbs": 440,
+                    "platform": "23.5 in round",
+                    "lowered_height_in": 19.75,
+                    "raised_height_in": 29.75,
+                    "notes": "10 in travel, 360° rotation"
+                },
+                {
+                    "model": "MXHR20B",
+                    "capacity_lbs": 440,
+                    "platform": "23.5 in round",
+                    "lowered_height_in": 27.5,
+                    "raised_height_in": 41.5,
+                    "notes": "14 in travel, 360° rotation"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://www.liftproducts.com/workpositioners/rotating.html"
+            ]
+        }
+    ]
+}

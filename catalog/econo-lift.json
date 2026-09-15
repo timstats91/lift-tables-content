@@ -1,0 +1,2672 @@
+{
+    "brand": "econo-lift",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "econo-lift-sl-scissor-lift-tables",
+            "title": "Econo Lift SL Scissor Lift Tables",
+            "excerpt": "Standard electric hydraulic scissor lift tables rated 2,000 to 6,000 lb, with 24 to 48 in. of travel.",
+            "content": "<p>Econo Lift's SL lift tables raise and lower heavy loads through relatively short distances, positioning work at a suitable height to help reduce musculoskeletal injuries. They adapt easily to pallet handling, vehicle loading and work positioning.</p>\n<p>Capacities run from 2,000 to 6,000 lb with 24 to 48 in. of travel and a 9 in. lowered height. Options include oversized platforms, bevelled edges and eye-bolts for pit mounting, rotating, roller conveyor and ball transfer tops, bellows skirting, safety tape switches and touch bars, and semi-portable or portable versions.</p>",
+            "line_code": "SL",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "24 to 48 in. of travel",
+                "9 in. lowered height",
+                "Rotating and conveyor top options",
+                "Portable versions available"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/lift-tables/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "econo-lift-double-scissor-lift-tables",
+            "title": "Econo Lift Double Scissor Lift Tables",
+            "excerpt": "Double scissor lift tables giving about twice the lift of a single scissor on the same frame, rated 500 to 6,000 lb.",
+            "content": "<p>Econo Lift's Double Scissor Lift Tables give roughly double the vertical lift of a single scissor table with the same frame length, keeping a small footprint.</p>\n<p>Light-duty LDSL models are rated 500 to 1,500 lb on platforms from 12 x 24 in., and DSL models from 1,000 to 6,000 lb with 48 to 72 in. of travel. Oversized platforms, pit mounting, rotating, conveyor and ball transfer tops, bellows skirting, safety tape switches and portable versions are available.</p>",
+            "line_code": "DSL / LDSL",
+            "key_features": [
+                "About twice the lift of a single scissor",
+                "500 to 6,000 lb capacities",
+                "Up to 72 in. of travel",
+                "Small footprint",
+                "Light-duty LDSL models"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/double-scissor-lift-tables/"
+            ],
+            "capacity_range": "500–6,000 lbs"
+        },
+        {
+            "slug": "econo-lift-3hd-heavy-duty-lift-tables",
+            "title": "Econo Lift 3HD Heavy Duty Lift Tables",
+            "excerpt": "Heavy-duty scissor lift tables rated 8,000 to 12,000 lb, with 34 to 48 in. of travel and a 3 HP motor.",
+            "content": "<p>Econo Lift's 3HD Heavy Duty Lift Tables raise and lower larger, heavier loads through relatively short distances to a suitable working height.</p>\n<p>They are rated 8,000, 10,000 or 12,000 lb, with 34 to 48 in. of travel, a 12 in. lowered height, a 3 HP three-phase motor and platforms from 36 x 48 up to 72 x 96 in. Pit mounting, rotating, conveyor and ball transfer tops, skirting, tape switches, portability and fork pockets are available.</p>",
+            "line_code": "3HD",
+            "key_features": [
+                "8,000 to 12,000 lb capacities",
+                "34 to 48 in. of travel",
+                "12 in. lowered height",
+                "3 HP motor",
+                "Fork pocket option"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/heavy-duty-lift-tables/"
+            ],
+            "capacity_range": "8,000–12,000 lbs"
+        },
+        {
+            "slug": "econo-lift-tsl-tandem-scissor-lifts",
+            "title": "Econo Lift TSL Tandem Scissor Lifts",
+            "excerpt": "Tandem scissor lift tables for long loads, rated 1,000 to 12,000 lb, with platforms up to 48 x 192 in.",
+            "content": "<p>Econo Lift TSL Tandem Scissor Lifts add stability and safely support longer loads during lifting and lowering.</p>\n<p>Capacities run from 1,000 to 12,000 lb, with 36 or more inches of travel, a 9 in. lowered height and standard platforms from 24 x 96 in. Options include pit mounting, rotating, conveyor and ball transfer tops, skirting, touch bars, portability, 42 in. hand rails with toe boards and diamond plate platforms with ramps.</p>",
+            "line_code": "TSL",
+            "key_features": [
+                "1,000 to 12,000 lb capacities",
+                "Long tandem platforms",
+                "9 in. lowered height",
+                "Hand rail and diamond plate options"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/tandem-scissor-lifts/"
+            ],
+            "capacity_range": "1,000–12,000 lbs"
+        },
+        {
+            "slug": "econo-lift-lp-low-profile-scissor-lifts",
+            "title": "Econo Lift LP Low Profile Scissor Lifts",
+            "excerpt": "Low profile scissor lift tables with a 4.3 in. lowered height and 29 in. of travel, rated 500 to 4,000 lb.",
+            "content": "<p>Econo Lift's Low Profile Scissor Lifts are for work positioning, conveyor systems, parts assembly and disassembly and cart positioning where a low platform height matters.</p>\n<p>They lower to 4.3 in. and give 29 in. of travel, with capacities of 500 to 4,000 lb. LP models have a 24 x 48 in. standard platform and 4LP models 48 x 48 in., with oversized platforms up to 72 x 72 in. Rotating tops, electric toe guards, tape switches, conveyors and skirting are optional.</p>",
+            "line_code": "LP / 4LP",
+            "key_features": [
+                "4.3 in. lowered height",
+                "29 in. of travel",
+                "500 to 4,000 lb capacities",
+                "Platforms up to 72 x 72 in."
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/low-profile-scissor-lifts/"
+            ],
+            "capacity_range": "500–4,000 lbs"
+        },
+        {
+            "slug": "econo-lift-light-duty-portable-lifts",
+            "title": "Econo Lift Light Duty Portable Lifts",
+            "excerpt": "Foot pump scissor lift carts and portable lift tables for small parts containers, rated 330 to 1,650 lb.",
+            "content": "<p>Econo Lift's light duty portable lifts make lifting and positioning small parts containers easier on workers' backs, keeping material at a convenient height. ELF carts are pumped up by foot and rated 330 to 1,650 lb, with raised heights up to 51-1/2 in.</p>\n<p>PF portable lift tables are rated 1,000 or 1,500 lb, with 24 or 36 in. of travel on 24 x 36 or 24 x 48 in. platforms. Velocity fuses are fitted on all cylinders, with oversize platforms, rotating tops and skirting optional.</p>",
+            "line_code": "ELF / PF",
+            "key_features": [
+                "330 to 1,650 lb capacities",
+                "Foot pump operation",
+                "Portable carts and tables",
+                "Velocity fuse on all cylinders"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/light-duty-portable-lifts/"
+            ],
+            "capacity_range": "330–1,650 lbs"
+        },
+        {
+            "slug": "econo-lift-light-duty-stationary-lifts",
+            "title": "Econo Lift Light Duty Stationary Lifts",
+            "excerpt": "Light-duty stationary scissor lifts with a 5-1/2 in. lowered height, rated 1,000 or 1,500 lb, foot pump or powered.",
+            "content": "<p>Econo Lift's light duty stationary lifts position small parts containers at a comfortable working height. LDF models are raised by foot pump and LDL models are powered.</p>\n<p>They are rated 1,000 or 1,500 lb with 24 or 36 in. of travel, a 5-1/2 in. lowered height and 24 x 36 or 24 x 48 in. platforms. Oversize platforms, rotating tops with spring detents, skirting and semi-portable or portable versions are available.</p>",
+            "line_code": "LDF / LDL",
+            "key_features": [
+                "1,000 or 1,500 lb capacities",
+                "5-1/2 in. lowered height",
+                "24 or 36 in. of travel",
+                "Foot pump or powered"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/light-duty-stationary-lifts/"
+            ],
+            "capacity_range": "1,000–1,500 lbs"
+        },
+        {
+            "slug": "econo-lift-plt-self-propelled-lift-tables",
+            "title": "Econo Lift PLT Self Propelled Lift Tables",
+            "excerpt": "Battery-driven self-propelled scissor lift tables rated 2,000 to 6,000 lb, with 24 to 48 in. of travel.",
+            "content": "<p>Econo Lift's PLT Self Propelled Lift Tables move loads and position them at the right working height.</p>\n<p>Capacities run from 2,000 to 6,000 lb with 24 to 48 in. of travel, a 12 in. lowered height and platforms from 24 x 36 up to 60 x 96 in. Options include rotating, conveyor and ball transfer tops, skirting, tape switches, touch bars, longer forks, an industrial battery and charger, a battery discharge indicator and an hour meter.</p>",
+            "line_code": "PLT",
+            "key_features": [
+                "Self-propelled",
+                "2,000 to 6,000 lb capacities",
+                "24 to 48 in. of travel",
+                "Industrial battery options"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/self-propelled-lift-tables/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "econo-lift-tr-sl-lift-tilt-tables",
+            "title": "Econo Lift TR-SL Lift/Tilt Tables",
+            "excerpt": "Scissor lift tables with independent lift and tilt to 30 or 45 degrees, rated 1,000 to 4,000 lb.",
+            "content": "<p>Econo Lift's TR-SL Lift/Tilt Tables control lift and tilt independently, to position containers at the best height and angle.</p>\n<p>They are rated 1,000, 2,000 or 4,000 lb with 24, 36 or 42 in. of travel, a 12 in. lowered height and 30 or 45 degrees of tilt. Velocity fuses on each cylinder stop the table collapsing if a hose fails. Wider or deeper platforms, skirting, stainless, galvanized or Steel-It finishes and adjusted lift or tilt are available.</p>",
+            "line_code": "TR-SL",
+            "key_features": [
+                "Independent lift and tilt",
+                "30 or 45 degrees of tilt",
+                "1,000 to 4,000 lb capacities",
+                "Velocity fuses on each cylinder",
+                "Stainless and galvanized options"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/lifttilt-tables/"
+            ],
+            "capacity_range": "1,000–4,000 lbs"
+        },
+        {
+            "slug": "econo-lift-trt-tilt-tables",
+            "title": "Econo Lift TRT Tilt Tables",
+            "excerpt": "Hydraulic tilt tables with 45 degrees of tilt and an 8 in. lip, rated 1,000 to 6,000 lb.",
+            "content": "<p>Econo Lift's TRT Tilt Tables tilt materials to clear obstructions or cut reaching and bending.</p>\n<p>They are rated 1,000 to 6,000 lb, with 0 to 45 degrees of tilt, an 8 in. front retaining lip and 24 x 36 or 50 x 50 in. platforms. Velocity fuses on each cylinder and hold-down tabs at all four corners are standard, with skirting, tape switches, conveyor or ball transfer tops and carousel mounting optional.</p>",
+            "line_code": "TRT",
+            "key_features": [
+                "Tilts 0 to 45 degrees",
+                "1,000 to 6,000 lb capacities",
+                "8 in. retaining lip",
+                "Velocity fuses on each cylinder",
+                "Carousel mounting option"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/tilt-tables/"
+            ],
+            "capacity_range": "1,000–6,000 lbs"
+        },
+        {
+            "slug": "econo-lift-mgt-mechanical-gravity-tilters",
+            "title": "Econo Lift MGT Mechanical Gravity Tilters",
+            "excerpt": "Manual gravity tilters that tip containers 30 degrees, rated 1,000 to 4,000 lb.",
+            "content": "<p>Econo Lift's Mechanical Gravity Tilters position containers at a comfortable angle for placing or removing parts, with no power supply.</p>\n<p>They are rated 1,000, 2,000 or 4,000 lb on a 50 x 50 in. platform at an 18 in. height, tilting 0 to 30 degrees. Larger or smaller sizes are available.</p>",
+            "line_code": "MGT",
+            "key_features": [
+                "No power required",
+                "Tilts 0 to 30 degrees",
+                "1,000 to 4,000 lb capacities",
+                "50 x 50 in. platform"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/mechanical-gravity-tilters/"
+            ],
+            "capacity_range": "1,000–4,000 lbs"
+        },
+        {
+            "slug": "econo-lift-spt-spring-tables",
+            "title": "Econo Lift SPT Spring Tables",
+            "excerpt": "Spring self-leveling tables with 20 in. of travel for loads of 400 to 4,500 lb, with no power needed.",
+            "content": "<p>Econo Lift's Spring Table needs no power. The platform lowers as weight is added and the springs raise it as weight is removed, so once calibrated for the load it keeps work at a comfortable height.</p>\n<p>It handles loads of 400 to 4,500 lb, with 20 in. of travel and a standard 32 x 48 in. platform (up to 54 x 54 in.). Corner gussets, rotating tops, skirting, portability, a motion stabilizer and fork pockets are optional.</p>",
+            "line_code": "SPT",
+            "capacity_range": "400–4,500 lbs",
+            "key_features": [
+                "Self-levels 400 to 4,500 lb",
+                "No power required",
+                "20 in. of travel",
+                "Rotating top option"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pallet Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/spring-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-air-bag-lift-and-tilt-tables",
+            "title": "Econo Lift Air Bag Lift and Tilt Tables",
+            "excerpt": "Air bag powered lift tables, lift/tilt tables and tilt tables that need no electricity, rated 1,000 to 6,000 lb.",
+            "content": "<p>Econo Lift's air bag tables use bellows-type bags filled with compressed air to lift or tilt the platform, with no electrical power. The ABSL Air Bag Lift Table gives 24 in. of travel from a 9 in. lowered height, the ABTR lifts 24 in. and tilts to 40 degrees, and the ABTRT tilts to 40 degrees.</p>\n<p>All are offered in 1,000 to 6,000 lb capacities. A pedestal-mounted up/down valve is standard, with a covered foot control optional, and the hinged table top gives easy access to the air bag. Lift/tilt and tilt tables have an 8 in. front retaining lip.</p>",
+            "line_code": "ABSL / ABTR / ABTRT",
+            "key_features": [
+                "Powered by compressed air",
+                "1,000 to 6,000 lb capacities",
+                "Lift, lift/tilt and tilt versions",
+                "Hinged top for air bag access"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/air-bags/air-bag-lift-tables/",
+                "https://econolift.net/air-bags/air-bag-lifttilt-tables/",
+                "https://econolift.net/air-bags/air-bag-tilt-tables/"
+            ],
+            "capacity_range": "1,000–6,000 lbs"
+        },
+        {
+            "slug": "econo-lift-air-bag-ergo-self-leveller",
+            "title": "Econo Lift Air Bag Ergo Self Leveller",
+            "excerpt": "An air bag pallet positioner that keeps layers at a constant height for loads of 450 to 4,500 lb, with no electricity.",
+            "content": "<p>The Air Bag Ergo Self Leveller uses a bellows-type bag holding a column of compressed air to keep pallet layers at a constant, comfortable height as boxes are added or removed, so pallets can be loaded and unloaded without stooping, stretching or walking.</p>\n<p>It handles loads of 450 to 4,500 lb, with 24 in. of travel from a 9 in. lowered height and platforms from 32 x 48 to 56 x 72 in. A restraining chain and maintenance bar are standard, and the hinged top gives access to the air bag.</p>",
+            "line_code": "Ergo Self Leveller",
+            "capacity_range": "450–4,500 lbs",
+            "key_features": [
+                "Self-levels 450 to 4,500 lb",
+                "Air bag powered, no electricity",
+                "24 in. of travel",
+                "Hinged top for air bag access"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/air-bags/air-bag-ergo-self-leveller/"
+            ]
+        },
+        {
+            "slug": "econo-lift-drive-on-lift-and-tilt-tables",
+            "title": "Econo Lift Drive-On Lift and Tilt Tables",
+            "excerpt": "Floor-level lift, lift/tilt and tilt tables loaded by pallet truck with no pit or ramp, rated 1,000 to 4,000 lb.",
+            "content": "<p>Econo Lift's Drive-On tables lower to floor level so pallet trucks and other equipment can drive on, with no pit or ramp. The DO-SL lifts 30 or 38 in., the DO-SL/TRT lifts and tilts up to 45 degrees, and the DO-TRT tilts up to 45 degrees.</p>\n<p>All are rated 1,000, 2,000 or 4,000 lb, with platforms from 44 x 50 to 50 x 60 in. Velocity fuses on each cylinder and hold-down tabs at all four corners are standard. Options include skirting, touch bars, limit switches, photo eyes, drive-through versions and semi-portable dolly handles.</p>",
+            "line_code": "DO-SL / DO-TRT",
+            "key_features": [
+                "Floor-level drive-on loading",
+                "1,000 to 4,000 lb capacities",
+                "Lift, lift/tilt and tilt versions",
+                "Tilt up to 45 degrees",
+                "Velocity fuses on each cylinder"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/drive-on/drive-on-lift-tables/",
+                "https://econolift.net/drive-on/drive-on-lifttilt-tables/",
+                "https://econolift.net/drive-on/drive-on-tilt-tables/"
+            ],
+            "capacity_range": "1,000–4,000 lbs"
+        },
+        {
+            "slug": "econo-lift-container-tilters",
+            "title": "Econo Lift Container Tilters",
+            "excerpt": "Fork-style container tilters that lift and tilt parts bins up to 94 degrees, rated 2,000 to 6,000 lb, in powered, stationary and tote box versions.",
+            "content": "<p>Econo Lift's tilters lift small parts containers on forks and tilt them hydraulically toward the worker. The PTR powered tilter is a 24 V battery unit with two-speed drive and push-button tilt, tilting to 94 degrees, and the TR tote box tilter tilts to 94 degrees with DC, air/hydraulic or AC power.</p>\n<p>The STR stationary tilter lowers its forks to floor level with a bevelled edge, lifts 32 in. and tilts to 85 degrees, and must be bolted in place. All are offered in 2,000, 4,000 and 6,000 lb capacities, with custom fork sizes available.</p>",
+            "line_code": "PTR / STR / TR",
+            "key_features": [
+                "Tilts up to 94 degrees",
+                "2,000 to 6,000 lb capacities",
+                "Powered, stationary and tote box versions",
+                "Custom fork sizes"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/tilters/powered-tilters/",
+                "https://econolift.net/tilters/stationary-tilters/",
+                "https://econolift.net/tilters/tote-box-tilters/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "econo-lift-sl-models",
+            "title": "Econo Lift SL Lift Tables Models",
+            "line": "econo-lift-sl-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "38 models rated 2,000–6,000 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "SL24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SL24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SL24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SL36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SL36-30",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SL36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SL36-50",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SL36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SL42-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 60 to 48 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "SL42-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 60 to 48 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "SL42-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 60 to 48 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "SL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 72 to 48 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 72 to 48 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 72 to 48 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3SL24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "3SL24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "3SL24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "3SL36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "3SL36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "3SL36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "3SL42-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 60 to 60 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "3SL42-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 60 to 60 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "3SL42-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 60 to 60 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "3SL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3SL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3SL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4SL24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "4SL24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "4SL24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "4SL36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "4SL36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "4SL36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "4SL42-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "4SL42-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "4SL42-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 51,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "4SL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4SL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4SL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/lift-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-dsl-models",
+            "title": "Econo Lift Double Scissor Lift Tables Models",
+            "line": "econo-lift-double-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "46 models rated 500–6,000 lb, with 48–72 in. of travel.",
+            "models": [
+                {
+                    "model": "LDSL30-5-12",
+                    "capacity_lbs": 500,
+                    "platform": "12 x 24 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 36
+                },
+                {
+                    "model": "LDSL30-5-16",
+                    "capacity_lbs": 500,
+                    "platform": "16 x 24 to 24 x 36 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 36
+                },
+                {
+                    "model": "LDSL30-10",
+                    "capacity_lbs": 1000,
+                    "platform": "16 x 24 to 24 x 36 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 36
+                },
+                {
+                    "model": "LDSL36-15",
+                    "capacity_lbs": 1500,
+                    "platform": "16 x 36 to 30 x 48 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 42
+                },
+                {
+                    "model": "DSL48-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL48-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL48-30",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL48-50",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL72-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DSL72-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DSL72-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DSL72-30",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DSL72-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DSL72-50",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DSL72-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "3DSL48-10",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3DSL48-15",
+                    "capacity_lbs": 1500,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3DSL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3DSL48-30",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3DSL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3DSL48-50",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3DSL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3DSL72-10",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "3DSL72-15",
+                    "capacity_lbs": 1500,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "3DSL72-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "3DSL72-30",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "3DSL72-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "3DSL72-50",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "3DSL72-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "4DSL48-10",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4DSL48-15",
+                    "capacity_lbs": 1500,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4DSL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4DSL48-30",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4DSL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4DSL48-50",
+                    "capacity_lbs": 5000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4DSL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4DSL72-10",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "4DSL72-15",
+                    "capacity_lbs": 1500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "4DSL72-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "4DSL72-30",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "4DSL72-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "4DSL72-50",
+                    "capacity_lbs": 5000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "4DSL72-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/double-scissor-lift-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-3hd-models",
+            "title": "Econo Lift 3HD Heavy Duty Lift Tables Models",
+            "line": "econo-lift-3hd-heavy-duty-lift-tables",
+            "menu_order": 10,
+            "excerpt": "18 models rated 8,000–12,000 lb, with 34–48 in. of travel.",
+            "models": [
+                {
+                    "model": "3HD34-80",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 46,
+                    "notes": "34 in travel"
+                },
+                {
+                    "model": "3HD34-100",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 46,
+                    "notes": "34 in travel"
+                },
+                {
+                    "model": "3HD34-120",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 46,
+                    "notes": "34 in travel"
+                },
+                {
+                    "model": "3HD42-80",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 60 to 60 x 84 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "3HD42-100",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 60 to 60 x 84 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "3HD42-120",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 60 to 60 x 84 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "3HD48-80",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3HD48-100",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3HD48-120",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4HD34-80",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 46,
+                    "notes": "34 in travel"
+                },
+                {
+                    "model": "4HD34-100",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 46,
+                    "notes": "34 in travel"
+                },
+                {
+                    "model": "4HD34-120",
+                    "capacity_lbs": 12000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 46,
+                    "notes": "34 in travel"
+                },
+                {
+                    "model": "4HD42-80",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "4HD42-100",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "4HD42-120",
+                    "capacity_lbs": 12000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "4HD48-80",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4HD48-100",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "4HD48-120",
+                    "capacity_lbs": 12000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/heavy-duty-lift-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-tsl-models",
+            "title": "Econo Lift TSL Tandem Scissor Lifts Models",
+            "line": "econo-lift-tsl-tandem-scissor-lifts",
+            "menu_order": 10,
+            "excerpt": "21 models rated 1,000–12,000 lb, with 36–60 in. of travel.",
+            "models": [
+                {
+                    "model": "TSL36-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TSL36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TSL36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TSL36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TSL36-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TSL36-100",
+                    "capacity_lbs": 10000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TSL36-120",
+                    "capacity_lbs": 12000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TSL48-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 144 to 48 x 192 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TSL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 144 to 48 x 192 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TSL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 144 to 48 x 192 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TSL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 144 to 48 x 192 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TSL48-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 144 to 48 x 192 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TSL48-100",
+                    "capacity_lbs": 10000,
+                    "platform": "24 x 144 to 48 x 192 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TSL48-120",
+                    "capacity_lbs": 12000,
+                    "platform": "24 x 144 to 48 x 192 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TSL60-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 176 to 48 x 224 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 69,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TSL60-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 176 to 48 x 224 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 69,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TSL60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 176 to 48 x 224 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 69,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TSL60-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 176 to 48 x 224 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 69,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TSL60-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 176 to 48 x 224 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 69,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TSL60-100",
+                    "capacity_lbs": 10000,
+                    "platform": "24 x 176 to 48 x 224 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 69,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TSL60-120",
+                    "capacity_lbs": 12000,
+                    "platform": "24 x 176 to 48 x 224 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 69,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/tandem-scissor-lifts/"
+            ]
+        },
+        {
+            "slug": "econo-lift-lp-models",
+            "title": "Econo Lift LP Low Profile Scissor Lifts Models",
+            "line": "econo-lift-lp-low-profile-scissor-lifts",
+            "menu_order": 10,
+            "excerpt": "8 models rated 500–4,000 lb, with 29 in. of travel.",
+            "models": [
+                {
+                    "model": "LP29-5",
+                    "capacity_lbs": 500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                },
+                {
+                    "model": "LP29-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                },
+                {
+                    "model": "LP29-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                },
+                {
+                    "model": "LP29-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                },
+                {
+                    "model": "4LP29-5",
+                    "capacity_lbs": 500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                },
+                {
+                    "model": "4LP29-10",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                },
+                {
+                    "model": "4LP29-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                },
+                {
+                    "model": "4LP29-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 4.3,
+                    "raised_height_in": 33.3,
+                    "notes": "29 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/low-profile-scissor-lifts/"
+            ]
+        },
+        {
+            "slug": "econo-lift-light-duty-portable-models",
+            "title": "Econo Lift Light Duty Portable Lifts Models",
+            "line": "econo-lift-light-duty-portable-lifts",
+            "menu_order": 10,
+            "excerpt": "13 models rated 330–1,650 lb, with 24–36 in. of travel.",
+            "models": [
+                {
+                    "model": "ELF330",
+                    "capacity_lbs": 330,
+                    "platform": "17.75 x 27.5 in",
+                    "lowered_height_in": 8.75,
+                    "raised_height_in": 29.5
+                },
+                {
+                    "model": "ELF660",
+                    "capacity_lbs": 660,
+                    "platform": "19.75 x 32 in",
+                    "lowered_height_in": 11,
+                    "raised_height_in": 35.5
+                },
+                {
+                    "model": "ELF770",
+                    "capacity_lbs": 770,
+                    "platform": "19.75 x 32 in",
+                    "lowered_height_in": 11.25,
+                    "raised_height_in": 51.5
+                },
+                {
+                    "model": "EL1100",
+                    "capacity_lbs": 1100,
+                    "platform": "19.75 x 35.75 in",
+                    "lowered_height_in": 13.5,
+                    "raised_height_in": 35.5
+                },
+                {
+                    "model": "EL11650",
+                    "capacity_lbs": 1650,
+                    "platform": "20 x 39.35 in",
+                    "lowered_height_in": 16.5,
+                    "raised_height_in": 40
+                },
+                {
+                    "model": "PF24-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 40 x 48 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PF24-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 36 to 40 x 48 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PF36-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 40 x 60 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PF36-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 48 to 40 x 60 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PB24-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 40 x 48 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PB24-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 36 to 40 x 48 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PB36-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 40 x 60 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PB36-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 48 to 40 x 60 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 45,
+                    "notes": "36 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/light-duty-portable-lifts/"
+            ]
+        },
+        {
+            "slug": "econo-lift-light-duty-stationary-models",
+            "title": "Econo Lift Light Duty Stationary Lifts Models",
+            "line": "econo-lift-light-duty-stationary-lifts",
+            "menu_order": 10,
+            "excerpt": "8 models rated 1,000–1,500 lb, with 24–36 in. of travel.",
+            "models": [
+                {
+                    "model": "LDF24-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 29.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LDF24-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 29.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LDF36-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 41.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LDF36-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 41.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LDL24-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 29.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LDL24-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 29.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LDL36-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 41.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LDL36-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 41.5,
+                    "notes": "36 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/light-duty-stationary-lifts/"
+            ]
+        },
+        {
+            "slug": "econo-lift-plt-models",
+            "title": "Econo Lift PLT Self Propelled Lift Tables Models",
+            "line": "econo-lift-plt-self-propelled-lift-tables",
+            "menu_order": 10,
+            "excerpt": "20 models rated 2,000–6,000 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "PLT24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PLT24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PLT24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PLT36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PLT36-30",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PLT36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PLT36-50",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PLT36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "PLT48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 72 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "PLT48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 72 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "PLT48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 72 to 48 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3PLT24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "3PLT24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "3PLT24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "3PLT36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "3PLT36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "3PLT36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "3PLT48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3PLT48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "3PLT48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 72 to 60 x 96 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/self-propelled-lift-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-tr-sl-models",
+            "title": "Econo Lift TR-SL Lift/Tilt Tables Models",
+            "line": "econo-lift-tr-sl-lift-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "9 models rated 1,000–4,000 lb, with 24–42 in. of travel and 30–45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "TR-SL-24-10",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "TR-SL-24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "TR-SL-24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 36 to 60 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "TR-SL-36-10",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "TR-SL-36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "TR-SL-36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "TR-SL-42-10",
+                    "capacity_lbs": 1000,
+                    "platform": "60 x 48 to 84 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel, 45° tilt"
+                },
+                {
+                    "model": "TR-SL-42-20",
+                    "capacity_lbs": 2000,
+                    "platform": "60 x 48 to 84 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel, 45° tilt"
+                },
+                {
+                    "model": "TR-SL-42-40",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 48 to 84 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 54,
+                    "notes": "42 in travel, 45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/lifttilt-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-trt-models",
+            "title": "Econo Lift TRT Tilt Tables Models",
+            "line": "econo-lift-trt-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "8 models rated 1,000–6,000 lb, with 45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "TRT-1-2436",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 48 x 48 in",
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TRT-2-2436",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 48 in",
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TRT-4-2436",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 48 in",
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TRT-6-2436",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 48 in",
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TRT-1-5050",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TRT-2-5050",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TRT-4-5050",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TRT-6-5050",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "notes": "45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/tilt-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-mgt-models",
+            "title": "Econo Lift MGT Mechanical Gravity Tilters Models",
+            "line": "econo-lift-mgt-mechanical-gravity-tilters",
+            "menu_order": 10,
+            "excerpt": "3 models rated 1,000–4,000 lb, with 30 degrees of tilt.",
+            "models": [
+                {
+                    "model": "MGT10",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 18,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "MGT20",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 18,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "MGT40",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 18,
+                    "notes": "30° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/mechanical-gravity-tilters/"
+            ]
+        },
+        {
+            "slug": "econo-lift-spt-models",
+            "title": "Econo Lift SPT Spring Tables Models",
+            "line": "econo-lift-spt-spring-tables",
+            "menu_order": 10,
+            "excerpt": "1 model rated 4,500 lb, with 20 in. of travel.",
+            "models": [
+                {
+                    "model": "SPT45",
+                    "capacity_lbs": 4500,
+                    "platform": "32 x 48 to 54 x 54 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 30,
+                    "notes": "self-levels 400–4,500 lb, 20 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pallet Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/lifts-tilts/spring-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-absl-models",
+            "title": "Econo Lift ABSL Air Bag Lift Tables Models",
+            "line": "econo-lift-air-bag-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "7 models rated 1,000–6,000 lb, with 24 in. of travel.",
+            "models": [
+                {
+                    "model": "ABSL 10-3248",
+                    "capacity_lbs": 1000,
+                    "platform": "32 x 48 to 56 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "ABSL 20-3248",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 to 56 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "ABSL 40-3248",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 48 to 56 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "ABSL 10-4848",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "ABSL 20-4848",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "ABSL 40-4848",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "ABSL 60-4848",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/air-bags/air-bag-lift-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-abtr-models",
+            "title": "Econo Lift ABTR Air Bag Lift/Tilt Tables Models",
+            "line": "econo-lift-air-bag-lift-and-tilt-tables",
+            "menu_order": 20,
+            "excerpt": "12 models rated 1,000–6,000 lb, with 24 in. of travel and 30 degrees of tilt.",
+            "models": [
+                {
+                    "model": "ABTR-SL10-3660",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL20-3660",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL40-3660",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL60-3660",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL10-4848",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL20-4848",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL40-4848",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL60-4848",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL10-6048",
+                    "capacity_lbs": 1000,
+                    "platform": "60 x 48 to 84 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL20-6048",
+                    "capacity_lbs": 2000,
+                    "platform": "60 x 48 to 84 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL40-6048",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 48 to 84 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "ABTR-SL60-6048",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 48 to 84 x 72 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in travel, 30° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/air-bags/air-bag-lifttilt-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-abtrt-models",
+            "title": "Econo Lift ABTRT Air Bag Tilt Tables Models",
+            "line": "econo-lift-air-bag-lift-and-tilt-tables",
+            "menu_order": 30,
+            "excerpt": "8 models rated 1,000–6,000 lb, with 30 degrees of tilt.",
+            "models": [
+                {
+                    "model": "ABTRT-1-3636",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 36 to 48 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "ABTRT-2-3636",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 48 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "ABTRT-4-3636",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36 to 48 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "ABTRT-6-3636",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 48 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "ABTRT-1-5050",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "ABTRT-2-5050",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "ABTRT-4-5050",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "ABTRT-6-5050",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 50 to 72 x 72 in",
+                    "lowered_height_in": 9,
+                    "notes": "30° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/air-bags/air-bag-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-do-sl-models",
+            "title": "Econo Lift DO-SL Drive-On Lift Tables Models",
+            "line": "econo-lift-drive-on-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "6 models rated 1,000–4,000 lb, with 30–38 in. of travel.",
+            "models": [
+                {
+                    "model": "DO-SL 30-10",
+                    "capacity_lbs": 1000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "DO-SL 30-20",
+                    "capacity_lbs": 2000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "DO-SL 30-40",
+                    "capacity_lbs": 4000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "DO-SL 38-10",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "38 in travel"
+                },
+                {
+                    "model": "DO-SL 38-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "38 in travel"
+                },
+                {
+                    "model": "DO-SL 38-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "38 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/drive-on/drive-on-lift-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-do-sl-trt-models",
+            "title": "Econo Lift DO-SL/TRT Drive-On Lift/Tilt Tables Models",
+            "line": "econo-lift-drive-on-lift-and-tilt-tables",
+            "menu_order": 20,
+            "excerpt": "6 models rated 1,000–4,000 lb, with 30–38 in. of travel.",
+            "models": [
+                {
+                    "model": "DO-SL/TRT 30-10",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "DO-SL/TRT 30-20",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "DO-SL/TRT 30-40",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "DO-SL/TRT 38-10",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 60 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "38 in travel"
+                },
+                {
+                    "model": "DO-SL/TRT 38-20",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 60 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "38 in travel"
+                },
+                {
+                    "model": "DO-SL/TRT 38-40",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 60 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "38 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/drive-on/drive-on-lifttilt-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-do-trt-models",
+            "title": "Econo Lift DO-TRT Drive-On Tilt Tables Models",
+            "line": "econo-lift-drive-on-lift-and-tilt-tables",
+            "menu_order": 30,
+            "excerpt": "6 models rated 1,000–4,000 lb, with 45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "DO-TRT10-4450",
+                    "capacity_lbs": 1000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "DO-TRT20-4450",
+                    "capacity_lbs": 2000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "DO-TRT40-4450",
+                    "capacity_lbs": 4000,
+                    "platform": "44 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "DO-TRT10-5050",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "DO-TRT20-5050",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "DO-TRT40-5050",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/drive-on/drive-on-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "econo-lift-ptr-models",
+            "title": "Econo Lift PTR Powered Tilters Models",
+            "line": "econo-lift-container-tilters",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 94 degrees of tilt.",
+            "models": [
+                {
+                    "model": "PTR20",
+                    "capacity_lbs": 2000,
+                    "platform": "34 in forks",
+                    "lowered_height_in": 3.5,
+                    "notes": "35-1/2 in lift, 94° tilt"
+                },
+                {
+                    "model": "PTR40",
+                    "capacity_lbs": 4000,
+                    "platform": "42 in forks",
+                    "lowered_height_in": 3.5,
+                    "notes": "35-1/2 in lift, 94° tilt"
+                },
+                {
+                    "model": "PTR60",
+                    "capacity_lbs": 6000,
+                    "platform": "42 in forks",
+                    "lowered_height_in": 3.5,
+                    "notes": "35-1/2 in lift, 94° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/tilters/powered-tilters/"
+            ]
+        },
+        {
+            "slug": "econo-lift-str-models",
+            "title": "Econo Lift STR Stationary Tilters Models",
+            "line": "econo-lift-container-tilters",
+            "menu_order": 20,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 85 degrees of tilt.",
+            "models": [
+                {
+                    "model": "STR20",
+                    "capacity_lbs": 2000,
+                    "platform": "40 in forks",
+                    "lowered_height_in": 0.313,
+                    "notes": "32 in lift, 85° tilt"
+                },
+                {
+                    "model": "STR40",
+                    "capacity_lbs": 4000,
+                    "platform": "40 in forks",
+                    "lowered_height_in": 0.375,
+                    "notes": "32 in lift, 85° tilt"
+                },
+                {
+                    "model": "STR60",
+                    "capacity_lbs": 6000,
+                    "platform": "40 in forks",
+                    "lowered_height_in": 0.375,
+                    "notes": "32 in lift, 85° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/tilters/stationary-tilters/"
+            ]
+        },
+        {
+            "slug": "econo-lift-tr-models",
+            "title": "Econo Lift TR Tote Box Tilters Models",
+            "line": "econo-lift-container-tilters",
+            "menu_order": 30,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 94 degrees of tilt.",
+            "models": [
+                {
+                    "model": "TR20",
+                    "capacity_lbs": 2000,
+                    "platform": "34 in forks",
+                    "lowered_height_in": 3.5,
+                    "notes": "35-1/2 in lift, 94° tilt"
+                },
+                {
+                    "model": "TR40",
+                    "capacity_lbs": 4000,
+                    "platform": "42 in forks",
+                    "lowered_height_in": 3.5,
+                    "notes": "35-1/2 in lift, 94° tilt"
+                },
+                {
+                    "model": "TR60",
+                    "capacity_lbs": 6000,
+                    "platform": "42 in forks",
+                    "lowered_height_in": 3.5,
+                    "notes": "35-1/2 in lift, 94° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://econolift.net/tilters/tote-box-tilters/"
+            ]
+        }
+    ]
+}

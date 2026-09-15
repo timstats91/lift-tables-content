@@ -54,13 +54,18 @@ php generators/bishamon.php
 In `catalog/autoquip.json`, `catalog/american-lifts.json`,
 `catalog/advance-lifts.json`, `catalog/air-technical-industries.json`,
 `catalog/southworth-products.json`, `catalog/presto-lifts.json`,
-`catalog/ecoa.json` and `catalog/vestil.json` the product lines are
+`catalog/ecoa.json`, `catalog/vestil.json`, `catalog/lift-products.json`,
+`catalog/beacon-industries.json`, `catalog/wesco-industrial-products.json`,
+`catalog/lexco.json`, `catalog/econo-lift.json` and
+`catalog/premier-handling-solutions.json` the product lines are
 hand-maintained, but the products are generated. Each
 product is a draft holding one design's model table, built from the
 manufacturer's published data: Autoquip's lifts API (which also covers American
 Lifts), the spec tables on advancelifts.com, ATI's WooCommerce Store API,
 Southworth's spec CSV files, the spec tables on prestolifts.com (which also
-cover ECOA) and Vestil's per-model data sheets. Regenerate them with:
+cover ECOA), Vestil's per-model data sheets, the spec tables on liftproducts.com,
+beacontechnology.com and econolift.net, Wesco's item catalog (which also covers
+Lexco) and the specification lists on phsinc.com. Regenerate them with:
 
 ```bash
 node generators/line-models.js catalog
@@ -77,7 +82,15 @@ ECOA's HH, CLT and Magnum MLTDL tables give only end/side capacity, so those
 rows show it in the notes and the lines' capacity ranges come from ECOA's
 descriptions. Vestil data sheets with no specs are skipped; base models sold
 with a choice of platform (EHLTD) take their specs from the family's model
-chart.
+chart. Lift Products base models sold in several capacities link to a page per
+capacity, and the generator follows those links. PHS gives part numbers rather
+than model numbers, so its tables list part numbers, matched in order to the
+columns of each specification group; its heavy duty sheet shows a 336 x 48 in.
+standard platform for one model, read as 36 x 48 in.
+
+Pentalift, Blue Giant and Superlift publish their model specifications only in
+PDF brochures or as images, so their catalogs have product lines but no model
+tables (`products`) yet.
 
 ## Brand
 
@@ -167,16 +180,24 @@ an existing item's status.
 | Presto Lifts | 27 | 35 | 272 |
 | ECOA | 5 | 10 | 114 |
 | Vestil | 46 | 66 | 755 |
+| Lift Products | 28 | 37 | 226 |
+| Beacon | 33 | 54 | 550 |
+| Wesco | 4 | 7 | 47 |
+| Lexco | 6 | 6 | 101 |
+| Premier Handling Solutions | 9 | 8 | 78 |
+| Pentalift | 23 | 0 | 0 |
+| Blue Giant | 11 | 0 | 0 |
+| Econo Lift | 16 | 21 | 247 |
+| Superlift | 15 | 0 | 0 |
 
-Brands in `brands.json` without a catalog file yet: Lift Products, Beacon,
-Wesco, Lexco, Premier Handling Solutions, Pentalift, Blue Giant, Econo Lift,
-Superlift.
+Every brand in `brands.json` now has a catalog file.
 
-The Autoquip, American Lifts, Advance Lifts, Air Technical Industries,
-Southworth, Presto, ECOA and Vestil catalogs cover lift tables, tilt tables,
+The catalogs added from Autoquip onward cover lift tables, tilt tables,
 pallet positioners and elevating carts only. Dock
 lifts, VRCs, turntables without a lift, upenders, dumpers, coil cars and
-personnel work platforms are left out. Where a manufacturer sells several
+personnel work platforms are left out, as are stackers, skid lifters, work
+positioners with forks or end-effectors and accessories sold as separate
+products (Lexco's push-pull die conveyor, Pentalift's portability packages). Where a manufacturer sells several
 platform configurations of one design as separate families (Autoquip Series 35
 and Super Titan, and its three mechanical lifts), they are one line here.
 Autoquip lists its Single Arm and Double Arm lifts as replaced, so they are
@@ -184,6 +205,11 @@ not included. Capacity ranges for Autoquip and American Lifts come from
 Autoquip's model API, linked in each line's sources.
 
 ## Open questions
+
+- **Beacon model numbers:** Beacon Industries sells its lift tables under its
+  own B-prefixed model numbers. Many of them match other manufacturers' codes
+  with a B added (BEHLT, BCART, BMLT, BDSL); the catalog lists them as Beacon
+  publishes them and makes no claim about who builds them.
 
 - **JET SLT-1100:** JET publishes a 63 x 31-1/2 in. table size but assembled
   dimensions of 50.75 x 29.75 x 37.75 in. The table size is used as published.

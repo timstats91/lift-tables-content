@@ -1,0 +1,583 @@
+{
+    "brand": "wesco-industrial-products",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "wesco-hydraulic-post-lift-tables",
+            "title": "Wesco Hydraulic Post Lift Tables",
+            "excerpt": "Mobile hydraulic lift tables rated 200 to 6,000 lb, with manual foot pump or battery-powered lift and no-post, 2-post or 4-post construction.",
+            "content": "<p>Wesco's mobile hydraulic lift tables raise loads on telescoping posts, with no-post, 2-post and 4-post designs depending on capacity. Manual LT models raise 3/8 in. per pump stroke, and PLT models use a battery-powered lift. Floor locks are standard on all tables rated 500 lb and higher.</p>\n<p>Capacities run from 200 to 6,000 lb, on tables from 16 x 16 to 32 x 48 in. with raised heights of 46, 47-1/2 or 59 in. Economical VLT Value Lift Tables are also offered. A power drive option and roller and ball transfer tops are available, and the tables are made in the USA.</p>",
+            "line_code": "LT / PLT",
+            "key_features": [
+                "200 to 6,000 lb capacities",
+                "Manual or battery-powered lift",
+                "No-post, 2-post or 4-post construction",
+                "Floor lock on 500 lb and up",
+                "Made in the USA"
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/-from-200-to-6000-lb-manual-and-powered-lift"
+            ],
+            "capacity_range": "200–6,000 lbs"
+        },
+        {
+            "slug": "wesco-scissor-lift-tables-and-carts",
+            "title": "Wesco Scissor Lift Tables and Carts",
+            "excerpt": "Foot-pump and powered scissor lift carts rated 330 to 2,200 lb, with single, double scissor and long deck models.",
+            "content": "<p>Wesco's scissor lift carts raise loads with a foot-operated hydraulic pump and roll on locking casters, with folding or fixed handles. The range includes single scissor carts, double scissor high lift carts with up to 59 in. of raised height, long deck carts up to 30 x 80 in. and a roller top model.</p>\n<p>Capacities run from 330 to 2,200 lb. PSLT carts add a powered lift, and the MELT is a 2,200 lb mini electric scissor lift table that lowers to 7 in. The DT-2436 is a 2,000 lb hydraulic die lift table.</p>",
+            "line_code": "LT-SL / PSLT",
+            "key_features": [
+                "330 to 2,200 lb capacities",
+                "Foot-operated hydraulic pump",
+                "Single and double scissor models",
+                "Powered PSLT carts",
+                "Locking casters"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/scissors-lift-tables-die-lift-table"
+            ],
+            "capacity_range": "330–2,200 lbs"
+        },
+        {
+            "slug": "wesco-hclt-precision-lift-tables",
+            "title": "Wesco HCLT Precision Lift Tables",
+            "excerpt": "Hand-crank mobile lift tables with lift screws at all four corners for drift-free positioning, rated 2,200 lb.",
+            "content": "<p>HCLT Precision Lift Tables are for work positioning that needs infinite height adjustment with no drift or tilt, including off-center loads. Heavy-duty lift screws at all four corners carry the platform, driven through a chain drive by a 13 in. crank at either end of the table.</p>\n<p>They are rated 2,200 lb on 24 x 36 or 30 x 48 in. platforms of 1/4 in. welded steel. Dual-range gearing gives 1/8 in. of lift per turn for precise positioning or 1/4 in. for faster lifts. Five-inch cast iron or polyurethane casters with brakes and a heavy-duty floor lock are standard.</p>",
+            "line_code": "HCLT",
+            "key_features": [
+                "Four-corner screw lift",
+                "No drift or tilt",
+                "2,200 lb capacity",
+                "Two lift speeds",
+                "Crank at both ends"
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/wesco-hclt-series-precision-lift-tables"
+            ],
+            "capacity_range": "2,200 lbs"
+        },
+        {
+            "slug": "wesco-ppl-pallet-leveler",
+            "title": "Wesco PPL Pallet Leveler",
+            "excerpt": "A spring pallet leveler with a rotating carousel that lowers as a pallet is loaded, for loads up to 4,500 lb.",
+            "content": "<p>The Wesco Pallet Leveler lowers progressively as a pallet is loaded and rises as it is unloaded, keeping the work at a comfortable height to reduce bending and lifting. Three heavy-duty calibrated springs are used in combination to suit the load range.</p>\n<p>A bearing-supported carousel turns easily for access to all sides, and built-in fork pockets make it easy to move. The PPL and PL models handle loads up to 4,500 lb, with a 40-3/4 in. carousel.</p>",
+            "line_code": "PPL",
+            "capacity_range": "Up to 4,500 lbs",
+            "key_features": [
+                "Spring self-leveling",
+                "Up to 4,500 lb",
+                "Bearing-supported rotating carousel",
+                "Built-in fork pockets"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/pallet-leveler"
+            ]
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "wesco-lt-manual-post-lift-tables-models",
+            "title": "Wesco Manual Lift Tables Models",
+            "line": "wesco-hydraulic-post-lift-tables",
+            "menu_order": 10,
+            "excerpt": "13 models rated 200–6,000 lb.",
+            "models": [
+                {
+                    "model": "LT-02-1616",
+                    "capacity_lbs": 200,
+                    "platform": "16 x 16 in",
+                    "lowered_height_in": 28.5,
+                    "raised_height_in": 46,
+                    "notes": "no support posts"
+                },
+                {
+                    "model": "LT-05-1818",
+                    "capacity_lbs": 500,
+                    "platform": "18 x 18 in",
+                    "lowered_height_in": 30.5,
+                    "raised_height_in": 47.5,
+                    "notes": "2 support posts"
+                },
+                {
+                    "model": "LT-10-1836",
+                    "capacity_lbs": 1000,
+                    "platform": "18 x 36 in",
+                    "lowered_height_in": 30.5,
+                    "raised_height_in": 47.5,
+                    "notes": "2 support posts"
+                },
+                {
+                    "model": "LTL-20-2436",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 30.5,
+                    "raised_height_in": 47.5,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "LTL-20-3248",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 30.5,
+                    "raised_height_in": 47.5,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "LT-20-2436",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "LT-20-3248",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "LT-40-2436",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "LT-40-3248",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "LT-60-2436",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "LT-60-3248",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59,
+                    "notes": "4 support posts"
+                },
+                {
+                    "model": "VLT200",
+                    "capacity_lbs": 200,
+                    "platform": "16 x 16 in",
+                    "lowered_height_in": 29,
+                    "raised_height_in": 46,
+                    "notes": "no support posts"
+                },
+                {
+                    "model": "VLT500",
+                    "capacity_lbs": 500,
+                    "platform": "18 x 18 in",
+                    "lowered_height_in": 30,
+                    "raised_height_in": 48,
+                    "notes": "2 support posts"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/-from-200-to-6000-lb-manual-and-powered-lift"
+            ]
+        },
+        {
+            "slug": "wesco-plt-powered-post-lift-tables-models",
+            "title": "Wesco Powered Lift Tables Models",
+            "line": "wesco-hydraulic-post-lift-tables",
+            "menu_order": 20,
+            "excerpt": "9 models rated 1,000–6,000 lb.",
+            "models": [
+                {
+                    "model": "PLT-10-1836",
+                    "capacity_lbs": 1000,
+                    "platform": "18 x 36 in",
+                    "lowered_height_in": 30.5,
+                    "raised_height_in": 47.5
+                },
+                {
+                    "model": "PLTL-20-2436",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 30.5,
+                    "raised_height_in": 47.5
+                },
+                {
+                    "model": "PLTL-20-3248",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 30.5,
+                    "raised_height_in": 47.5
+                },
+                {
+                    "model": "PLT-20-2436",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59
+                },
+                {
+                    "model": "PLT-20-3248",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59
+                },
+                {
+                    "model": "PLT-40-2436",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59
+                },
+                {
+                    "model": "PLT-40-3248",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59
+                },
+                {
+                    "model": "PLT-60-2436",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59
+                },
+                {
+                    "model": "PLT-60-3248",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 37,
+                    "raised_height_in": 59
+                }
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/-from-200-to-6000-lb-manual-and-powered-lift"
+            ]
+        },
+        {
+            "slug": "wesco-manual-scissor-lift-carts-models",
+            "title": "Wesco Manual Scissor Lift Carts Models",
+            "line": "wesco-scissor-lift-tables-and-carts",
+            "menu_order": 10,
+            "excerpt": "13 models rated 330–2,200 lb.",
+            "models": [
+                {
+                    "model": "LT-330SL",
+                    "capacity_lbs": 330,
+                    "platform": "17.75 x 27.5 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 28.5
+                },
+                {
+                    "model": "SLT-660-11",
+                    "capacity_lbs": 660,
+                    "platform": "20 x 32 in",
+                    "lowered_height_in": 11,
+                    "raised_height_in": 35
+                },
+                {
+                    "model": "LT-660FHSL",
+                    "capacity_lbs": 660,
+                    "platform": "20 x 32 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 35
+                },
+                {
+                    "model": "SLT-1100-11",
+                    "capacity_lbs": 1100,
+                    "platform": "20 x 32 in",
+                    "lowered_height_in": 11,
+                    "raised_height_in": 35
+                },
+                {
+                    "model": "LT-700SL",
+                    "capacity_lbs": 700,
+                    "platform": "19.5 x 32 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 35
+                },
+                {
+                    "model": "LT-1000SL",
+                    "capacity_lbs": 1000,
+                    "platform": "19.5 x 32 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 35
+                },
+                {
+                    "model": "LT-770DSL",
+                    "capacity_lbs": 770,
+                    "platform": "19.5 x 35.5 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 51,
+                    "notes": "double scissor"
+                },
+                {
+                    "model": "LT-1540DSL",
+                    "capacity_lbs": 1540,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 17.75,
+                    "raised_height_in": 59,
+                    "notes": "double scissor"
+                },
+                {
+                    "model": "LT-1650SL",
+                    "capacity_lbs": 1650,
+                    "platform": "20 x 39 in",
+                    "lowered_height_in": 16.5,
+                    "raised_height_in": 35.5
+                },
+                {
+                    "model": "LT-2200SL",
+                    "capacity_lbs": 2200,
+                    "platform": "20 x 40 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39
+                },
+                {
+                    "model": "DRT-2033",
+                    "capacity_lbs": 660,
+                    "platform": "19.5 x 32.5 in",
+                    "lowered_height_in": 12.5,
+                    "raised_height_in": 38.25
+                },
+                {
+                    "model": "LDT-3263",
+                    "capacity_lbs": 1100,
+                    "platform": "32 x 63 in",
+                    "lowered_height_in": 11.25,
+                    "raised_height_in": 36
+                },
+                {
+                    "model": "LDT-3080",
+                    "capacity_lbs": 2200,
+                    "platform": "30 x 80 in",
+                    "lowered_height_in": 14.2,
+                    "raised_height_in": 53.5
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/scissors-lift-tables-die-lift-table"
+            ]
+        },
+        {
+            "slug": "wesco-powered-scissor-lift-tables-models",
+            "title": "Wesco Powered Scissor Lift Tables and Carts Models",
+            "line": "wesco-scissor-lift-tables-and-carts",
+            "menu_order": 20,
+            "excerpt": "5 models rated 660–2,200 lb.",
+            "models": [
+                {
+                    "model": "MELT",
+                    "capacity_lbs": 2200,
+                    "platform": "24 x 35 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 30
+                },
+                {
+                    "model": "PSLT-660",
+                    "capacity_lbs": 660,
+                    "platform": "19.75 x 33.5 in",
+                    "lowered_height_in": 11.25,
+                    "raised_height_in": 34.25
+                },
+                {
+                    "model": "PSLT-1100",
+                    "capacity_lbs": 1100,
+                    "platform": "20.5 x 39.75 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 40.5
+                },
+                {
+                    "model": "PSLT-1650",
+                    "capacity_lbs": 1650,
+                    "platform": "20 x 39.5 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 39.5
+                },
+                {
+                    "model": "PSLT-770-DS",
+                    "capacity_lbs": 770,
+                    "platform": "19.625 x 35.875 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 51.5,
+                    "notes": "double scissor"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/scissors-lift-tables-die-lift-table"
+            ]
+        },
+        {
+            "slug": "wesco-dt-die-lift-table-models",
+            "title": "Wesco DT Die Lift Table Models",
+            "line": "wesco-scissor-lift-tables-and-carts",
+            "menu_order": 30,
+            "excerpt": "1 model rated 2,000 lb.",
+            "models": [
+                {
+                    "model": "DT-2436",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 24.25,
+                    "raised_height_in": 36
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/scissors-lift-tables-die-lift-table"
+            ]
+        },
+        {
+            "slug": "wesco-hclt-models",
+            "title": "Wesco HCLT Precision Lift Tables Models",
+            "line": "wesco-hclt-precision-lift-tables",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,200 lb.",
+            "models": [
+                {
+                    "model": "HCLT-2436-CI",
+                    "capacity_lbs": 2200,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 42
+                },
+                {
+                    "model": "HCLT-2436-P",
+                    "capacity_lbs": 2200,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 42
+                },
+                {
+                    "model": "HCLT-3048-CI",
+                    "capacity_lbs": 2200,
+                    "platform": "30 x 48 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 42
+                },
+                {
+                    "model": "HCLT-3048-P",
+                    "capacity_lbs": 2200,
+                    "platform": "30 x 48 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 42
+                }
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/wesco-hclt-series-precision-lift-tables"
+            ]
+        },
+        {
+            "slug": "wesco-ppl-models",
+            "title": "Wesco PPL Pallet Leveler Models",
+            "line": "wesco-ppl-pallet-leveler",
+            "menu_order": 10,
+            "excerpt": "2 models rated 4,500 lb.",
+            "models": [
+                {
+                    "model": "PL",
+                    "capacity_lbs": 4500,
+                    "platform": "40.75 in round",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 29,
+                    "notes": "self-levels 400–4,500 lb"
+                },
+                {
+                    "model": "PPL",
+                    "capacity_lbs": 4500,
+                    "platform": "40.75 in round",
+                    "lowered_height_in": 12.5,
+                    "raised_height_in": 28.5
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://catalog.wescomfg.com/viewitems/lift-equipment/pallet-leveler"
+            ]
+        }
+    ]
+}

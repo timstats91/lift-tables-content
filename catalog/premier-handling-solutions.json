@@ -1,0 +1,960 @@
+{
+    "brand": "premier-handling-solutions",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "phs-standard-duty-lift-tables",
+            "title": "Premier Handling Standard Duty Lift Tables",
+            "excerpt": "Economical heavy-duty hydraulic scissor lift tables rated 2,000 to 6,000 lb, with 24 to 60 in. of travel.",
+            "content": "<p>PHS Standard Duty Lift Tables are economical hydraulic scissor lifts for improving operator ergonomics and productivity. Internal power units, heavy-duty cylinders and tubular legs, safety maintenance blocks, lifetime lubricated bearings and standard hand controls are standard.</p>\n<p>Models are rated 2,000, 4,000 or 6,000 lb with 24, 36, 48 or 60 in. of travel, lowering to 7-1/2 or 10 in., with standard platforms from 24 x 36 in. and maximum platforms up to 48 x 120 in. Options include accordion skirts, oversized or bevelled platforms, pit mounting, a portability package, turntable or tilt table tops, conveyors, PLC control, foot pedal control, an external power unit and a high cycle package.</p>",
+            "line_code": "Standard Duty",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "24 to 60 in. of travel",
+                "Internal power unit",
+                "Heavy-duty cylinders",
+                "Safety maintenance blocks",
+                "Lifetime lubricated bearings"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/standard-duty-lift-table/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "phs-heavy-duty-lift-tables",
+            "title": "Premier Handling Heavy Duty Lift Tables",
+            "excerpt": "Heavy-duty hydraulic scissor lift tables rated 8,000 or 10,000 lb, with 30 to 60 in. of travel and a 3 HP motor.",
+            "content": "<p>PHS Heavy Duty Lift Tables are hydraulic scissor lifts for heavier loads, with internal power units, heavy-duty cylinders and tubular legs, safety maintenance blocks, lifetime lubricated bearings and standard hand controls.</p>\n<p>Models are rated 8,000 or 10,000 lb with 30, 40, 48 or 60 in. of travel, a 12 in. lowered height and a 3 HP motor, on standard 36 in. wide platforms up to 48 x 108 in. Options include accordion skirts, oversized or bevelled platforms, pit mounting, a portability package, turntable or tilt table tops, conveyors, PLC control, foot pedal control, an external power unit and a high cycle package.</p>",
+            "line_code": "Heavy Duty",
+            "key_features": [
+                "8,000 or 10,000 lb capacities",
+                "30 to 60 in. of travel",
+                "12 in. lowered height",
+                "3 HP motor",
+                "Safety maintenance blocks"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/heavy-duty-lift-table/"
+            ],
+            "capacity_range": "8,000–10,000 lbs"
+        },
+        {
+            "slug": "phs-double-wide-lift-tables",
+            "title": "Premier Handling Double Wide Lift Tables",
+            "excerpt": "Double wide hydraulic scissor lift tables for wide loads, rated 2,000 to 6,000 lb with 24 to 48 in. of travel.",
+            "content": "<p>PHS Double Wide Lift Tables use a double wide scissor base to carry wider platforms, with internal power units, heavy-duty cylinders and tubular legs, safety maintenance blocks, lifetime lubricated bearings and standard hand controls.</p>\n<p>Models are rated 2,000, 4,000 or 6,000 lb with 24, 36 or 48 in. of travel and a 7-1/2 in. lowered height, on standard platforms from 48 x 36 in. and maximum platforms up to 72 x 96 in.</p>",
+            "line_code": "Double Wide",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "24 to 48 in. of travel",
+                "Double wide base",
+                "Internal power unit",
+                "Heavy-duty cylinders"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/double-wide-lift-table/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "phs-wide-base-lift-tables",
+            "title": "Premier Handling Wide Base Lift Tables",
+            "excerpt": "Wide base hydraulic scissor lift tables for larger loads, rated 2,000 to 6,000 lb with 24 to 60 in. of travel.",
+            "content": "<p>PHS Wide Base Lift Tables are economical heavy-duty scissor lifts with a wider base for larger loads, with internal power units, heavy-duty cylinders and tubular legs, safety maintenance blocks, lifetime lubricated bearings and standard hand controls.</p>\n<p>Models are rated 2,000, 4,000 or 6,000 lb with 24 to 60 in. of travel, on standard platforms from 36 x 36 in. and maximum platforms up to 84 x 120 in. Options include accordion skirts, oversized or bevelled platforms, pit mounting, a portability package, turntable or tilt table tops, conveyors, PLC control, foot pedal control, an external power unit and a high cycle package.</p>",
+            "line_code": "Wide Base",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "24 to 60 in. of travel",
+                "Wide base for larger loads",
+                "Internal power unit",
+                "Heavy-duty cylinders"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/wide-base-lift-table/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "phs-wide-base-tandem-lift-tables",
+            "title": "Premier Handling Wide Base Tandem Lift Tables",
+            "excerpt": "Tandem hydraulic scissor lift tables with long platforms up to 48 x 220 in., rated 2,000 to 6,000 lb.",
+            "content": "<p>PHS Wide Base Tandem Lift Tables pair scissor assemblies under long platforms, with heavy-duty cylinders and tubular legs, safety maintenance blocks, lifetime lubricated bearings and standard hand controls.</p>\n<p>Models are rated 2,000, 4,000 or 6,000 lb with 24 to 60 in. of travel and 8 or 10 in. lowered heights, on standard platforms from 24 x 72 in. and maximum platforms up to 48 x 220 in. Skirts, oversized and bevelled platforms, pit mounting, portability, turntables, conveyors, PLC and foot pedal controls and a high cycle package are available.</p>",
+            "line_code": "Wide Base Tandem",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "Platforms up to 48 x 220 in.",
+                "24 to 60 in. of travel",
+                "Safety maintenance blocks"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/wide-base-tandem-lift-table/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "phs-zero-lift-tables",
+            "title": "Premier Handling Zero Lift Tables",
+            "excerpt": "Floor-level lift tables that lower to 3/8 in. for pallet jack loading, rated 2,000 or 4,000 lb with 36 in. of travel.",
+            "content": "<p>PHS Zero Ground Level Lifts are for work areas without powered fork trucks. They lower to 3/8 in. so pallet jacks and other equipment can load them at floor level, over a bevelled front approach edge.</p>\n<p>Models are rated 2,000 or 4,000 lb with 36 in. of travel, on 44 x 48 or 50 x 48 in. platforms, with external power units, heavy-duty cylinders and legs, safety maintenance blocks and hand controls. Skirts, oversized platforms, conveyors, foot pedal and PLC controls are optional.</p>",
+            "line_code": "Zero Lift",
+            "key_features": [
+                "3/8 in. lowered height",
+                "Pallet jack loading",
+                "2,000 or 4,000 lb capacities",
+                "36 in. of travel",
+                "External power unit"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/zero-lift-table/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "phs-pneumatic-lift-tables",
+            "title": "Premier Handling Pneumatic Lift Tables",
+            "excerpt": "Fully air-actuated lift tables for areas where hydraulic oil is prohibited, rated 1,000 to 4,000 lb.",
+            "content": "<p>PHS Pneumatic Lift Tables are 100% air actuated and work anywhere plant air is available, with no electrical connections, control boxes or hydraulic cylinders. They suit applications where hydraulic oils are prohibited and need less maintenance than electric hydraulic tables.</p>\n<p>10 Series tables are rated 1,000 lb, 20 Series 2,000 lb and 40 Series 4,000 lb, on platforms from 36 x 48 to 48 x 60 in. Skirts, oversized or bevelled platforms, pit mounting, portability, turntables, tilt tables, conveyors and stainless steel construction are available.</p>",
+            "line_code": "Pneumatic 10/20/40",
+            "key_features": [
+                "Powered by plant air",
+                "1,000 to 4,000 lb capacities",
+                "No hydraulic oil",
+                "Stainless steel option"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/pneumatic-lift-table/"
+            ],
+            "capacity_range": "1,000–4,000 lbs"
+        },
+        {
+            "slug": "phs-portable-electric-lift-tables",
+            "title": "Premier Handling Portable Electric Lift Tables",
+            "excerpt": "Portable electric scissor lift tables rated 1,000 or 2,000 lb, with 24 or 36 in. of travel.",
+            "content": "<p>PHS Portable Electric Lift Tables are mobile electric scissor lifts for moving and positioning loads between work areas.</p>\n<p>Models are rated 1,000 or 2,000 lb with 24 or 36 in. of travel and a 13-1/2 in. lowered height, on 24 x 36 or 24 x 48 in. standard platforms, with wide base versions on 36 x 36 in. platforms.</p>",
+            "line_code": "Portable Electric",
+            "key_features": [
+                "1,000 or 2,000 lb capacities",
+                "24 or 36 in. of travel",
+                "13-1/2 in. lowered height",
+                "Wide base versions"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/portable-electric-lift-table/"
+            ],
+            "capacity_range": "1,000–2,000 lbs"
+        },
+        {
+            "slug": "phs-stainless-steel-lift-table",
+            "title": "Premier Handling Stainless Steel Lift Table",
+            "excerpt": "A 4,000 lb stainless steel lift table with a 42 x 48 in. platform, lowering to 9 in. and raising to 33 in.",
+            "content": "<p>The PHS Stainless Steel Lift Table is a stainless steel scissor lift for sanitary and washdown applications.</p>\n<p>It is rated 4,000 lb, with a 42 x 48 in. platform on a 36 x 48 in. base frame, a 9 in. lowered height and a 33 in. raised height.</p>",
+            "line_code": "Stainless",
+            "capacity_range": "4,000 lbs",
+            "key_features": [
+                "Stainless steel construction",
+                "4,000 lb capacity",
+                "42 x 48 in. platform",
+                "9 to 33 in. height range"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/stainless/stainless-lift/stainless-steel-lift-table/"
+            ]
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "phs-standard-duty-models",
+            "title": "Premier Handling Standard Duty Lift Table Models",
+            "line": "phs-standard-duty-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 2,000–6,000 lb, with 24–60 in. of travel.",
+            "models": [
+                {
+                    "model": "1000999",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000998",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000997",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000996",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000995",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000994",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000993",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000992",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000991",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000990",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 88 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "1000989",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 88 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "1000988",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 88 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/standard-duty-lift-table/"
+            ]
+        },
+        {
+            "slug": "phs-heavy-duty-models",
+            "title": "Premier Handling Heavy Duty Lift Table Models",
+            "line": "phs-heavy-duty-lift-tables",
+            "menu_order": 10,
+            "excerpt": "8 models rated 8,000–10,000 lb, with 30–60 in. of travel.",
+            "models": [
+                {
+                    "model": "1000824",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 42,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "1000823",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 42,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "1000822",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 60 to 48 x 88 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 52,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "1000821",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 60 to 48 x 88 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 52,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "1000820",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 72 to 48 x 102 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000819",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 72 to 48 x 102 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000818",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 88 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "1000817",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 88 to 48 x 108 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/heavy-duty-lift-table/"
+            ]
+        },
+        {
+            "slug": "phs-double-wide-models",
+            "title": "Premier Handling Double Wide Lift Table Models",
+            "line": "phs-double-wide-lift-tables",
+            "menu_order": 10,
+            "excerpt": "9 models rated 2,000–6,000 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "1000926",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000925",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000924",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 36 to 72 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000923",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 36 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000922",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 36 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000921",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 36 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000920",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000919",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000918",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/double-wide-lift-table/"
+            ]
+        },
+        {
+            "slug": "phs-wide-base-models",
+            "title": "Premier Handling Wide Base Lift Table Models",
+            "line": "phs-wide-base-lift-tables",
+            "menu_order": 10,
+            "excerpt": "18 models rated 2,000–6,000 lb, with 24–60 in. of travel.",
+            "models": [
+                {
+                    "model": "1000987",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000986",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000985",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000984",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000983",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000982",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000981",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000980",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000979",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000978",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000977",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000976",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000975",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000974",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000973",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000972",
+                    "capacity_lbs": 2000,
+                    "platform": "56 x 88 to 84 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "1000971",
+                    "capacity_lbs": 4000,
+                    "platform": "56 x 88 to 84 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "1000970",
+                    "capacity_lbs": 6000,
+                    "platform": "56 x 88 to 84 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/wide-base-lift-table/"
+            ]
+        },
+        {
+            "slug": "phs-wide-base-tandem-models",
+            "title": "Premier Handling Wide Base Tandem Lift Table Models",
+            "line": "phs-wide-base-tandem-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 2,000–6,000 lb, with 24–60 in. of travel.",
+            "models": [
+                {
+                    "model": "1000969",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 72 to 48 x 120 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000968",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 72 to 48 x 120 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000967",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 72 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 34,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000966",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000965",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000964",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 46,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000963",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 128 to 48 x 176 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000962",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 128 to 48 x 176 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000961",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 128 to 48 x 176 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 58,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "1000960",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 172 to 48 x 220 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "1000959",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 172 to 48 x 220 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "1000958",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 172 to 48 x 220 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/wide-base-tandem-lift-table/"
+            ]
+        },
+        {
+            "slug": "phs-zero-lift-models",
+            "title": "Premier Handling Zero Lift Table Models",
+            "line": "phs-zero-lift-tables",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,000–4,000 lb, with 36 in. of travel.",
+            "models": [
+                {
+                    "model": "1000943",
+                    "capacity_lbs": 2000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000942",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000941",
+                    "capacity_lbs": 4000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000940",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "36 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/zero-lift-table/"
+            ]
+        },
+        {
+            "slug": "phs-pneumatic-models",
+            "title": "Premier Handling Pneumatic Lift Table Models",
+            "line": "phs-pneumatic-lift-tables",
+            "menu_order": 10,
+            "excerpt": "10 models rated 1,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "1000846",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 48 in",
+                    "notes": "10 series"
+                },
+                {
+                    "model": "1000845",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 in",
+                    "notes": "10 series"
+                },
+                {
+                    "model": "1000844",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 56 in",
+                    "notes": "10 series"
+                },
+                {
+                    "model": "1000843",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 60 in",
+                    "notes": "10 series"
+                },
+                {
+                    "model": "1000842",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "notes": "20 series"
+                },
+                {
+                    "model": "1000841",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "notes": "20 series"
+                },
+                {
+                    "model": "1000840",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 56 in",
+                    "notes": "20 series, also listed with 48 x 60 in platform"
+                },
+                {
+                    "model": "1000839",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "notes": "40 series"
+                },
+                {
+                    "model": "1000838",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 56 in",
+                    "notes": "40 series"
+                },
+                {
+                    "model": "1000837",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 60 in",
+                    "notes": "40 series"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/pneumatic-lift-table/"
+            ]
+        },
+        {
+            "slug": "phs-portable-electric-models",
+            "title": "Premier Handling Portable Electric Lift Table Models",
+            "line": "phs-portable-electric-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 1,000–2,000 lb, with 24–36 in. of travel.",
+            "models": [
+                {
+                    "model": "1000950",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 30 x 42 in",
+                    "lowered_height_in": 13.5,
+                    "raised_height_in": 37.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000951",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 13.5,
+                    "raised_height_in": 37.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "1000949",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 30 x 54 in",
+                    "lowered_height_in": 13.5,
+                    "raised_height_in": 49.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000948",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 30 x 54 in",
+                    "lowered_height_in": 13.5,
+                    "raised_height_in": 49.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "1000947",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 36 to 42 x 42 in",
+                    "lowered_height_in": 13.5,
+                    "raised_height_in": 37.5,
+                    "notes": "24 in travel, wide base"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.phsinc.com/lift-tables/portable-electric-lift-table/"
+            ]
+        }
+    ]
+}

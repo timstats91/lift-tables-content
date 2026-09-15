@@ -1,8 +1,7 @@
-// Build the draft products that hold model tables for the Autoquip, American
-// Lifts, Advance Lifts and ATI catalogs, from each manufacturer's published
-// model data: Autoquip's lifts API, Advance Lifts' spec tables and ATI's
-// WooCommerce Store API. Replaces the "products" array in each catalog file;
-// lines are left as they are.
+// Build the draft products that hold model tables for the generated catalogs
+// (see README), from each manufacturer's published model data: APIs, spec
+// tables, CSV files, data sheets and item catalogs. Replaces the "products"
+// array in each catalog file; lines are left as they are.
 //
 //   node generators/line-models.js catalog
 //
@@ -207,7 +206,7 @@ function capacity(v) {
   return { max: Math.max(...n), range: n.length > 1 && /\d\s*(-|–|to)\s*\d/.test(String(v).replace(/,/g, '')) ? `${n[0].toLocaleString('en-US')}–${n[n.length - 1].toLocaleString('en-US')} lb` : '' };
 }
 
-const cleanSize = v => uni(v).replace(/["”]/g, '').replace(/\s*[xX]\s*/g, ' x ').replace(/\s+/g, ' ').trim();
+const cleanSize = v => uni(v).replace(/["”″]/g, '').replace(/\s*[xX]\s*/g, ' x ').replace(/\s+/g, ' ').trim();
 
 function sizeRange(min, max) {
   const a = cleanSize(min), b = cleanSize(max);
@@ -397,6 +396,319 @@ function vestil(...fids) {
         ]),
       }));
     }
+  }
+  return out;
+}
+
+/* ----------------------------------------------------------- Lift Products */
+
+// Lift Products spec tables ("std-spec") have two header rows joined by
+// rowspan/colspan, and some rows are missing their closing </tr>. Returns
+// { cols, rows } per table, with composite headers such as "Height Lower" and
+// each cell as { text, html }.
+function specGrid(table) {
+  const rows = table.split(/<tr\b/i).slice(1).map(r => [...r.matchAll(/<t([dh])([^>]*)>([\s\S]*?)<\/t[dh]>/gi)].map(c => ({
+    th: c[1] === 'h', cs: +(c[2].match(/colspan="(\d+)"/) || [0, 1])[1], rs: +(c[2].match(/rowspan="(\d+)"/) || [0, 1])[1],
+    text: clean(c[3].replace(/<option[^>]*>Select( One)?<\/option>/gi, '').replace(/<\/option>/gi, ' ').replace(/<br\s*\/?>/gi, ' ')), html: c[3],
+  })));
+  const out = [];
+  const carry = {};
+  for (const cells of rows) {
+    if (!cells.length) continue;
+    const line = [];
+    let x = 0;
+    const skip = () => { while (carry[x] && carry[x].n > 0) { line[x] = carry[x].cell; carry[x].n--; x++; } };
+    for (const c of cells) {
+      skip();
+      for (let i = 0; i < c.cs; i++) { line[x] = c; if (c.rs > 1) carry[x] = { cell: c, n: c.rs - 1 }; x++; }
+    }
+    skip();
+    // Work positioner tables put their second header row in <td> cells.
+    out.push({ head: cells.every(c => c.th) || cells.every(c => !/\d/.test(c.text)), line });
+  }
+  const head = out.filter(r => r.head);
+  const cols = (head[0] ? head[0].line : []).map((_, i) => [...new Set(head.map(r => r.line[i] && r.line[i].text).filter(Boolean))].join(' '));
+  return { cols, rows: out.filter(r => !r.head).map(r => r.line) };
+}
+
+// One Lift Products page's model rows. Base models whose capacity cell is a
+// menu of per-capacity pages are replaced by the rows on those pages.
+function liftProducts(path, seen = new Set()) {
+  const url = `https://www.liftproducts.com/${path}.html`;
+  const html = get(url);
+  const out = [];
+  for (const t of html.matchAll(/<table[^>]*class="[^"]*std-spec[^"]*"[\s\S]*?<\/table>/gi)) {
+    const { cols, rows } = specGrid(t[0]);
+    const at = (...pats) => col(cols, ...pats);
+    const iModel = at(/^(base )?model$/i);
+    const iTravel = at(/vertical travel/i);
+    const iLow = at(/^height\*? (lower|down|min)$/i, /^lowered height$/i);
+    const iUp = at(/^height\*? (upper|up|max)$/i);
+    const iCap = at(/^cap(acity)?\.?( \(lbs\))?( std)?$/i, /^capacity( \(lbs\))? min$/i);
+    const iCapMax = at(/^capacity( \(lbs\))? max$/i);
+    const iPlat = at(/^platform( size)?( min| std)?$/i);
+    const iPlatMax = at(/^platform( size)? max$/i);
+    const iTilt = at(/^tilt$/i);
+    const iRot = at(/^rotation$/i);
+    // Work positioner tables repeat "Height" for both columns.
+    const heights = cols.map((c, i) => (c === 'Height' ? i : -1)).filter(i => i >= 0);
+    const low = iLow >= 0 ? iLow : heights[0], up = iUp >= 0 ? iUp : heights[1];
+    for (const r of rows) {
+      const v = i => (i >= 0 && r[i] ? r[i].text : '');
+      if (!v(iModel)) continue;
+      const links = iCap >= 0 && r[iCap] ? [...r[iCap].html.matchAll(/value="(https:\/\/www\.liftproducts\.com\/[^"#]+)\.html/g)].map(m => m[1].replace('https://www.liftproducts.com/', '')) : [];
+      if (links.length) {
+        for (const l of [...new Set(links)]) if (!seen.has(l) && l !== path) { seen.add(l); out.push(...liftProducts(l, seen)); }
+        continue;
+      }
+      const caps = capacity(v(iCap));
+      const capMax = capacity(v(iCapMax)).max;
+      const std = /std$/i.test(cols[iCap] || '');
+      const round = s => { const m = s.match(/^([\d.]+)"?\s*(dia\.?|ø|&oslash;)/i); return m ? `${m[1]} in round` : ''; };
+      const plat = round(v(iPlat)) || sizeRange(v(iPlat), v(iPlatMax));
+      const travel = inch(v(iTravel));
+      const tilt = v(iTilt).replace(/&deg;|°/g, '');
+      out.push(row({
+        model: v(iModel),
+        capacity_lbs: capMax && !std ? capMax : caps.max,
+        platform: plat,
+        lowered_height_in: low >= 0 ? inch(v(low)) : '',
+        raised_height_in: up >= 0 ? inch(v(up)) : '',
+        notes: notes([
+          capMax && !std ? `self-levels ${caps.max.toLocaleString('en-US')}–${capMax.toLocaleString('en-US')} lb` : '',
+          capMax && std ? `available up to ${capMax.toLocaleString('en-US')} lb` : '',
+          travel ? `${frac(travel)} in travel` : '',
+          tilt ? `${tilt.replace(/^0-/, '').replace(/\//, ' or ')}° tilt` : '',
+          v(iRot) ? `${v(iRot).replace(/&deg;|°/g, '')}° rotation` : '',
+        ]),
+      }));
+    }
+  }
+  return out;
+}
+
+/* ------------------------------------------------------------------ Beacon */
+
+const ENT = { '&frac12;': '½', '&frac14;': '¼', '&frac34;': '¾', '&#8539;': '⅛', '&#8540;': '⅜', '&#8541;': '⅝', '&#8542;': '⅞', '&#189;': '½', '&#188;': '¼', '&#190;': '¾' };
+
+// Beacon model tables: a "Model No." header row, then rows numbered "1) BEHLT-1-43".
+// Long series continue in further tables with the same header.
+function beacon(path) {
+  let html = get(`https://www.beacontechnology.com/lifting-tables/${path}/`);
+  for (const [e, c] of Object.entries(ENT)) html = html.split(e).join(c);
+  const out = [];
+  for (const t of tables(html)) {
+    // A table can hold several header rows: variants with other columns, and
+    // option lists (ramps, foot controls) that have no capacity column.
+    let h = null;
+    let iCap, iStd, iMax, iW, iL, iLow, iUp, iRange, iTravel, iTilt;
+    // Some series split their table under captions such as "90 Degree Tilt".
+    let captionTilt = '';
+    for (const r of t) {
+      const caption = r.length === 1 && (r[0].match(/(\d+) Degree Tilt/i) || [])[1];
+      if (caption) captionTilt = caption;
+      if (/^Model No/i.test(r[0] || '')) {
+        h = r;
+        const at = (...pats) => col(h, ...pats);
+        iCap = at(/^cap/i);
+        iStd = at(/^platform std/i, /^platform size/i, /^platform top/i);
+        iMax = at(/^platform max/i);
+        iW = at(/^platform width/i);
+        iL = at(/^platform length/i);
+        iLow = at(/^lowered height/i, /^level height/i, /^horizontal height/i);
+        iUp = at(/^raised height/i);
+        iRange = at(/^service range/i);
+        iTravel = at(/^(vertical )?travel( \(inches\))?$/i);
+        iTilt = at(/degree of tilt/i, /angle of tilt/i, /^max\.? tilt/i);
+        continue;
+      }
+      const m = (r[0] || '').match(/^\d+\)\s*(\S+)/);
+      if (!h || !m || iCap < 0 || r.length !== h.length) continue;
+      const v = i => (i >= 0 && r[i] ? uni(r[i]).replace(/(\d)-\s+(\d+\/\d+)/g, '$1-$2') : '');
+      const cap = capacity(v(iCap));
+      let plat = '';
+      if (iW >= 0 && iL >= 0) {
+        const span = s => s.replace(/["”]/g, '').split(/\s*(?:-|to)\s*/).map(x => x.trim()).filter(Boolean);
+        const [w1, w2 = w1] = span(v(iW)), [l1, l2 = l1] = span(v(iL));
+        plat = w1 && l1 ? (w1 === w2 && l1 === l2 ? `${w1} x ${l1} in` : `${w1} x ${l1} to ${w2} x ${l2} in`) : '';
+      } else if (iStd >= 0) {
+        const s = v(iStd).replace(/^(\S+?x[^x]+?)x.*$/, '$1');
+        const ring = s.match(/^([\d-/]+)"?-?\s*(open ring|solid)/i);
+        plat = ring ? `${ring[1]} in round` : sizeRange(s, v(iMax));
+      }
+      let low = v(iLow), up = v(iUp);
+      const range = v(iRange).match(/^(.+?)\s+to\s+(.+)$/);
+      if (range) { low = low || range[1]; up = up || range[2]; }
+      const travel = inch(v(iTravel));
+      const tilt = v(iTilt).replace(/degrees?|°/gi, '').trim() || captionTilt;
+      out.push(row({
+        model: m[1],
+        capacity_lbs: cap.max,
+        platform: plat,
+        lowered_height_in: inch(low),
+        raised_height_in: inch(up),
+        notes: notes([
+          cap.range ? `self-levels ${cap.range}` : '',
+          travel ? `${frac(travel)} in travel` : '',
+          tilt ? `${tilt.replace(/,?\s*&\s*|,\s*/g, ', ').replace(/, (\d+)$/, ' or $1')}° tilt` : '',
+        ]),
+      }));
+    }
+  }
+  return out;
+}
+
+/* ----------------------------------------------------------- Wesco / Lexco */
+
+// Wesco's catalog lists a group's items; each item page has an attribute
+// table ("Model | N/A LT-02-1616") and a title with the capacity.
+function wesco(group, filter = () => true) {
+  const C = 'https://catalog.wescomfg.com';
+  const list = get(`${C}/viewitems/${group}?pagesize=200`);
+  const items = [...new Set([...list.matchAll(/href="(\/item\/[^"]+)"/g)].map(m => m[1]))];
+  const out = [];
+  for (const item of items) {
+    const html = get(C + item);
+    const title = clean((html.match(/<title>([^<]*)/) || [])[1] || '').replace(/ On Wesco.*$/, '');
+    const a = {};
+    for (const r of tables(html).flat()) if (r.length === 2 && r[1].startsWith('N/A')) a[r[0]] = r[1].replace(/^N\/A\s*/, '');
+    const part = (title.match(/^Part No\. ([^,]+)/) || [])[1];
+    const model = a.Model || part;
+    if (!model || !a['Raised Height'] && !a.Capacity || !filter(model, a, title)) continue;
+    const caps = capacity(a.Capacity || (title.match(/([\d,]+) lb/) || [])[1]);
+    const w = a['Table Width'], l = a['Table Length'];
+    let plat = w && l ? `${cleanSize(w)} x ${cleanSize(l)} in` : (a.Platform ? `${cleanSize(a.Platform)} in` : '');
+    if (!plat && a['Carousel Diameter']) plat = `${cleanSize(a['Carousel Diameter'])} in round`;
+    const posts = a['Support Posts'];
+    const travel = inch((a.Travel || a.Lift || '').replace(/\s+"/, '"'));
+    out.push(row({
+      model,
+      capacity_lbs: caps.max,
+      platform: plat.replace(/\s+in/, ' in'),
+      lowered_height_in: inch((a['Lowered Height'] || '').replace(/\s+"/, '"')),
+      raised_height_in: inch((a['Raised Height'] || '').replace(/\s*\(.*\)/, '').replace(/\s+"/, '"')),
+      notes: notes([
+        caps.range ? `self-levels ${caps.range}` : '',
+        travel ? `${frac(travel)} in travel` : '',
+        posts ? (/none/i.test(posts) ? 'no support posts' : `${posts} support posts`) : '',
+        /double scissor/i.test(title + (a.Capacity || '')) ? 'double scissor' : '',
+      ]),
+    }));
+  }
+  return out;
+}
+
+/* -------------------------------------------------------------- Econo Lift */
+
+// Econo Lift model tables: a "<SERIES> MODEL NO." header, section rows such
+// as "36" Travel - 24" Wide x 48" Long Platform/Base", then model rows. Tilter
+// pages instead list models across the columns of a spec table.
+function econo(path) {
+  const out = [];
+  for (const t of tables(get(`https://econolift.net/${path}/`))) {
+    if (/^SPECIFICATIONS$/i.test(t[0] && t[0][1])) {
+      const models = t[0].slice(2);
+      const spec = label => (t.find(r => new RegExp(label, 'i').test(r[1] || '')) || []).slice(2);
+      models.forEach((m, i) => {
+        const caps = String(spec('^Capacity')[i] || '').split('/');
+        m.split('/').forEach((model, j) => out.push(row({
+          model,
+          capacity_lbs: lbs(caps[j] || caps[0]),
+          platform: spec('^Fork Length')[i] ? `${cleanSize(spec('^Fork Length')[i].replace(/\s*in\.?$/, ''))} in forks` : '',
+          lowered_height_in: inch(String(spec('^Lowered Height')[i] || '').replace(/\s*in\..*$/, '')),
+          notes: notes([
+            spec('^Lift$')[i] ? `${frac(inch(spec('^Lift$')[i].replace(/\s*in\.?$/, '')))} in lift` : '',
+            spec('^Tilt Angle')[i] ? `${spec('^Tilt Angle')[i].replace(/[˚°]/g, '')}° tilt` : '',
+          ]),
+        })));
+      });
+      continue;
+    }
+    const h = t[0] || [];
+    if (!/MODEL NO/i.test(h[0] || '')) continue;
+    const at = (...pats) => col(h, ...pats);
+    const iCap = at(/^CAPACITY/i);
+    const iStd = at(/STD\.? PLATFORM|^PLATFORM SIZE/i);
+    const iMax = at(/OVERSIZ|MAX\.? PLATFORM/i);
+    const iLow = at(/^LOW(ER|'D)? HEIGHT/i, /^PLATFORM HEIGHT/i);
+    const iUp = at(/^RAISED HEIGHT/i, /^TOTAL (HEIGHT|HT)/i);
+    const iTravel = at(/^(VERTICAL )?TRAVEL/i);
+    const iTilt = at(/^TILT ANGLE/i);
+    let sectionTravel = '';
+    for (const r of t.slice(1)) {
+      if (r.filter(Boolean).length === 1) { sectionTravel = (r[0].match(/^([\d.]+)"\s*Travel/i) || [])[1] || ''; continue; }
+      if (!r[0] || r.length !== h.length) continue;
+      const caps = capacity(r[iCap]);
+      const travel = inch(iTravel >= 0 ? r[iTravel] : '') || inch(sectionTravel);
+      const tilt = iTilt >= 0 ? r[iTilt].replace(/[˚°]/g, '') : '';
+      out.push(row({
+        model: r[0].replace(/\s+/g, ' '),
+        capacity_lbs: caps.max,
+        platform: iStd >= 0 ? sizeRange(r[iStd], iMax >= 0 ? r[iMax] : '') : '',
+        lowered_height_in: iLow >= 0 ? inch(r[iLow]) : '',
+        raised_height_in: iUp >= 0 ? inch(r[iUp]) : '',
+        notes: notes([
+          caps.range ? `self-levels ${caps.range}` : '',
+          travel ? `${frac(travel)} in travel` : '',
+          tilt ? `${tilt}° tilt` : '',
+        ]),
+      }));
+    }
+  }
+  return out;
+}
+
+/* ----------------------------------------------- Premier Handling Solutions */
+
+// PHS pages list part numbers ("24" Travel 1000999 2000 lbs., ...) and, in a
+// separate "SPECIFICATIONS" block, one column per model under each travel or
+// series heading. Part numbers are matched to columns in order within a group;
+// capacities come from the specification block, since the part list has typos
+// (80000 for 8,000 lb).
+function phs(path) {
+  const html = get(`https://www.phsinc.com/${path}/`);
+  const lines = html.replace(/<(script|style)[\s\S]*?<\/\1>/gi, ' ').replace(/<(br|\/p|\/li|\/h\d|\/tr|\/div|\/td|\/th)[^>]*>/gi, '\n').split('\n').map(l => clean(l)).filter(Boolean);
+  const norm = s => s.toUpperCase().replace(/[″”"]/g, '"').replace(/\s+/g, ' ').replace(/ TRAVEL$/, '').trim();
+  // Part list: "24" Travel 1000999 2000 lbs., 36" Travel ..."
+  const list = lines.find(l => /\d{7} \d+ lbs/.test(l)) || '';
+  const parts = {};
+  for (const m of list.matchAll(/(X?(?:WB)?\d+"?\s*(?:Travel|Series))\s+(\d{7})/gi)) (parts[norm(m[1])] = parts[norm(m[1])] || []).push(m[2]);
+  const start = lines.findIndex(l => /SPECIFICATIONS$/.test(l));
+  const groups = [];
+  let g = null, key = null;
+  for (const l of lines.slice(start + 1)) {
+    if (/^Contact Us$/i.test(l)) break;
+    if (/^X?(?:WB)?\d+[″”"]\s*(TRAVEL|Series)$/i.test(l) || /^\d+ Series$/i.test(l)) { g = { label: norm(l), cols: {} }; groups.push(g); key = null; continue; }
+    if (!g) continue;
+    if (/^[A-Z][A-Z .\/]+$/.test(l) && !/\d/.test(l) || /^Platform W\/L$/i.test(l)) { key = l.toUpperCase(); g.cols[key] = []; continue; }
+    if (key) g.cols[key].push(l);
+  }
+  const out = [];
+  const used = {};
+  for (const grp of groups) {
+    const caps = grp.cols['LOAD CAPACITY'] || [];
+    const pool = parts[grp.label] || [];
+    caps.forEach((c, i) => {
+      const n = (used[grp.label] = (used[grp.label] || 0) + 1) - 1;
+      const model = pool[n];
+      if (!model) return;
+      const col = k => (grp.cols[k] || [])[i] || '';
+      const fix = s => s.replace(/(^|\D)3(36)(?=\D)/, '$1$2'); // "336″ x 48″" is 36 x 48 on PHS's heavy duty sheet
+      const plat = sizeRange(fix(col('STANDARD PLATFORM') || col('PLATFORM SIZE') || col('PLATFORM W/L')), col('MAX. PLATFORM'));
+      const travel = inch((grp.label.match(/^X?(?:WB)?(\d+)"$/) || [])[1] || '');
+      out.push(row({
+        model,
+        capacity_lbs: lbs(c),
+        platform: plat,
+        lowered_height_in: inch(col('LOWERED HEIGHT').replace(/[”″"]/g, '')),
+        raised_height_in: inch(col('RAISED HEIGHT').replace(/[”″"]/g, '')),
+        notes: notes([
+          travel ? `${frac(travel)} in travel` : '',
+          /^WB/.test(grp.label) ? 'wide base' : '',
+          /SERIES/.test(grp.label) ? grp.label.toLowerCase() : '',
+        ]),
+      }));
+    });
   }
   return out;
 }
@@ -664,9 +976,154 @@ const plan = {
     ['vestil-lift-and-tilt-carts', 'vestil-cart-lt', 'CART-LT', [302]],
     ['vestil-linear-actuated-elevating-carts', 'vestil-cart-la', 'CART-LA', [277]],
   ].map(([line, stem, title, fids]) => P(line, stem, title, `https://www.vestil.com/product.php?FID=${fids[0]}`, () => vestil(...fids))),
+  'lift-products': [
+    ['lift-products-guardian-lift-tables', 'lift-products-guardian', 'Guardian', 'lifttables/guardian_lift_tables'],
+    ['lift-products-g-series-lift-tables', 'lift-products-g-series', 'G-Series', 'lifttables/2G-3G'],
+    ['lift-products-max-m22-m33-lift-tables', 'lift-products-max-m22-m33', 'Max-M22/M33', 'lifttables/M22'],
+    ['lift-products-max-lift-scissor-lift-tables', 'lift-products-max-lift', 'Max-Lift', 'lifttables/maxlift/max-lift-specs'],
+    ['lift-products-max-lift-xl-heavy-duty-lift-tables', 'lift-products-max-lift-xl', 'Max-Lift XL', 'lifttables/max-lift-xl'],
+    ['lift-products-max-lift-tandem-lift-tables', 'lift-products-max-lift-xxl', 'Max-Lift Double Long', 'lifttables/tandem/double-long'],
+    ['lift-products-max-lift-tandem-lift-tables', 'lift-products-max-lift-xxw', 'Max-Lift Double Wide', 'lifttables/tandem/double-wide'],
+    ['lift-products-max-lift-double-high-lift-tables', 'lift-products-max-lift-xxh', 'Max-Lift Double High', 'lifttables/multi-stage'],
+    ['lift-products-mml-lift-carts', 'lift-products-mml', 'MML', 'liftcarts/mml'],
+    ['lift-products-mml-pss-stainless-steel-lift-carts', 'lift-products-mml-pss', 'MML-PSS', 'liftcarts/mml-pss'],
+    ['lift-products-mmle-battery-powered-lift-carts', 'lift-products-mmle', 'MMLE', 'liftcarts/mmle'],
+    ['lift-products-mmla-linear-actuated-lift-carts', 'lift-products-mmla', 'MMLA', 'liftcarts/mmla'],
+    ['lift-products-lpmc-self-propelled-lift-carts', 'lift-products-lpmc', 'LPMC', 'lifttables/mobile/lpmc'],
+    ['lift-products-lpt-mgv-self-propelled-lift-tables', 'lift-products-lpt-mgv', 'LPT-MGV', 'lifttables/mobile/mgv'],
+    ['lift-products-moto-cart-jr-lift-carts', 'lift-products-moto-cart-jr-elt', 'Moto-Cart Jr. ELT', 'electriccarts/moto-cart-jr-elt'],
+    ['lift-products-moto-cart-jr-lift-carts', 'lift-products-moto-cart-jr-mlt', 'Moto-Cart Jr. MLT', 'electriccarts/moto-cart-jr-lt'],
+    ['lift-products-roto-max-work-positioners', 'lift-products-roto-max', 'Roto-Max', 'lifttables/rotating/roto_max'],
+    ['lift-products-roto-max-work-positioners', 'lift-products-roto-max-ss', 'Roto-Max SS', 'lifttables/stainless/roto-max-ss'],
+    ['lift-products-guardian-lift-n-spin', 'lift-products-guardian-lift-n-spin', 'Guardian Lift-N-Spin', 'lifttables/rotating/guardian_lift_spin'],
+    ['lift-products-lpsl-level-loaders', 'lift-products-lpsl-spring', 'LPSL Spring Level Loader', 'lifttables/rotating/spring-level-loader'],
+    ['lift-products-lpsl-level-loaders', 'lift-products-lpsl-air', 'LPSL-AIR Level Loader', 'lifttables/rotating/air-bag-level-loader'],
+    ['lift-products-guardian-low-profile-lift-tables', 'lift-products-guardian-low-profile', 'Guardian Low Profile', 'lifttables/lowprofile/guardian'],
+    ['lift-products-guardian-low-profile-lift-tables', 'lift-products-guardian-low-profile-sg', 'Guardian Low Profile SG', 'lifttables/stainless/lpbl-sg'],
+    ['lift-products-guardian-e-lift-tables', 'lift-products-guardian-e-lift', 'Guardian E-Lift', 'lifttables/lowprofile/elift'],
+    ['lift-products-guardian-e-lift-tables', 'lift-products-guardian-e-lift-sg', 'Guardian E-Lift SG', 'lifttables/stainless/lpble-sg'],
+    ['lift-products-guardian-u-lift-tables', 'lift-products-guardian-u-lift', 'Guardian U-Lift', 'lifttables/lowprofile/ulift'],
+    ['lift-products-guardian-u-lift-tables', 'lift-products-guardian-u-lift-sg', 'Guardian U-Lift SG', 'lifttables/stainless/lpblu-sg'],
+    ['lift-products-sxt-stainless-steel-lift-tables', 'lift-products-sxt', 'SXT', 'lifttables/stainless/sxt'],
+    ['lift-products-sxtlp-stainless-steel-ground-entry-lift-tables', 'lift-products-sxtlp', 'SXTLP', 'lifttables/stainless/sxtlp'],
+    ['lift-products-level-lifter-ground-entry-lift-tables', 'lift-products-level-lifter', 'Level Lifter', 'lifttables/groundentry/level_lifter'],
+    ['lift-products-max-lift-and-tilt-tables', 'lift-products-max-lift-and-tilt', 'Max-Lift & Tilt', 'lifttables/tilting/max-lift-tilt'],
+    ['lift-products-compact-lift-and-tilt-tables', 'lift-products-compact-lift-and-tilt', 'Compact Lift & Tilt', 'tilters/compact-lift'],
+    ['lift-products-max-tilt-tilt-tables', 'lift-products-max-tilt', 'Max-Tilt', 'tilters/max-tilt'],
+    ['lift-products-maxx-ergo-tilters', 'lift-products-maxx-ergo-tilter', 'Maxx-Ergo Tilter', 'tilters/max-ergo-tilter'],
+    ['lift-products-work-positioners', 'lift-products-mxh15', 'MXH15 Work Positioner', 'workpositioners/hydraulic'],
+    ['lift-products-work-positioners', 'lift-products-ml15', 'ML15 Work Positioner', 'workpositioners/pneumatic'],
+    ['lift-products-work-positioners', 'lift-products-mxhr', 'MXHR Work Positioner', 'workpositioners/rotating'],
+  ].map(([line, stem, title, path]) => P(line, stem, title, `https://www.liftproducts.com/${path}.html`, () => liftProducts(path))),
+  'beacon-industries': [
+    ['beacon-behlt-electric-hydraulic-scissor-lift-tables', 'beacon-behlt', 'BEHLT', 'scissor-lift/hydraulic-lift'],
+    ['beacon-behlt-electric-hydraulic-scissor-lift-tables', 'beacon-behlt-n', 'BEHLT-N Narrow', 'scissor-lift/narrow-scissor-lift'],
+    ['beacon-behlt-ws-economy-scissor-lift-tables', 'beacon-behlt-ws', 'BEHLT-WS', 'scissor-lift/economy-scissor-lift'],
+    ['beacon-compact-scissor-lift-tables', 'beacon-behlts', 'BEHLTS', 'scissor-lift/hydraulic-scissor-lift'],
+    ['beacon-compact-scissor-lift-tables', 'beacon-behltsd', 'BEHLTSD', 'scissor-lift/small-lift-table'],
+    ['beacon-bcdl-small-scissor-lift-tables', 'beacon-bcdl', 'BCDL', 'scissor-lift/small-scissor-lift'],
+    ['beacon-behltd-double-scissor-lift-tables', 'beacon-behltd', 'BEHLTD', 'scissor-lift/double-scissor-lift'],
+    ['beacon-behltx-low-profile-scissor-lift-tables', 'beacon-behltx', 'BEHLTX', 'scissor-lift/low-scissor-lift'],
+    ['beacon-behu-u-shaped-lift-tables', 'beacon-behu', 'BEHU', 'scissor-lift/stationary-scissor-lift'],
+    ['beacon-behu-u-shaped-lift-tables', 'beacon-behu-ss', 'BEHU-SS', 'scissor-lift/stainless-steel-adjustable-u-table'],
+    ['beacon-behltg-ground-lift-tables', 'beacon-behltg', 'BEHLTG', 'scissor-lift/ground-lift-table'],
+    ['beacon-behlt-tl-long-scissor-lift-tables', 'beacon-behlt-tl', 'BEHLT-TL', 'scissor-lift/long-scissor-lift-table'],
+    ['beacon-bhlttl-tandem-scissor-lift-tables', 'beacon-bhlttl', 'BHLTTL', 'scissor-lift/scissor-lift-table'],
+    ['beacon-bmlt-heavy-duty-scissor-lift-tables', 'beacon-bmlt', 'BMLT', 'scissor-lift/hydraulic-lift-table'],
+    ['beacon-bmlt-heavy-duty-scissor-lift-tables', 'beacon-bmltdl', 'BMLTDL Double Long', 'scissor-lift/hydraulic-platform-lift'],
+    ['beacon-bmlt-heavy-duty-scissor-lift-tables', 'beacon-bmltdw', 'BMLTDW Double Wide', 'scissor-lift/heavy-capacity-scissor-lift'],
+    ['beacon-bmlt-heavy-duty-scissor-lift-tables', 'beacon-bmltqd', 'BMLTQD Quad', 'scissor-lift/heavy-duty-scissor-lift'],
+    ['beacon-high-travel-scissor-lifts', 'beacon-bdsl', 'BDSL Double', 'scissor-lift/upright-scissor-lift'],
+    ['beacon-high-travel-scissor-lifts', 'beacon-btsl', 'BTSL Triple', 'scissor-lift/electric-scissor-lift'],
+    ['beacon-high-travel-scissor-lifts', 'beacon-bqsl', 'BQSL Quadruple', 'scissor-lift/tall-scissor-lift'],
+    ['beacon-high-travel-scissor-lifts', 'beacon-bcltpb', 'BCLTPB Stacked Dual', 'scissor-lift/scissor-lift-mechanism'],
+    ['beacon-high-travel-scissor-lifts', 'beacon-bz-bdsl', 'BZ-BDSL Mobile', 'portable-scissor-lift/hydraulic-elevating-cart'],
+    ['beacon-buni-lift-and-tilt-tables', 'beacon-buni', 'BUNI', 'tilt-table/lift-and-tilt-table'],
+    ['beacon-buni-lift-and-tilt-tables', 'beacon-buni-p', 'BUNI-P Portable', 'tilt-table/portable-tilt-table'],
+    ['beacon-behltt-lift-and-tilt-tables', 'beacon-behltt', 'BEHLTT', 'tilt-table/lift-tilt-table'],
+    ['beacon-bzltt-ground-lift-and-tilt-tables', 'beacon-bzltt', 'BZLTT', 'tilt-table/ground-lift-and-tilt'],
+    ['beacon-bhtt-hydraulic-tilt-tables', 'beacon-bhtt', 'BHTT', 'tilt-table/hydraulic-tilt-table'],
+    ['beacon-behtt-tilt-platforms', 'beacon-behtt', 'BEHTT', 'tilt-table/tilt-platform'],
+    ['beacon-bglt-ground-tilters', 'beacon-bglt', 'BGLT', 'tilt-table/ground-tilters'],
+    ['beacon-bem1-industrial-tilt-tables', 'beacon-bem1', 'BEM1', 'tilt-table/industrial-tilt-table'],
+    ['beacon-bemc-corner-tilters', 'beacon-bemc', 'BEMC', 'tilt-table/corner-tilting'],
+    ['beacon-bbtt-bench-top-tilters', 'beacon-bbtt', 'BBTT', 'tilt-table/bench-top-tilters'],
+    ['beacon-foot-pump-scissor-lift-carts', 'beacon-bcart-hydraulic', 'Hydraulic Lift Cart', 'portable-scissor-lift/hydraulic-lift-cart'],
+    ['beacon-foot-pump-scissor-lift-carts', 'beacon-bcart-s-fr', 'BCART-S-FR', 'portable-scissor-lift/lift-table-cart'],
+    ['beacon-foot-pump-scissor-lift-carts', 'beacon-bsctab', 'BSCTAB', 'portable-scissor-lift/mobile-elevating-table'],
+    ['beacon-bcart-lp-low-profile-lift-cart', 'beacon-bcart-lp', 'BCART-LP', 'portable-scissor-lift/low-scissor-lift-cart'],
+    ['beacon-bcart-pn-pneumatic-tire-lift-carts', 'beacon-bcart-pn', 'BCART-PN', 'portable-scissor-lift/lift-table-with-air-tires'],
+    ['beacon-dc-powered-scissor-lift-carts', 'beacon-bcart-dc', 'BCART-DC', 'portable-scissor-lift/mobile-scissor-lift'],
+    ['beacon-dc-powered-scissor-lift-carts', 'beacon-bcart-sctab', 'BCART-SCTAB', 'portable-scissor-lift/scissor-lift-cart'],
+    ['beacon-bcart-dc-ctd-powered-drive-lift-carts', 'beacon-bcart-dc-ctd', 'BCART-DC-CTD', 'portable-scissor-lift/powered-lift-cart'],
+    ['beacon-bpst-portable-lift-tables', 'beacon-bpst', 'BPST', 'portable-scissor-lift/portable-lift-table'],
+    ['beacon-bcart-la-linear-actuated-lift-carts', 'beacon-bcart-la', 'BCART-LA', 'air-and-mechanical-scissor-lift/elevating-portable-cart'],
+    ['beacon-bcart-m-mechanical-lift-carts', 'beacon-bcart-m', 'BCART-M', 'air-and-mechanical-scissor-lift/manual-lift-cart'],
+    ['beacon-stainless-steel-lift-carts', 'beacon-bsssc', 'BSSSC', 'portable-scissor-lift/stainless-lift-cart'],
+    ['beacon-stainless-steel-lift-carts', 'beacon-bcart-pss', 'BCART-PSS', 'portable-scissor-lift/stainless-portable-lift'],
+    ['beacon-stainless-steel-lift-carts', 'beacon-bcart-m-pss', 'BCART-M-PSS', 'air-and-mechanical-scissor-lift/scissor-cart-mostly-stainless-steel'],
+    ['beacon-stainless-steel-lift-carts', 'beacon-bcart-la-pss', 'BCART-LA-PSS', 'air-and-mechanical-scissor-lift/elevating-cart-linear-actuated-mostly-stainless-steel'],
+    ['beacon-self-elevating-spring-carts-and-tables', 'beacon-bscsc', 'BSCSC Scissor Cart', 'portable-scissor-lift/scissor-cart'],
+    ['beacon-self-elevating-spring-carts-and-tables', 'beacon-bscsc-adjusting', 'BSCSC Self Adjusting Cart', 'air-and-mechanical-scissor-lift/self-adjusting-cart'],
+    ['beacon-self-elevating-spring-carts-and-tables', 'beacon-bets', 'BETS', 'air-and-mechanical-scissor-lift/self-elevating-table'],
+    ['beacon-bsst-spring-scissor-lift', 'beacon-bsst', 'BSST', 'air-and-mechanical-scissor-lift/spring-scissor-lift-mostly-stainless-steel'],
+    ['beacon-pneumatic-scissor-lifts', 'beacon-bablt', 'BABLT Air Lift Table', 'air-and-mechanical-scissor-lift/air-lift-table'],
+    ['beacon-pneumatic-scissor-lifts', 'beacon-bat-10', 'BAT-10', 'air-and-mechanical-scissor-lift/pneumatic-scissor-lift'],
+    ['beacon-pneumatic-scissor-lifts', 'beacon-bair-d', 'BAIR Air Scissor Lift Cart', 'air-and-mechanical-scissor-lift/air-scissor-lift'],
+  ].map(([line, stem, title, path]) => P(line, stem, title, `https://www.beacontechnology.com/lifting-tables/${path}/`, () => beacon(path))),
+  'wesco-industrial-products': [
+    ['wesco-hydraulic-post-lift-tables', 'wesco-lt-manual-post-lift-tables', 'Manual Lift Tables', 'lift-equipment/-from-200-to-6000-lb-manual-and-powered-lift', m => !/^PLT/.test(m)],
+    ['wesco-hydraulic-post-lift-tables', 'wesco-plt-powered-post-lift-tables', 'Powered Lift Tables', 'lift-equipment/-from-200-to-6000-lb-manual-and-powered-lift', m => /^PLT/.test(m)],
+    ['wesco-scissor-lift-tables-and-carts', 'wesco-manual-scissor-lift-carts', 'Manual Scissor Lift Carts', 'lift-equipment/scissors-lift-tables-die-lift-table', m => !/^(PSLT|MELT|DT-)/.test(m)],
+    ['wesco-scissor-lift-tables-and-carts', 'wesco-powered-scissor-lift-tables', 'Powered Scissor Lift Tables and Carts', 'lift-equipment/scissors-lift-tables-die-lift-table', m => /^(PSLT|MELT)/.test(m)],
+    ['wesco-scissor-lift-tables-and-carts', 'wesco-dt-die-lift-table', 'DT Die Lift Table', 'lift-equipment/scissors-lift-tables-die-lift-table', m => /^DT-/.test(m)],
+    ['wesco-hclt-precision-lift-tables', 'wesco-hclt', 'HCLT Precision Lift Tables', 'lift-equipment/wesco-hclt-series-precision-lift-tables'],
+    ['wesco-ppl-pallet-leveler', 'wesco-ppl', 'PPL Pallet Leveler', 'lift-equipment/pallet-leveler'],
+  ].map(([line, stem, title, group, filter]) => P(line, stem, title, `https://catalog.wescomfg.com/viewitems/${group}`, () => wesco(group, filter))),
+  'econo-lift': [
+    ['econo-lift-sl-scissor-lift-tables', 'econo-lift-sl', 'SL Lift Tables', 'lifts-tilts/lift-tables'],
+    ['econo-lift-double-scissor-lift-tables', 'econo-lift-dsl', 'Double Scissor Lift Tables', 'lifts-tilts/double-scissor-lift-tables'],
+    ['econo-lift-3hd-heavy-duty-lift-tables', 'econo-lift-3hd', '3HD Heavy Duty Lift Tables', 'lifts-tilts/heavy-duty-lift-tables'],
+    ['econo-lift-tsl-tandem-scissor-lifts', 'econo-lift-tsl', 'TSL Tandem Scissor Lifts', 'lifts-tilts/tandem-scissor-lifts'],
+    ['econo-lift-lp-low-profile-scissor-lifts', 'econo-lift-lp', 'LP Low Profile Scissor Lifts', 'lifts-tilts/low-profile-scissor-lifts'],
+    ['econo-lift-light-duty-portable-lifts', 'econo-lift-light-duty-portable', 'Light Duty Portable Lifts', 'lifts-tilts/light-duty-portable-lifts'],
+    ['econo-lift-light-duty-stationary-lifts', 'econo-lift-light-duty-stationary', 'Light Duty Stationary Lifts', 'lifts-tilts/light-duty-stationary-lifts'],
+    ['econo-lift-plt-self-propelled-lift-tables', 'econo-lift-plt', 'PLT Self Propelled Lift Tables', 'lifts-tilts/self-propelled-lift-tables'],
+    ['econo-lift-tr-sl-lift-tilt-tables', 'econo-lift-tr-sl', 'TR-SL Lift/Tilt Tables', 'lifts-tilts/lifttilt-tables'],
+    ['econo-lift-trt-tilt-tables', 'econo-lift-trt', 'TRT Tilt Tables', 'lifts-tilts/tilt-tables'],
+    ['econo-lift-mgt-mechanical-gravity-tilters', 'econo-lift-mgt', 'MGT Mechanical Gravity Tilters', 'lifts-tilts/mechanical-gravity-tilters'],
+    ['econo-lift-spt-spring-tables', 'econo-lift-spt', 'SPT Spring Tables', 'lifts-tilts/spring-tables'],
+    ['econo-lift-air-bag-lift-and-tilt-tables', 'econo-lift-absl', 'ABSL Air Bag Lift Tables', 'air-bags/air-bag-lift-tables'],
+    ['econo-lift-air-bag-lift-and-tilt-tables', 'econo-lift-abtr', 'ABTR Air Bag Lift/Tilt Tables', 'air-bags/air-bag-lifttilt-tables'],
+    ['econo-lift-air-bag-lift-and-tilt-tables', 'econo-lift-abtrt', 'ABTRT Air Bag Tilt Tables', 'air-bags/air-bag-tilt-tables'],
+    ['econo-lift-drive-on-lift-and-tilt-tables', 'econo-lift-do-sl', 'DO-SL Drive-On Lift Tables', 'drive-on/drive-on-lift-tables'],
+    ['econo-lift-drive-on-lift-and-tilt-tables', 'econo-lift-do-sl-trt', 'DO-SL/TRT Drive-On Lift/Tilt Tables', 'drive-on/drive-on-lifttilt-tables'],
+    ['econo-lift-drive-on-lift-and-tilt-tables', 'econo-lift-do-trt', 'DO-TRT Drive-On Tilt Tables', 'drive-on/drive-on-tilt-tables'],
+    ['econo-lift-container-tilters', 'econo-lift-ptr', 'PTR Powered Tilters', 'tilters/powered-tilters'],
+    ['econo-lift-container-tilters', 'econo-lift-str', 'STR Stationary Tilters', 'tilters/stationary-tilters'],
+    ['econo-lift-container-tilters', 'econo-lift-tr', 'TR Tote Box Tilters', 'tilters/tote-box-tilters'],
+  ].map(([line, stem, title, path]) => P(line, stem, title, `https://econolift.net/${path}/`, () => econo(path))),
+  'premier-handling-solutions': [
+    ['phs-standard-duty-lift-tables', 'phs-standard-duty', 'Standard Duty Lift Table', 'lift-tables/standard-duty-lift-table'],
+    ['phs-heavy-duty-lift-tables', 'phs-heavy-duty', 'Heavy Duty Lift Table', 'lift-tables/heavy-duty-lift-table'],
+    ['phs-double-wide-lift-tables', 'phs-double-wide', 'Double Wide Lift Table', 'lift-tables/double-wide-lift-table'],
+    ['phs-wide-base-lift-tables', 'phs-wide-base', 'Wide Base Lift Table', 'lift-tables/wide-base-lift-table'],
+    ['phs-wide-base-tandem-lift-tables', 'phs-wide-base-tandem', 'Wide Base Tandem Lift Table', 'lift-tables/wide-base-tandem-lift-table'],
+    ['phs-zero-lift-tables', 'phs-zero-lift', 'Zero Lift Table', 'lift-tables/zero-lift-table'],
+    ['phs-pneumatic-lift-tables', 'phs-pneumatic', 'Pneumatic Lift Table', 'lift-tables/pneumatic-lift-table'],
+    ['phs-portable-electric-lift-tables', 'phs-portable-electric', 'Portable Electric Lift Table', 'lift-tables/portable-electric-lift-table'],
+  ].map(([line, stem, title, path]) => P(line, stem, title, `https://www.phsinc.com/${path}/`, () => phs(path))),
+  lexco: [
+    ['lexco-lzl-zero-lift-tables', 'lexco-lzl', 'LZL Zero Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/ic-lift-tables-die-handlers-lexco-zero-lift-tables'],
+    ['lexco-ht-fr-rotating-hydraulic-lift-tables', 'lexco-ht-fr', 'HT-FR Foot Operated Hydraulic Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/lexco--foot-operated-hydraulic-lift-table'],
+    ['lexco-foot-operated-and-electric-hydraulic-lift-tables', 'lexco-ht-electric', 'Foot Operated and Electric Hydraulic Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/lexco-foot-operated-electric-hydraulic-lift-table'],
+    ['lexco-portable-hydraulic-lift-tables', 'lexco-ht-portable', 'Foot Powered Portable Hydraulic Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/lexco-foot-powered-portable-hydraulic-lift-table'],
+    ['lexco-stn-long-deck-lift-tables', 'lexco-stn', 'STN Long Deck Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/lexco-long-deck-hydraulic-foot-operated-lift-table'],
+    ['lexco-dh-die-handlers', 'lexco-dh', 'DH Die Handlers', 'lexco-hydraulic-lift-tables-die-handlers/lexco--die-handler'],
+  ].map(([line, stem, title, group]) => P(line, stem, title, `https://catalog.wescomfg.com/viewitems/${group}`, () => wesco(group))),
 };
 
-const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries', 'southworth-products': 'Southworth', 'presto-lifts': 'Presto', ecoa: 'ECOA', vestil: 'Vestil' };
+const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries', 'southworth-products': 'Southworth', 'presto-lifts': 'Presto', ecoa: 'ECOA', vestil: 'Vestil', 'lift-products': 'Lift Products', 'beacon-industries': 'Beacon', 'wesco-industrial-products': 'Wesco', lexco: 'Lexco', 'econo-lift': 'Econo Lift', 'premier-handling-solutions': 'Premier Handling' };
 
 // --brands=a,b limits the run to those catalogs.
 const only = (process.argv.find(a => a.startsWith('--brands=')) || '').slice(9).split(',').filter(Boolean);

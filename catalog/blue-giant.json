@@ -1,0 +1,253 @@
+{
+    "brand": "blue-giant",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "blue-giant-standard-duty-scissor-lift-tables",
+            "title": "Blue Giant Standard Duty Scissor Lift Tables",
+            "excerpt": "Economical heavy-duty hydraulic scissor lift tables with 24 to 60 in. of travel and capacities up to 6,000 lb.",
+            "content": "<p>Blue Giant Standard Duty Scissor Lift Tables are economical, heavy-duty lift tables for positioning work at a comfortable height. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks and a hand control are standard.</p>\n<p>They offer 24 to 60 in. of vertical travel and capacities up to 6,000 lb. Options include accordion skirts, conveyor and turntable tops, an external power unit, foot pedal control, a high cycle package, oversized or bevelled platforms, pit mounting, a portability package, a mounted tilt table and a travel limit switch.</p>",
+            "line_code": "LFT",
+            "capacity_range": "Up to 6,000 lbs",
+            "key_features": [
+                "Capacities up to 6,000 lb",
+                "24 to 60 in. of travel",
+                "Internal power unit",
+                "Safety maintenance blocks",
+                "Tilt and turntable options"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/standard-duty-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "blue-giant-wide-base-scissor-lift-tables",
+            "title": "Blue Giant Wide Base Scissor Lift Tables",
+            "excerpt": "Wide base hydraulic scissor lift tables for larger loads, with capacities up to 6,000 lb.",
+            "content": "<p>Blue Giant Wide Base Lift Tables use a wider base for more stability under larger loads. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks, a hand control and a travel limit switch are standard.</p>\n<p>They handle loads up to 6,000 lb. Options include conveyor and turntable tops, an external power unit, foot pedal control, a high cycle package, oversized or bevelled platforms, pit mounting, a portability package and a mounted tilt table.</p>",
+            "line_code": "LFTXB",
+            "capacity_range": "Up to 6,000 lbs",
+            "key_features": [
+                "Capacities up to 6,000 lb",
+                "Wide base for larger loads",
+                "Internal power unit",
+                "Travel limit switch"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/wide-base-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "blue-giant-double-wide-scissor-lift-tables",
+            "title": "Blue Giant Double Wide Scissor Lift Tables",
+            "excerpt": "Double wide hydraulic scissor lift tables rated 2,000 to 6,000 lb with 24 to 60 in. of travel.",
+            "content": "<p>Blue Giant Double Wide Scissor Lift Tables give wide loads more support and stability. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks and a hand control are standard.</p>\n<p>Capacities range from 2,000 to 6,000 lb with 24 to 60 in. of vertical travel. Options include an external power unit, foot pedal control, a high cycle package, custom or bevelled platforms, pit mounting, a portability package, a mounted tilt table or turntable and a travel limit switch.</p>",
+            "line_code": "Double Wide",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "24 to 60 in. of travel",
+                "Double wide scissor support",
+                "Internal power unit"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-wide-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "blue-giant-tandem-long-scissor-lift-tables",
+            "title": "Blue Giant Tandem Long Scissor Lift Tables",
+            "excerpt": "Heavy-duty tandem hydraulic scissor lift tables with long platforms, rated 4,000, 8,000 or 12,000 lb.",
+            "content": "<p>Blue Giant Tandem Scissor Lift Tables are heavy-duty hydraulic lifts with long platforms, for manufacturing, processing and distribution operations that handle long materials.</p>\n<p>They are rated 4,000, 8,000 or 12,000 lb, with heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bushings, safety maintenance blocks and a hand control.</p>",
+            "line_code": "Tandem",
+            "capacity_range": "4,000–12,000 lbs",
+            "key_features": [
+                "4,000, 8,000 and 12,000 lb capacities",
+                "Long tandem platforms",
+                "Internal power unit",
+                "Safety maintenance blocks"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/tandem-long-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "blue-giant-double-scissor-lift-tables",
+            "title": "Blue Giant Double Scissor Lift Tables",
+            "excerpt": "High-lift double scissor tables with up to 72 in. of travel for in-plant storage and transfer, mounted in a pit or on a pad.",
+            "content": "<p>Blue Giant Double Scissor Lift Tables are built for high-lift in-plant storage and transfer, with up to 72 in. of vertical travel. They share the construction of Blue Giant's stationary elevating docks: each cylinder is enclosed in a weather-resistant steel housing, velocity fuses prevent platform free-fall, and pivot points have lifetime-lubricated bronze bearings or coated bushings.</p>\n<p>They can be mounted in a pit or on a concrete pad, with a remote power pack on a 12 ft hose, a push-button control on a 12 ft cord and a hydraulic pump with overload relief. Guard rails, checker plate decks, portable wheels, skirting and a travel limit switch are optional.</p>",
+            "line_code": "Double Scissor",
+            "key_features": [
+                "Up to 72 in. of travel",
+                "Velocity fuse on each cylinder",
+                "Enclosed cylinders",
+                "Pit or pad mounting",
+                "Remote power pack"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "blue-giant-pneumatic-scissor-lift-tables",
+            "title": "Blue Giant Pneumatic Scissor Lift Tables",
+            "excerpt": "Air-spring scissor lift tables with 24 in. of travel for areas where hydraulic oil is prohibited.",
+            "content": "<p>Blue Giant Pneumatic Scissor Lift Tables are fully air actuated and run anywhere plant air is available, with no electrical connections, control boxes or hydraulic cylinders. They suit applications where hydraulic oil is prohibited and need less maintenance than electric hydraulic tables.</p>\n<p>They have 24 in. of vertical travel, lowering to 9.5 in. and raising to 33.5 in., with a heavy-duty air spring, steel legs, lifetime-lubricated bearings, a safety maintenance block and a hand control. Oversized and bevelled platforms, pit mounting, portability, tilt tables and turntables are available.</p>",
+            "line_code": "Pneumatic",
+            "key_features": [
+                "Powered by plant air",
+                "24 in. of travel",
+                "9.5 in. lowered height",
+                "No hydraulic oil",
+                "Heavy-duty air spring"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/pneumatic-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "blue-giant-zero-ground-level-scissor-lift-tables",
+            "title": "Blue Giant Zero Ground Level Scissor Lift Tables",
+            "excerpt": "Floor-level scissor lift tables loaded by pallet jack, with a bevelled approach edge, for areas without fork trucks.",
+            "content": "<p>Blue Giant Zero Ground Level Scissor Lifts are for work areas where powered fork trucks are unavailable or can't reach. They load and unload at floor level with pallet jacks and other equipment, over a bevelled front approach edge.</p>\n<p>An external power unit, heavy-duty cylinders and steel legs, lifetime-lubricated bearings, safety maintenance blocks, a hand control and a 6 in. flexible safety toe guard are standard, with foot pedal control, oversized platforms and PLC control optional.</p>",
+            "line_code": "Zero Ground Level",
+            "key_features": [
+                "Floor-level pallet jack loading",
+                "Bevelled approach edge",
+                "External power unit",
+                "6 in. flexible toe guard"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/zero-ground-level-scissor-lift/"
+            ]
+        },
+        {
+            "slug": "blue-giant-hydraulic-tilters",
+            "title": "Blue Giant Hydraulic Tilters",
+            "excerpt": "Electric hydraulic tilt tables with 8 or 12 in. lowered heights, in standard and wide base versions.",
+            "content": "<p>Blue Giant Hydraulic Tilters tilt containers and loads for easier access. Standard tilters lower to 8 or 12 in. depending on the tilt angle, with a 36 x 48 in. base and platform (up to 48 x 60 in.). An easily accessible internal power unit, heavy-duty cylinders, lifetime-lubricated bushings, a hand control and an 8 in. lip are standard.</p>\n<p>Wide Base Hydraulic Tilters share those specifications but have a 60 x 60 in. standard base and platform, platforms up to 120 x 120 in. and a 12 in. lowered height on 90-degree models. Options include an external power unit, PLC or foot pedal control, portability and a travel limit switch.</p>",
+            "line_code": "Hydraulic Tilter",
+            "key_features": [
+                "8 or 12 in. lowered height",
+                "Standard and wide base versions",
+                "Platforms up to 120 x 120 in.",
+                "Internal power unit",
+                "8 in. lip"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/hydraulic-tilter/",
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/wide-base-tilter/"
+            ]
+        },
+        {
+            "slug": "blue-giant-pneumatic-tilt-tables",
+            "title": "Blue Giant Pneumatic Tilt Tables",
+            "excerpt": "Air-spring tilt tables with 30 or 45 degrees of tilt and an 8 in. lowered height.",
+            "content": "<p>Blue Giant Pneumatic Tilt Tables are fully air actuated and work anywhere plant air is available, with no electrical connections or hydraulic cylinders, for areas where hydraulic oil is prohibited.</p>\n<p>They tilt 30 or 45 degrees from an 8 in. lowered height, using a heavy-duty industrial air spring with a hand control pendant, integral flip-up maintenance bars and lifetime-lubricated bushings. Conveyor tops, floor stands and foot controls are optional.</p>",
+            "line_code": "Pneumatic Tilt",
+            "key_features": [
+                "Powered by plant air",
+                "30 or 45 degrees of tilt",
+                "8 in. lowered height",
+                "Flip-up maintenance bars"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/pneumatic-tilt/"
+            ]
+        },
+        {
+            "slug": "blue-giant-scissor-lift-and-tilt-tables",
+            "title": "Blue Giant Scissor Lift and Tilt Tables",
+            "excerpt": "Hydraulic scissor lift tables with a tilting platform up to 90 degrees, with tilting capacities of 2,000 to 4,000 lb.",
+            "content": "<p>Blue Giant Scissor Lift and Tilt Tables combine a scissor lift's height adjustment with a tilting platform, putting components within easy reach of the operator.</p>\n<p>They tilt up to 90 degrees, with tilting capacities of 2,000 to 4,000 lb. Heavy-duty steel legs, an internal power unit and lifetime-lubricated bearings are standard, with PLC control, pit mounting, bevelled platforms and a portability package optional.</p>",
+            "line_code": "Lift & Tilt",
+            "capacity_range": "2,000–4,000 lbs",
+            "key_features": [
+                "Tilts up to 90 degrees",
+                "2,000 to 4,000 lb tilting capacity",
+                "Adjustable height and tilt",
+                "Internal power unit"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/scissor-lift-tilt/"
+            ]
+        },
+        {
+            "slug": "blue-giant-pl4-automatic-pallet-positioner",
+            "title": "Blue Giant PL4 Automatic Pallet Positioner",
+            "excerpt": "A self-leveling pallet positioner with a self-contained air system and rotating ring, for loads of 400 to 3,500 lb.",
+            "content": "<p>The Blue Giant PL4 Automatic Pallet Positioner keeps the top of a pallet load close to the worker as it is loaded or unloaded, reducing bending, lifting and stretching. A rotating ring allows near-side loading, so the worker doesn't walk around the pallet.</p>\n<p>It self-levels loads from 400 to 3,500 lb, with a maximum capacity of 4,000 lb. Its self-contained air system means it doesn't need a constant air hookup. Blue Giant says it can cut pallet loading and unloading times by up to 40%.</p>",
+            "line_code": "PL4",
+            "capacity_range": "400–4,000 lbs",
+            "key_features": [
+                "Self-levels 400 to 3,500 lb",
+                "4,000 lb maximum capacity",
+                "Self-contained air system",
+                "Rotating ring"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/pallet_handling/pl4_automatic_pallet_positioner/"
+            ]
+        }
+    ]
+}
