@@ -1,0 +1,594 @@
+{
+  "note": "Manufacturer documents attached to product lines, credited with a link to the page each is published on. The PDFs are not in version control: they live in documents/files (see README) and the importer re-downloads any that are missing from \"original\". Remove an entry and run the importer with --prune to take a document down.",
+  "documents": [
+    {
+      "file": "blue-giant/Standard_Duty_Scissor_Lift_Brochure_2025.pdf",
+      "title": "Standard Duty Scissor Lift brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/standard-duty-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/f4bcd23e-01d0-4090-937e-9bd301b36449/Standard_Duty_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-standard-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/Wide_Base_Scissor_Lift_Brochure_2025.pdf",
+      "title": "Wide Base and Extra Wide Base Scissor Lift brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/wide-base-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/a3d34e91-e963-4bab-aa39-c0020e76b4fa/Wide_Base_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-wide-base-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/Double_Wide_Scissor_Lift_Brochure_2025.pdf",
+      "title": "Double Wide Scissor Lift brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-wide-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/1f027410-82e7-4664-9da4-f734efb6db57/Double_Wide_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-double-wide-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/Tandem_Long_Scissor_Lift_Brochure_2025.pdf",
+      "title": "Tandem Long Scissor Lift brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/tandem-long-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/8850c7ee-f1ef-408d-bdf8-3018405ba511/Tandem_Long_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-tandem-long-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/Double_Scissor_Lift_Brochure_2025.pdf",
+      "title": "Double Scissor Lift brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/7d3c4e57-62c2-40ed-98f9-cffc4f684670/Double_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/Pneumatic_Scissor_Lift_Brochure_2025.pdf",
+      "title": "Pneumatic Scissor Lift brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/pneumatic-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/9890d10f-ffd7-4bca-9fd4-faf3eb38fb56/Pneumatic_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-pneumatic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/Zero_Ground_Level_Scissor_Lift_Brochure_2025.pdf",
+      "title": "Zero Ground Level Scissor Lift brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/zero-ground-level-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/52a85b3b-080b-4063-9aed-197517ed88c5/Zero_Ground_Level_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-zero-ground-level-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/Hydraulic_Tilter_Brochure_2025.pdf",
+      "title": "Hydraulic Tilter brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/hydraulic-tilter/",
+      "original": "https://www.bluegiant.com/getattachment/40a111c3-32ee-447b-9993-ceb0455e0b0b/Hydraulic_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-hydraulic-tilters"
+      ]
+    },
+    {
+      "file": "blue-giant/Wide_Base_Tilter_Brochure_2025.pdf",
+      "title": "Wide Base Hydraulic Tilter brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/wide-base-tilter/",
+      "original": "https://www.bluegiant.com/getattachment/b1b73e46-1edd-4672-80a2-89165a357228/Wide_Base_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-hydraulic-tilters"
+      ]
+    },
+    {
+      "file": "blue-giant/Pneumatic_Tilt_Brochure_2025.pdf",
+      "title": "Pneumatic Tilt brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/pneumatic-tilt/",
+      "original": "https://www.bluegiant.com/getattachment/bc6b8f3e-d4f4-405b-a626-c690f34bb44b/Pneumatic_Tilt_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-pneumatic-tilt-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/PL4_Automatic_Pallet_Positioner_Brochure_2024.pdf",
+      "title": "PL4 Automatic Pallet Positioner brochure",
+      "type": "brochure",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/pallet_handling/pl4_automatic_pallet_positioner/",
+      "original": "https://www.bluegiant.com/getattachment/0754b8c6-dd4a-40aa-8e92-be03db7052c3/PL4_Automatic_Pallet_Positioner_Brochure_2024.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-pl4-automatic-pallet-positioner"
+      ]
+    },
+    {
+      "file": "blue-giant/In-Plant_Lifts_Catalog_2025.pdf",
+      "title": "In-Plant Lifts catalog",
+      "type": "catalog",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/standard-duty-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/3302aa09-2282-4985-8e53-02f3e33081b8/In-Plant_Lifts_Catalog_2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-standard-duty-scissor-lift-tables",
+        "blue-giant-wide-base-scissor-lift-tables",
+        "blue-giant-double-wide-scissor-lift-tables",
+        "blue-giant-tandem-long-scissor-lift-tables",
+        "blue-giant-double-scissor-lift-tables",
+        "blue-giant-pneumatic-scissor-lift-tables",
+        "blue-giant-zero-ground-level-scissor-lift-tables",
+        "blue-giant-hydraulic-tilters",
+        "blue-giant-pneumatic-tilt-tables",
+        "blue-giant-scissor-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-475E_Standard_Duty_Scissor_Lift_Owner_Rev.1.4_10-Mar-2025.pdf",
+      "title": "Standard Duty Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/standard-duty-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/1bfe9478-45c8-4528-81e2-c784b274a7eb/038-475E_Standard_Duty_Scissor_Lift_Owner_Rev.1.4_10-Mar-2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-standard-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-557E_Wide_Base_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf",
+      "title": "Wide Base Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/wide-base-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/ea2de90a-a24d-4b65-9a60-9a3afc1be00a/038-557E_Wide_Base_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-wide-base-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-556E_Wide_Base_Scissor_Lift_LFTXB_Owner_Rev.1.3_10-Mar-2026.pdf",
+      "title": "Extra Wide Base (LFTXB) Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/wide-base-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/5d9ecf18-036a-420d-937c-22122679aadb/038-556E_Wide_Base_Scissor_Lift_LFTXB_Owner_Rev.1.3_10-Mar-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-wide-base-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-559E_Double_Wide_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf",
+      "title": "Double Wide Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-wide-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/7bdbd754-3e21-4f7c-bae6-08e74eb23d35/038-559E_Double_Wide_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-double-wide-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-339E_Tandem_Long_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf",
+      "title": "Tandem Long Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/tandem-long-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/d95c9f29-66bb-45d2-a7f2-d5b273e48ef1/038-339E_Tandem_Long_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-tandem-long-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-564E_Double_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf",
+      "title": "Double Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/af7fdae6-81f6-4438-9cc6-5834a0ca3ab2/038-564E_Double_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-611E_Pneumatic_Scissor_Lift_Owner_Rev.1.0_11-Jun-2025.pdf",
+      "title": "Pneumatic Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/pneumatic-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/e8cc1616-b7a4-4a52-8113-017ce5f09e89/038-611E_Pneumatic_Scissor_Lift_Owner_Rev.1.0_11-Jun-2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-pneumatic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-479E_Pneumatic_Scissor_Lift_Tilt_Owner_Rev.1.0_11-Jun-2025.pdf",
+      "title": "Pneumatic Scissor Lift & Tilt owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/pneumatic-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/d33403b0-4c7d-4657-97d7-248fc72ec7c7/038-479E_Pneumatic_Scissor_Lift_Tilt_Owner_Rev.1.0_11-Jun-2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-pneumatic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-563E_Zero_Ground_Level_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf",
+      "title": "Zero Ground Level Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/zero-ground-level-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/1407cbf3-dafd-4b08-9fa1-c419f82824b8/038-563E_Zero_Ground_Level_Scissor_Lift_Owner_Rev.1.3_10-Mar-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-zero-ground-level-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-341E_Hydraulic_Tilter_Owner_Rev.1.3_10-Mar-2026.pdf",
+      "title": "Hydraulic Tilter owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/hydraulic-tilter/",
+      "original": "https://www.bluegiant.com/getattachment/e5eb9b9c-2615-4ab2-b384-a39be03a97fb/038-341E_Hydraulic_Tilter_Owner_Rev.1.3_10-Mar-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-hydraulic-tilters"
+      ]
+    },
+    {
+      "file": "blue-giant/038-573E_Pneumatic_Tilt_Owner_Rev.1.0_11-Jun-2025.pdf",
+      "title": "Pneumatic Tilt owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/pneumatic-tilt/",
+      "original": "https://www.bluegiant.com/getattachment/1755703f-c257-47ab-8bd4-ab86832eca2b/038-573E_Pneumatic_Tilt_Owner_Rev.1.0_11-Jun-2025.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-pneumatic-tilt-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-1261E_Scissor_Lift-Tilt_Owners_Rev.1.0_10-Jul-2026.pdf",
+      "title": "Wide Base Lift Tilt Table (LFTWBETT) owner’s manual",
+      "type": "manual",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/scissor-lift-tilt/",
+      "original": "https://www.bluegiant.com/getattachment/f2f8b1a0-c64d-452d-9a9f-158db7219466/038-1261E_Scissor_Lift-Tilt_Owner%27s_Rev.1.0_10-Jul-2026.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-scissor-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "blue-giant/038-1151E_In-Plant_Lifts_Spec_Rev.1.1_13-Jan-2021.pdf",
+      "title": "In-Plant Lift Tables application review form",
+      "type": "form",
+      "credit": "Blue Giant",
+      "source": "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/standard-duty-scissor-lift/",
+      "original": "https://www.bluegiant.com/getattachment/9f850c27-14d9-43de-8680-747c040ea14b/038-1151E_In-Plant_Lifts_Spec_Rev.1.1_13-Jan-2021.pdf?lang=en-us&ext=.pdf",
+      "lines": [
+        "blue-giant-standard-duty-scissor-lift-tables",
+        "blue-giant-wide-base-scissor-lift-tables",
+        "blue-giant-double-wide-scissor-lift-tables",
+        "blue-giant-tandem-long-scissor-lift-tables",
+        "blue-giant-double-scissor-lift-tables",
+        "blue-giant-pneumatic-scissor-lift-tables",
+        "blue-giant-zero-ground-level-scissor-lift-tables",
+        "blue-giant-hydraulic-tilters",
+        "blue-giant-pneumatic-tilt-tables",
+        "blue-giant-scissor-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-L020.pdf",
+      "title": "ProAir pneumatic lift, rotate and tilt tables brochure",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/pro-air-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
+      "lines": [
+        "pentalift-proair-pneumatic-lift-tables",
+        "pentalift-proair-pneumatic-lift-and-tilt-tables",
+        "pentalift-proair-pneumatic-lift-and-rotate-tables",
+        "pentalift-proair-pneumatic-tilters"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-LTNI.pdf",
+      "title": "LTNI Lift and Tilt Non-Intrusive product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/ltni-lift-and-tilt-non-intrusive/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/LTNI.pdf",
+      "lines": [
+        "pentalift-ltni-lift-and-tilt-non-intrusive"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-Pentalift-10L-series-lift-table.pdf",
+      "title": "10L Series Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/10l-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/Pentalift-10L-series-lift-table.pdf",
+      "lines": [
+        "pentalift-10l-series-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-LH.pdf",
+      "title": "LH-Series 12 in. Low Height Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/12l-lift-tables-12-inch-low-height-hydraulic-scissor-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/LH.pdf",
+      "lines": [
+        "pentalift-12l-series-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-Pentalift-IR-series-lift-table.pdf",
+      "title": "IR Series Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/ir-series-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/Pentalift-IR-series-lift-table.pdf",
+      "lines": [
+        "pentalift-ir-series-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-43lowheight.pdf",
+      "title": "L Series 4.3 in. Low Height Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/4-3-low-height-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/43lowheight.pdf",
+      "lines": [
+        "pentalift-l-series-low-height-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-8low-tandem.pdf",
+      "title": "TL-Series Tandem Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/8-inch-lowered-height-tandem-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/8low-tandem.pdf",
+      "lines": [
+        "pentalift-tl-series-tandem-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-12low-tandem.pdf",
+      "title": "TLH-Series Tandem Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/15-inch-lowered-height-tandem-lift-table/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/12low-tandem.pdf",
+      "lines": [
+        "pentalift-tlh-series-tandem-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/No-Low-Brochure-Final-07-08-2026.pdf",
+      "title": "NL-Series No Low Lift Tables brochure",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/nl-series-no-low-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/No-Low-Brochure-Final-07-08-2026.pdf",
+      "lines": [
+        "pentalift-nl-series-no-low-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-11-no_low_lift-4.pdf",
+      "title": "NL-Series No Low Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/nl-series-no-low-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/11/no_low_lift-4.pdf",
+      "lines": [
+        "pentalift-nl-series-no-low-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-no_low_lift_tilt-1.pdf",
+      "title": "NLT-Series No Low Lift & Tilt Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/no-low-lift-and-tilt-tables-2/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/no_low_lift_tilt-1.pdf",
+      "lines": [
+        "pentalift-nlt-series-no-low-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-DSL.pdf",
+      "title": "Double Scissor Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/double-scissor-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/DSL.pdf",
+      "lines": [
+        "pentalift-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-TSL.pdf",
+      "title": "TSL-Series Triple Scissor Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/triple-scissor-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/TSL.pdf",
+      "lines": [
+        "pentalift-tsl-series-triple-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-QSL.pdf",
+      "title": "QSL-Series Quadruple Scissor Lift Tables product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/quadruple-scissor-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/QSL.pdf",
+      "lines": [
+        "pentalift-qsl-series-quadruple-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-Portable-Bin-Tilter-New-Design-01-16-18.pdf",
+      "title": "Portable and Stationary Bin Tilters product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/portable-bin-tilters/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/Portable-Bin-Tilter-New-Design-01-16-18.pdf",
+      "lines": [
+        "pentalift-portable-bin-tilters"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-PentaliftMechanicalTilt-1.pdf",
+      "title": "MT and DMT Series Mechanical Tilts product bulletin",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/mechanical-bin-tilters/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/PentaliftMechanicalTilt-1.pdf",
+      "lines": [
+        "pentalift-mechanical-bin-tilters"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-pentaloader-1.pdf",
+      "title": "Pentaloader brochure",
+      "type": "brochure",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/pentaloader-automatic-self-leveling-palletizer-2/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/pentaloader-1.pdf",
+      "lines": [
+        "pentalift-pentaloader-self-leveling-pallet-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-lift-tilt-sheet.pdf",
+      "title": "Pro-Series Lift & Tilt Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/pro-series-lift-and-tilt-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/lift-tilt-sheet.pdf",
+      "lines": [
+        "pentalift-pro-series-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-lift-and-rotate-sheet.pdf",
+      "title": "Pro-Series Lift & Rotate Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/pro-series-hydraulic-lift-and-rotate/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/lift-and-rotate-sheet.pdf",
+      "lines": [
+        "pentalift-pro-series-lift-and-rotate-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-modelselection-1.pdf",
+      "title": "Pentaloader model selection guide",
+      "type": "spec_sheet",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/pentaloader-automatic-self-leveling-palletizer-2/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/modelselection-1.pdf",
+      "lines": [
+        "pentalift-pentaloader-self-leveling-pallet-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/2020-10-ProSeries.pdf",
+      "title": "Pro-Series lift, rotate and tilt tables catalog",
+      "type": "catalog",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/solutions/pro-series-lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf",
+      "lines": [
+        "pentalift-pro-series-lift-tables",
+        "pentalift-pro-series-lift-and-tilt-tables",
+        "pentalift-pro-series-lift-and-rotate-tables",
+        "pentalift-pro-series-tilters"
+      ]
+    },
+    {
+      "file": "pentalift/2020-11-Lift_table_all_products.pdf",
+      "title": "Lift Tables and Positioning Equipment catalog",
+      "type": "catalog",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/resources_category/lift-tables/",
+      "original": "https://www.pentalift.com/wp-content/uploads/2020/11/Lift_table_all_products.pdf",
+      "lines": [
+        "pentalift-pro-series-lift-tables",
+        "pentalift-pro-series-lift-and-tilt-tables",
+        "pentalift-pro-series-lift-and-rotate-tables",
+        "pentalift-pro-series-tilters",
+        "pentalift-proair-pneumatic-lift-tables",
+        "pentalift-proair-pneumatic-lift-and-tilt-tables",
+        "pentalift-proair-pneumatic-lift-and-rotate-tables",
+        "pentalift-proair-pneumatic-tilters",
+        "pentalift-ltni-lift-and-tilt-non-intrusive",
+        "pentalift-10l-series-lift-tables",
+        "pentalift-12l-series-lift-tables",
+        "pentalift-ir-series-lift-tables",
+        "pentalift-l-series-low-height-lift-tables",
+        "pentalift-tl-series-tandem-lift-tables",
+        "pentalift-tlh-series-tandem-lift-tables",
+        "pentalift-nl-series-no-low-lift-tables",
+        "pentalift-nlt-series-no-low-lift-and-tilt-tables",
+        "pentalift-double-scissor-lift-tables",
+        "pentalift-tsl-series-triple-scissor-lift-tables",
+        "pentalift-qsl-series-quadruple-scissor-lift-tables",
+        "pentalift-portable-bin-tilters",
+        "pentalift-mechanical-bin-tilters",
+        "pentalift-pentaloader-self-leveling-pallet-lift-tables"
+      ]
+    },
+    {
+      "file": "pentalift/M001R24.pdf",
+      "title": "Pro-Series Lift Table owner’s manual",
+      "type": "manual",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/owners-manuals/",
+      "original": "https://www.pentalift.com/wp-content/uploads/M001R24.pdf",
+      "lines": [
+        "pentalift-pro-series-lift-tables",
+        "pentalift-pro-series-lift-and-tilt-tables",
+        "pentalift-pro-series-lift-and-rotate-tables"
+      ],
+      "note": "Pentalift publishes this as a generic manual for general information. For the manual that applies to a particular lift, Pentalift asks for its serial number."
+    },
+    {
+      "file": "pentalift/M051R17.pdf",
+      "title": "12L, 20L and 22L Scissor Lift Table owner’s manual",
+      "type": "manual",
+      "credit": "Pentalift",
+      "source": "https://www.pentalift.com/owners-manuals/",
+      "original": "https://www.pentalift.com/wp-content/uploads/M051R17.pdf",
+      "lines": [
+        "pentalift-12l-series-lift-tables"
+      ],
+      "note": "Pentalift publishes this as a generic manual for general information. For the manual that applies to a particular lift, Pentalift asks for its serial number."
+    }
+  ]
+}

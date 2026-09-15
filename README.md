@@ -169,6 +169,33 @@ entries from `images.json` and run the importer with `--prune`. That removes
 the featured images and deletes the files from the media library. A single
 image can also be deleted from Media in WordPress.
 
+## Product line documents
+
+`documents/documents.json` lists manufacturer PDFs (brochures, spec sheets,
+catalogs, owner's manuals and forms) and the product lines each belongs on. Each
+entry records the title, type, who it's credited to, the page it's published on
+and the PDF's own URL. **These are manufacturer documents used before asking
+permission**; line pages credit each one with a link to its source.
+
+The PDFs are not in version control. They live in `documents/files/`, which Git
+ignores, and the importer downloads any that are missing from their `original`
+URL, so a fresh checkout only needs the manifest. From the plugin directory:
+
+```bash
+php tools/import-documents.php <this repo>/documents/documents.json            # attach to lines without documents
+php tools/import-documents.php <this repo>/documents/documents.json --update   # replace lines' document lists
+php tools/import-documents.php <this repo>/documents/documents.json --prune    # take down documents removed from the file
+```
+
+So far the manifest covers Blue Giant and Pentalift: 49 documents on 34 lines.
+Blue Giant's installation manuals, parts lists, placard, warranty guide and PL4
+operator's manual sit behind a dealer login, so they aren't included. Pentalift
+calls its website owner's manuals generic and asks for a lift's serial number to
+supply the right one; that notice is shown with both manuals. Pentalift's
+all-products catalog is attached to every Pentalift line. Its E-Series, drive-on
+bin tilter and older bin tilter sheets aren't attached, since no line here covers
+those products.
+
 ## Products are drafts at launch
 
 Every catalog sets `"product_defaults": { "status": "draft" }`, so products

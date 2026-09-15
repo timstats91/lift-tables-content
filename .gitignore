@@ -3,3 +3,6 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+
+# Manufacturer PDFs: imported into the media library, not versioned (see README).
+documents/files/
