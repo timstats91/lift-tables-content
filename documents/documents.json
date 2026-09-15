@@ -4542,6 +4542,66 @@
       "lines": [
         "ecoa-extended-travel-scissor-lifts"
       ]
+    },
+    {
+      "file": "econo-lift/Econo-Lift-Catalog.pdf",
+      "title": "Econo Lift product catalog",
+      "type": "catalog",
+      "credit": "Econo Lift",
+      "source": "https://econolift.net/lifts-tilts/lift-tables/",
+      "original": "https://econolift.net/new/wp-content/uploads/2019/10/Econo-Lift-Catalog.pdf",
+      "lines": [
+        "econo-lift-sl-scissor-lift-tables",
+        "econo-lift-double-scissor-lift-tables",
+        "econo-lift-3hd-heavy-duty-lift-tables",
+        "econo-lift-tsl-tandem-scissor-lifts",
+        "econo-lift-lp-low-profile-scissor-lifts",
+        "econo-lift-light-duty-portable-lifts",
+        "econo-lift-light-duty-stationary-lifts",
+        "econo-lift-plt-self-propelled-lift-tables",
+        "econo-lift-tr-sl-lift-tilt-tables",
+        "econo-lift-trt-tilt-tables",
+        "econo-lift-mgt-mechanical-gravity-tilters",
+        "econo-lift-spt-spring-tables",
+        "econo-lift-air-bag-lift-and-tilt-tables",
+        "econo-lift-air-bag-ergo-self-leveller",
+        "econo-lift-drive-on-lift-and-tilt-tables",
+        "econo-lift-container-tilters"
+      ]
+    },
+    {
+      "file": "econo-lift/SL-Series-Manual.pdf",
+      "title": "“SL” Series Scissor Lift owner’s manual",
+      "type": "manual",
+      "credit": "Econo Lift",
+      "source": "https://econolift.net/resources/",
+      "original": "https://econolift.net/new/wp-content/uploads/2017/11/SL-Series-Manual.pdf",
+      "lines": [
+        "econo-lift-sl-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "econo-lift/Tilt-Table-HP-DriveOn-Tilts.pdf",
+      "title": "Tilt tables, high point tilters and drive-on tilts operation and maintenance manual",
+      "type": "manual",
+      "credit": "Econo Lift",
+      "source": "https://econolift.net/resources/",
+      "original": "https://econolift.net/new/wp-content/uploads/2017/11/Tilt-Table-HP-DriveOn-Tilts.pdf",
+      "lines": [
+        "econo-lift-trt-tilt-tables",
+        "econo-lift-drive-on-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "econo-lift/DC-Tilter-Manual.pdf",
+      "title": "Econo Lift tilters operation and service manual",
+      "type": "manual",
+      "credit": "Econo Lift",
+      "source": "https://econolift.net/resources/",
+      "original": "https://econolift.net/new/wp-content/uploads/2017/11/DC-Tilter-Manual.pdf",
+      "lines": [
+        "econo-lift-container-tilters"
+      ]
     }
   ]
 }

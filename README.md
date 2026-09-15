@@ -187,7 +187,7 @@ php tools/import-documents.php <this repo>/documents/documents.json --update   #
 php tools/import-documents.php <this repo>/documents/documents.json --prune    # take down documents removed from the file
 ```
 
-The manifest holds 375 documents on 250 lines, covering 15 brands. Within a
+The manifest holds 379 documents on 266 lines, covering 16 brands. Within a
 brand, each line lists catalogs and brochures first, then spec sheets, manuals,
 installation guides, parts lists, service procedures and application forms.
 
@@ -220,9 +220,11 @@ Notes by brand:
   attached to every line whose page links them.
 - **Superlift:** its tilter sheet is linked from most product pages but is only
   attached to the tilter lines.
+- **Econo Lift:** its catalog is on every line. Its three manuals cover the SL
+  Series, tilt tables with drive-on and high point tilts, and its fork tilters;
+  no manual covers its other lines. Its line card isn't included.
 - **No documents:** JET, Premier Handling Solutions, Wesco and Lexco publish no
-  line-level PDFs. Econo Lift's site wasn't responding when the documents were
-  gathered (September 2026), so its lines have none yet.
+  line-level PDFs.
 
 ## Products are drafts at launch
 
