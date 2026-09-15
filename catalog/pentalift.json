@@ -524,5 +524,847 @@
                 "https://www.pentalift.com/solutions/pentaloader-automatic-self-leveling-palletizer-2/"
             ]
         }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "pentalift-pro-series-lift-models",
+            "title": "Pentalift Pro-Series Lift Table Models",
+            "line": "pentalift-pro-series-lift-tables",
+            "menu_order": 10,
+            "excerpt": "9 models rated 2,500–6,000 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "7P242.5",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "7P362.5",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "7P482.5",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 64 to 48 x 88 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "7P244",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "7P364",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "7P484",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 64 to 48 x 88 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "7P246",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "7P366",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "7P486",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 64 to 48 x 88 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-pro-series-tilt-models",
+            "title": "Pentalift Pro-Series Tilt Table Models",
+            "line": "pentalift-pro-series-tilters",
+            "menu_order": 10,
+            "excerpt": "12 models rated 2,500–6,000 lb, with 30–45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "PT302544",
+                    "capacity_lbs": 2500,
+                    "platform": "30 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "PT302550",
+                    "capacity_lbs": 2500,
+                    "platform": "30 x 48 to 50 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "PT452544",
+                    "capacity_lbs": 2500,
+                    "platform": "30 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "PT452550",
+                    "capacity_lbs": 2500,
+                    "platform": "30 x 48 to 50 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "PT304044",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "PT304050",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 48 to 50 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "PT454044",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "PT454050",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 48 to 50 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "PT306044",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "PT306050",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 48 to 50 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "30° tilt"
+                },
+                {
+                    "model": "PT456044",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "PT456050",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 48 to 50 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-pro-series-lift-and-tilt-models",
+            "title": "Pentalift Pro-Series Lift & Tilt Table Models",
+            "line": "pentalift-pro-series-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "10 models rated 2,500–5,000 lb, with 24–36 in. of travel and 30–45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "PLT24302.5",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "24 in travel, 30° tilt"
+                },
+                {
+                    "model": "PLT24452.5",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "24 in travel, 45° tilt"
+                },
+                {
+                    "model": "PLT36302.5",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "36 in travel, 30° tilt"
+                },
+                {
+                    "model": "PLT36452.5",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "PLT24304",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "24 in travel, 30° tilt, remote power unit only"
+                },
+                {
+                    "model": "PLT24454",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "24 in travel, 45° tilt, remote power unit only"
+                },
+                {
+                    "model": "PLT36304",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "36 in travel, 30° tilt"
+                },
+                {
+                    "model": "PLT36454",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "36 in travel, 45° tilt"
+                },
+                {
+                    "model": "PLT24305",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "24 in travel, 30° tilt, remote power unit only"
+                },
+                {
+                    "model": "PLT36305",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 44 to 50 x 54 in",
+                    "lowered_height_in": 14,
+                    "notes": "36 in travel, 30° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/lift-tilt-sheet.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-pro-series-lift-and-rotate-models",
+            "title": "Pentalift Pro-Series Lift & Rotate Table Models",
+            "line": "pentalift-pro-series-lift-and-rotate-tables",
+            "menu_order": 10,
+            "excerpt": "18 models rated 2,000–5,500 lb, with 24–36 in. of travel.",
+            "models": [
+                {
+                    "model": "PLR24362",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "24 in travel, rotating top"
+                },
+                {
+                    "model": "PLR24422",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "24 in travel, rotating top"
+                },
+                {
+                    "model": "PLR24482",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "24 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36362",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36422",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36482",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR24363.5",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "24 in travel, rotating top"
+                },
+                {
+                    "model": "PLR24423.5",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "24 in travel, rotating top"
+                },
+                {
+                    "model": "PLR24483.5",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "24 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36363.5",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36423.5",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36483.5",
+                    "capacity_lbs": 3500,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "lowered_height_in": 9.4375,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR24365.5",
+                    "capacity_lbs": 5500,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "lowered_height_in": 9.625,
+                    "notes": "24 in travel, rotating top, remote power unit only"
+                },
+                {
+                    "model": "PLR24425.5",
+                    "capacity_lbs": 5500,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "lowered_height_in": 9.625,
+                    "notes": "24 in travel, rotating top, remote power unit only"
+                },
+                {
+                    "model": "PLR24485.5",
+                    "capacity_lbs": 5500,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "lowered_height_in": 9.625,
+                    "notes": "24 in travel, rotating top, remote power unit only"
+                },
+                {
+                    "model": "PLR36365.5",
+                    "capacity_lbs": 5500,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "lowered_height_in": 9.625,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36425.5",
+                    "capacity_lbs": 5500,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "lowered_height_in": 9.625,
+                    "notes": "36 in travel, rotating top"
+                },
+                {
+                    "model": "PLR36485.5",
+                    "capacity_lbs": 5500,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "lowered_height_in": 9.625,
+                    "notes": "36 in travel, rotating top"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/lift-and-rotate-sheet.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-pro-series-rotating-top-models",
+            "title": "Pentalift Pro-Series Manual Rotating Top Models",
+            "line": "pentalift-pro-series-lift-and-rotate-tables",
+            "menu_order": 20,
+            "excerpt": "9 models rated 2,500–6,000 lb.",
+            "models": [
+                {
+                    "model": "RP3625",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP4225",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP4825",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP3640",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP4240",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP4840",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP3660",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 41 x 41 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP4260",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 42 to 47 x 47 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                },
+                {
+                    "model": "RP4860",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 48 x 48 in",
+                    "notes": "rotating top only, 2-7/16 in overall height"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-lift-models",
+            "title": "Pentalift ProAir Lift Table Models",
+            "line": "pentalift-proair-pneumatic-lift-tables",
+            "menu_order": 10,
+            "excerpt": "7 models rated 2,000–6,000 lb, with 24 in. of travel.",
+            "models": [
+                {
+                    "model": "PAL2-2548",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PAL2-3648",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PAL2-4248",
+                    "capacity_lbs": 2000,
+                    "platform": "42 x 48 to 66 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PAL4-2548",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PAL4-3648",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PAL4-4248",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 48 to 66 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PAL6-4248",
+                    "capacity_lbs": 6000,
+                    "platform": "42 x 48 to 66 x 72 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 33,
+                    "notes": "24 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-lift-and-tilt-models",
+            "title": "Pentalift ProAir Lift & Tilt Table Models",
+            "line": "pentalift-proair-pneumatic-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "10 models rated 2,000–6,000 lb, with 24 in. of travel.",
+            "models": [
+                {
+                    "model": "PALT2-2548",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 48 to 50 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, tray thrust"
+                },
+                {
+                    "model": "PALT2-3648",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, tray thrust"
+                },
+                {
+                    "model": "PALT2-4248",
+                    "capacity_lbs": 2000,
+                    "platform": "42 x 48 to 66 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, tray thrust"
+                },
+                {
+                    "model": "PALT4-2548",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 48 to 50 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, tray thrust"
+                },
+                {
+                    "model": "PALT4-3648",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, tray thrust"
+                },
+                {
+                    "model": "PALT4-4248",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 48 to 66 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, tray thrust"
+                },
+                {
+                    "model": "PALT6-4248",
+                    "capacity_lbs": 6000,
+                    "platform": "42 x 48 to 66 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, tray thrust"
+                },
+                {
+                    "model": "PAFT2-2548",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 48 to 50 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, floor thrust"
+                },
+                {
+                    "model": "PAFT2-3948",
+                    "capacity_lbs": 2000,
+                    "platform": "39 x 48 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, floor thrust"
+                },
+                {
+                    "model": "PAFT4-3948",
+                    "capacity_lbs": 4000,
+                    "platform": "39 x 48 to 60 x 60 in",
+                    "lowered_height_in": 16,
+                    "notes": "24 in travel, floor thrust"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-lift-and-rotate-models",
+            "title": "Pentalift ProAir Lift & Rotate Table Models",
+            "line": "pentalift-proair-pneumatic-lift-and-rotate-tables",
+            "menu_order": 10,
+            "excerpt": "7 models rated 2,000–6,000 lb, with 24 in. of travel.",
+            "models": [
+                {
+                    "model": "PALR2-2548",
+                    "capacity_lbs": 2000,
+                    "platform": "25 x 48 to 48 x 54 in",
+                    "lowered_height_in": 11.4375,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PALR2-3648",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 56 x 60 in",
+                    "lowered_height_in": 11.4375,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PALR2-4248",
+                    "capacity_lbs": 2000,
+                    "platform": "42 x 48 to 62 x 70 in",
+                    "lowered_height_in": 11.4375,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PALR4-2548",
+                    "capacity_lbs": 4000,
+                    "platform": "25 x 48 to 48 x 54 in",
+                    "lowered_height_in": 11.4375,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PALR4-3648",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 56 x 60 in",
+                    "lowered_height_in": 11.4375,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PALR4-4248",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 48 to 62 x 70 in",
+                    "lowered_height_in": 11.4375,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "PALR6-4248",
+                    "capacity_lbs": 6000,
+                    "platform": "42 x 48 to 62 x 70 in",
+                    "lowered_height_in": 11.4375,
+                    "notes": "24 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-proair-tilt-models",
+            "title": "Pentalift ProAir Tilt Table Models",
+            "line": "pentalift-proair-pneumatic-tilters",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 40 degrees of tilt.",
+            "models": [
+                {
+                    "model": "PAT2",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 36 to 66 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "30 or 40° tilt"
+                },
+                {
+                    "model": "PAT4",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 36 to 66 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "30 or 40° tilt"
+                },
+                {
+                    "model": "PAT6",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 44 to 66 x 54 in",
+                    "lowered_height_in": 7,
+                    "notes": "30 or 40° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-bin-tilter-models",
+            "title": "Pentalift Bin Tilter Models",
+            "line": "pentalift-portable-bin-tilters",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "XPBT2",
+                    "capacity_lbs": 2000,
+                    "notes": "portable"
+                },
+                {
+                    "model": "XPBT4",
+                    "capacity_lbs": 4000,
+                    "notes": "portable"
+                },
+                {
+                    "model": "XSBT2",
+                    "capacity_lbs": 2000,
+                    "notes": "stationary"
+                },
+                {
+                    "model": "XSBT4",
+                    "capacity_lbs": 4000,
+                    "notes": "stationary"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/Portable-Bin-Tilter-New-Design-01-16-18.pdf"
+            ]
+        },
+        {
+            "slug": "pentalift-pentaloader-models",
+            "title": "Pentalift Pentaloader Models",
+            "line": "pentalift-pentaloader-self-leveling-pallet-lift-tables",
+            "menu_order": 10,
+            "excerpt": "4 models rated 4,500 lb.",
+            "models": [
+                {
+                    "model": "XPL1",
+                    "capacity_lbs": 4500,
+                    "platform": "48 x 48 in",
+                    "notes": "begins lowering at 175 lb; fully lowered at 600–1,350 lb depending on setting"
+                },
+                {
+                    "model": "XPL2",
+                    "capacity_lbs": 4500,
+                    "platform": "48 x 48 in",
+                    "notes": "begins lowering at 175 lb; fully lowered at 600–2,175 lb depending on setting"
+                },
+                {
+                    "model": "PL1",
+                    "capacity_lbs": 4500,
+                    "platform": "48 x 48 in",
+                    "notes": "begins lowering at 350 lb; fully lowered at 1,400–2,525 lb depending on setting"
+                },
+                {
+                    "model": "PL2",
+                    "capacity_lbs": 4500,
+                    "platform": "48 x 48 in",
+                    "notes": "begins lowering at 350 lb; fully lowered at 1,400–4,100 lb depending on setting"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables"
+            ],
+            "sources": [
+                "https://www.pentalift.com/wp-content/uploads/2020/10/modelselection-1.pdf"
+            ]
+        }
     ]
 }

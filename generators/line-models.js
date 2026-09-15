@@ -713,6 +713,14 @@ function phs(path) {
   return out;
 }
 
+/* ------------------------------------------------------ Typed from PDFs */
+
+// Blue Giant and Pentalift publish model specifications only in PDFs, as
+// images or merged-cell tables, so their rows are typed into
+// generators/data/pdf-models.json with the PDF each came from.
+const PDF_MODELS = JSON.parse(fs.readFileSync(require('path').join(__dirname, 'data', 'pdf-models.json'), 'utf8')).products;
+const pdfPlan = brand => PDF_MODELS.filter(x => x.brand === brand).map(x => P(x.line, x.stem, x.title, x.source, () => x.rows.map(row)));
+
 /* ---------------------------------------------------------------- Products */
 
 const AQ = 'https://autoquip.com/products/';
@@ -1113,6 +1121,8 @@ const plan = {
     ['phs-pneumatic-lift-tables', 'phs-pneumatic', 'Pneumatic Lift Table', 'lift-tables/pneumatic-lift-table'],
     ['phs-portable-electric-lift-tables', 'phs-portable-electric', 'Portable Electric Lift Table', 'lift-tables/portable-electric-lift-table'],
   ].map(([line, stem, title, path]) => P(line, stem, title, `https://www.phsinc.com/${path}/`, () => phs(path))),
+  'blue-giant': pdfPlan('blue-giant'),
+  pentalift: pdfPlan('pentalift'),
   lexco: [
     ['lexco-lzl-zero-lift-tables', 'lexco-lzl', 'LZL Zero Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/ic-lift-tables-die-handlers-lexco-zero-lift-tables'],
     ['lexco-ht-fr-rotating-hydraulic-lift-tables', 'lexco-ht-fr', 'HT-FR Foot Operated Hydraulic Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/lexco--foot-operated-hydraulic-lift-table'],
@@ -1123,7 +1133,7 @@ const plan = {
   ].map(([line, stem, title, group]) => P(line, stem, title, `https://catalog.wescomfg.com/viewitems/${group}`, () => wesco(group))),
 };
 
-const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries', 'southworth-products': 'Southworth', 'presto-lifts': 'Presto', ecoa: 'ECOA', vestil: 'Vestil', 'lift-products': 'Lift Products', 'beacon-industries': 'Beacon', 'wesco-industrial-products': 'Wesco', lexco: 'Lexco', 'econo-lift': 'Econo Lift', 'premier-handling-solutions': 'Premier Handling' };
+const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries', 'southworth-products': 'Southworth', 'presto-lifts': 'Presto', ecoa: 'ECOA', vestil: 'Vestil', 'lift-products': 'Lift Products', 'beacon-industries': 'Beacon', 'wesco-industrial-products': 'Wesco', lexco: 'Lexco', 'econo-lift': 'Econo Lift', 'premier-handling-solutions': 'Premier Handling', 'blue-giant': 'Blue Giant', pentalift: 'Pentalift' };
 
 // --brands=a,b limits the run to those catalogs.
 const only = (process.argv.find(a => a.startsWith('--brands=')) || '').slice(9).split(',').filter(Boolean);

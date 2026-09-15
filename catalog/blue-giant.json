@@ -10,7 +10,6 @@
             "excerpt": "Economical heavy-duty hydraulic scissor lift tables with 24 to 60 in. of travel and capacities up to 6,000 lb.",
             "content": "<p>Blue Giant Standard Duty Scissor Lift Tables are economical, heavy-duty lift tables for positioning work at a comfortable height. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks and a hand control are standard.</p>\n<p>They offer 24 to 60 in. of vertical travel and capacities up to 6,000 lb. Options include accordion skirts, conveyor and turntable tops, an external power unit, foot pedal control, a high cycle package, oversized or bevelled platforms, pit mounting, a portability package, a mounted tilt table and a travel limit switch.</p>",
             "line_code": "LFT",
-            "capacity_range": "Up to 6,000 lbs",
             "key_features": [
                 "Capacities up to 6,000 lb",
                 "24 to 60 in. of travel",
@@ -25,15 +24,15 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/standard-duty-scissor-lift/"
-            ]
+            ],
+            "capacity_range": "2,000–6,000 lbs"
         },
         {
             "slug": "blue-giant-wide-base-scissor-lift-tables",
             "title": "Blue Giant Wide Base Scissor Lift Tables",
             "excerpt": "Wide base hydraulic scissor lift tables for larger loads, with capacities up to 6,000 lb.",
-            "content": "<p>Blue Giant Wide Base Lift Tables use a wider base for more stability under larger loads. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks, a hand control and a travel limit switch are standard.</p>\n<p>They handle loads up to 6,000 lb. Options include conveyor and turntable tops, an external power unit, foot pedal control, a high cycle package, oversized or bevelled platforms, pit mounting, a portability package and a mounted tilt table.</p>",
-            "line_code": "LFTXB",
-            "capacity_range": "Up to 6,000 lbs",
+            "content": "<p>Blue Giant Wide Base Lift Tables use a wider base for more stability under larger loads. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks, a hand control and a travel limit switch are standard.</p>\n<p>Wide base LFTWB models are rated 2,000 to 6,000 lb with 24 to 48 in. of travel on 36 in. wide standard platforms, and extra wide base LFTXB models the same capacities with 36 to 60 in. of travel on 48 in. wide or larger platforms. Options include conveyor and turntable tops, an external power unit, foot pedal control, a high cycle package, oversized or bevelled platforms, pit mounting, a portability package and a mounted tilt table.</p>",
+            "line_code": "LFTWB / LFTXB",
             "key_features": [
                 "Capacities up to 6,000 lb",
                 "Wide base for larger loads",
@@ -47,29 +46,31 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/wide-base-scissor-lift/"
-            ]
+            ],
+            "capacity_range": "2,000–6,000 lbs"
         },
         {
             "slug": "blue-giant-double-wide-scissor-lift-tables",
             "title": "Blue Giant Double Wide Scissor Lift Tables",
-            "excerpt": "Double wide hydraulic scissor lift tables rated 2,000 to 6,000 lb with 24 to 60 in. of travel.",
-            "content": "<p>Blue Giant Double Wide Scissor Lift Tables give wide loads more support and stability. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks and a hand control are standard.</p>\n<p>Capacities range from 2,000 to 6,000 lb with 24 to 60 in. of vertical travel. Options include an external power unit, foot pedal control, a high cycle package, custom or bevelled platforms, pit mounting, a portability package, a mounted tilt table or turntable and a travel limit switch.</p>",
+            "excerpt": "Double wide hydraulic scissor lift tables rated 4,000 to 12,000 lb with 24 to 60 in. of travel and 72 in. wide platforms.",
+            "content": "<p>Blue Giant Double Wide Scissor Lift Tables give wide loads more support and stability. Heavy-duty cylinders and steel legs, an internal power unit, lifetime-lubricated bearings, safety maintenance blocks and a hand control are standard.</p>\n<p>Blue Giant's web page gives capacities of 2,000 to 6,000 lb, but its 2025 brochure lists LFTDW models rated 4,000, 8,000 and 12,000 lb, with 24 to 60 in. of travel and 72 in. wide standard platforms up to 96 x 120 in. Options include an external power unit, foot pedal control, a high cycle package, custom or bevelled platforms, pit mounting, a portability package, a mounted tilt table or turntable and a travel limit switch.</p>",
             "line_code": "Double Wide",
-            "capacity_range": "2,000–6,000 lbs",
             "key_features": [
-                "2,000 to 6,000 lb capacities",
+                "4,000 to 12,000 lb capacities",
                 "24 to 60 in. of travel",
                 "Double wide scissor support",
-                "Internal power unit"
+                "72 in. wide platforms"
             ],
             "categories": [
                 "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
                 "Lift Tables > Hydraulic Lift Tables",
                 "Lift Tables > Electric Lift Tables"
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-wide-scissor-lift/"
-            ]
+            ],
+            "capacity_range": "4,000–12,000 lbs"
         },
         {
             "slug": "blue-giant-tandem-long-scissor-lift-tables",
@@ -115,7 +116,8 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/double-scissor-lift/"
-            ]
+            ],
+            "capacity_range": "1,000–4,000 lbs"
         },
         {
             "slug": "blue-giant-pneumatic-scissor-lift-tables",
@@ -136,7 +138,8 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/pneumatic-scissor-lift/"
-            ]
+            ],
+            "capacity_range": "1,000–4,000 lbs"
         },
         {
             "slug": "blue-giant-zero-ground-level-scissor-lift-tables",
@@ -159,7 +162,8 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/zero-ground-level-scissor-lift/"
-            ]
+            ],
+            "capacity_range": "2,000–4,000 lbs"
         },
         {
             "slug": "blue-giant-hydraulic-tilters",
@@ -182,7 +186,8 @@
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/hydraulic-tilter/",
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/wide-base-tilter/"
-            ]
+            ],
+            "capacity_range": "2,000–6,000 lbs"
         },
         {
             "slug": "blue-giant-pneumatic-tilt-tables",
@@ -202,7 +207,8 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/tilters-upenders/pneumatic-tilt/"
-            ]
+            ],
+            "capacity_range": "1,000–4,000 lbs"
         },
         {
             "slug": "blue-giant-scissor-lift-and-tilt-tables",
@@ -247,6 +253,1090 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/pallet_handling/pl4_automatic_pallet_positioner/"
+            ]
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "blue-giant-lft-models",
+            "title": "Blue Giant Standard Duty LFT Models",
+            "line": "blue-giant-standard-duty-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "14 models rated 2,000–6,000 lb, with 24–60 in. of travel.",
+            "models": [
+                {
+                    "model": "LFT24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFT24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFT24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFT36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFT36-30",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFT36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFT36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFT48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFT48-30",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFT48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFT48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFT60-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 88 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFT60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 88 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFT60-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 88 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/f4bcd23e-01d0-4090-937e-9bd301b36449/Standard_Duty_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-lftwb-models",
+            "title": "Blue Giant Wide Base LFTWB Models",
+            "line": "blue-giant-wide-base-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "9 models rated 2,000–6,000 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "LFTWB24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36.25 to 60 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTWB24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36.25 to 60 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTWB24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36.25 to 60 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTWB36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTWB36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTWB36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTWB48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTWB48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTWB48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 64 to 60 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/a3d34e91-e963-4bab-aa39-c0020e76b4fa/Wide_Base_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-lftxb-models",
+            "title": "Blue Giant Extra Wide Base LFTXB Models",
+            "line": "blue-giant-wide-base-scissor-lift-tables",
+            "menu_order": 20,
+            "excerpt": "9 models rated 2,000–6,000 lb, with 36–60 in. of travel.",
+            "models": [
+                {
+                    "model": "LFTXB36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTXB36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTXB36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTXB48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTXB48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTXB48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTXB60-20",
+                    "capacity_lbs": 2000,
+                    "platform": "56 x 88 to 84 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFTXB60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "56 x 88 to 84 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFTXB60-60",
+                    "capacity_lbs": 6000,
+                    "platform": "56 x 88 to 84 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/a3d34e91-e963-4bab-aa39-c0020e76b4fa/Wide_Base_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-lftdw-models",
+            "title": "Blue Giant Double Wide LFTDW Models",
+            "line": "blue-giant-double-wide-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 4,000–12,000 lb, with 24–60 in. of travel.",
+            "models": [
+                {
+                    "model": "LFTDW24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "72 x 36.25 to 72 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTDW24-80",
+                    "capacity_lbs": 8000,
+                    "platform": "72 x 36.25 to 72 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTDW24-120",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 36.25 to 72 x 60 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTDW36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "72 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTDW36-80",
+                    "capacity_lbs": 8000,
+                    "platform": "72 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTDW36-120",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTDW48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "72 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTDW48-80",
+                    "capacity_lbs": 8000,
+                    "platform": "72 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTDW48-120",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTDW60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "72 x 88 to 96 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFTDW60-80",
+                    "capacity_lbs": 8000,
+                    "platform": "72 x 88 to 96 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFTDW60-120",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 88 to 96 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/1f027410-82e7-4664-9da4-f734efb6db57/Double_Wide_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-lftdl-models",
+            "title": "Blue Giant Tandem Long LFTDL Models",
+            "line": "blue-giant-tandem-long-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 4,000–12,000 lb, with 24–60 in. of travel.",
+            "models": [
+                {
+                    "model": "LFTDL24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 72.5 to 48 x 120 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTDL24-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 72.5 to 48 x 120 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTDL24-120",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 72.5 to 48 x 120 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 31.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "LFTDL36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTDL36-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 96 to 48 x 144 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTDL36-120",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 96 to 48 x 144 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "LFTDL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 128 to 48 x 176 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTDL48-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 128 to 48 x 176 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTDL48-120",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 128 to 48 x 176 in",
+                    "lowered_height_in": 7.5,
+                    "raised_height_in": 55.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "LFTDL60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 176 to 48 x 220 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFTDL60-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 176 to 48 x 220 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "LFTDL60-120",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 176 to 48 x 220 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/8850c7ee-f1ef-408d-bdf8-3018405ba511/Tandem_Long_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-ds-models",
+            "title": "Blue Giant Double Scissor DS Models",
+            "line": "blue-giant-double-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 1,000–4,000 lb, with 48–72 in. of travel.",
+            "models": [
+                {
+                    "model": "DS1-48",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DS2-48",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DS3-48",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DS4-48",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DS1-60",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 60 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "DS2-60",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 60 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "DS3-60",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 60 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "DS4-60",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 60 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 72,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "DS1-72",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 72 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DS2-72",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 72 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DS3-72",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 72 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "DS4-72",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 72 to 48 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/7d3c4e57-62c2-40ed-98f9-cffc4f684670/Double_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-af24-models",
+            "title": "Blue Giant Pneumatic AF24 Models",
+            "line": "blue-giant-pneumatic-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 1,000–4,000 lb, with 24 in. of travel.",
+            "models": [
+                {
+                    "model": "AF24-10-3648",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-10-4848",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-10-4856",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 56 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-10-4860",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-20-3648",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-20-4848",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-20-4856",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 56 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-20-4860",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-40-3648",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-40-4848",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-40-4856",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 56 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "AF24-40-4860",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5,
+                    "notes": "24 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/9890d10f-ffd7-4bca-9fd4-faf3eb38fb56/Pneumatic_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-aft-models",
+            "title": "Blue Giant Pneumatic Tilt AFT Models",
+            "line": "blue-giant-pneumatic-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "11 models rated 1,000–4,000 lb, with 45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "AFT10-3648",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT10-4848",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT10-4856",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 56 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT10-4860",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT20-3648",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT20-4848",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT20-4856",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 56 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT20-4860",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT40-3648",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT40-4856",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 56 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                },
+                {
+                    "model": "AFT40-4860",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 8,
+                    "notes": "30 or 45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/bc6b8f3e-d4f4-405b-a626-c690f34bb44b/Pneumatic_Tilt_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-zpl-models",
+            "title": "Blue Giant Zero Ground Level ZPL Models",
+            "line": "blue-giant-zero-ground-level-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,000–4,000 lb, with 36 in. of travel.",
+            "models": [
+                {
+                    "model": "ZPL-20-4448",
+                    "capacity_lbs": 2000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "ZPL-20-5048",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "ZPL-40-4448",
+                    "capacity_lbs": 4000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "ZPL-40-5048",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "36 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/52a85b3b-080b-4063-9aed-197517ed88c5/Zero_Ground_Level_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-ett-models",
+            "title": "Blue Giant Hydraulic Tilter ETT Models",
+            "line": "blue-giant-hydraulic-tilters",
+            "menu_order": 10,
+            "excerpt": "6 models rated 2,000–6,000 lb, with 45–90 degrees of tilt.",
+            "models": [
+                {
+                    "model": "ETT45-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 48 x 60 in",
+                    "lowered_height_in": 8,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "ETT45-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 48 x 60 in",
+                    "lowered_height_in": 8,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "ETT45-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 48 x 60 in",
+                    "lowered_height_in": 8,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "ETT90-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "notes": "90° tilt"
+                },
+                {
+                    "model": "ETT90-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "notes": "90° tilt"
+                },
+                {
+                    "model": "ETT90-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "notes": "90° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/40a111c3-32ee-447b-9993-ceb0455e0b0b/Hydraulic_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-wbett-models",
+            "title": "Blue Giant Wide Base Tilter WBETT Models",
+            "line": "blue-giant-hydraulic-tilters",
+            "menu_order": 20,
+            "excerpt": "6 models rated 2,000–6,000 lb, with 45–90 degrees of tilt.",
+            "models": [
+                {
+                    "model": "WBETT45-20",
+                    "capacity_lbs": 2000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "lowered_height_in": 8,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "WBETT45-40",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "lowered_height_in": 8,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "WBETT45-60",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "lowered_height_in": 12,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "WBETT90-20",
+                    "capacity_lbs": 2000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "lowered_height_in": 8,
+                    "notes": "90° tilt"
+                },
+                {
+                    "model": "WBETT90-40",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "lowered_height_in": 8,
+                    "notes": "90° tilt"
+                },
+                {
+                    "model": "WBETT90-60",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "lowered_height_in": 12,
+                    "notes": "90° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/b1b73e46-1edd-4672-80a2-89165a357228/Wide_Base_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-wbett60-models",
+            "title": "Blue Giant Wide Base Tilter WBETT60 Models",
+            "line": "blue-giant-hydraulic-tilters",
+            "menu_order": 30,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 60 degrees of tilt.",
+            "models": [
+                {
+                    "model": "WBETT60-20",
+                    "capacity_lbs": 2000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "notes": "60° tilt"
+                },
+                {
+                    "model": "WBETT60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "notes": "60° tilt"
+                },
+                {
+                    "model": "WBETT60-60",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 60 to 96 x 96 in",
+                    "notes": "60° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/3302aa09-2282-4985-8e53-02f3e33081b8/In-Plant_Lifts_Catalog_2025.pdf?lang=en-us&ext=.pdf"
+            ]
+        },
+        {
+            "slug": "blue-giant-pl4-models",
+            "title": "Blue Giant PL4 Automatic Pallet Positioner Models",
+            "line": "blue-giant-pl4-automatic-pallet-positioner",
+            "menu_order": 10,
+            "excerpt": "1 model rated 4,000 lb, with 23 in. of travel.",
+            "models": [
+                {
+                    "model": "PL4",
+                    "capacity_lbs": 4000,
+                    "platform": "43 in round",
+                    "lowered_height_in": 10.5,
+                    "raised_height_in": 33.5,
+                    "notes": "self-levels 400–3,500 lb, 23 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.bluegiant.com/getattachment/0754b8c6-dd4a-40aa-8e92-be03db7052c3/PL4_Automatic_Pallet_Positioner_Brochure_2024.pdf?lang=en-us&ext=.pdf"
             ]
         }
     ]

@@ -88,9 +88,15 @@ than model numbers, so its tables list part numbers, matched in order to the
 columns of each specification group; its heavy duty sheet shows a 336 x 48 in.
 standard platform for one model, read as 36 x 48 in.
 
-Pentalift, Blue Giant and Superlift publish their model specifications only in
-PDF brochures or as images, so their catalogs have product lines but no model
-tables (`products`) yet.
+Blue Giant and Pentalift publish their model specifications only in PDFs, as
+images or tables with merged cells, so those rows are typed into
+`generators/data/pdf-models.json` with the PDF each product came from. Blue
+Giant's Scissor Lift and Tilt line has no model table in any of its PDFs, and
+its Double Wide brochure lists 4,000 to 12,000 lb models where its web page says
+2,000 to 6,000 lb; the brochure is used. Pentalift's one-page bulletins for the
+LTNI, 10L, 12L, IR, L, TL, TLH, NL, NLT, DSL, TSL, QSL and mechanical bin tilter
+lines describe the series without model numbers, so those lines have no table.
+Superlift publishes its specs as images, so its lines have no tables either.
 
 ## Brand
 
@@ -191,8 +197,8 @@ an existing item's status.
 | Wesco | 4 | 7 | 47 |
 | Lexco | 6 | 6 | 101 |
 | Premier Handling Solutions | 9 | 8 | 78 |
-| Pentalift | 23 | 0 | 0 |
-| Blue Giant | 11 | 0 | 0 |
+| Pentalift | 23 | 11 | 93 |
+| Blue Giant | 11 | 13 | 111 |
 | Econo Lift | 16 | 21 | 247 |
 | Superlift | 15 | 0 | 0 |
 
