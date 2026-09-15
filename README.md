@@ -187,15 +187,14 @@ php tools/import-documents.php <this repo>/documents/documents.json --update   #
 php tools/import-documents.php <this repo>/documents/documents.json --prune    # take down documents removed from the file
 ```
 
-The manifest holds 354 documents on 245 lines, covering 15 brands. Within a
+The manifest holds 375 documents on 250 lines, covering 15 brands. Within a
 brand, each line lists catalogs and brochures first, then spec sheets, manuals,
-installation guides, parts lists and application forms.
+installation guides, parts lists, service procedures and application forms.
 
-What's included is each brand's line-level literature, owner's manuals and
-application or survey forms. Left out: drawings, labels and certificates for
+What's included is each brand's line-level literature, owner's manuals,
+service procedures and application or survey forms. Left out: drawings, labels and certificates for
 single models (Vestil's and Advance Lifts' per-model PDFs, Wesco's item sheets),
-warranties, terms, Southworth's service procedures and maintenance sheets, and
-general reference sheets such as Beacon's voltage, NEMA and paint colour charts.
+warranties, terms, and general reference sheets such as Beacon's voltage, NEMA and paint colour charts.
 Spanish-language copies aren't included.
 
 Notes by brand:
@@ -217,6 +216,8 @@ Notes by brand:
   ECOA line.
 - **Beacon:** the BBTT tech sheet link serves a platform cart sheet, and two BHTT
   "tech sheets" are handwritten sketches; none of the three is used.
+- **Southworth:** its service procedures (SP-S, SP-H, SP-A and SP-MS sheets) are
+  attached to every line whose page links them.
 - **Superlift:** its tilter sheet is linked from most product pages but is only
   attached to the tilter lines.
 - **No documents:** JET, Premier Handling Solutions, Wesco and Lexco publish no

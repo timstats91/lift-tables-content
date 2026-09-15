@@ -1564,6 +1564,23 @@
       ]
     },
     {
+      "file": "lift-products/stainless-steel-lift-tables-web.pdf",
+      "title": "Stainless steel lift tables literature",
+      "type": "brochure",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/liftcarts/mml-pss.html",
+      "original": "https://www.liftproducts.com/pdf/stainless-steel-lift-tables-web.pdf",
+      "lines": [
+        "lift-products-mml-pss-stainless-steel-lift-carts",
+        "lift-products-roto-max-work-positioners",
+        "lift-products-guardian-low-profile-lift-tables",
+        "lift-products-guardian-e-lift-tables",
+        "lift-products-guardian-u-lift-tables",
+        "lift-products-sxt-stainless-steel-lift-tables",
+        "lift-products-sxtlp-stainless-steel-ground-entry-lift-tables"
+      ]
+    },
+    {
       "file": "lift-products/g-series-manual.pdf",
       "title": "2G & 3G Light Duty Lift Tables service manual",
       "type": "manual",
@@ -2049,6 +2066,394 @@
       "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/stackbox.pdf",
       "lines": [
         "southworth-stackbox-positioners"
+      ]
+    },
+    {
+      "file": "southworth-products/Changing-Leg-Rollers-SPS1.pdf",
+      "title": "Changing leg rollers (SP-S1)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Changing-Leg-Rollers-SPS1.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Changing-Table-Tops-SPS3.pdf",
+      "title": "Changing table tops on LS and DL models (SP-S3)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Changing-Table-Tops-SPS3.pdf",
+      "lines": [
+        "southworth-ls-series-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Replacing-LiftMat-Leg-Rollers-SPS4.pdf",
+      "title": "Replacing LiftMat base rollers (SP-S4)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/liftmat-low-profile-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Replacing-LiftMat-Leg-Rollers-SPS4.pdf",
+      "lines": [
+        "southworth-liftmat-low-profile-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Converting-Rollers-to-Cam-Followers-SPS5.pdf",
+      "title": "Converting rollers to cam followers (SP-S5)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Converting-Rollers-to-Cam-Followers-SPS5.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Center-Scissor-Pin-Replacement-SPS7.pdf",
+      "title": "Center scissor pin replacement (SP-S7)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Center-Scissor-Pin-Replacement-SPS7.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables",
+        "southworth-fixed-height-tilters"
+      ]
+    },
+    {
+      "file": "southworth-products/Down-Limit-Switch-Installation-SPS8.pdf",
+      "title": "Down limit switch installation on LS and DL models (SP-S8)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Down-Limit-Switch-Installation-SPS8.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Changing-Lower-Roller-Stops-SPS9.pdf",
+      "title": "Changing lower roller stops (SP-S9)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Changing-Lower-Roller-Stops-SPS9.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Relief-Settings-for-Hydraulic-Pumps-SPH1.pdf",
+      "title": "Relief settings for hydraulic pumps (SP-H1)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Relief-Settings-for-Hydraulic-Pumps-SPH1.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-manual-dandy-lift-tables",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-dandy-levelers",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Cleaning-or-Replacing-a-Down-Valve-SPH2.pdf",
+      "title": "Cleaning or replacing a down valve (SP-H2)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Cleaning-or-Replacing-a-Down-Valve-SPH2.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Leaking-Cylinders-Single-Activating-Cylinders-SPH3.pdf",
+      "title": "Leaking single activating cylinders (SP-H3)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Leaking-Cylinders-Single-Activating-Cylinders-SPH3.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Pump-Replacement-SPH4.pdf",
+      "title": "Pump replacement (SP-H4)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Pump-Replacement-SPH4.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Resetting-Lifts-Equipped-with-Velocity-Fuses-SPH5.pdf",
+      "title": "Resetting lifts equipped with velocity fuses (SP-H5)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Resetting-Lifts-Equipped-with-Velocity-Fuses-SPH5.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Converting-LS4-36-Power-Unit-to-Internal-SPH7-1.pdf",
+      "title": "Converting the LS4-36 power unit to internal (SP-H7)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Converting-LS4-36-Power-Unit-to-Internal-SPH7-1.pdf",
+      "lines": [
+        "southworth-ls-series-lift-tables",
+        "southworth-stainless-steel-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Replacing-an-Air-Motor-with-Gast-SPA1.pdf",
+      "title": "Replacing a Southworth air motor with a Gast motor (SP-A1)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-360-air/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Replacing-an-Air-Motor-with-Gast-SPA1.pdf",
+      "lines": [
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Leaking-Air-Manifold-SPA2.pdf",
+      "title": "PalletPal Air leaking air manifold (SP-A2)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-360-air/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Leaking-Air-Manifold-SPA2.pdf",
+      "lines": [
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Replacing-an-Air-Valve-SPA3.pdf",
+      "title": "PalletPal Air replacing an air valve (SP-A3)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-360-air/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Replacing-an-Air-Valve-SPA3.pdf",
+      "lines": [
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Locking-the-Air-Valve-SPA4.pdf",
+      "title": "Locking the air valve on air powered lift tables (SP-A4)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/pneumatic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Locking-the-Air-Valve-SPA4.pdf",
+      "lines": [
+        "southworth-pneumatic-lift-tables",
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Lift-Table-Preventative-Maintenance-SPMS1.pdf",
+      "title": "Lift table preventative maintenance for LS, DL, ZLS and LiftMats (SP-MS1)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Lift-Table-Preventative-Maintenance-SPMS1.pdf",
+      "lines": [
+        "southworth-ls-series-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/PTU-Preventative-Maintenance-SPMS3.pdf",
+      "title": "PTU preventative maintenance (SP-MS3)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/portable-container-tilters/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/PTU-Preventative-Maintenance-SPMS3.pdf",
+      "lines": [
+        "southworth-portable-container-tilters"
+      ]
+    },
+    {
+      "file": "southworth-products/High-Cycle-Preventative-Maintenance-SPMS4.pdf",
+      "title": "High cycle preventative maintenance for LS, DL, ZLS and LiftMats (SP-MS4)",
+      "type": "service",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/High-Cycle-Preventative-Maintenance-SPMS4.pdf",
+      "lines": [
+        "southworth-ls-series-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables"
       ]
     },
     {
