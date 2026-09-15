@@ -52,21 +52,32 @@ php generators/bishamon.php
 `catalog/jet.json` is hand-maintained.
 
 In `catalog/autoquip.json`, `catalog/american-lifts.json`,
-`catalog/advance-lifts.json` and `catalog/air-technical-industries.json` the
-product lines are hand-maintained, but the products are generated. Each
+`catalog/advance-lifts.json`, `catalog/air-technical-industries.json`,
+`catalog/southworth-products.json`, `catalog/presto-lifts.json`,
+`catalog/ecoa.json` and `catalog/vestil.json` the product lines are
+hand-maintained, but the products are generated. Each
 product is a draft holding one design's model table, built from the
 manufacturer's published data: Autoquip's lifts API (which also covers American
-Lifts), the spec tables on advancelifts.com and ATI's WooCommerce Store API.
-Regenerate them with:
+Lifts), the spec tables on advancelifts.com, ATI's WooCommerce Store API,
+Southworth's spec CSV files, the spec tables on prestolifts.com (which also
+cover ECOA) and Vestil's per-model data sheets. Regenerate them with:
 
 ```bash
 node generators/line-models.js catalog
+node generators/line-models.js catalog --brands=vestil   # one brand only
 ```
 
-It replaces only the `products` array in those four files. Advance Lifts
+It replaces only the `products` array in those files, and fills in a line's
+`capacity_range` from its models when the line doesn't set one. Advance Lifts
 publishes the Pallet Pro specs as images, so those four rows are typed into the
 generator. ATI publishes no model list for its Mechanical Lift Tables or
-Zero-Low Crate Positioners, so those two lines have no table.
+Zero-Low Crate Positioners, so those two lines have no table. Southworth's
+Mast Lift 26 spec sheet is a two-column list, so its row is typed in too.
+ECOA's HH, CLT and Magnum MLTDL tables give only end/side capacity, so those
+rows show it in the notes and the lines' capacity ranges come from ECOA's
+descriptions. Vestil data sheets with no specs are skipped; base models sold
+with a choice of platform (EHLTD) take their specs from the family's model
+chart.
 
 ## Brand
 
@@ -148,13 +159,18 @@ an existing item's status.
 | American Lifts | 8 | 8 | 131 |
 | Advance Lifts | 14 | 27 | 583 |
 | Air Technical Industries | 14 | 12 | 194 |
+| Southworth | 30 | 38 | 203 |
+| Presto Lifts | 27 | 35 | 272 |
+| ECOA | 5 | 10 | 114 |
+| Vestil | 46 | 66 | 755 |
 
-Brands in `brands.json` without a catalog file yet: Southworth, Presto, ECOA,
-Vestil, Lift Products, Beacon, Wesco, Lexco, Premier Handling Solutions,
-Pentalift, Blue Giant, Econo Lift, Superlift.
+Brands in `brands.json` without a catalog file yet: Lift Products, Beacon,
+Wesco, Lexco, Premier Handling Solutions, Pentalift, Blue Giant, Econo Lift,
+Superlift.
 
-The Autoquip, American Lifts, Advance Lifts and Air Technical Industries
-catalogs cover lift tables, tilt tables and pallet positioners only. Dock
+The Autoquip, American Lifts, Advance Lifts, Air Technical Industries,
+Southworth, Presto, ECOA and Vestil catalogs cover lift tables, tilt tables,
+pallet positioners and elevating carts only. Dock
 lifts, VRCs, turntables without a lift, upenders, dumpers, coil cars and
 personnel work platforms are left out. Where a manufacturer sells several
 platform configurations of one design as separate families (Autoquip Series 35

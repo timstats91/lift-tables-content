@@ -1,0 +1,2988 @@
+{
+    "brand": "southworth-products",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "southworth-backsaver-hydraulic-lift-tables",
+            "title": "Southworth Backsaver Hydraulic Lift Tables",
+            "excerpt": "Southworth's standard Backsaver scissor lift tables, rated 2,000 to 6,000 lb with raised heights up to 55 in.",
+            "content": "<p>Backsaver Hydraulic Lift Tables are Southworth's general-purpose scissor lifts for machine feeding, work positioning, assembly, order picking and pallet loading. Low-pressure hydraulics give fast raising and lowering, and the down speed is fully adjustable.</p>\n<p>Models are rated from 2,000 to 6,000 lb with 24, 36 or 48 in. of travel, in standard and wide-base (W) versions with platforms up to 72 x 96 in. Heavy-duty torque tubes, full-width straight-through axles and wire-braided hoses add stability, and pins, rollers and bushings are lubricated for life. Air or electric power units and a range of controls and tops are available.</p>",
+            "line_code": "LS",
+            "key_features": [
+                "2,000 to 6,000 lb capacities",
+                "24, 36 and 48 in. travel; standard and wide-base models",
+                "Adjustable lowering speed",
+                "Heavy-duty torque tubes and straight-through axles",
+                "Safety maintenance props and pressure relief valve",
+                "Pins, rollers and bushings lubricated for life"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "southworth-backsaver-lite-lift-tables",
+            "title": "Southworth Backsaver Lite Lift Tables",
+            "excerpt": "Light-duty Backsaver scissor lift tables rated 550 to 1,500 lb, running on 115V power.",
+            "content": "<p>The Backsaver Lite is a cost-effective light-duty scissor lift for removing manual lifting from smaller jobs. It shares the low-pressure hydraulics, adjustable down speed and lubricated-for-life pivots of the full Backsaver range.</p>\n<p>Models are rated at 550, 1,100 and 1,500 lb, on 20 x 36 in. or 24 x 48 in. platforms, and raise to as much as 41-1/4 in. They run on standard 115V single-phase power, and include a transparent return line to guard against spills and built-in maintenance chocks.</p>",
+            "line_code": "LL",
+            "key_features": [
+                "550, 1,100 and 1,500 lb capacities",
+                "Raised heights up to 41-1/4 in.",
+                "115V single-phase power",
+                "Adjustable lowering speed",
+                "Built-in maintenance chocks"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-lite-lift-tables/"
+            ],
+            "capacity_range": "550–1,500 lbs"
+        },
+        {
+            "slug": "southworth-backsaver-lite-portable-lift-tables",
+            "title": "Southworth Backsaver Lite Portable Lift Tables",
+            "excerpt": "Battery-powered mobile Backsaver Lite tables rated 550 and 1,100 lb.",
+            "content": "<p>Backsaver Lite Portable Lift Tables put the light-duty Backsaver on four easy-rolling locking casters with an internal 12V DC power unit and built-in charger, so a powered lift can be rolled to wherever it is needed.</p>\n<p>Both models raise to 36-1/2 in. from a 10-1/2 in. lowered height and carry 550 or 1,100 lb on a 24 x 40 in. platform, with larger platforms to 30 x 48 in. Push-button pendant controls raise and lower the load, and the bolt-on power unit gives easy access for service.</p>",
+            "line_code": "CLL",
+            "key_features": [
+                "550 and 1,100 lb capacities",
+                "12V DC power with built-in charger",
+                "Casters with locks",
+                "Push-button pendant control",
+                "Built-in maintenance chocks"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-lite-portable-lift-tables/"
+            ],
+            "capacity_range": "550–1,100 lbs"
+        },
+        {
+            "slug": "southworth-backsaver-compact-lift-tables",
+            "title": "Southworth Backsaver Compact Lift Tables",
+            "excerpt": "Double-scissor compact tables that lift 36 in. from a 12 x 24 in. footprint, rated 500 and 1,000 lb.",
+            "content": "<p>Backsaver Compact Lift Tables use a double scissor mechanism to give a full 36 in. of lift from a footprint as small as 12 x 24 in., for light loads in tight spaces.</p>\n<p>They are rated at 500 or 1,000 lb, with platforms from 12 x 24 in. up to 24 x 36 in., and run on 115V single-phase power. Southworth offers them stationary, as a high-lift compact, on casters, and as a powered portable with a battery drive.</p>",
+            "key_features": [
+                "500 and 1,000 lb capacities",
+                "36 in. of lift",
+                "12 x 24 in. standard platform; up to 24 x 36 in.",
+                "115V single-phase power",
+                "Stationary and portable configurations"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-compact-lift-tables/"
+            ],
+            "capacity_range": "500–1,000 lbs"
+        },
+        {
+            "slug": "southworth-ls-series-lift-tables",
+            "title": "Southworth LS-Series Hydraulic Lift Tables",
+            "excerpt": "Rugged industrial scissor lifts rated up to 12,000 lb with raised heights up to 98 in.",
+            "content": "<p>LS-Series Hydraulic Lift Tables are Southworth's heavier industrial scissor lifts for machine feeding, work positioning, assembly, order picking and pallet loading. Standard models are available for quick shipment.</p>\n<p>Models in this range are rated from 2,000 to 12,000 lb, with raised heights up to 98 in. and platforms up to 60 x 156 in. They can be fitted with conveyor, ball transfer or turntable tops, a choice of power and controls, and finishes including two-part epoxy, corrosion-resistant coatings and stainless steel.</p>",
+            "line_code": "LS",
+            "key_features": [
+                "Capacities up to 12,000 lb",
+                "Raised heights up to 98 in.",
+                "Platforms up to 60 x 156 in.",
+                "Conveyor, ball transfer and turntable tops",
+                "Epoxy, corrosion-resistant and stainless finishes"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/"
+            ],
+            "capacity_range": "2,000–12,000 lbs"
+        },
+        {
+            "slug": "southworth-lsd-series-dual-lift-tables",
+            "title": "Southworth LSD-Series Dual Lift Tables",
+            "excerpt": "Side-by-side dual scissor lifts for wide loads, rated 4,000 to 12,000 lb on platforms up to 11 ft wide.",
+            "content": "<p>LSD-Series lift tables place two sets of legs and lift cylinders side by side under one platform. The dual mechanism carries high capacities and keeps lifting smooth even when the load is off center.</p>\n<p>Models are rated from 4,000 to 12,000 lb with raised heights up to 70 in. Standard LSD tables take platforms up to 8 ft wide, and LSD Wide Base tables up to 11 ft wide.</p>",
+            "line_code": "LSD",
+            "key_features": [
+                "Dual side-by-side scissor mechanism",
+                "4,000 to 12,000 lb capacities",
+                "Raised heights up to 70 in.",
+                "Standard and wide-base versions",
+                "Platforms up to 132 in. wide"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lsd-series-dual-lift-tables/"
+            ],
+            "capacity_range": "4,000–12,000 lbs"
+        },
+        {
+            "slug": "southworth-lst-series-tandem-lift-tables",
+            "title": "Southworth LST-Series Tandem Lift Tables",
+            "excerpt": "Tandem scissor lifts for long loads such as lumber, pipe and sheet, rated 4,000 to 12,000 lb.",
+            "content": "<p>LST Tandem Lift Tables give a level rise for long loads such as lumber, pipe, sheet, bar stock and assemblies. They are often used to feed tube welders, formers and panel saws, and for bundling and banding long material.</p>\n<p>The tandem design combines high capacity with a low lowered height. Models are rated from 4,000 to 12,000 lb with raised heights up to 70 in., in standard and wide versions with platforms up to 17 ft long.</p>",
+            "line_code": "LST",
+            "key_features": [
+                "Tandem scissor design for long loads",
+                "4,000 to 12,000 lb capacities",
+                "Raised heights up to 70 in.",
+                "Standard and wide versions",
+                "Platforms up to 204 in. long"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lst-series-tandem-lift-tables/"
+            ],
+            "capacity_range": "4,000–12,000 lbs"
+        },
+        {
+            "slug": "southworth-l-series-cam-lift-tables",
+            "title": "Southworth L-Series Cam Lift Tables",
+            "excerpt": "High-capacity cam-action scissor lifts rated 8,000 to 30,000 lb with low lowered heights.",
+            "content": "<p>L-Series Cam Lift Tables use a cam design that allows very high capacities while keeping the lowered height low. They are also the base for Southworth's L-Series coil cars.</p>\n<p>Models are rated from 8,000 to 30,000 lb, with raised heights up to 47 in. and platforms up to 72 x 96 in.</p>",
+            "line_code": "L",
+            "key_features": [
+                "Cam design for high capacity at low height",
+                "8,000 to 30,000 lb capacities",
+                "Raised heights up to 47 in.",
+                "Platforms up to 72 x 96 in."
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/l-series-cam-lift-tables/"
+            ],
+            "capacity_range": "8,000–30,000 lbs"
+        },
+        {
+            "slug": "southworth-heavy-duty-hydraulic-lift-tables",
+            "title": "Southworth Heavy-Duty Hydraulic Lift Tables",
+            "excerpt": "Heavy-plate scissor lifts with overload relief, rated up to 25,000 lb with raised heights up to 100 in.",
+            "content": "<p>Southworth Heavy-Duty Hydraulic Lift Tables are built for heavy loads in demanding industrial settings. Heavy-plate platforms with structural reinforcement keep deflection low, a wide base adds rigidity, and a built-in hydraulic overload relief protects people and structures.</p>\n<p>They handle loads up to 25,000 lb, raise as high as 100 in., and take platforms up to 96 x 156 in.</p>",
+            "line_code": "DL",
+            "key_features": [
+                "Capacities up to 25,000 lb",
+                "Raised heights up to 100 in.",
+                "Platforms up to 96 x 156 in.",
+                "Built-in hydraulic overload relief",
+                "Reinforced heavy-plate platform and wide base"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/heavy-duty-hydraulic-lift-tables/"
+            ],
+            "capacity_range": "4,000–25,000 lbs"
+        },
+        {
+            "slug": "southworth-spacesaver-high-rise-lift-tables",
+            "title": "Southworth Spacesaver High-Rise Lift Tables",
+            "excerpt": "High-travel scissor lifts with up to 168 in. of travel on a small footprint, rated up to 12,000 lb.",
+            "content": "<p>Spacesaver High-Rise Lift Tables provide a lot of vertical travel while using little floor space. They serve as mezzanine and cargo lifts, in automated palletizing systems and in other high-reach applications.</p>\n<p>Models carry from 1,000 to 12,000 lb, with vertical travel up to 168 in. and platforms up to 72 x 144 in. Footswitch or hand pendant controls are available.</p>",
+            "line_code": "LSH",
+            "key_features": [
+                "Up to 168 in. of vertical travel",
+                "Capacities up to 12,000 lb",
+                "Platforms up to 72 x 144 in.",
+                "Footswitch or hand pendant control"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/spacesaver-lsh-series-lift-tables/"
+            ],
+            "capacity_range": "1,000–12,000 lbs"
+        },
+        {
+            "slug": "southworth-stainless-steel-lift-tables",
+            "title": "Southworth Stainless Steel Lift Tables",
+            "excerpt": "Stainless steel scissor lifts for washdown areas in food and pharmaceutical plants, rated 2,000 and 4,000 lb.",
+            "content": "<p>Southworth's stainless steel lift tables are built to the same standard as its LS-Series tables, for sanitary washdown areas in food and pharmaceutical production. Cylinders carry a USDA-approved corrosion-resistant finish.</p>\n<p>Standard models are rated at 2,000 or 4,000 lb on a 42 x 48 in. platform and raise to 36 in. Custom stainless tables are also built.</p>",
+            "line_code": "SSLS",
+            "key_features": [
+                "Stainless steel construction for washdown",
+                "USDA-approved corrosion-resistant cylinder finish",
+                "2,000 and 4,000 lb standard models",
+                "Custom stainless designs available"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/stainless-steel-lift-tables/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-pneumatic-lift-tables",
+            "title": "Southworth Pneumatic Lift Tables",
+            "excerpt": "Air bag scissor lifts powered by shop air, rated 2,000 and 4,000 lb.",
+            "content": "<p>Southworth Pneumatic Lift Tables are raised by a heavy-duty air bag on shop air instead of hydraulics, so there is no fluid to leak into clean processes and less maintenance to do.</p>\n<p>They lift 2,000 or 4,000 lb at 80 psi, raise to 32 in., and take platforms up to 48 x 48 in.</p>",
+            "line_code": "GLSA",
+            "key_features": [
+                "Air bag lift on shop air (80 psi, 15 cfm)",
+                "2,000 and 4,000 lb capacities",
+                "Raises to 32 in.",
+                "No hydraulic fluid"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/pneumatic-lift-tables/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-floor-height-lift-tables",
+            "title": "Southworth Floor-Height Lift Tables",
+            "excerpt": "Pan-style lift tables that lower to floor level for pallet truck loading, rated 2,000 to 6,000 lb.",
+            "content": "<p>Floor-Height Lift Tables have a low pan-style platform that lowers to floor level, so pallets can be rolled on and off with a hand pallet truck and the table can be reached from all four sides. A safety-yellow elastomeric front edge protects operators.</p>\n<p>Models are rated at 2,000, 4,000 and 6,000 lb, with a 50 x 48 in. pan that lowers to under 1/2 in. and raises to about 35 in.</p>",
+            "line_code": "ZLS",
+            "key_features": [
+                "Lowers to floor level for pallet truck loading",
+                "2,000, 4,000 and 6,000 lb capacities",
+                "Four-sided access",
+                "Elastomeric safety edge"
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/floor-height-lift-tables/"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "southworth-liftmat-low-profile-lift-tables",
+            "title": "Southworth LiftMat Low-Profile Lift Tables",
+            "excerpt": "Low-profile lift tables that collapse to 3-1/4 in. with four-sided access, rated up to 2,200 lb.",
+            "content": "<p>The LiftMat collapses to 3-1/4 in., low enough to work without a pit, and can be loaded from all four sides. An optional ramp lets hand pallet trucks roll straight on, and a full-perimeter toe guard stops the table if it meets an obstruction on the way down.</p>\n<p>It is rated for 2,200 lb and raises to 34-3/4 in., on 24 x 66 in. or 48 x 96 in. platforms, for evenly distributed loads. An integral turntable version is also offered.</p>",
+            "line_code": "LM",
+            "key_features": [
+                "Lowers to 3-1/4 in.",
+                "2,200 lb capacity",
+                "Four-sided access; optional ramp",
+                "Full-perimeter toe guard",
+                "Integral turntable option"
+            ],
+            "categories": [
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/liftmat-low-profile-lift-tables/"
+            ],
+            "capacity_range": "1,950–2,200 lbs"
+        },
+        {
+            "slug": "southworth-flush-mount-turntable-lifts",
+            "title": "Southworth Flush-Mount Turntable Lifts",
+            "excerpt": "Scissor lifts with a built-in turntable that sits just 3/16 in. above the platform.",
+            "content": "<p>Flush-Mount Turntable Lifts build the turntable into the platform so it sits just 3/16 in. above the deck, adding rotation without the extra height of a turntable mounted on top. Bearings and supports sit under the platform.</p>\n<p>Turntables come in 20 and 43 in. diameters. The standard models listed have a 48 x 48 in. platform with a 43 in. turntable. The 43 in. model can be pit-mounted with added toe protection, and a rotation lock engages automatically when the lift is fully lowered.</p>",
+            "key_features": [
+                "Turntable 3/16 in. above the platform",
+                "20 and 43 in. turntable diameters",
+                "Pit-mount option for 43 in. model",
+                "Automatic rotation lock when lowered"
+            ],
+            "categories": [
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/flush-mount-turntable-lifts/"
+            ],
+            "capacity_range": "2,000–3,500 lbs"
+        },
+        {
+            "slug": "southworth-manual-dandy-lift-tables",
+            "title": "Southworth Manual Dandy Lift Tables",
+            "excerpt": "Foot-pump portable scissor lift carts rated 330 to 1,760 lb, with lift heights up to 49-3/4 in.",
+            "content": "<p>Dandy Lift carts are compact portable scissor lifts for lifting, positioning, assembling, stacking and moving materials, and they double as adjustable-height work surfaces. A manual foot pump raises the platform, so no power is needed.</p>\n<p>Models range from 330 to 1,760 lb, with raised heights up to 49-3/4 in. Ergonomic handles have padded grips, and an integrated floor lock holds the cart in place.</p>",
+            "key_features": [
+                "330 to 1,760 lb capacities",
+                "Foot pump operation",
+                "Raised heights up to 49-3/4 in.",
+                "Integrated floor lock",
+                "Padded ergonomic handle"
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/manual-dandy-lift-tables/"
+            ],
+            "capacity_range": "330–1,760 lbs"
+        },
+        {
+            "slug": "southworth-powered-dandy-lift-tables",
+            "title": "Southworth Powered Dandy Lift Tables",
+            "excerpt": "Battery-powered portable lift carts rated 220 to 500 lb, with lift heights up to 51 in.",
+            "content": "<p>Powered Dandy Lift Tables raise and lower at the push of a button, with fully shielded electrical components, a battery status indicator and an onboard charger. They are compact and quiet enough for high-tech, retail and office settings as well as industrial ones.</p>\n<p>Models are rated from 220 to 500 lb and raise to as much as 51 in., on smooth-rolling casters with an integrated floor lock.</p>",
+            "key_features": [
+                "220 to 500 lb capacities",
+                "Push-button powered lift",
+                "Onboard charger and battery indicator",
+                "Raised heights up to 51 in.",
+                "Integrated floor lock"
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/powered-dandy-lift-tables/"
+            ],
+            "capacity_range": "220–500 lbs"
+        },
+        {
+            "slug": "southworth-dandy-levelers",
+            "title": "Southworth Dandy Levelers",
+            "excerpt": "Spring self-leveling carts that keep tote boxes at a steady height, rated 330 and 1,100 lb.",
+            "content": "<p>The Dandy Leveler is a self-leveling cart for feeding parts in tote boxes. As material is added or removed, springs raise or lower the platform so the work stays at a level height with less bending and reaching.</p>\n<p>Two models carry 330 and 1,100 lb. Load settings are changed by adjusting the springs, and the cart rolls on locking casters with padded push handles.</p>",
+            "line_code": "DLV",
+            "key_features": [
+                "Spring self-leveling platform",
+                "330 and 1,100 lb capacities",
+                "Adjustable spring load settings",
+                "Locking casters",
+                "Minimal maintenance"
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Pallet Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/dandy-levelers/"
+            ],
+            "capacity_range": "330–1,100 lbs"
+        },
+        {
+            "slug": "southworth-lift-and-tilt-tables",
+            "title": "Southworth Lift + Tilt Tables",
+            "excerpt": "Tables with independent lift and tilt control, in hydraulic and pneumatic versions rated 2,000 to 4,000 lb.",
+            "content": "<p>Southworth Lift + Tilt Tables control lift and tilt independently, so containers can be set at the right height and angle and adjusted as the center of gravity shifts. The tilt hydraulics retract inside the open-frame top for a lower profile when fully down.</p>\n<p>Hydraulic (GLT) models run on 115V power and tilt 30 or 45 degrees. Their universal tilter base is shorter but wider, for stability in a small footprint. Pneumatic (GLTA) models tilt 30 degrees on shop air.</p>",
+            "line_code": "GLT / GLTA",
+            "key_features": [
+                "Independent lift and tilt control",
+                "Hydraulic (GLT) and pneumatic (GLTA) versions",
+                "30 or 45 degree tilt",
+                "Tilt hydraulics retract inside the frame"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lift-tilt-tables/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-low-profile-lift-and-tilt-tables",
+            "title": "Southworth Low-Profile Lift + Tilt Tables",
+            "excerpt": "Floor-level lift and tilt tables with a 50 x 48 in. pan, rated 2,000 and 4,000 lb.",
+            "content": "<p>The Low-Profile Lift + Tilt combines a floor-height lift table and a tilter. Its 50 x 48 in. pan-style platform loads with a hand pallet truck and accepts any container, including those with reinforcing bars.</p>\n<p>Lift and tilt are controlled independently: loads can be set at any height up to 33-1/2 in. and any angle up to 30 degrees. Models are rated at 2,000 or 4,000 lb.</p>",
+            "line_code": "ZLS-T30",
+            "key_features": [
+                "Loads at floor level with a hand pallet truck",
+                "Independent lift and tilt",
+                "Up to 33-1/2 in. lift and 30 degrees tilt",
+                "2,000 and 4,000 lb capacities"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/low-profile-lift-and-tilt-table/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-fixed-height-tilters",
+            "title": "Southworth Fixed-Height Tilters",
+            "excerpt": "Hydraulic tilters for shallow containers, tilting 30 or 45 degrees and rated 1,000 to 6,000 lb.",
+            "content": "<p>Fixed-Height Tilters suit smaller or shallower containers that need tilting but not lifting. They sit directly on the floor or on a fixed-height base.</p>\n<p>Hydraulic models are rated from 1,000 to 6,000 lb, tilt 30 or 45 degrees, and run on 115V power, with platforms up to 72 x 48 in.</p>",
+            "line_code": "T",
+            "key_features": [
+                "1,000 to 6,000 lb capacities",
+                "30 or 45 degree tilt",
+                "Floor or base mounting",
+                "115V power"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/fixed-height-tilters/"
+            ],
+            "capacity_range": "1,000–6,000 lbs"
+        },
+        {
+            "slug": "southworth-pan-style-container-tilters",
+            "title": "Southworth Pan-Style Container Tilters",
+            "excerpt": "Floor-level container tilters that tip loads up to 85 degrees, rated 2,000 and 4,000 lb.",
+            "content": "<p>Pan-Style Container Tilters have a low-profile 50 x 50 in. pan that loads with hand carts or pallet trucks and takes almost any container style, including those with reinforcing bars.</p>\n<p>They tilt loads up to 85 degrees and are rated at 2,000 or 4,000 lb. A side-entry version is also available.</p>",
+            "line_code": "ZTU Pan",
+            "key_features": [
+                "Tilts up to 85 degrees",
+                "2,000 and 4,000 lb capacities",
+                "50 x 50 in. usable pan",
+                "Loads with a hand pallet truck",
+                "Side-entry version available"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/pan-style-container-tilters/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-portable-container-tilters",
+            "title": "Southworth E-Z Reach Portable Container Tilters",
+            "excerpt": "Battery-powered portable fork tilters that tip baskets up to 85 degrees, rated 2,000 and 4,000 lb.",
+            "content": "<p>E-Z Reach Portable Tilters roll between work stations on casters and tilt baskets up to 85 degrees, so workers can reach the contents without bending.</p>\n<p>Models carry 2,000 or 4,000 lb and run on 12V DC power with a built-in charger, with AC power available. Standard models suit open-bottom containers and straddle models suit closed-bottom containers.</p>",
+            "line_code": "PTU / SPTU",
+            "key_features": [
+                "Tilts up to 85 degrees",
+                "2,000 and 4,000 lb capacities",
+                "12V DC power with built-in charger",
+                "Standard and straddle models",
+                "Casters for moving between stations"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/portable-container-tilters/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-roll-on-container-tilters",
+            "title": "Southworth Roll-On Container Tilters",
+            "excerpt": "Container tilters with fork channels for pallet truck loading, tilting up to 85 degrees at 2,000 and 4,000 lb.",
+            "content": "<p>Roll-On Container Tilters have integrated fork channels so containers can be set on them directly with a hand pallet truck or fork truck. They handle wire baskets, plastic containers and gaylords.</p>\n<p>They tilt loads up to 85 degrees, are rated at 2,000 or 4,000 lb, and are available with footswitch or hand pendant control.</p>",
+            "line_code": "ZTU",
+            "key_features": [
+                "Tilts up to 85 degrees",
+                "2,000 and 4,000 lb capacities",
+                "Integrated fork channels",
+                "Footswitch or pendant control"
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/roll-on-container-tilters/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-palletpal-360-level-loaders",
+            "title": "Southworth PalletPal 360 Level Loaders",
+            "excerpt": "Self-leveling pallet positioners with a 360 degree turntable, in spring, air and stainless steel versions for 400 to 4,500 lb loads.",
+            "content": "<p>PalletPal 360 level loaders keep the top of a pallet load at a comfortable height, rising automatically as items come off and lowering as they go on. A turntable top gives full 360 degree access, and all components sit inside the turntable ring, so there is no reach-over zone.</p>\n<p>The spring model uses springs and shock absorbers and needs no power or air. The Air model uses a reinforced air bag, with a spring to support the turntable if air is lost. The stainless steel model is the spring design built for corrosive environments. All handle loads from 400 to 4,500 lb, have fork pockets, and can take optional leveling feet.</p>",
+            "key_features": [
+                "Self-leveling from 400 to 4,500 lb",
+                "360 degree turntable top",
+                "Spring, air bag and stainless steel versions",
+                "Fork pockets for relocation",
+                "Built-in dampener prevents bounce"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-360/",
+                "https://www.southworthproducts.com/products/palletpal-360-air/",
+                "https://www.southworthproducts.com/products/stainless-steel-palletpal/"
+            ],
+            "capacity_range": "4,500 lbs"
+        },
+        {
+            "slug": "southworth-powered-palletpal-levelers",
+            "title": "Southworth Powered PalletPal Levelers",
+            "excerpt": "Operator-controlled pallet positioners with a turntable top, in hydraulic and pneumatic versions rated 2,000 and 4,000 lb.",
+            "content": "<p>Powered PalletPal Levelers let the operator set the pallet height with a foot control rather than relying on springs, which suits loads that vary widely in weight, size or pallet type. A bearing-supported turntable rotates 360 degrees so work is always done from the near side.</p>\n<p>Hydraulic models run on 115V power and pneumatic models on shop air at 80 psi and 15 cfm. Both come in 2,000 and 4,000 lb capacities, on a wide stable base with fork pockets.</p>",
+            "line_code": "PPH / PPA",
+            "key_features": [
+                "Operator-controlled height",
+                "Hydraulic (115V) and pneumatic versions",
+                "2,000 and 4,000 lb capacities",
+                "360 degree turntable top",
+                "Fork pockets for relocation"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/powered-palletpal-levelers-lifters/"
+            ],
+            "capacity_range": "2,000–4,000 lbs"
+        },
+        {
+            "slug": "southworth-palletpal-roll-in-level-loaders",
+            "title": "Southworth PalletPal Roll-In Level Loaders",
+            "excerpt": "Pallet positioners loaded by rolling a pallet truck in, rated 2,200 lb with a 3-1/4 in. lowered height.",
+            "content": "<p>The PalletPal Roll-In is loaded by driving a hand pallet truck into it with the pallet raised, then lowering the truck to set the pallet on the platform and rolling out. It works with any open-bottom pallet or skid.</p>\n<p>It is rated for 2,200 lb, lowers to 3-1/4 in. and raises to 34-3/4 in. A footswitch gives hands-free positioning, and a full-perimeter toe guard adds safety.</p>",
+            "line_code": "ROLL-E / ROLL-U",
+            "key_features": [
+                "Loads with a hand pallet truck",
+                "2,200 lb capacity",
+                "Lowers to 3-1/4 in., raises to 34-3/4 in.",
+                "Footswitch control",
+                "Full-perimeter toe guard"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-roll-in-roll-e/"
+            ],
+            "capacity_range": "2,200 lbs"
+        },
+        {
+            "slug": "southworth-palletpal-roll-on-level-loaders",
+            "title": "Southworth PalletPal Roll-On Level Loaders",
+            "excerpt": "Floor-level pallet positioners loaded with a pallet truck, rated 2,500 and 4,000 lb, with a turntable version.",
+            "content": "<p>PalletPal Roll-On Level Loaders lower to floor height so pallets can be rolled on and off with a hand pallet truck. Internal hydraulic power, with pushbutton or footswitch control, keeps the load at the best height, and narrow side and back panels let workers reach it from four sides.</p>\n<p>The standard loader is rated at 2,500 or 4,000 lb, with a photo-eye that stops descent if the beam is broken. The Roll-On Leveler with Turntable adds a 360 degree turntable and toe protection on three sides, at 2,500 lb.</p>",
+            "line_code": "ROLLC",
+            "key_features": [
+                "Lowers to floor level",
+                "2,500 and 4,000 lb capacities",
+                "Pushbutton or footswitch control",
+                "Turntable version available",
+                "Photo-eye stops descent when interrupted"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-roll-on-level-loader/",
+                "https://www.southworthproducts.com/products/palletpal-roll-on-leveler-with-turntable/"
+            ],
+            "capacity_range": "2,500–4,000 lbs"
+        },
+        {
+            "slug": "southworth-mast-lift-26",
+            "title": "Southworth Mast Lift 26",
+            "excerpt": "A fast electro-hydraulic mast lift that raises pallet loads from 1/2 in. to 36-1/2 in. in about seven seconds, rated 1,800 lb.",
+            "content": "<p>The Mast Lift 26 raises a low-profile platform on a single mast, so pallets can be loaded with a pallet jack and unloaded from three sides at an ergonomic height. Its sealed cartridge-style electro-hydraulic actuator travels in about seven seconds, up to three times faster than traditional hydraulic lifts, with no hydraulic maintenance.</p>\n<p>It is rated for 1,800 lb on a 44 x 56 in. platform. Safety scanners stop the platform within 200 ms if they detect a person or obstruction, and all moving parts are enclosed in the mast. The unit is pre-wired, runs on 230V single-phase power and can be moved with a pallet jack.</p>",
+            "key_features": [
+                "About 7 second travel",
+                "1,800 lb capacity",
+                "Lowers to 1/2 in., raises to 36-1/2 in.",
+                "Safety scanners stop the platform within 200 ms",
+                "Sealed actuator with no hydraulic maintenance"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/mast-lift-26/"
+            ],
+            "capacity_range": "1,800 lbs"
+        },
+        {
+            "slug": "southworth-stackbox-positioners",
+            "title": "Southworth Stackbox Positioners",
+            "excerpt": "Mast-style positioners for totes and junior containers, rated 1,000 lb with a 28-1/2 in. lift.",
+            "content": "<p>Stackbox Positioners raise small containers such as totes and junior containers on a vertical mast rather than a scissor, using little floor space. Containers are rolled onto the forks or solid pan with a dolly or hand cart.</p>\n<p>They are rated for 1,000 lb and lift to 28-1/2 in. from a 2-1/2 in. lowered height, with fork-style or platform-style carriages and pushbutton or footswitch control.</p>",
+            "line_code": "SBL",
+            "key_features": [
+                "Vertical mast design",
+                "1,000 lb capacity",
+                "Lifts to 28-1/2 in.",
+                "Fork or platform style",
+                "Pushbutton or footswitch control"
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/stackbox-positioners/"
+            ],
+            "capacity_range": "1,000 lbs"
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "southworth-backsaver-hydraulic-models",
+            "title": "Southworth Backsaver Hydraulic Models",
+            "line": "southworth-backsaver-hydraulic-lift-tables",
+            "menu_order": 10,
+            "excerpt": "24 models rated 2,000–6,000 lb.",
+            "models": [
+                {
+                    "model": "LS2-24",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS3-24",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS4-24",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS6-24",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS2-36",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS3-36",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS4-36",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS6-36",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS2-48",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS3-48",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS4-48",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS6-48",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 64 to 48 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS2-24W",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS3-24W",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS4-24W",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS6-24W",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS2-36W",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS3-36W",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS4-36W",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS6-36W",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS2-48W",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS3-48W",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS4-48W",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS6-48W",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-backsaver-lite-models",
+            "title": "Southworth Backsaver Lite Models",
+            "line": "southworth-backsaver-lite-lift-tables",
+            "menu_order": 10,
+            "excerpt": "3 models rated 550–1,500 lb.",
+            "models": [
+                {
+                    "model": "LL05.5-26",
+                    "capacity_lbs": 550,
+                    "platform": "20 x 36 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 31.5,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LL1.1-26",
+                    "capacity_lbs": 1100,
+                    "platform": "20 x 36 in",
+                    "lowered_height_in": 5.5,
+                    "raised_height_in": 31.5,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LL1.5-35",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 6.25,
+                    "raised_height_in": 41.25,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-lite-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-backsaver-lite-portable-models",
+            "title": "Southworth Backsaver Lite Portable Models",
+            "line": "southworth-backsaver-lite-portable-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 550–1,100 lb.",
+            "models": [
+                {
+                    "model": "CLL05.5-26",
+                    "capacity_lbs": 550,
+                    "platform": "24 x 40 to 30 x 48 in",
+                    "lowered_height_in": 10.5,
+                    "raised_height_in": 36.5,
+                    "notes": "12V DC"
+                },
+                {
+                    "model": "CLL1.1-26",
+                    "capacity_lbs": 1100,
+                    "platform": "24 x 40 to 30 x 48 in",
+                    "lowered_height_in": 10.5,
+                    "raised_height_in": 36.5,
+                    "notes": "12V DC"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-lite-portable-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-backsaver-compact-models",
+            "title": "Southworth Backsaver Compact Models",
+            "line": "southworth-backsaver-compact-lift-tables",
+            "menu_order": 10,
+            "excerpt": "3 models rated 500–1,000 lb.",
+            "models": [
+                {
+                    "model": "LS05-30",
+                    "capacity_lbs": 500,
+                    "platform": "12 x 24 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 36,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS05-30W",
+                    "capacity_lbs": 500,
+                    "platform": "16 x 24 to 24 x 36 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 36,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS1-30",
+                    "capacity_lbs": 1000,
+                    "platform": "16 x 24 to 24 x 36 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 36,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/backsaver-compact-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-ls-series-models",
+            "title": "Southworth LS-Series Models",
+            "line": "southworth-ls-series-lift-tables",
+            "menu_order": 10,
+            "excerpt": "17 models rated 2,000–12,000 lb.",
+            "models": [
+                {
+                    "model": "LS8-36",
+                    "capacity_lbs": 8000,
+                    "platform": "30 x 60 to 54 x 84 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS10-36",
+                    "capacity_lbs": 10000,
+                    "platform": "30 x 60 to 54 x 84 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 46,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS12-36",
+                    "capacity_lbs": 12000,
+                    "platform": "30 x 60 to 54 x 84 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 46,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS3-42",
+                    "capacity_lbs": 3000,
+                    "platform": "24 x 56 to 48 x 84 in",
+                    "lowered_height_in": 6.75,
+                    "raised_height_in": 48.75,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS5-42",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 56 to 48 x 84 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 49,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS8-48",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 66 to 48 x 96 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS2-60",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 86 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS4-60",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 86 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS5-60",
+                    "capacity_lbs": 5000,
+                    "platform": "24 x 86 to 48 x 120 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS6-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 86 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS8-60",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 86 to 48 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS2-72",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 102 to 60 x 132 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 82,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS4-72",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 102 to 60 x 132 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 82,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS6-72",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 102 to 60 x 132 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 84,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS2-84",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 120 to 60 x 156 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 94,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS4-84",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 120 to 60 x 156 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 94,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LS6-84",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 120 to 60 x 156 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 98,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-lsd-series-models",
+            "title": "Southworth LSD-Series Standard Models",
+            "line": "southworth-lsd-series-dual-lift-tables",
+            "menu_order": 10,
+            "excerpt": "11 models rated 4,000–12,000 lb.",
+            "models": [
+                {
+                    "model": "LSD4-36",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSD6-36",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSD8-36",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSD12-36",
+                    "capacity_lbs": 12000,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD4-48",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD8-48",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD12-48",
+                    "capacity_lbs": 12000,
+                    "platform": "48 x 64 to 72 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD4-60",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 86 to 72 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD8-60",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 86 to 72 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD10-60",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 86 to 72 x 120 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD12-60",
+                    "capacity_lbs": 12000,
+                    "platform": "48 x 86 to 72 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lsd-series-dual-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-lsd-series-wide-base-models",
+            "title": "Southworth LSD-Series Wide Base Models",
+            "line": "southworth-lsd-series-dual-lift-tables",
+            "menu_order": 20,
+            "excerpt": "12 models rated 4,000–12,000 lb.",
+            "models": [
+                {
+                    "model": "LSD4-36W",
+                    "capacity_lbs": 4000,
+                    "platform": "72 x 48 to 96 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60, also listed with 96 x 48 to 96 x 72 in platform"
+                },
+                {
+                    "model": "LSD6-36W",
+                    "capacity_lbs": 6000,
+                    "platform": "72 x 48 to 96 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60, also listed with 96 x 48 to 96 x 72 in platform"
+                },
+                {
+                    "model": "LSD8-36W",
+                    "capacity_lbs": 8000,
+                    "platform": "72 x 48 to 96 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60, also listed with 96 x 48 to 96 x 72 in platform"
+                },
+                {
+                    "model": "LSD12-36W",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 48 to 96 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "460/3/60, also listed with 96 x 48 to 96 x 72 in platform"
+                },
+                {
+                    "model": "LSD4-48W",
+                    "capacity_lbs": 4000,
+                    "platform": "72 x 64 to 96 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 96 x 64 to 120 x 96 in platform"
+                },
+                {
+                    "model": "LSD6-48W",
+                    "capacity_lbs": 6000,
+                    "platform": "72 x 64 to 96 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 96 x 64 to 120 x 96 in platform"
+                },
+                {
+                    "model": "LSD8-48W",
+                    "capacity_lbs": 8000,
+                    "platform": "72 x 64 to 96 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 96 x 64 to 120 x 96 in platform, 7-3/8 in lowered"
+                },
+                {
+                    "model": "LSD12-48W",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 64 to 96 x 96 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 96 x 64 to 120 x 96 in platform"
+                },
+                {
+                    "model": "LSD4-60W",
+                    "capacity_lbs": 4000,
+                    "platform": "108 x 86 to 132 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD8-60W",
+                    "capacity_lbs": 8000,
+                    "platform": "108 x 86 to 132 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD10-60W",
+                    "capacity_lbs": 10000,
+                    "platform": "108 x 86 to 132 x 120 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSD12-60W",
+                    "capacity_lbs": 12000,
+                    "platform": "108 x 86 to 132 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lsd-series-dual-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-lst-series-models",
+            "title": "Southworth LST-Series Standard Models",
+            "line": "southworth-lst-series-tandem-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 4,000–12,000 lb.",
+            "models": [
+                {
+                    "model": "LST4-36",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 96 to 48 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LST6-36",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 96 to 48 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LST8-36",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 96 to 48 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LST12-36",
+                    "capacity_lbs": 12000,
+                    "platform": "24 x 96 to 48 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST4-48",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 128 to 48 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST6-48",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 128 to 48 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST8-48",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 128 to 48 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST12-48",
+                    "capacity_lbs": 12000,
+                    "platform": "24 x 128 to 48 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST4-60",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 172 to 48 x 204 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST8-60",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 172 to 48 x 204 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST10-60",
+                    "capacity_lbs": 10000,
+                    "platform": "24 x 172 to 48 x 204 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST12-60",
+                    "capacity_lbs": 12000,
+                    "platform": "24 x 172 to 48 x 204 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lst-series-tandem-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-lst-series-wide-models",
+            "title": "Southworth LST-Series Wide Models",
+            "line": "southworth-lst-series-tandem-lift-tables",
+            "menu_order": 20,
+            "excerpt": "12 models rated 4,000–12,000 lb.",
+            "models": [
+                {
+                    "model": "LST4-36W",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 96 to 60 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60, also listed with 48 x 96 to 72 x 96 in platform"
+                },
+                {
+                    "model": "LST6-36W",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 96 to 60 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60, also listed with 48 x 96 to 72 x 96 in platform"
+                },
+                {
+                    "model": "LST8-36W",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 96 to 60 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "115/1/60, also listed with 48 x 96 to 72 x 96 in platform"
+                },
+                {
+                    "model": "LST12-36W",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 96 to 60 x 120 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "460/3/60, also listed with 48 x 96 to 72 x 96 in platform"
+                },
+                {
+                    "model": "LST4-48W",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 128 to 60 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 48 x 128 to 72 x 168 in platform"
+                },
+                {
+                    "model": "LST6-48W",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 128 to 60 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 48 x 128 to 72 x 168 in platform"
+                },
+                {
+                    "model": "LST8-48W",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 128 to 60 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 48 x 128 to 72 x 168 in platform"
+                },
+                {
+                    "model": "LST12-48W",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 128 to 60 x 168 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55.25,
+                    "notes": "460/3/60, also listed with 48 x 128 to 72 x 168 in platform"
+                },
+                {
+                    "model": "LST4-60W",
+                    "capacity_lbs": 4000,
+                    "platform": "54 x 172 to 84 x 204 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST8-60W",
+                    "capacity_lbs": 8000,
+                    "platform": "54 x 172 to 84 x 204 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST10-60W",
+                    "capacity_lbs": 10000,
+                    "platform": "54 x 172 to 84 x 204 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LST12-60W",
+                    "capacity_lbs": 12000,
+                    "platform": "54 x 172 to 84 x 204 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lst-series-tandem-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-l-series-cam-models",
+            "title": "Southworth L-Series Cam Models",
+            "line": "southworth-l-series-cam-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 8,000–30,000 lb.",
+            "models": [
+                {
+                    "model": "L8-36",
+                    "capacity_lbs": 8000,
+                    "platform": "30 x 60 to 48 x 78 in",
+                    "lowered_height_in": 7.625,
+                    "raised_height_in": 43.625,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "L10-36",
+                    "capacity_lbs": 10000,
+                    "platform": "32 x 60 to 54 x 78 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 45,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "L15-36",
+                    "capacity_lbs": 15000,
+                    "platform": "36 x 72 to 60 x 90 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 45.5,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "L20-36",
+                    "capacity_lbs": 20000,
+                    "platform": "36 x 72 to 60 x 90 in",
+                    "lowered_height_in": 10.125,
+                    "raised_height_in": 46.125,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "L30-36",
+                    "capacity_lbs": 30000,
+                    "platform": "43 x 72 to 72 x 96 in",
+                    "lowered_height_in": 11.25,
+                    "raised_height_in": 47.25,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/l-series-cam-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-heavy-duty-hydraulic-models",
+            "title": "Southworth Heavy-Duty Hydraulic Models",
+            "line": "southworth-heavy-duty-hydraulic-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 4,000–25,000 lb.",
+            "models": [
+                {
+                    "model": "DL20-36",
+                    "capacity_lbs": 20000,
+                    "platform": "60 x 76 to 96 x 108 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 52,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL10-48",
+                    "capacity_lbs": 10000,
+                    "platform": "47 x 76 to 84 x 108 in",
+                    "lowered_height_in": 13.25,
+                    "raised_height_in": 61.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL15-48",
+                    "capacity_lbs": 15000,
+                    "platform": "60 x 76 to 85 x 108 in",
+                    "lowered_height_in": 14.25,
+                    "raised_height_in": 62.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL25-48",
+                    "capacity_lbs": 25000,
+                    "platform": "60 x 76 to 96 x 108 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL10-60",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 102 to 96 x 104 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL12-60",
+                    "capacity_lbs": 12000,
+                    "platform": "60 x 102 to 96 x 144 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL16-60",
+                    "capacity_lbs": 16000,
+                    "platform": "60 x 102 to 96 x 144 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL20-60",
+                    "capacity_lbs": 20000,
+                    "platform": "60 x 120 to 96 x 144 in",
+                    "lowered_height_in": 22,
+                    "raised_height_in": 82,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL20-72",
+                    "capacity_lbs": 20000,
+                    "platform": "72 x 144 to 108 x 180 in",
+                    "lowered_height_in": 22,
+                    "raised_height_in": 94,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL4-84",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 120 to 96 x 156 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 96,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL6-84",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 120 to 96 x 156 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 100,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "DL10-84",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 120 to 96 x 156 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 100,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/heavy-duty-hydraulic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-spacesaver-models",
+            "title": "Southworth Spacesaver High-Rise Models",
+            "line": "southworth-spacesaver-high-rise-lift-tables",
+            "menu_order": 10,
+            "excerpt": "27 models rated 1,000–12,000 lb.",
+            "models": [
+                {
+                    "model": "LSH1-36",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 32 to 36 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 46,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSH1-48",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 40 to 36 x 54 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 57.5,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSH2-48",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 40 to 36 x 54 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 57.5,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSH4-48",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 42 to 48 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH6-48",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 42 to 48 x 60 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 62,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH1-60",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 to 36 x 60 in",
+                    "lowered_height_in": 10.5,
+                    "raised_height_in": 70.5,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSH5-60",
+                    "capacity_lbs": 5000,
+                    "platform": "30 x 53 to 48 x 66 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 74,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH8-60",
+                    "capacity_lbs": 8000,
+                    "platform": "30 x 54 to 48 x 66 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 74,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH12-60",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 67 to 60 x 84 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH2-64",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 53 to 42 x 66 in",
+                    "lowered_height_in": 12.5,
+                    "raised_height_in": 76.5,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH1-72",
+                    "capacity_lbs": 1500,
+                    "platform": "20 x 53 to 36 x 66 in",
+                    "lowered_height_in": 12.5,
+                    "raised_height_in": 84.5,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSH2-72",
+                    "capacity_lbs": 2000,
+                    "platform": "20 x 53 to 36 x 66 in",
+                    "lowered_height_in": 12.75,
+                    "raised_height_in": 84.75,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LSH5-72",
+                    "capacity_lbs": 5000,
+                    "platform": "32 x 57 to 54 x 72 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 86,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH2-84",
+                    "capacity_lbs": 2000,
+                    "platform": "33 x 69 to 60 x 90 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 101,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH4-84",
+                    "capacity_lbs": 4000,
+                    "platform": "33 x 69 to 60 x 90 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 101,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH6-84",
+                    "capacity_lbs": 6000,
+                    "platform": "33 x 69 to 60 x 90 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 101,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH1-96",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 53 to 42 x 66 in",
+                    "lowered_height_in": 17.25,
+                    "raised_height_in": 113.25,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH3-96",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 77 to 60 x 108 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 113,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH5-96",
+                    "capacity_lbs": 5000,
+                    "platform": "36 x 77 to 60 x 108 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 113,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH10-96",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 77 to 60 x 108 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 116,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH2-114",
+                    "capacity_lbs": 2000,
+                    "platform": "33 x 88 to 60 x 108 in",
+                    "lowered_height_in": 17,
+                    "raised_height_in": 131,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH5-120",
+                    "capacity_lbs": 5000,
+                    "platform": "44 x 69 to 72 x 96 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 144,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH3-128",
+                    "capacity_lbs": 3000,
+                    "platform": "42 x 96 to 72 x 120 in",
+                    "lowered_height_in": 21,
+                    "raised_height_in": 149,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH6-128",
+                    "capacity_lbs": 6000,
+                    "platform": "42 x 96 to 72 x 120 in",
+                    "lowered_height_in": 21,
+                    "raised_height_in": 149,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH2-144",
+                    "capacity_lbs": 2000,
+                    "platform": "42 x 77 to 72 x 108 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 168,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH4-144",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 77 to 72 x 108 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 168,
+                    "notes": "460/3/60"
+                },
+                {
+                    "model": "LSH5-144",
+                    "capacity_lbs": 5000,
+                    "platform": "42 x 108 to 72 x 144 in",
+                    "lowered_height_in": 21,
+                    "raised_height_in": 165,
+                    "notes": "460/3/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/spacesaver-lsh-series-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-stainless-steel-models",
+            "title": "Southworth Stainless Steel Models",
+            "line": "southworth-stainless-steel-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "SSLS2-36",
+                    "capacity_lbs": 2000,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 36,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "SSLS4-36",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 36,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/stainless-steel-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-pneumatic-models",
+            "title": "Southworth Pneumatic Models",
+            "line": "southworth-pneumatic-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "GLSA2-24",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "80 psi/15 cfm"
+                },
+                {
+                    "model": "GLSA4-24",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "80 psi/15 cfm"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/pneumatic-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-floor-height-models",
+            "title": "Southworth Floor-Height Models",
+            "line": "southworth-floor-height-lift-tables",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–6,000 lb.",
+            "models": [
+                {
+                    "model": "ZLS2-35",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "raised_height_in": 35.375,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "ZLS4-35",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "raised_height_in": 35.375,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "ZLS6-34",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 34.5,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/floor-height-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-liftmat-models",
+            "title": "Southworth LiftMat Models",
+            "line": "southworth-liftmat-low-profile-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 1,950–2,200 lb.",
+            "models": [
+                {
+                    "model": "LM2.2-31",
+                    "capacity_lbs": 2200,
+                    "platform": "24 x 60 to 48 x 96 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34.75,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LM2.2-31 w/Turntable",
+                    "capacity_lbs": 1950,
+                    "platform": "48 x 66 to 48 x 96 in",
+                    "lowered_height_in": 4.125,
+                    "raised_height_in": 35.625,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/liftmat-low-profile-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-flush-mount-turntable-lift-models",
+            "title": "Southworth Flush-Mount Turntable Lift Models",
+            "line": "southworth-flush-mount-turntable-lifts",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,000–3,500 lb.",
+            "models": [
+                {
+                    "model": "LS2.5-36-4848FMTT",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 7.625,
+                    "raised_height_in": 43.875,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "LS4-36-4848FMTT",
+                    "capacity_lbs": 3500,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 7.875,
+                    "raised_height_in": 43.875,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/flush-mount-turntable-lifts/"
+            ]
+        },
+        {
+            "slug": "southworth-manual-dandy-models",
+            "title": "Southworth Manual Dandy Models",
+            "line": "southworth-manual-dandy-lift-tables",
+            "menu_order": 10,
+            "excerpt": "6 models rated 330–1,760 lb.",
+            "models": [
+                {
+                    "model": "L-150",
+                    "capacity_lbs": 330,
+                    "platform": "17.7 x 28 in",
+                    "lowered_height_in": 8.25,
+                    "raised_height_in": 29
+                },
+                {
+                    "model": "L-250",
+                    "capacity_lbs": 550,
+                    "platform": "19.7 x 31.5 in",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 31.5
+                },
+                {
+                    "model": "A-500",
+                    "capacity_lbs": 1100,
+                    "platform": "23.6 x 35.8 in",
+                    "lowered_height_in": 11.8,
+                    "raised_height_in": 36.5
+                },
+                {
+                    "model": "A-800",
+                    "capacity_lbs": 1760,
+                    "platform": "23.6 x 39.4 in",
+                    "lowered_height_in": 13.6,
+                    "raised_height_in": 40
+                },
+                {
+                    "model": "A-350W",
+                    "capacity_lbs": 770,
+                    "platform": "23.6 x 35.8 in",
+                    "lowered_height_in": 17.5,
+                    "raised_height_in": 49.75
+                },
+                {
+                    "model": "M-500L",
+                    "capacity_lbs": 1100,
+                    "platform": "19.7 x 37.1 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 29.5
+                }
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/manual-dandy-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-powered-dandy-models",
+            "title": "Southworth Powered Dandy Models",
+            "line": "southworth-powered-dandy-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 220–500 lb.",
+            "models": [
+                {
+                    "model": "PLM-100",
+                    "capacity_lbs": 220,
+                    "platform": "20 x 31.5 in",
+                    "lowered_height_in": 13,
+                    "raised_height_in": 51
+                },
+                {
+                    "model": "PLM-100W",
+                    "capacity_lbs": 220,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 13,
+                    "raised_height_in": 51
+                },
+                {
+                    "model": "PLM-150",
+                    "capacity_lbs": 330,
+                    "platform": "20 x 31.5 in",
+                    "lowered_height_in": 14.75,
+                    "raised_height_in": 33.25
+                },
+                {
+                    "model": "PLM-150W",
+                    "capacity_lbs": 330,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 14.75,
+                    "raised_height_in": 33.25
+                },
+                {
+                    "model": "PLM-250",
+                    "capacity_lbs": 500,
+                    "platform": "20 x 31.5 in",
+                    "lowered_height_in": 14.25,
+                    "raised_height_in": 32.5
+                }
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/powered-dandy-lift-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-dandy-leveler-models",
+            "title": "Southworth Dandy Leveler Models",
+            "line": "southworth-dandy-levelers",
+            "menu_order": 10,
+            "excerpt": "2 models rated 330–1,100 lb.",
+            "models": [
+                {
+                    "model": "DLV-150",
+                    "capacity_lbs": 330,
+                    "platform": "17.75 x 23.5 in",
+                    "lowered_height_in": 10.75,
+                    "raised_height_in": 26
+                },
+                {
+                    "model": "DLV-500",
+                    "capacity_lbs": 1100,
+                    "platform": "23.5 x 35.75 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 31.5
+                }
+            ],
+            "categories": [
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Pallet Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/dandy-levelers/"
+            ]
+        },
+        {
+            "slug": "southworth-hydraulic-lift-and-tilt-models",
+            "title": "Southworth Hydraulic Lift + Tilt Models",
+            "line": "southworth-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "8 models rated 2,000–4,000 lb, with 30–45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "GLT2-30-3W",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "30° tilt, 115/1/60"
+                },
+                {
+                    "model": "GLT2-45-3W",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 60 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "45° tilt, 115/1/60"
+                },
+                {
+                    "model": "GLT4-30-3W",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "30° tilt, 115/1/60"
+                },
+                {
+                    "model": "GLT4-45-3W",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 to 60 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "45° tilt, 115/1/60"
+                },
+                {
+                    "model": "GLT2-30-4W",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "30° tilt, 115/1/60"
+                },
+                {
+                    "model": "GLT2-45-4W",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 to 72 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "45° tilt, 115/1/60"
+                },
+                {
+                    "model": "GLT4-30-4W",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "30° tilt, 115/1/60"
+                },
+                {
+                    "model": "GLT4-45-4W",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 72 x 60 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 47.5,
+                    "notes": "45° tilt, 115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lift-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-pneumatic-lift-and-tilt-models",
+            "title": "Southworth Pneumatic Lift + Tilt Models",
+            "line": "southworth-lift-and-tilt-tables",
+            "menu_order": 20,
+            "excerpt": "2 models rated 2,000–4,000 lb, with 30 degrees of tilt.",
+            "models": [
+                {
+                    "model": "GLTA2-24",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 to 48 x 60 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "30° tilt, 80 PSI/ 15 CFM"
+                },
+                {
+                    "model": "GLTA4-24",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 to 60 x 60 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "30° tilt, 80 PSI/ 15 CFM"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/lift-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "southworth-low-profile-lift-and-tilt-models",
+            "title": "Southworth Low-Profile Lift + Tilt Models",
+            "line": "southworth-low-profile-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,000–4,000 lb, with 30 degrees of tilt.",
+            "models": [
+                {
+                    "model": "ZLS2-33-T30",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 33.5,
+                    "notes": "30° tilt, 115/1/60"
+                },
+                {
+                    "model": "ZLS4-33-T30",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 33.5,
+                    "notes": "30° tilt, 115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/low-profile-lift-and-tilt-table/"
+            ]
+        },
+        {
+            "slug": "southworth-fixed-height-tilter-models",
+            "title": "Southworth Fixed-Height Tilter Models",
+            "line": "southworth-fixed-height-tilters",
+            "menu_order": 10,
+            "excerpt": "4 models rated 1,000–6,000 lb, with 45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "T1-30/45",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 to 48 x 48 in",
+                    "lowered_height_in": 7.5,
+                    "notes": "30 or 45° tilt, 115/1/60"
+                },
+                {
+                    "model": "T2-30/45",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 to 72 x 48 in",
+                    "lowered_height_in": 7.5,
+                    "notes": "30 or 45° tilt, 115/1/60"
+                },
+                {
+                    "model": "T4-30/45",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 to 72 x 48 in",
+                    "lowered_height_in": 7.5,
+                    "notes": "30 or 45° tilt, 115/1/60"
+                },
+                {
+                    "model": "T6-30/45",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 36 to 72 x 48 in",
+                    "lowered_height_in": 7.5,
+                    "notes": "30 or 45° tilt, 115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/fixed-height-tilters/"
+            ]
+        },
+        {
+            "slug": "southworth-pan-style-container-tilter-models",
+            "title": "Southworth Pan-Style Container Tilter Models",
+            "line": "southworth-pan-style-container-tilters",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–4,000 lb, with 85 degrees of tilt.",
+            "models": [
+                {
+                    "model": "ZTU-2 Pan",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "85° tilt, 115/1/60"
+                },
+                {
+                    "model": "ZTU-4 Pan",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "85° tilt, 115/1/60"
+                },
+                {
+                    "model": "ZTU-2 Pan Side Entry",
+                    "capacity_lbs": 2000,
+                    "platform": "45 x 50 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "85° tilt, 115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/pan-style-container-tilters/"
+            ]
+        },
+        {
+            "slug": "southworth-portable-container-tilter-models",
+            "title": "Southworth E-Z Reach Portable Container Tilter Models",
+            "line": "southworth-portable-container-tilters",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,000–4,000 lb, with 85 degrees of tilt.",
+            "models": [
+                {
+                    "model": "PTU-2",
+                    "capacity_lbs": 2000,
+                    "platform": "40 in forks",
+                    "notes": "85° tilt, 12 V DC"
+                },
+                {
+                    "model": "PTU-4",
+                    "capacity_lbs": 4000,
+                    "platform": "40 in forks",
+                    "notes": "85° tilt, 12 V DC"
+                },
+                {
+                    "model": "SPTU-2",
+                    "capacity_lbs": 2000,
+                    "platform": "40 in forks",
+                    "notes": "85° tilt, 12 V DC"
+                },
+                {
+                    "model": "SPTU-4",
+                    "capacity_lbs": 4000,
+                    "platform": "40 in forks",
+                    "notes": "85° tilt, 12 V DC"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/portable-container-tilters/"
+            ]
+        },
+        {
+            "slug": "southworth-roll-on-container-tilter-models",
+            "title": "Southworth Roll-On Container Tilter Models",
+            "line": "southworth-roll-on-container-tilters",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,000–4,000 lb, with 85 degrees of tilt.",
+            "models": [
+                {
+                    "model": "ZTU-2",
+                    "capacity_lbs": 2000,
+                    "platform": "40 in forks",
+                    "lowered_height_in": 0.375,
+                    "notes": "85° tilt, 115/1/60"
+                },
+                {
+                    "model": "ZTU-4",
+                    "capacity_lbs": 4000,
+                    "platform": "40 in forks",
+                    "lowered_height_in": 0.375,
+                    "notes": "85° tilt, 115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/roll-on-container-tilters/"
+            ]
+        },
+        {
+            "slug": "southworth-palletpal-360-models",
+            "title": "Southworth PalletPal 360 Spring Models",
+            "line": "southworth-palletpal-360-level-loaders",
+            "menu_order": 10,
+            "excerpt": "1 model rated 4,500 lb.",
+            "models": [
+                {
+                    "model": "PalletPal 360",
+                    "capacity_lbs": 4500,
+                    "platform": "43-5/8 in round turntable",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 28,
+                    "notes": "self-levels 400–4,500 lb"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-360/"
+            ]
+        },
+        {
+            "slug": "southworth-palletpal-360-air-models",
+            "title": "Southworth PalletPal 360 Air Models",
+            "line": "southworth-palletpal-360-level-loaders",
+            "menu_order": 20,
+            "excerpt": "1 model rated 4,500 lb.",
+            "models": [
+                {
+                    "model": "PalletPal 360 Air",
+                    "capacity_lbs": 4500,
+                    "platform": "43-5/8 in round turntable",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 27.75,
+                    "notes": "self-levels 400–4,500 lb"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-360-air/"
+            ]
+        },
+        {
+            "slug": "southworth-stainless-steel-palletpal-models",
+            "title": "Southworth Stainless Steel PalletPal Models",
+            "line": "southworth-palletpal-360-level-loaders",
+            "menu_order": 30,
+            "excerpt": "1 model rated 4,500 lb.",
+            "models": [
+                {
+                    "model": "SSPPL",
+                    "capacity_lbs": 4500,
+                    "platform": "43-5/8 in round turntable",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 28,
+                    "notes": "self-levels 400–4,500 lb"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/stainless-steel-palletpal/"
+            ]
+        },
+        {
+            "slug": "southworth-powered-palletpal-hydraulic-models",
+            "title": "Southworth Powered PalletPal Hydraulic Models",
+            "line": "southworth-powered-palletpal-levelers",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "PPH2-24",
+                    "capacity_lbs": 2000,
+                    "platform": "43-5/8 in round turntable",
+                    "lowered_height_in": 9.188,
+                    "raised_height_in": 33.188
+                },
+                {
+                    "model": "PPH4-24",
+                    "capacity_lbs": 4000,
+                    "platform": "43-5/8 in round turntable",
+                    "lowered_height_in": 9.188,
+                    "raised_height_in": 33.188
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/powered-palletpal-levelers-lifters/"
+            ]
+        },
+        {
+            "slug": "southworth-powered-palletpal-pneumatic-models",
+            "title": "Southworth Powered PalletPal Pneumatic Models",
+            "line": "southworth-powered-palletpal-levelers",
+            "menu_order": 20,
+            "excerpt": "2 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "PPA2-24",
+                    "capacity_lbs": 2000,
+                    "platform": "43-5/8 in round turntable",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5
+                },
+                {
+                    "model": "PPA4-24",
+                    "capacity_lbs": 4000,
+                    "platform": "43-5/8 in round turntable",
+                    "lowered_height_in": 9.5,
+                    "raised_height_in": 33.5
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/powered-palletpal-levelers-lifters/"
+            ]
+        },
+        {
+            "slug": "southworth-palletpal-roll-in-models",
+            "title": "Southworth PalletPal Roll-In Models",
+            "line": "southworth-palletpal-roll-in-level-loaders",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,200 lb.",
+            "models": [
+                {
+                    "model": "ROLL-E 2.2-31",
+                    "capacity_lbs": 2200,
+                    "platform": "51 x 60.5 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34.75,
+                    "notes": "115/1/60"
+                },
+                {
+                    "model": "ROLL-U 2.2-31",
+                    "capacity_lbs": 2200,
+                    "platform": "51 x 60.5 in",
+                    "lowered_height_in": 3.25,
+                    "raised_height_in": 34.75,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-roll-in-roll-e/"
+            ]
+        },
+        {
+            "slug": "southworth-palletpal-roll-on-2500-models",
+            "title": "Southworth PalletPal Roll-On 2,500 lb Models",
+            "line": "southworth-palletpal-roll-on-level-loaders",
+            "menu_order": 10,
+            "excerpt": "1 model rated 2,500 lb.",
+            "models": [
+                {
+                    "model": "ROLLC2.5-28",
+                    "capacity_lbs": 2500,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "raised_height_in": 28,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-roll-on-level-loader/"
+            ]
+        },
+        {
+            "slug": "southworth-palletpal-roll-on-4000-models",
+            "title": "Southworth PalletPal Roll-On 4,000 lb Models",
+            "line": "southworth-palletpal-roll-on-level-loaders",
+            "menu_order": 20,
+            "excerpt": "1 model rated 4,000 lb.",
+            "models": [
+                {
+                    "model": "ROLLC4-28",
+                    "capacity_lbs": 4000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "raised_height_in": 28,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-roll-on-level-loader/"
+            ]
+        },
+        {
+            "slug": "southworth-palletpal-roll-on-turntable-models",
+            "title": "Southworth PalletPal Roll-On with Turntable Models",
+            "line": "southworth-palletpal-roll-on-level-loaders",
+            "menu_order": 30,
+            "excerpt": "1 model rated 2,500 lb.",
+            "models": [
+                {
+                    "model": "ROLLCTT 2.5-28",
+                    "capacity_lbs": 2500,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 2,
+                    "raised_height_in": 30,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Rotating Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/palletpal-roll-on-leveler-with-turntable/"
+            ]
+        },
+        {
+            "slug": "southworth-stackbox-positioner-models",
+            "title": "Southworth Stackbox Positioner Models",
+            "line": "southworth-stackbox-positioners",
+            "menu_order": 10,
+            "excerpt": "1 model rated 1,000 lb.",
+            "models": [
+                {
+                    "model": "SBL-1000",
+                    "capacity_lbs": 1000,
+                    "lowered_height_in": 2.5,
+                    "raised_height_in": 28.5,
+                    "notes": "115/1/60"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/stackbox-positioners/"
+            ]
+        },
+        {
+            "slug": "southworth-mast-lift-26-models",
+            "title": "Southworth Mast Lift 26 Models",
+            "line": "southworth-mast-lift-26",
+            "menu_order": 10,
+            "excerpt": "1 model rated 1,800 lb.",
+            "models": [
+                {
+                    "model": "Mast Lift 26",
+                    "capacity_lbs": 1800,
+                    "platform": "44 x 56 in (L x W)",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 36.5,
+                    "notes": "about 7 sec rise, 230V 1-phase"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://www.southworthproducts.com/products/mast-lift-26/"
+            ]
+        }
+    ]
+}

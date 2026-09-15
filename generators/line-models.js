@@ -33,7 +33,7 @@ function inches(v) {
   if (fi) return Math.round((parseInt(fi[1]) * 12 + (inches(fi[2]) || 0)) * 1000) / 1000;
   let feet = false;
   if (/'$/.test(s)) { feet = true; s = s.replace(/'$/, ''); }
-  const m = s.match(/^(\d+(?:\.\d+)?)?(?:\s+)?(?:(\d+)\/(\d+))?$/);
+  const m = s.match(/^(\d*(?:\.\d+)?)?(?:\s+)?(?:(\d+)\/(\d+))?$/);
   if (!m || (!m[1] && !m[2])) return '';
   let n = (m[1] ? parseFloat(m[1]) : 0) + (m[2] ? parseInt(m[2]) / parseInt(m[3]) : 0);
   if (feet) n *= 12;
@@ -175,6 +175,232 @@ function ati(category) {
   });
 }
 
+/* -------------------------------------------------------------- Southworth */
+
+// RFC 4180 CSV, allowing line breaks inside quoted header cells.
+function csv(text) {
+  const rows = []; let row = []; let cell = ''; let q = false;
+  text = text.replace(/^﻿/, '');
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (q) {
+      if (ch === '"' && text[i + 1] === '"') { cell += '"'; i++; } else if (ch === '"') q = false; else cell += ch;
+    } else if (ch === '"') q = true;
+    else if (ch === ',') { row.push(cell); cell = ''; }
+    else if (ch === '\n' || ch === '\r') { if (ch === '\r' && text[i + 1] === '\n') i++; row.push(cell); rows.push(row); row = []; cell = ''; }
+    else cell += ch;
+  }
+  if (cell || row.length) { row.push(cell); rows.push(row); }
+  return rows.filter(r => r.some(c => c.trim())).map(r => r.map(c => c.replace(/\s+/g, ' ').trim()));
+}
+
+// "9 ½", "43 ⅝", "9-3/16" -> inches; unicode fractions first.
+const UNI = { '½': '1/2', '¼': '1/4', '¾': '3/4', '⅛': '1/8', '⅜': '3/8', '⅝': '5/8', '⅞': '7/8', '⅓': '1/3', '⅔': '2/3' };
+const uni = s => String(s || '').replace(/\s*([½¼¾⅛⅜⅝⅞⅓⅔])/g, (m, f) => ' ' + UNI[f]).replace(/⁄/g, '/').trim().replace(/(\d)\s+(\d+\/\d+)/g, '$1-$2');
+const inch = v => inches(uni(v).replace(/"+$/, '').replace(/\s*(in\.?|inches)$/i, ''));
+
+// Capacity: "2,000 lbs", "400 - 4500 lbs", "up to 2,200 lbs." -> { max, range }
+function capacity(v) {
+  const nums = String(v || '').replace(/,/g, '').match(/\d+(?:\.\d+)?/g);
+  if (!nums) return { max: '', range: '' };
+  const n = nums.map(Number);
+  return { max: Math.max(...n), range: n.length > 1 && /\d\s*(-|–|to)\s*\d/.test(String(v).replace(/,/g, '')) ? `${n[0].toLocaleString('en-US')}–${n[n.length - 1].toLocaleString('en-US')} lb` : '' };
+}
+
+const cleanSize = v => uni(v).replace(/["”]/g, '').replace(/\s*[xX]\s*/g, ' x ').replace(/\s+/g, ' ').trim();
+
+function sizeRange(min, max) {
+  const a = cleanSize(min), b = cleanSize(max);
+  if (!a || !/\d/.test(a)) return '';
+  return b && /\d/.test(b) && b !== a ? `${a} to ${b} in` : `${a} in`;
+}
+
+// Find a header index by any of the given patterns.
+const col = (header, ...pats) => header.findIndex(h => pats.some(p => p.test(h)));
+
+function southworth(file, extra = {}) {
+  const rows = csv(get(`https://www.southworthproducts.com/wp-content/uploads/${file}`));
+  const h = rows[0];
+  const iModel = col(h, /^model/i);
+  const iCap = col(h, /capacity/i);
+  const iRaised = col(h, /raised height|extended height|lift height/i);
+  const iLow = col(h, /lowered height|low height|compressed height/i);
+  const iStd = col(h, /standard base|std\.? base|standard platform|^platform|pan size|platform size|usable pan|minimum platform/i);
+  const iMax = col(h, /max(imum)?\.? platform/i);
+  const iTilt = col(h, /tilt angle/i);
+  const iTurn = col(h, /turntable diameter/i);
+  const iPower = col(h, /voltage|^power$|^air$|min air/i);
+  const iFork = col(h, /fork length/i);
+  return rows.slice(1).map(c => {
+    const cap = capacity(c[iCap]);
+    let plat = iStd >= 0 ? sizeRange(c[iStd], iMax >= 0 ? c[iMax] : '') : '';
+    if (!plat && iTurn >= 0 && c[iTurn]) plat = `${cleanSize(c[iTurn])} in round turntable`;
+    if (!plat && iFork >= 0 && c[iFork]) plat = `${cleanSize(c[iFork])} in forks`;
+    return row({
+      model: c[iModel].replace(/\s*\(.*?\)\s*/g, ' ').trim(),
+      capacity_lbs: cap.max,
+      platform: plat,
+      lowered_height_in: iLow >= 0 ? inch(c[iLow]) : '',
+      raised_height_in: iRaised >= 0 ? inch(c[iRaised]) : '',
+      notes: notes([
+        cap.range ? `self-levels ${cap.range}` : '',
+        iTilt >= 0 && c[iTilt] ? `${c[iTilt].replace(/[˚°]/g, '').replace(/\s*or\s*/, ' or ')}° tilt` : '',
+        iPower >= 0 && c[iPower] && c[iPower] !== '--' ? c[iPower].replace(/\s+/g, ' ') : '',
+        extra.note ? extra.note(c, h) : '',
+      ]),
+    });
+  });
+}
+
+/* ------------------------------------------------------------ Presto / ECOA */
+
+// Presto tables label every cell ("Load Capacity : 2000 lbs"), so rows are
+// read by label. Group heading rows only fill the first cell.
+function presto(path, index = 0) {
+  const t = tables(get(`https://prestolifts.com/products/${path}`))[index] || [];
+  const out = [];
+  let travel = '';
+  for (const cells of t) {
+    const o = {};
+    for (const cell of cells) {
+      const m = cell.match(/^(.*?)\s*:\s*(.*)$/);
+      if (m) o[m[1].toLowerCase().replace(/\s+/g, ' ').trim()] = m[2].trim();
+    }
+    if (o['vertical travel']) travel = o['vertical travel'];
+    const model = o['model number'] || o.number || o.model;
+    if (!model || cells.filter(Boolean).length < 3) continue;
+    const g = (...keys) => { for (const k of keys) { const hit = Object.keys(o).find(x => x === k || x.startsWith(k)); if (hit && o[hit]) return o[hit]; } return ''; };
+    const cap = capacity(g('load capacity', 'capacity', 'tilt capacity'));
+    const low = g('lowered height', 'low height');
+    const raised = g('raised height');
+    const tr = inch(g('vertical travel') || '') || (raised && low ? '' : inch(travel));
+    const tilt = g('degree of tilt');
+    let plat = sizeRange(g('std. base & platform', 'standard platform', 'platform size', 'platform', 'standard base'), g('maximum platform', 'max platform'));
+    if (!plat && g('turntable diameter')) plat = `${cleanSize(g('turntable diameter'))} in round turntable`;
+    if (!plat && g('fork length')) plat = `${cleanSize(g('fork length'))} in forks`;
+    const unit = s => /\d/.test(s) && !/["']/.test(s) ? s : s;
+    out.push(row({
+      model: model.replace(/\s+/g, ' '),
+      capacity_lbs: cap.max,
+      platform: plat,
+      lowered_height_in: inch(unit(low)),
+      raised_height_in: inch(raised),
+      notes: notes([
+        cap.range ? `self-levels ${cap.range}` : '',
+        !cap.max && g('end/side capacity') ? `${capacity(g('end/side capacity')).max.toLocaleString('en-US')} lb end/side capacity` : '',
+        tr ? `${frac(tr)} in travel` : '',
+        tilt ? `${tilt.replace(/[˚°]/g, '')}° tilt` : '',
+      ]),
+    }));
+  }
+  return out;
+}
+
+/* ------------------------------------------------------------------ Vestil */
+
+function vestilFamily(fid) {
+  const h = get(`https://www.vestil.com/product.php?FID=${fid}`);
+  const skus = [];
+  for (const t of h.matchAll(/<table[\s\S]*?<\/table>/gi)) {
+    if (!/Model #/.test(t[0])) continue;
+    for (const r of t[0].matchAll(/<tr[\s\S]*?<\/tr>/gi)) {
+      const c = [...r[0].matchAll(/<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/gi)].map(x => clean(x[1]));
+      if (c[0] && c[0] !== 'Model #') skus.push(c[0]);
+    }
+  }
+  return skus;
+}
+
+function vestilAttrs(model) {
+  const h = get(`https://www.vestil.com/skur.php?Model=${encodeURIComponent(model)}`);
+  const a = {};
+  for (const m of h.matchAll(/skur-spec-label">([\s\S]*?)<\/span>\s*<span class="skur-spec-value">([\s\S]*?)<\/span>/g)) a[clean(m[1]).replace(/:$/, '')] = clean(m[2]);
+  for (const r of h.matchAll(/<tr[\s\S]*?<\/tr>/gi)) {
+    const c = [...r[0].matchAll(/<t[dh][^>]*>([\s\S]*?)<\/t[dh]>/gi)].map(x => clean(x[1]));
+    if (c.length === 2 && /:$/.test(c[0])) a[c[0].replace(/:$/, '')] = c[1];
+  }
+  return a;
+}
+
+// The family page's model chart: rows by capacity and raised height, no model numbers.
+function vestilChart(fid) {
+  const t = tables(get(`https://www.vestil.com/product.php?FID=${fid}`)).find(rows => rows.some(r => r.some(c => /^Capacity/.test(c)) && r.some(c => /^Raised Height/.test(c))));
+  if (!t) return [];
+  const hi = t.findIndex(r => r.some(c => /^Capacity/.test(c)));
+  const h = t[hi];
+  const at = (r, re) => { const i = h.findIndex(c => re.test(c)); return i >= 0 ? r[i] : ''; };
+  return t.slice(hi + 1).filter(r => r.length === h.length).map(r => ({
+    capacity: at(r, /^Capacity/), raised: at(r, /^Raised/), lowered: at(r, /^Lowered/), width: at(r, /^Platform Width/), length: at(r, /^Platform Length/),
+  }));
+}
+
+function vestil(...fids) {
+  const out = [];
+  for (const fid of fids) {
+    for (const model of vestilFamily(fid)) {
+      const a = vestilAttrs(model);
+      const g = (...keys) => { for (const k of keys) if (a[k]) return a[k]; return ''; };
+      const cap = capacity(g('Uniform Capacity (lb.)', 'Uniform Capacity (lbs.)', 'Uniform Static Capacity (lb.)', 'Capacity (lbs.)', 'Capacity'));
+      const pair = v => (v.match(/^(.+?)\s+to\s+(.+)$/) || []).slice(1);
+      let low = g('Lowered Height (in.)', 'Platform Lowered Height (in.)', 'Minimum Height (in)', 'Platform Height (in.)', 'Lowered Height');
+      let raised = g('Raised Height (in.)', 'Platform Raised Height (in.)', 'Maximum Height (in)', 'Raised Height');
+      const span = g('Lower/Raised Height (in.)', 'Service Range (in.)');
+      if (span && pair(span).length) { low = low || pair(span)[0]; raised = raised || pair(span)[1]; }
+      const level = g('Level Height (in.)', 'Horizontal Height (in.)', 'Deck Level Height (in.)', 'Lowered Fork Height (in.)');
+      let plat = '';
+      const w = g('Platform Width (in.)', 'Platform Width (in,)', 'Usable Width (in.)', 'Usable Platform Width (in.)', 'Deck Inside Width (in.)');
+      const l = g('Platform Length (in.)', 'Platform Length (in,)', 'Usable Length (in.)', 'Usable Platform Length (in.)', 'Deck Inside Length (in.)');
+      if (w && l) plat = `${uni(w)} x ${uni(l)} in`;
+      else if (g('Platform Width/Length (in.)')) plat = `${uni(g('Platform Width/Length (in.)'))} in`;
+      else if (g('Platform Size (WxL) (in.)')) plat = `${cleanSize(g('Platform Size (WxL) (in.)'))} in`;
+      else if (g('Platform Width Range (in.)') && g('Platform Length Range (in.)')) {
+        const wr = pair(g('Platform Width Range (in.)')), lr = pair(g('Platform Length Range (in.)'));
+        plat = wr.length && lr.length ? `${wr[0]} x ${lr[0]} to ${wr[1]} x ${lr[1]} in` : '';
+      } else if (g('Platform Diameter (in.)')) plat = `${uni(g('Platform Diameter (in.)'))} in round`;
+      else if (g('Deck Deminsions')) plat = `${cleanSize(g('Deck Deminsions'))} in`;
+      else if (g('Fork Length (in.)')) plat = `${uni(g('Fork Length (in.)'))} in forks`;
+      const tilt = g('Maximum Tilt Degree', 'Maximum Tilted Fork Degree', 'Degrees of Tilt', 'Max Tilt Angle', 'Maximum Tilt (degrees)', 'End Tilt (degrees)');
+      const tiltDeg = tilt ? (tilt.match(/(\d+)\s*°?\s*$/) || tilt.match(/(\d+)/) || [])[1] : '';
+      if (tiltDeg && !low) low = g('Lowered Fork Height (in.)');
+      const travel = inch(g('Vertical Travel (in.)', 'Maximum Travel Distance (in)'));
+      let power = g('Voltage/Phase', 'Standard Voltage/Phase', 'Power', 'AC Power', 'Power Source', 'Operation', 'Operation Method');
+      if (!power && /^two$/i.test(g('Foot Pump Speed'))) power = '2-speed foot pump';
+      else if (!power && g('Foot Pump Speed')) power = g('Foot Pump Speed');
+      const posts = g('Post (qty.)');
+      // Base models sold with a choice of platform (EHLTD-2-70) have sparse data
+      // sheets; their specs come from the family's model chart, matched on
+      // capacity and the raised height at the end of the model number.
+      if ([cap.max, plat, low, raised].filter(Boolean).length < 2 && cap.max) {
+        const raisedCode = parseInt((model.match(/-(\d+)$/) || [])[1]);
+        const hit = vestilChart(fid).find(c => capacity(c.capacity).max === cap.max && inch(c.raised) === raisedCode);
+        if (hit) {
+          raised = hit.raised; low = hit.lowered;
+          const [w1, w2 = w1] = uni(hit.width).replace(/"/g, '').split('-');
+          const [l1, l2 = l1] = uni(hit.length).replace(/"/g, '').split('-');
+          if (w1 && l1) plat = w1 === w2 && l1 === l2 ? `${w1} x ${l1} in` : `${w1} x ${l1} to ${w2} x ${l2} in`;
+        }
+      }
+      // Some data sheets carry no specs at all; skip those rather than list a bare model number.
+      if ([cap.max, plat, low, raised].filter(Boolean).length < 2) { report.push(`vestil ${model}: no usable specs, skipped`); continue; }
+      out.push(row({
+        model,
+        capacity_lbs: cap.max,
+        platform: plat,
+        lowered_height_in: inch(low) || (tiltDeg ? inch(level) : ''),
+        raised_height_in: inch(raised),
+        notes: notes([
+          cap.range ? `self-levels ${cap.range}` : '',
+          travel ? `${frac(travel)} in travel` : '',
+          tiltDeg ? `${tiltDeg}° tilt` : '',
+          posts ? `${posts} post${posts === '1' ? '' : 's'}` : '',
+          power ? power.replace(/\s*\/\s*/g, '/').replace(/\s+/g, ' ') : '',
+        ]),
+      }));
+    }
+  }
+  return out;
+}
+
 /* ---------------------------------------------------------------- Products */
 
 const AQ = 'https://autoquip.com/products/';
@@ -276,9 +502,175 @@ const plan = {
     P('ati-crate-positioners', 'ati-crate-positioner', 'Crate Positioner', ATI + 'crate-positioner-upender-tilt-table/', () => ati(1095)),
     P('ati-post-lift-tables', 'ati-post-lift-table', 'Post Lift Table', ATI + 'post-lift-tables/', () => ati(1112)),
   ],
+  'southworth-products': [
+    ...[
+      ['southworth-backsaver-hydraulic-lift-tables', 'southworth-backsaver-hydraulic', 'Backsaver Hydraulic', 'backsaver-hydraulic-lift-tables', '2024/06/Lift-Tables_Product-Specs-Backsaver-Hydraulic-Lift-Tables.csv'],
+      ['southworth-backsaver-lite-lift-tables', 'southworth-backsaver-lite', 'Backsaver Lite', 'backsaver-lite-lift-tables', '2024/06/Product-Specs-Backsaver-Lite-Lift-Tables.csv'],
+      ['southworth-backsaver-lite-portable-lift-tables', 'southworth-backsaver-lite-portable', 'Backsaver Lite Portable', 'backsaver-lite-portable-lift-tables', '2024/06/Product-Specs-Backsaver-Lite-Portable-Lift-Tables.csv'],
+      ['southworth-backsaver-compact-lift-tables', 'southworth-backsaver-compact', 'Backsaver Compact', 'backsaver-compact-lift-tables', '2024/06/Product-Specs-Compact-Lift-Tables.csv'],
+      ['southworth-ls-series-lift-tables', 'southworth-ls-series', 'LS-Series', 'ls-series-hydraulic-lift-tables', '2024/06/Product-Specs-LS-Series-Hydraulic-Lift.csv'],
+      ['southworth-lsd-series-dual-lift-tables', 'southworth-lsd-series', 'LSD-Series Standard', 'lsd-series-dual-lift-tables', '2024/06/Product-Specs-LSD-Series-Dual-Lift-Tables.csv'],
+      ['southworth-lsd-series-dual-lift-tables', 'southworth-lsd-series-wide-base', 'LSD-Series Wide Base', 'lsd-series-dual-lift-tables', '2024/06/Product-Specs-LSD-Series-Dual-Lift-Tables-wide.csv'],
+      ['southworth-lst-series-tandem-lift-tables', 'southworth-lst-series', 'LST-Series Standard', 'lst-series-tandem-lift-tables', '2024/06/Product-Specs-LST-Series-Tandem-Lift.csv'],
+      ['southworth-lst-series-tandem-lift-tables', 'southworth-lst-series-wide', 'LST-Series Wide', 'lst-series-tandem-lift-tables', '2024/06/Product-Specs-LST-Series-Tandem-Lift-Wide.csv'],
+      ['southworth-l-series-cam-lift-tables', 'southworth-l-series-cam', 'L-Series Cam', 'l-series-cam-lift-tables', '2024/06/Product-Specs-L-Series-Cam-Lift-Tables.csv'],
+      ['southworth-heavy-duty-hydraulic-lift-tables', 'southworth-heavy-duty-hydraulic', 'Heavy-Duty Hydraulic', 'heavy-duty-hydraulic-lift-tables', '2024/06/Product-Specs-Heavy-Duty-Hydraulic-Lift-Tables.csv'],
+      ['southworth-spacesaver-high-rise-lift-tables', 'southworth-spacesaver', 'Spacesaver High-Rise', 'spacesaver-lsh-series-lift-tables', '2024/06/Product-Specs-Spacesaver-High-Rise-Lift-Table.csv'],
+      ['southworth-stainless-steel-lift-tables', 'southworth-stainless-steel', 'Stainless Steel', 'stainless-steel-lift-tables', '2024/06/Product-Specs-Stainless-Steel-Lift-Tables.csv'],
+      ['southworth-pneumatic-lift-tables', 'southworth-pneumatic', 'Pneumatic', 'pneumatic-lift-tables', '2024/06/Product-Specs-Pneumatic-Lift-Tables.csv'],
+      ['southworth-floor-height-lift-tables', 'southworth-floor-height', 'Floor-Height', 'floor-height-lift-tables', '2024/06/Product-Specs-Floor-Height-Lift-Tables.csv'],
+      ['southworth-liftmat-low-profile-lift-tables', 'southworth-liftmat', 'LiftMat', 'liftmat-low-profile-lift-tables', '2024/06/Product-Specs-LiftMat-Low-Profile-Lift-Table.csv'],
+      ['southworth-flush-mount-turntable-lifts', 'southworth-flush-mount-turntable-lift', 'Flush-Mount Turntable Lift', 'flush-mount-turntable-lifts', '2024/06/Product-Specs-Flushmount-Turntables.csv'],
+      ['southworth-manual-dandy-lift-tables', 'southworth-manual-dandy', 'Manual Dandy', 'manual-dandy-lift-tables', '2024/11/Product-Specs-Manual-Dandy-Lift-Table7-2026.csv'],
+      ['southworth-powered-dandy-lift-tables', 'southworth-powered-dandy', 'Powered Dandy', 'powered-dandy-lift-tables', '2024/06/Product-Specs-Powered-Dandy-Lifts.csv'],
+      ['southworth-dandy-levelers', 'southworth-dandy-leveler', 'Dandy Leveler', 'dandy-levelers', '2024/06/Product-Specs-Dandy-Levelers.csv'],
+      ['southworth-lift-and-tilt-tables', 'southworth-hydraulic-lift-and-tilt', 'Hydraulic Lift + Tilt', 'lift-tilt-tables', '2024/11/Product-Specs-Hydraulic-Lift-Tilt-Tables-6-25-25.csv'],
+      ['southworth-lift-and-tilt-tables', 'southworth-pneumatic-lift-and-tilt', 'Pneumatic Lift + Tilt', 'lift-tilt-tables', '2024/11/Product-Specs-Pneumatic-Lift-Tilt3.csv'],
+      ['southworth-low-profile-lift-and-tilt-tables', 'southworth-low-profile-lift-and-tilt', 'Low-Profile Lift + Tilt', 'low-profile-lift-and-tilt-table', '2024/06/Product-Specs-Low-Profile-Lift-Tilt.csv'],
+      ['southworth-fixed-height-tilters', 'southworth-fixed-height-tilter', 'Fixed-Height Tilter', 'fixed-height-tilters', '2024/11/Product-Specs-Fixed-Height-Tilters7.csv'],
+      ['southworth-pan-style-container-tilters', 'southworth-pan-style-container-tilter', 'Pan-Style Container Tilter', 'pan-style-container-tilters', '2024/06/Product-Specs-Pan-Style-Container-Tilters.csv'],
+      ['southworth-portable-container-tilters', 'southworth-portable-container-tilter', 'E-Z Reach Portable Container Tilter', 'portable-container-tilters', '2024/11/Product-Specs-Portable-Container-Tilters.csv'],
+      ['southworth-roll-on-container-tilters', 'southworth-roll-on-container-tilter', 'Roll-On Container Tilter', 'roll-on-container-tilters', '2024/06/Product-Specs-Roll-On-Container-Tilters.csv'],
+      ['southworth-palletpal-360-level-loaders', 'southworth-palletpal-360', 'PalletPal 360 Spring', 'palletpal-360', '2024/06/Product-Specs-PalletPal-360.csv'],
+      ['southworth-palletpal-360-level-loaders', 'southworth-palletpal-360-air', 'PalletPal 360 Air', 'palletpal-360-air', '2024/06/Product-Specs-PalletPal-360-Air.csv'],
+      ['southworth-palletpal-360-level-loaders', 'southworth-stainless-steel-palletpal', 'Stainless Steel PalletPal', 'stainless-steel-palletpal', '2024/06/SSPPL.csv'],
+      ['southworth-powered-palletpal-levelers', 'southworth-powered-palletpal-hydraulic', 'Powered PalletPal Hydraulic', 'powered-palletpal-levelers-lifters', '2024/06/Product-Specs-Powered-PalletPal-Levelers_Tilters-Hydraulic.csv'],
+      ['southworth-powered-palletpal-levelers', 'southworth-powered-palletpal-pneumatic', 'Powered PalletPal Pneumatic', 'powered-palletpal-levelers-lifters', '2024/06/Product-Specs-Powered-PalletPal-Levelers_Tilters-Pneumatic.csv'],
+      ['southworth-palletpal-roll-in-level-loaders', 'southworth-palletpal-roll-in', 'PalletPal Roll-In', 'palletpal-roll-in-roll-e', '2024/06/Product-Specs-PalletPal-Roll-In.csv'],
+      ['southworth-palletpal-roll-on-level-loaders', 'southworth-palletpal-roll-on-2500', 'PalletPal Roll-On 2,500 lb', 'palletpal-roll-on-level-loader', '2024/06/Product-Specs-PalletPal-Roll-on-Pallet-Positioner-ROLLC2.csv'],
+      ['southworth-palletpal-roll-on-level-loaders', 'southworth-palletpal-roll-on-4000', 'PalletPal Roll-On 4,000 lb', 'palletpal-roll-on-level-loader', '2024/06/Product-Specs-PalletPal-Roll-on-Pallet-Positioner-ROLLC4.csv'],
+      ['southworth-palletpal-roll-on-level-loaders', 'southworth-palletpal-roll-on-turntable', 'PalletPal Roll-On with Turntable', 'palletpal-roll-on-leveler-with-turntable', '2024/06/Product-Specs-PalletPal-Roll-On-Leveler-with-Turntable.csv'],
+      ['southworth-stackbox-positioners', 'southworth-stackbox-positioner', 'Stackbox Positioner', 'stackbox-positioners', '2024/06/Product-Specs-Stackbox-Positioners.csv'],
+    ].map(([line, stem, title, page, file]) => P(line, stem, title, `https://www.southworthproducts.com/products/${page}/`, () => southworth(file))),
+    // The Mast Lift 26 spec sheet is a transposed two-column list, so its one row is typed in.
+    P('southworth-mast-lift-26', 'southworth-mast-lift-26', 'Mast Lift 26', 'https://www.southworthproducts.com/products/mast-lift-26/', () => [
+      { model: 'Mast Lift 26', capacity_lbs: 1800, platform: '44 x 56 in (L x W)', lowered_height_in: 0.5, raised_height_in: 36.5, notes: 'about 7 sec rise, 230V 1-phase' },
+    ]),
+  ],
+  'presto-lifts': [
+    ['presto-xl-series-scissor-lift-tables', 'presto-xl-series', 'XL Series', 'scissor-lift-tables/hydraulic-lift-tables/xl-series-standard-duty-scissor-lifts-2'],
+    ['presto-xw-series-wide-base-lift-tables', 'presto-xw-series', 'XW Series', 'scissor-lift-tables/hydraulic-lift-tables/xw-series-wide-base-lift-tables-2'],
+    ['presto-dxs-series-double-scissor-lifts', 'presto-dxs-series', 'DXS Series', 'scissor-lift-tables/hydraulic-lift-tables/dxs-series-double-scissor-lift-2'],
+    ['presto-tandem-scissor-lifts', 'presto-tandem', 'Tandem and Wide Base Tandem', 'scissor-lift-tables/hydraulic-lift-tables/tandem-scissor-lift-2'],
+    ['presto-dual-scissor-lifts', 'presto-dual', 'Dual Scissor', 'scissor-lift-tables/hydraulic-lift-tables/dual-scissor-lifts-2'],
+    ['presto-xz-series-floor-height-lift-tables', 'presto-xz-series', 'XZ Series', 'scissor-lift-tables/floor-height-lift-tables'],
+    ['presto-xzt-series-floor-level-lift-and-tilt-tables', 'presto-xzt-series', 'XZT Series', 'lift-tilt-tables/xzt-series-floor-level'],
+    ['presto-hydraulic-scissor-lift-and-tilt-tables', 'presto-hydraulic-lift-and-tilt', 'Hydraulic Lift and Tilt', 'lift-tilt-tables/hydraulic-scissor-lift-tilt-tables'],
+    ['presto-axt-pneumatic-lift-and-tilt-tables', 'presto-axt-series', 'AXT and AXST Series', 'lift-tilt-tables/pneumatic-lift-tilt'],
+    ['presto-light-duty-scissor-lift-tables', 'presto-xs-series', 'XS Series Electric', 'scissor-lift-tables/light-duty-lifts/light-duty-electric-scissor-lift-table-2'],
+    ['presto-light-duty-scissor-lift-tables', 'presto-xf-series', 'XF Series Manual', 'scissor-lift-tables/light-duty-lifts/light-duty-manual-scissor-lift-table-2'],
+    ['presto-ax-pneumatic-scissor-lifts', 'presto-ax-series', 'AX Series', 'scissor-lift-tables/pneumatic-lifts/ax-series-standard-duty-pneumatic-scissor-lifts'],
+    ['presto-ax-pneumatic-scissor-lifts', 'presto-axs-series', 'AXS Series Heavy-Duty', 'scissor-lift-tables/pneumatic-lifts/axs-series-heavy-duty-scissor-lifts-2'],
+    ['presto-axr-pneumatic-turntable-lifts', 'presto-axr-series', 'AXR Series', 'scissor-lift-tables/pneumatic-lifts/axr-series-turntable-lifts-2'],
+    ['presto-axr-pneumatic-turntable-lifts', 'presto-axsr-series', 'AXSR Series Heavy-Duty', 'scissor-lift-tables/pneumatic-lifts/axsr-series-heavy-duty-turntable-lifts-2'],
+    ['presto-dbp-portable-double-scissor-lifts', 'presto-dbp-series', 'DBP Series', 'scissor-lift-tables/portable-lifts/dbp-series-double-scissor-high-lift-2'],
+    ['presto-xbp-wbp-battery-portable-lift-tables', 'presto-xbp-wbp-series', 'XBP and WBP Series', 'scissor-lift-tables/portable-lifts/xbp-wbp-series-dc-electric-lift-2'],
+    ['presto-xp-wxp-manual-portable-lift-tables', 'presto-xp-wxp-series', 'XP and WXP Series', 'scissor-lift-tables/portable-lifts/xp-wxp-manual-foot-pump-lift-tables-mobile-lift-tables'],
+    ['presto-pt-pts-portable-container-tilters', 'presto-pt-pts-series', 'PT and PTS Series', 'tilters/container-tilters/pt-pts-series-portable-container-tilters'],
+    ['presto-srt-stationary-container-tilters', 'presto-srt-series', 'SRT Series', 'tilters/container-tilters/srt-series-stationary-container-tilters'],
+    ['presto-tz-floor-level-45-degree-tilters', 'presto-tz-series', 'TZ Series', 'tilters/container-tilters/tz-series-45-degree-tilters'],
+    ['presto-zrt-floor-level-container-tilters', 'presto-zrt-series', 'ZRT Series', 'tilters/container-tilters/zrt-series-floor-level-container-tilters'],
+    ['presto-at-series-pneumatic-tilt-tables', 'presto-at-series', 'AT Series', 'tilters/fixed-height-platform-tilters/pneumatic-tilt-table-at-series-2'],
+    ['presto-tt-series-tilt-tables', 'presto-tt-series', 'TT Series', 'tilters/fixed-height-platform-tilters/tt-series-standard-tilt-tables'],
+    ['presto-wt-series-wide-base-tilt-tables', 'presto-wt-series', 'WT Series', 'tilters/fixed-height-platform-tilters/wide-base-tilt-tables-wt-series-2'],
+    ['presto-p3-load-levelers', 'presto-p3-airbag', 'P3 All-Around Airbag', 'pallet-handling-equipment/p3-all-around-airbag-automatic-load-leveler'],
+    ['presto-p3-load-levelers', 'presto-p3-spring', 'P3 All-Around Spring', 'pallet-handling-equipment/p3-all-around-spring'],
+    ['presto-p3-load-levelers', 'presto-p3-operator-controlled', 'P3 Operator Controlled', 'pallet-handling-equipment/p3-operator-controlled-load-leveler'],
+    ['presto-p4-floor-height-load-levelers', 'presto-p4', 'P4 Floor Height', 'pallet-handling-equipment/p4-floor-height-load-leveler'],
+    ['presto-p4-floor-height-load-levelers', 'presto-p4-turntable', 'P4 with Built-In Turntable', 'pallet-handling-equipment/p4-floor-height-load-leveler-with-built-in-turntable'],
+    ['presto-lp-low-profile-lift-tables', 'presto-lp', 'LP Low-Profile', 'pallet-handling-equipment/low-profile-lift-turntable-lift'],
+    ['presto-u-lift-roll-in-levelers', 'presto-u-lift', 'U-Lift Roll-In', 'pallet-handling-equipment/u-lift-roll-in-leveler'],
+    ['presto-post-lift-tables', 'presto-pl-hydraulic-cantilever', 'PL Hydraulic Cantilever', 'post-lift-tables/hydraulic-cantilever'],
+    ['presto-post-lift-tables', 'presto-bp-battery-post', 'BP Battery-Operated Post', 'post-lift-tables/hydraulic-electromechanical'],
+    ['presto-post-lift-tables', 'presto-p-hand-crank-post', 'P Series Hand Crank Post', 'post-lift-tables/mechanical-hand-crank'],
+  ].map(([line, stem, title, path]) => P(line, stem, title, `https://prestolifts.com/products/${path}`, () => presto(path))),
+  ecoa: [
+    ['ecoa-hlt-series-scissor-lifts', 'ecoa-hlt-series', 'HLT Series', 'ecoa-equipment/scissor-lifts/hlt-series-scissor-lift-2'],
+    ['ecoa-hh-series-heavy-duty-lifts', 'ecoa-hh-series', 'HH Series', 'ecoa-equipment/scissor-lifts/hh-series-heavy-duty-lifts-2'],
+    ['ecoa-clt-compact-double-scissor-lifts', 'ecoa-clt-series', 'CLT Series', 'ecoa-equipment/scissor-lifts/clt-compact-double-scissor-lifts-2'],
+    ['ecoa-extended-travel-scissor-lifts', 'ecoa-dsl-double-scissor', 'DSL Double Scissor', 'ecoa-equipment/extended-vertical-travel-scissor-lifts/dsl-double-scissor-lifts-2'],
+    ['ecoa-extended-travel-scissor-lifts', 'ecoa-tsl-triple-scissor', 'TSL Triple Scissor', 'ecoa-equipment/extended-vertical-travel-scissor-lifts/tsl-triple-scissor-lifts-2'],
+    ['ecoa-extended-travel-scissor-lifts', 'ecoa-qsl-quad-scissor', 'QSL Quad Scissor', 'ecoa-equipment/extended-vertical-travel-scissor-lifts/qsl-quad-scissor-lifts-2'],
+    ['ecoa-magnum-super-heavy-duty-scissor-lifts', 'ecoa-magnum-mlt', 'Magnum MLT', 'ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mlt-series-scissor-lifts-2'],
+    ['ecoa-magnum-super-heavy-duty-scissor-lifts', 'ecoa-magnum-mltdl', 'Magnum MLTDL Double Long', 'ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltdl-series-double-long-scissor-lifts-2'],
+    ['ecoa-magnum-super-heavy-duty-scissor-lifts', 'ecoa-magnum-mltdw', 'Magnum MLTDW Double Wide', 'ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltdw-series-double-wide-scissor-lifts-2'],
+    ['ecoa-magnum-super-heavy-duty-scissor-lifts', 'ecoa-magnum-mltqd', 'Magnum MLTQD Double Wide Double Long', 'ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltqd-series-double-wide-double-long-scissor-lifts-2'],
+  ].map(([line, stem, title, path]) => P(line, stem, title, `https://prestolifts.com/products/${path}`, () => presto(path))),
+  vestil: [
+    ['vestil-electric-hydraulic-scissor-lift-tables', 'vestil-ehlt', 'EHLT', [196]],
+    ['vestil-electric-hydraulic-scissor-lift-tables', 'vestil-ehlt-n', 'EHLT-N Narrow', [180]],
+    ['vestil-electric-hydraulic-scissor-lift-tables', 'vestil-ehlt-e', 'EHLT-E Economical', [1743]],
+    ['vestil-powered-lift-tables-with-manual-rotation', 'vestil-hst', 'HST', [1437]],
+    ['vestil-single-scissor-lift-and-tilt-tables', 'vestil-uni', 'UNI', [211]],
+    ['vestil-single-scissor-lift-and-tilt-tables', 'vestil-uni-p', 'UNI-P Portable', [213]],
+    ['vestil-ground-lift-scissor-tables', 'vestil-ehltg', 'EHLTG', [208]],
+    ['vestil-ground-lift-scissor-tables', 'vestil-ehltg-handrails', 'EHLTG with Handrails', [1632]],
+    ['vestil-pneumatic-scissor-lift-tables', 'vestil-at-pneumatic', 'AT Pneumatic', [300]],
+    ['vestil-pneumatic-scissor-lift-tables', 'vestil-ablt', 'ABLT Air Bag', [200]],
+    ['vestil-pneumatic-scissor-lift-tables', 'vestil-ablt-heavy-duty', 'ABLT Heavy-Duty Air Bag', [198]],
+    ['vestil-low-profile-electric-lift-tables', 'vestil-ehu-ehe', 'EHU and EHE', [207]],
+    ['vestil-low-profile-electric-lift-tables', 'vestil-ehltx', 'EHLTX', [206]],
+    ['vestil-lift-and-tilt-scissor-tables', 'vestil-ehltt', 'EHLTT', [209]],
+    ['vestil-double-scissor-lift-tables', 'vestil-ehltd', 'EHLTD', [202]],
+    ['vestil-portable-scissor-lift-tables', 'vestil-pst', 'PST', [203]],
+    ['vestil-work-station-scissor-lift-tables', 'vestil-ehlt-ws', 'EHLT-WS and EHLT-WSI', [205]],
+    ['vestil-zero-lift-and-tilt-tables', 'vestil-zltt', 'ZLTT', [210]],
+    ['vestil-rotary-air-hydraulic-scissor-lift-tables', 'vestil-ahlt', 'AHLT', [197]],
+    ['vestil-table-top-scissor-lift-tables', 'vestil-emlt', 'EMLT', [1786]],
+    ['vestil-portable-electric-hydraulic-lift-tables', 'vestil-ehltp', 'EHLTP', [1441]],
+    ['vestil-portable-electric-hydraulic-lift-tables', 'vestil-ehltp-hoist', 'EHLTP with Hoist', [1795]],
+    ['vestil-hinge-and-sliding-tilt-tables', 'vestil-ehtt', 'EHTT', [214]],
+    ['vestil-ground-tilters', 'vestil-glt', 'GLT', [215]],
+    ['vestil-tandem-lifting-tables', 'vestil-ehlt-tl', 'EHLT-TL', [1734]],
+    ['vestil-lift-and-tilt-workstation-tables', 'vestil-ultt', 'ULTT', [212]],
+    ['vestil-shorty-scissor-lift-tables', 'vestil-ehlts', 'EHLTS and EHLTSD', [201]],
+    ['vestil-ground-lift-and-tilt-tables', 'vestil-ehltgt', 'EHLTGT', [1436]],
+    ['vestil-tilt-master-container-tilters', 'vestil-tm-tms', 'Tilt Master and Tilt Master Straddle', [221]],
+    ['vestil-tilt-master-container-tilters', 'vestil-tm-dc', 'DC Powered Tilt Master', [1421]],
+    ['vestil-tilt-master-container-tilters', 'vestil-tm-manual', 'Manual Tilt Master', [218]],
+    ['vestil-tilt-master-container-tilters', 'vestil-ulm-tm', 'ULMA Stainless Steel Tilt Master', [1624]],
+    ['vestil-economy-transporter-tilters', 'vestil-ett', 'ETT', [217]],
+    ['vestil-bench-top-tilters', 'vestil-btt', 'BTT', [216]],
+    ['vestil-efficiency-master-tilt-tables', 'vestil-em1', 'EM1', [219]],
+    ['vestil-corner-tilters', 'vestil-air-corner-tilter', 'Air Corner Tilter', [222]],
+    ['vestil-corner-tilters', 'vestil-emc-corner-tilter', 'EMC Electric/Hydraulic Corner Tilter', [223]],
+    ['vestil-spring-scissor-tables', 'vestil-sst', 'SST', [273]],
+    ['vestil-self-elevating-spring-tables', 'vestil-ets', 'ETS', [276]],
+    ['vestil-self-elevating-lift-carts', 'vestil-scsc-auto-hite', 'Auto-Hite Cart', [274]],
+    ['vestil-self-elevating-lift-carts', 'vestil-scsc-self-elevating', 'Self-Elevating Lift Cart', [275]],
+    ['vestil-hydraulic-post-tables', 'vestil-ht', 'HT Hydraulic Post', [285]],
+    ['vestil-hydraulic-post-tables', 'vestil-ht-rounded', 'HT Rounded Top', [1782]],
+    ['vestil-air-hydraulic-post-tables', 'vestil-ht-air', 'Air Hydraulic Post', [280]],
+    ['vestil-linear-actuated-post-tables', 'vestil-ht-la', 'Linear Actuated Post', [281]],
+    ['vestil-mechanical-post-tables', 'vestil-mt', 'MT Mechanical Post', [282]],
+    ['vestil-die-tables', 'vestil-die', 'DIE', [279]],
+    ['vestil-hydraulic-elevating-carts', 'vestil-cart', 'CART', [294]],
+    ['vestil-hydraulic-elevating-carts', 'vestil-cart-pss', 'CART Partially Stainless Steel', [290]],
+    ['vestil-hydraulic-elevating-carts', 'vestil-cart-scale', 'CART with Built-In Scale', [287]],
+    ['vestil-hydraulic-elevating-carts', 'vestil-cart-auto-shift', 'CART Auto-Shift', [295]],
+    ['vestil-mechanical-scissor-carts', 'vestil-cart-m', 'CART-M', [286]],
+    ['vestil-premium-scissor-lift-carts', 'vestil-cart-premium', 'Premium CART', [288]],
+    ['vestil-low-profile-scissor-lift-carts', 'vestil-cart-lp', 'Low Profile CART', [289]],
+    ['vestil-low-profile-scissor-lift-carts', 'vestil-cart-lp-heavy-duty', 'Heavy-Duty Low Profile CART-LP', [1428]],
+    ['vestil-low-profile-scissor-lift-carts', 'vestil-cart-lp-auto-shift', 'Low Profile CART-LP-AS Auto-Shift', [1685]],
+    ['vestil-stainless-steel-scissor-carts', 'vestil-sssc', 'SSSC', [291]],
+    ['vestil-foot-pump-and-powered-scissor-lift-tables', 'vestil-sctab', 'SCTAB', [292]],
+    ['vestil-pneumatic-tire-elevating-carts', 'vestil-cart-pn', 'CART-PN', [293]],
+    ['vestil-dc-powered-and-manual-scissor-carts', 'vestil-cart-dc-manual', 'DC Powered and Manual CART', [296]],
+    ['vestil-dc-powered-hydraulic-elevating-carts', 'vestil-cart-dc', 'CART-DC', [297]],
+    ['vestil-powered-drive-elevating-carts', 'vestil-cart-dc-ctd', 'Powered Drive and Powered Lift CART', [298]],
+    ['vestil-powered-drive-elevating-carts', 'vestil-cart-ctd', 'Traction Drive Electric Hydraulic CART', [299]],
+    ['vestil-air-hydraulic-carts', 'vestil-air-cart', 'AIR Cart', [301]],
+    ['vestil-lift-and-tilt-carts', 'vestil-cart-lt', 'CART-LT', [302]],
+    ['vestil-linear-actuated-elevating-carts', 'vestil-cart-la', 'CART-LA', [277]],
+  ].map(([line, stem, title, fids]) => P(line, stem, title, `https://www.vestil.com/product.php?FID=${fids[0]}`, () => vestil(...fids))),
 };
 
-const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries' };
+const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries', 'southworth-products': 'Southworth', 'presto-lifts': 'Presto', ecoa: 'ECOA', vestil: 'Vestil' };
+
+// --brands=a,b limits the run to those catalogs.
+const only = (process.argv.find(a => a.startsWith('--brands=')) || '').slice(9).split(',').filter(Boolean);
+const PREVIEW = process.argv.includes('--preview');
 
 function range(vals, unit) {
   const v = vals.filter(x => x !== '' && x !== undefined);
@@ -290,8 +682,10 @@ function range(vals, unit) {
 
 let report = [];
 for (const [brand, products] of Object.entries(plan)) {
+  if (only.length && !only.includes(brand)) continue;
   const file = `${CATALOG}/${brand}.json`;
-  const catalog = JSON.parse(fs.readFileSync(file, 'utf8'));
+  // --preview prints what would be built without a catalog file to write to.
+  const catalog = PREVIEW ? { lines: [...new Set(products.map(p => p.line))].map(slug => ({ slug, categories: [] })) } : JSON.parse(fs.readFileSync(file, 'utf8'));
   const lines = Object.fromEntries(catalog.lines.map(l => [l.slug, l]));
   const out = [];
   const seen = new Set();
@@ -336,7 +730,15 @@ for (const [brand, products] of Object.entries(plan)) {
       categories: line.categories,
       sources: [p.source],
     });
-    report.push(`${brand} ${p.stem}: ${rows.length} rows, ${cap}`);
+    report.push(`${brand} ${p.stem}: ${rows.length} rows, ${cap}${PREVIEW ? ' | ' + excerpt + ' | e.g. ' + JSON.stringify(rows[0]) : ''}`);
+  }
+  if (PREVIEW) continue;
+  // Lines without a hand-written capacity range take it from their models.
+  for (const line of catalog.lines) {
+    if (line.capacity_range) continue;
+    const caps = out.filter(p => p.line === line.slug).flatMap(p => p.models.map(r => r.capacity_lbs));
+    const r = range(caps, ' lbs');
+    if (r) line.capacity_range = r;
   }
   catalog.product_defaults = { status: 'draft' };
   catalog.products = out;

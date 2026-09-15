@@ -1,0 +1,1177 @@
+{
+    "brand": "ecoa",
+    "defaults": {
+        "status": "publish"
+    },
+    "lines": [
+        {
+            "slug": "ecoa-hlt-series-scissor-lifts",
+            "title": "ECOA HLT Series Scissor Lifts",
+            "excerpt": "High-speed electrohydraulic scissor lifts rated 2,500 to 6,500 lb with lifting heights up to 70 in.",
+            "content": "<p>ECOA's HLT Series lift tables are high-speed electrohydraulic scissor lifts built for heavy-duty applications and tough working conditions.</p>\n<p>Capacities run from 2,500 to 6,500 lb, with lifting heights up to 70 in., a wide range of platform sizes and options to configure them for specific applications.</p>",
+            "line_code": "HLT",
+            "key_features": [
+                "High-speed electrohydraulic lift",
+                "2,500 to 6,500 lb capacities",
+                "Lifting heights up to 70 in.",
+                "Wide range of platform sizes"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/scissor-lifts/hlt-series-scissor-lift-2"
+            ],
+            "capacity_range": "2,500–6,500 lbs"
+        },
+        {
+            "slug": "ecoa-hh-series-heavy-duty-lifts",
+            "title": "ECOA HH Series Heavy Duty Lifts",
+            "excerpt": "Heavy-duty electrohydraulic scissor lifts rated 8,000 to 12,000 lb with 36 to 60 in. of travel.",
+            "content": "<p>HH Heavy Duty Series lift tables are ECOA's heavy-duty electrohydraulic scissor lifts, designed for demanding applications and tough working conditions.</p>\n<p>ECOA rates the series at 8,000 to 12,000 lb, with 36 to 60 in. of travel and platforms from 36 x 48 to 48 x 102 in.</p>",
+            "line_code": "HH",
+            "capacity_range": "8,000–12,000 lbs",
+            "key_features": [
+                "8,000 to 12,000 lb capacities",
+                "36 to 60 in. of travel",
+                "Platforms from 36 x 48 to 48 x 102 in.",
+                "Electrohydraulic lift"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/scissor-lifts/hh-series-heavy-duty-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-clt-compact-double-scissor-lifts",
+            "title": "ECOA CLT Compact Double Scissor Lifts",
+            "excerpt": "Heavy-duty double scissor lifts with small platforms and high travel, rated 2,000 to 6,000 lb.",
+            "content": "<p>CLT Series lifts are heavy-duty electrohydraulic double scissor lifts that pair small platforms with high travel, for a wide range of applications.</p>\n<p>ECOA rates them at 2,000 to 6,000 lb, with 36 to 48 in. of travel and platforms up to 7 ft long.</p>",
+            "line_code": "CLT",
+            "capacity_range": "2,000–6,000 lbs",
+            "key_features": [
+                "Double scissor design",
+                "2,000 to 6,000 lb capacities",
+                "36 to 48 in. of travel",
+                "Platforms up to 7 ft long"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/scissor-lifts/clt-compact-double-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-extended-travel-scissor-lifts",
+            "title": "ECOA Extended Vertical Travel Scissor Lifts",
+            "excerpt": "Double, triple and quad scissor lifts for extended travel, with lift heights up to 356 in.",
+            "content": "<p>ECOA's extended vertical travel lifts stack two, three or four scissor mechanisms for heavy-duty applications that need to reach high. DSL double scissor lifts are rated 2,000 to 6,000 lb with lift heights up to 162 in.</p>\n<p>TSL triple scissor lifts are rated 3,000 to 6,000 lb with lift heights up to 222 in., and QSL quad scissor lifts are rated 3,000 to 6,000 lb with lift heights up to 356 in., about 24 ft of travel.</p>",
+            "line_code": "DSL / TSL / QSL",
+            "key_features": [
+                "Double, triple and quad scissor designs",
+                "Lift heights up to 356 in.",
+                "2,000 to 6,000 lb capacities",
+                "Heavy-duty electrohydraulic lift"
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/extended-vertical-travel-scissor-lifts/dsl-double-scissor-lifts-2",
+                "https://prestolifts.com/products/ecoa-equipment/extended-vertical-travel-scissor-lifts/tsl-triple-scissor-lifts-2",
+                "https://prestolifts.com/products/ecoa-equipment/extended-vertical-travel-scissor-lifts/qsl-quad-scissor-lifts-2"
+            ],
+            "capacity_range": "2,000–6,000 lbs"
+        },
+        {
+            "slug": "ecoa-magnum-super-heavy-duty-scissor-lifts",
+            "title": "ECOA Magnum Super Heavy Duty Scissor Lifts",
+            "excerpt": "Super heavy-duty scissor lifts rated 15,000 lb up to 120,000 lb in single, double long, double wide and quad configurations.",
+            "content": "<p>The Magnum range is ECOA's super heavy-duty electrohydraulic scissor lifts. MLT single lifts are rated 15,000 to 30,000 lb, with 30 to 72 in. of travel and platforms from 48 x 60 to 72 x 132 in.</p>\n<p>MLTDL double long and MLTDW double wide lifts are rated 25,000 to 60,000 lb, and MLTQD double wide, double long lifts are rated 50,000 to 120,000 lb with platforms up to 120 x 264 in. Platforms can be sized to fit the application.</p>",
+            "line_code": "MLT",
+            "capacity_range": "15,000–120,000 lbs",
+            "key_features": [
+                "Single, double long, double wide and quad configurations",
+                "Capacities up to 120,000 lb",
+                "30 to 72 in. of travel",
+                "Platforms up to 120 x 264 in."
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mlt-series-scissor-lifts-2",
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltdl-series-double-long-scissor-lifts-2",
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltdw-series-double-wide-scissor-lifts-2",
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltqd-series-double-wide-double-long-scissor-lifts-2"
+            ]
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "ecoa-hlt-series-models",
+            "title": "ECOA HLT Series Models",
+            "line": "ecoa-hlt-series-scissor-lifts",
+            "menu_order": 10,
+            "excerpt": "20 models rated 2,500–6,500 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "HLT2-025-24",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "HLT2-045-24",
+                    "capacity_lbs": 4500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "HLT2-065-24",
+                    "capacity_lbs": 6500,
+                    "platform": "24 x 36 to 48 x 60 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 31.75,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "HLT3-025-24",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "HLT3-045-24",
+                    "capacity_lbs": 4500,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 31,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "HLT3-065-24",
+                    "capacity_lbs": 6500,
+                    "platform": "36 x 36 to 60 x 60 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 31.75,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "HLT2-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT2-045-36",
+                    "capacity_lbs": 4500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT2-065-36",
+                    "capacity_lbs": 6500,
+                    "platform": "24 x 48 to 48 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.25,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT3-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT3-045-36",
+                    "capacity_lbs": 4500,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT3-065-36",
+                    "capacity_lbs": 6500,
+                    "platform": "36 x 48 to 60 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.75,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT4-025-36",
+                    "capacity_lbs": 2500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT4-045-36",
+                    "capacity_lbs": 4500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT4-065-36",
+                    "capacity_lbs": 6500,
+                    "platform": "48 x 48 to 72 x 72 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 43.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "HLT2-025-48",
+                    "capacity_lbs": 2500,
+                    "platform": "24 x 64 to 48 x 88 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "HLT2-045-48",
+                    "capacity_lbs": 4500,
+                    "platform": "24 x 64 to 48 x 88 in",
+                    "lowered_height_in": 7.25,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "HLT2-065-48",
+                    "capacity_lbs": 6500,
+                    "platform": "24 x 66 to 48 x 96 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "HLT3-025-48",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 64 to 60 x 88 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "HLT3-045-48",
+                    "capacity_lbs": 4500,
+                    "platform": "36 x 64 to 60 x 88 in",
+                    "lowered_height_in": 7.75,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/scissor-lifts/hlt-series-scissor-lift-2"
+            ]
+        },
+        {
+            "slug": "ecoa-hh-series-models",
+            "title": "ECOA HH Series Models",
+            "line": "ecoa-hh-series-heavy-duty-lifts",
+            "menu_order": 10,
+            "excerpt": "9 models, with 36–60 in. of travel.",
+            "models": [
+                {
+                    "model": "HH-080-36",
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 45,
+                    "notes": "8,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "HH-100-36",
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 45,
+                    "notes": "10,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "HH-120-36",
+                    "platform": "36 x 48 to 48 x 72 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 45,
+                    "notes": "12,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "HH-080-48",
+                    "platform": "36 x 64 to 48 x 88 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 57,
+                    "notes": "8,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "HH-100-48",
+                    "platform": "36 x 64 to 48 x 88 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 57,
+                    "notes": "10,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "HH-120-48",
+                    "platform": "36 x 64 to 48 x 88 in",
+                    "lowered_height_in": 9.25,
+                    "raised_height_in": 57,
+                    "notes": "12,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "HH-080-60",
+                    "platform": "36 x 84 to 48 x 102 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "8,000 lb end/side capacity, 60 in travel"
+                },
+                {
+                    "model": "HH-100-60",
+                    "platform": "36 x 84 to 48 x 102 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "10,000 lb end/side capacity, 60 in travel"
+                },
+                {
+                    "model": "HH-120-60",
+                    "platform": "36 x 84 to 48 x 102 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "12,000 lb end/side capacity, 60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/scissor-lifts/hh-series-heavy-duty-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-clt-series-models",
+            "title": "ECOA CLT Series Models",
+            "line": "ecoa-clt-compact-double-scissor-lifts",
+            "menu_order": 10,
+            "excerpt": "10 models, with 36–48 in. of travel.",
+            "models": [
+                {
+                    "model": "CLT-02-36-S",
+                    "platform": "24 x 36 to 48 x 72 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 44.5,
+                    "notes": "2,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "CLT-03-36-S",
+                    "platform": "24 x 36 to 48 x 72 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 44.5,
+                    "notes": "3,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "CLT-04-36-S",
+                    "platform": "24 x 36 to 48 x 72 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 44.5,
+                    "notes": "4,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "CLT-05-36-S",
+                    "platform": "24 x 36 to 48 x 72 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 44.5,
+                    "notes": "5,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "CLT-06-36-S",
+                    "platform": "24 x 36 to 48 x 72 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 44.5,
+                    "notes": "6,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "CLT-02-48-S",
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 56.5,
+                    "notes": "2,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "CLT-03-48-S",
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 56.5,
+                    "notes": "3,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "CLT-04-48-S",
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 56.5,
+                    "notes": "4,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "CLT-05-48-S",
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 56.5,
+                    "notes": "5,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "CLT-06-48-S",
+                    "platform": "24 x 48 to 48 x 48 in",
+                    "lowered_height_in": 8.5,
+                    "raised_height_in": 56.5,
+                    "notes": "6,000 lb end/side capacity, 48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/scissor-lifts/clt-compact-double-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-dsl-double-scissor-models",
+            "title": "ECOA DSL Double Scissor Models",
+            "line": "ecoa-extended-travel-scissor-lifts",
+            "menu_order": 10,
+            "excerpt": "15 models rated 2,000–6,000 lb.",
+            "models": [
+                {
+                    "model": "DSL-20-060",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 48 to 48 x 72 in",
+                    "lowered_height_in": 10.25,
+                    "raised_height_in": 70
+                },
+                {
+                    "model": "DSL-40-060",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 48 to 48 x 72 in",
+                    "lowered_height_in": 11.75,
+                    "raised_height_in": 72
+                },
+                {
+                    "model": "DSL-60-060",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 48 to 48 x 72 in",
+                    "lowered_height_in": 13.25,
+                    "raised_height_in": 73
+                },
+                {
+                    "model": "DSL-20-072",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 60 to 48 x 84 in",
+                    "lowered_height_in": 10.25,
+                    "raised_height_in": 82
+                },
+                {
+                    "model": "DSL-40-072",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 60 to 48 x 84 in",
+                    "lowered_height_in": 11.75,
+                    "raised_height_in": 84
+                },
+                {
+                    "model": "DSL-60-072",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 60 to 48 x 84 in",
+                    "lowered_height_in": 13.25,
+                    "raised_height_in": 85
+                },
+                {
+                    "model": "DSL-20-090",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 72 to 60 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 104
+                },
+                {
+                    "model": "DSL-40-090",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 72 to 60 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 104
+                },
+                {
+                    "model": "DSL-60-090",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 72 to 60 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 106
+                },
+                {
+                    "model": "DSL-20-108",
+                    "capacity_lbs": 2000,
+                    "platform": "54 x 84 to 72 x 108 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 122
+                },
+                {
+                    "model": "DSL-40-108",
+                    "capacity_lbs": 4000,
+                    "platform": "54 x 84 to 72 x 108 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 122
+                },
+                {
+                    "model": "DSL-60-108",
+                    "capacity_lbs": 6000,
+                    "platform": "54 x 84 to 72 x 108 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 124
+                },
+                {
+                    "model": "DSL-20-120",
+                    "capacity_lbs": 2000,
+                    "platform": "54 x 96 to 72 x 120 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 134
+                },
+                {
+                    "model": "DSL-40-120",
+                    "capacity_lbs": 4000,
+                    "platform": "54 x 96 to 72 x 120 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 134
+                },
+                {
+                    "model": "DSL-60-120",
+                    "capacity_lbs": 6000,
+                    "platform": "54 x 96 to 72 x 120 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 136
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/extended-vertical-travel-scissor-lifts/dsl-double-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-tsl-triple-scissor-models",
+            "title": "ECOA TSL Triple Scissor Models",
+            "line": "ecoa-extended-travel-scissor-lifts",
+            "menu_order": 20,
+            "excerpt": "8 models rated 3,000–6,000 lb, with 96–180 in. of travel.",
+            "models": [
+                {
+                    "model": "TSL-30-096",
+                    "capacity_lbs": 3000,
+                    "platform": "30 x 48 to 48 x 72 in",
+                    "lowered_height_in": 14.25,
+                    "raised_height_in": 110.25,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TSL-60-096",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 48 to 48 x 72 in",
+                    "lowered_height_in": 21.25,
+                    "raised_height_in": 117.25,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TSL-30-120",
+                    "capacity_lbs": 3000,
+                    "platform": "30 x 60 to 48 x 84 in",
+                    "lowered_height_in": 14.25,
+                    "raised_height_in": 134.25,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TSL-60-120",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 60 to 48 x 84 in",
+                    "lowered_height_in": 21.25,
+                    "raised_height_in": 141.25,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TSL-30-144",
+                    "capacity_lbs": 3000,
+                    "platform": "48 x 72 to 60 x 96 in",
+                    "lowered_height_in": 19.25,
+                    "raised_height_in": 163.25,
+                    "notes": "144 in travel"
+                },
+                {
+                    "model": "TSL-60-144",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 72 to 60 x 96 in",
+                    "lowered_height_in": 22.25,
+                    "raised_height_in": 166.25,
+                    "notes": "144 in travel"
+                },
+                {
+                    "model": "TSL-30-180",
+                    "capacity_lbs": 3000,
+                    "platform": "60 x 96 to 84 x 120 in",
+                    "lowered_height_in": 42,
+                    "raised_height_in": 222,
+                    "notes": "180 in travel"
+                },
+                {
+                    "model": "TSL-60-180",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 96 to 84 x 120 in",
+                    "lowered_height_in": 42,
+                    "raised_height_in": 222,
+                    "notes": "180 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/extended-vertical-travel-scissor-lifts/tsl-triple-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-qsl-quad-scissor-models",
+            "title": "ECOA QSL Quad Scissor Models",
+            "line": "ecoa-extended-travel-scissor-lifts",
+            "menu_order": 30,
+            "excerpt": "4 models rated 3,000–6,000 lb, with 240–288 in. of travel.",
+            "models": [
+                {
+                    "model": "QSL-30-240",
+                    "capacity_lbs": 3000,
+                    "platform": "60 x 96 to 84 x 120 in",
+                    "lowered_height_in": 54,
+                    "raised_height_in": 294,
+                    "notes": "240 in travel"
+                },
+                {
+                    "model": "QSL-60-240",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 96 to 84 x 120 in",
+                    "lowered_height_in": 54,
+                    "raised_height_in": 294,
+                    "notes": "240 in travel"
+                },
+                {
+                    "model": "QSL-30-288",
+                    "capacity_lbs": 3000,
+                    "platform": "60 x 120 to 84 x 144 in",
+                    "lowered_height_in": 68,
+                    "raised_height_in": 356,
+                    "notes": "288 in travel"
+                },
+                {
+                    "model": "QSL-60-288",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 120 to 84 x 144 in",
+                    "lowered_height_in": 68,
+                    "raised_height_in": 356,
+                    "notes": "288 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/extended-vertical-travel-scissor-lifts/qsl-quad-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-magnum-mlt-models",
+            "title": "ECOA Magnum MLT Models",
+            "line": "ecoa-magnum-super-heavy-duty-scissor-lifts",
+            "menu_order": 10,
+            "excerpt": "16 models rated 15,000–30,000 lb, with 36–72 in. of travel.",
+            "models": [
+                {
+                    "model": "MLT-15-36",
+                    "capacity_lbs": 15000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 52,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLT-20-36",
+                    "capacity_lbs": 20000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLT-25-36",
+                    "capacity_lbs": 25000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLT-30-36",
+                    "capacity_lbs": 30000,
+                    "platform": "48 x 60 to 72 x 84 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLT-15-48",
+                    "capacity_lbs": 15000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLT-20-48",
+                    "capacity_lbs": 20000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLT-25-48",
+                    "capacity_lbs": 25000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLT-30-48",
+                    "capacity_lbs": 30000,
+                    "platform": "48 x 72 to 72 x 96 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLT-15-60",
+                    "capacity_lbs": 15000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLT-20-60",
+                    "capacity_lbs": 20000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLT-25-60",
+                    "capacity_lbs": 25000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLT-30-60",
+                    "capacity_lbs": 30000,
+                    "platform": "48 x 84 to 72 x 108 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLT-15-72",
+                    "capacity_lbs": 15000,
+                    "platform": "48 x 108 to 72 x 132 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "MLT-20-72",
+                    "capacity_lbs": 20000,
+                    "platform": "48 x 108 to 72 x 132 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "MLT-25-72",
+                    "capacity_lbs": 25000,
+                    "platform": "48 x 108 to 72 x 132 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "MLT-30-72",
+                    "capacity_lbs": 30000,
+                    "platform": "48 x 108 to 72 x 132 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mlt-series-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-magnum-mltdl-models",
+            "title": "ECOA Magnum MLTDL Double Long Models",
+            "line": "ecoa-magnum-super-heavy-duty-scissor-lifts",
+            "menu_order": 20,
+            "excerpt": "12 models, with 36–72 in. of travel.",
+            "models": [
+                {
+                    "model": "MLTDL-30-36",
+                    "platform": "48 x 120 to 72 x 168 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 52,
+                    "notes": "22,500 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "MLTDL-40-36",
+                    "platform": "48 x 120 to 72 x 168 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "30,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "MLTDL-60-36",
+                    "platform": "48 x 120 to 72 x 168 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "48,000 lb end/side capacity, 36 in travel"
+                },
+                {
+                    "model": "MLTDL-30-48",
+                    "platform": "48 x 144 to 72 x 192 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "22,500 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "MLTDL-40-48",
+                    "platform": "48 x 144 to 72 x 192 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "30,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "MLTDL-60-48",
+                    "platform": "48 x 144 to 72 x 192 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48,000 lb end/side capacity, 48 in travel"
+                },
+                {
+                    "model": "MLTDL-30-60",
+                    "platform": "48 x 168 to 72 x 216 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "22,500 lb end/side capacity, 60 in travel"
+                },
+                {
+                    "model": "MLTDL-40-60",
+                    "platform": "48 x 168 to 72 x 216 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "30,000 lb end/side capacity, 60 in travel"
+                },
+                {
+                    "model": "MLTDL-60-60",
+                    "platform": "48 x 168 to 72 x 216 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "48,000 lb end/side capacity, 60 in travel"
+                },
+                {
+                    "model": "MLTDL-30-72",
+                    "platform": "48 x 216 to 72 x 264 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "22,500 lb end/side capacity, 72 in travel"
+                },
+                {
+                    "model": "MLTDL-40-72",
+                    "platform": "48 x 216 to 72 x 264 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "30,000 lb end/side capacity, 72 in travel"
+                },
+                {
+                    "model": "MLTDL-60-72",
+                    "platform": "48 x 216 to 72 x 264 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "48,000 lb end/side capacity, 72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltdl-series-double-long-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-magnum-mltdw-models",
+            "title": "ECOA Magnum MLTDW Double Wide Models",
+            "line": "ecoa-magnum-super-heavy-duty-scissor-lifts",
+            "menu_order": 30,
+            "excerpt": "12 models rated 30,000–60,000 lb, with 36–72 in. of travel.",
+            "models": [
+                {
+                    "model": "MLTDW-30-36",
+                    "capacity_lbs": 30000,
+                    "platform": "96 x 60 to 120 x 84 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 52,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLTDW-40-36",
+                    "capacity_lbs": 40000,
+                    "platform": "96 x 60 to 120 x 84 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLTDW-60-30",
+                    "capacity_lbs": 60000,
+                    "platform": "96 x 60 to 120 x 84 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLTDW-30-48",
+                    "capacity_lbs": 30000,
+                    "platform": "96 x 72 to 120 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLTDW-40-48",
+                    "capacity_lbs": 40000,
+                    "platform": "96 x 72 to 120 x 96 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLTDW-60-48",
+                    "capacity_lbs": 60000,
+                    "platform": "96 x 72 to 120 x 96 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLTDW-30-60",
+                    "capacity_lbs": 30000,
+                    "platform": "96 x 84 to 120 x 108 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLTDW-40-60",
+                    "capacity_lbs": 40000,
+                    "platform": "96 x 84 to 120 x 108 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLTDW-60-60",
+                    "capacity_lbs": 60000,
+                    "platform": "96 x 84 to 120 x 108 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLTDW-30-72",
+                    "capacity_lbs": 30000,
+                    "platform": "96 x 108 to 120 x 132 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "MLTDW-40-72",
+                    "capacity_lbs": 40000,
+                    "platform": "96 x 108 to 120 x 132 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "MLTDW-60-72",
+                    "capacity_lbs": 60000,
+                    "platform": "96 x 108 to 120 x 132 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltdw-series-double-wide-scissor-lifts-2"
+            ]
+        },
+        {
+            "slug": "ecoa-magnum-mltqd-models",
+            "title": "ECOA Magnum MLTQD Double Wide Double Long Models",
+            "line": "ecoa-magnum-super-heavy-duty-scissor-lifts",
+            "menu_order": 40,
+            "excerpt": "8 models rated 80,000–120,000 lb, with 36–72 in. of travel.",
+            "models": [
+                {
+                    "model": "MLTQD-80-36",
+                    "capacity_lbs": 80000,
+                    "platform": "96 x 120 to 120 x 168 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLTQD-120-36",
+                    "capacity_lbs": 120000,
+                    "platform": "96 x 120 to 120 x 168 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 56,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "MLTQD-80-48",
+                    "capacity_lbs": 80000,
+                    "platform": "96 x 144 to 120 x 192 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLTQD-120-48",
+                    "capacity_lbs": 120000,
+                    "platform": "96 x 144 to 120 x 192 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 68,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "MLTQD-80-60",
+                    "capacity_lbs": 80000,
+                    "platform": "96 x 168 to 120 x 216 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLTQD-120-60",
+                    "capacity_lbs": 120000,
+                    "platform": "96 x 168 to 120 x 216 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 80,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "MLTQD-80-30",
+                    "capacity_lbs": 80000,
+                    "platform": "96 x 216 to 120 x 264 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "MLTQD-120-30",
+                    "capacity_lbs": 120000,
+                    "platform": "96 x 216 to 120 x 264 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://prestolifts.com/products/ecoa-equipment/magnum-super-heavy-duty-scissor-lifts/mltqd-series-double-wide-double-long-scissor-lifts-2"
+            ]
+        }
+    ]
+}
