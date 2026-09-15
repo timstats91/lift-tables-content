@@ -589,6 +589,3554 @@
         "pentalift-12l-series-lift-tables"
       ],
       "note": "Pentalift publishes this as a generic manual for general information. For the manual that applies to a particular lift, Pentalift asks for its serial number."
+    },
+    {
+      "file": "beacon-industries/Tilters-BEHTT_BEHLTT-L_BUNI_BAIR-THL.pdf",
+      "title": "Electric hydraulic tilters (BEHTT, BEHLTT-L, BUNI, BAIR-THL) brochure",
+      "type": "brochure",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/lift-and-tilt-table/",
+      "original": "https://www.beacontechnology.com/PDF/Tilters-BEHTT_BEHLTT-L_BUNI_BAIR-THL.pdf",
+      "lines": [
+        "beacon-buni-lift-and-tilt-tables",
+        "beacon-behtt-tilt-platforms"
+      ]
+    },
+    {
+      "file": "beacon-industries/Elevating_Carts.pdf",
+      "title": "Ergonomic hydraulic elevating carts brochure",
+      "type": "brochure",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/hydraulic-lift-cart/",
+      "original": "https://www.beacontechnology.com/PDF/Elevating_Carts.pdf",
+      "lines": [
+        "beacon-foot-pump-scissor-lift-carts",
+        "beacon-dc-powered-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLT-Tech-Sheet.pdf",
+      "title": "BEHLT Series hydraulic lift engineer’s specifications",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLT-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-behlt-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BCDL-Tech-Sheet.pdf",
+      "title": "BCDL Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/small-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BCDL-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bcdl-small-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLTD-Tech-Sheet.pdf",
+      "title": "BEHLTD Series double scissor table engineer’s specifications",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/double-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLTD-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-behltd-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLTG-Tech-Sheet.pdf",
+      "title": "BEHLTG Series ground scissor lift table engineer’s specifications",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/ground-lift-table/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLTG-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-behltg-ground-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BHLTTL-Tech-Sheet.pdf",
+      "title": "BHLTTL Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/scissor-lift-table/",
+      "original": "https://www.beacontechnology.com/PDF/BHLTTL-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bhlttl-tandem-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLT-Tech-Sheet.pdf",
+      "title": "BMLT Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift-table/",
+      "original": "https://www.beacontechnology.com/PDF/BMLT-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLTDL-Tech-Sheet.pdf",
+      "title": "BMLTDL Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-platform-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BMLTDL-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLTDW-Tech-Sheet.pdf",
+      "title": "BMLTDW Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/heavy-capacity-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BMLTDW-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLTQD-Tech-Sheet.pdf",
+      "title": "BMLTQD Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/heavy-duty-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BMLTQD-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BDSL-Tech-Sheet.pdf",
+      "title": "BDSL Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/upright-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BDSL-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BTSL-Tech-Sheet.pdf",
+      "title": "BTSL Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/electric-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BTSL-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BQSL-Tech-Sheet.pdf",
+      "title": "BQSL Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/tall-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BQSL-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLTT-Tech-Sheet.pdf",
+      "title": "BEHLTT Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/lift-tilt-table/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLTT-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-behltt-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BZLTT-Tech-Sheet.pdf",
+      "title": "BZLTT Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/ground-lift-and-tilt/",
+      "original": "https://www.beacontechnology.com/PDF/BZLTT-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bzltt-ground-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BHTT-Tech-Sheet.pdf",
+      "title": "BHTT Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/hydraulic-tilt-table/",
+      "original": "https://www.beacontechnology.com/PDF/BHTT-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bhtt-hydraulic-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEM1-Tech-Sheet.pdf",
+      "title": "BEM1 Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/industrial-tilt-table/",
+      "original": "https://www.beacontechnology.com/PDF/BEM1-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bem1-industrial-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEMC-BAIR-Tech-Sheet.pdf",
+      "title": "BEMC and BAIR Series corner tilters spec sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/corner-tilting/",
+      "original": "https://www.beacontechnology.com/PDF/BEMC-BAIR-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bemc-corner-tilters"
+      ]
+    },
+    {
+      "file": "beacon-industries/BSCTAB-Tech-Sheet.pdf",
+      "title": "BSCTAB Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/mobile-elevating-table/",
+      "original": "https://www.beacontechnology.com/PDF/BSCTAB-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-foot-pump-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BPST-Tech-Sheet.pdf",
+      "title": "BPST Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/portable-lift-table/",
+      "original": "https://www.beacontechnology.com/PDF/BPST-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-bpst-portable-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BSCSC-Tech-Sheet.pdf",
+      "title": "BSCSC Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/scissor-cart/",
+      "original": "https://www.beacontechnology.com/PDF/BSCSC-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-self-elevating-spring-carts-and-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BETS-Tech-Sheet.pdf",
+      "title": "BETS Series tech sheet",
+      "type": "spec_sheet",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/self-elevating-table/",
+      "original": "https://www.beacontechnology.com/PDF/BETS-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-self-elevating-spring-carts-and-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BTSL-60-144-EP-Quick-Start-Guide.pdf",
+      "title": "BTSL-60-144 electric scissor lift quick start guide",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/electric-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BTSL-60-144-EP-Quick%20Start%20Guide.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BUNI-Owners-Manual.pdf",
+      "title": "BUNI Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/lift-and-tilt-table/",
+      "original": "https://www.beacontechnology.com/OWNERS/BUNI-Owners-Manual.pdf",
+      "lines": [
+        "beacon-buni-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLTT-Owners-Manual.pdf",
+      "title": "BEHLTT Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/lift-tilt-table/",
+      "original": "https://www.beacontechnology.com/OWNERS/BEHLTT-Owners-Manual.pdf",
+      "lines": [
+        "beacon-behltt-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BZLTT-Owners-Manual.pdf",
+      "title": "BZLTT Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/ground-lift-and-tilt/",
+      "original": "https://www.beacontechnology.com/OWNERS/BZLTT-Owners-Manual.pdf",
+      "lines": [
+        "beacon-bzltt-ground-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BGLT-4000-Owners-Manual.pdf",
+      "title": "BGLT-4000 owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/ground-tilters/",
+      "original": "https://www.beacontechnology.com/OWNERS/BGLT-4000-Owners-Manual.pdf",
+      "lines": [
+        "beacon-bglt-ground-tilters"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEM1-Owners-Manual.pdf",
+      "title": "BEM1 Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/industrial-tilt-table/",
+      "original": "https://www.beacontechnology.com/OWNERS/BEM1-Owners-Manual.pdf",
+      "lines": [
+        "beacon-bem1-industrial-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BSCTAB-Owners-Manual.pdf",
+      "title": "BSCTAB Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/mobile-elevating-table/",
+      "original": "https://www.beacontechnology.com/OWNERS/BSCTAB-Owners-Manual.pdf",
+      "lines": [
+        "beacon-foot-pump-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BCART-1500D-DC-CTD.pdf",
+      "title": "Powered drive and powered lift hydraulic scissor carts instruction manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/powered-lift-cart/",
+      "original": "https://www.beacontechnology.com/OWNERS/BCART-1500D-DC-CTD.pdf",
+      "lines": [
+        "beacon-bcart-dc-ctd-powered-drive-lift-carts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BSCSC-Owners-Manual.pdf",
+      "title": "BSCSC Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/scissor-cart/",
+      "original": "https://www.beacontechnology.com/OWNERS/BSCSC-Owners-Manual.PDF",
+      "lines": [
+        "beacon-self-elevating-spring-carts-and-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BETS-Owners-Manual.pdf",
+      "title": "BETS Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/self-elevating-table/",
+      "original": "https://www.beacontechnology.com/OWNERS/BETS-Owners-Manual.pdf",
+      "lines": [
+        "beacon-self-elevating-spring-carts-and-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BABLT-Owners-Manual.pdf",
+      "title": "BABLT Series owner’s manual",
+      "type": "manual",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/air-lift-table/",
+      "original": "https://www.beacontechnology.com/OWNERS/BABLT-Owners-Manual.pdf",
+      "lines": [
+        "beacon-pneumatic-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/anchor-install.pdf",
+      "title": "Installing masonry anchors",
+      "type": "installation",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift/",
+      "original": "https://www.beacontechnology.com/PDF-Installation/anchor-install.pdf",
+      "lines": [
+        "beacon-behlt-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BACC-BSSK-Installation.pdf",
+      "title": "BSSK accordion skirt kit owner’s manual",
+      "type": "installation",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift/",
+      "original": "https://www.beacontechnology.com/PDF-Installation/BACC-BSSK-Installation.pdf",
+      "lines": [
+        "beacon-behlt-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLT-Owners-Manual-3.pdf",
+      "title": "BEHLT Series lift table parts list",
+      "type": "parts",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift/",
+      "original": "https://www.beacontechnology.com/OWNERS/BEHLT-Owners-Manual-3.pdf",
+      "lines": [
+        "beacon-behlt-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLT-Tech-Sheet-3.pdf",
+      "title": "BEHLT Series lift table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLT-Tech-Sheet-3.pdf",
+      "lines": [
+        "beacon-behlt-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLTS-Tech-Sheet-2.pdf",
+      "title": "BEHLTS Series hydraulic scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLTS-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-compact-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BCDL-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BCDL Series small scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/small-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BCDL-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-bcdl-small-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLTD-Tech-Sheet-2.pdf",
+      "title": "BEHLTD Series double scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/double-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLTD-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-behltd-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHU-Tech-Sheet.pdf",
+      "title": "BEHU Series adjustable U table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/stationary-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BEHU-Tech-Sheet.pdf",
+      "lines": [
+        "beacon-behu-u-shaped-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHLTG-Tech-Sheet-2.pdf",
+      "title": "BEHLTG Series ground lift table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/ground-lift-table/",
+      "original": "https://www.beacontechnology.com/PDF/BEHLTG-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-behltg-ground-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BHLTTL-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BHLTTL Series scissor lift table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/scissor-lift-table/",
+      "original": "https://www.beacontechnology.com/PDF/BHLTTL-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-bhlttl-tandem-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLT-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BMLT Series hydraulic lift table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift-table/",
+      "original": "https://www.beacontechnology.com/PDF/BMLT-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLTDL-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BMLTDL Series long scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-platform-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BMLTDL-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLTDW-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BMLTDW Series heavy capacity scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/heavy-capacity-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BMLTDW-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BMLTQD-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BMLTQD Series heavy duty scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/heavy-duty-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BMLTQD-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-bmlt-heavy-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BDSL-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BDSL Series upright scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/upright-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BDSL-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BTSL-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BTSL Series electric scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/electric-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BTSL-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BQSL-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BQSL Series tall scissor lift customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/tall-scissor-lift/",
+      "original": "https://www.beacontechnology.com/PDF/BQSL-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BCLTPB-Scissor-Lift-Survey-Sheet.pdf",
+      "title": "BCLTPB Series dual scissor lifts customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/scissor-lift/scissor-lift-mechanism/",
+      "original": "https://www.beacontechnology.com/PDF/BCLTPB-Scissor-Lift-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-high-travel-scissor-lifts"
+      ]
+    },
+    {
+      "file": "beacon-industries/BUNI-Tech-Sheet-2.pdf",
+      "title": "BUNI Series lift and tilt table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/lift-and-tilt-table/",
+      "original": "https://www.beacontechnology.com/PDF/BUNI-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-buni-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/Tilt-Table-Survey-Sheet.pdf",
+      "title": "Tilt table survey sheet",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/hydraulic-tilt-table/",
+      "original": "https://www.beacontechnology.com/PDF/Tilt-Table-Survey-Sheet.pdf",
+      "lines": [
+        "beacon-bhtt-hydraulic-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEHTT-Tech-Sheet-2.pdf",
+      "title": "BEHTT Series tilt platform customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/tilt-platform/",
+      "original": "https://www.beacontechnology.com/PDF/BEHTT-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-behtt-tilt-platforms"
+      ]
+    },
+    {
+      "file": "beacon-industries/BEM1-Tech-Sheet-2.pdf",
+      "title": "BEM1 Series industrial tilt table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/industrial-tilt-table/",
+      "original": "https://www.beacontechnology.com/PDF/BEM1-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-bem1-industrial-tilt-tables"
+      ]
+    },
+    {
+      "file": "beacon-industries/BBTT-Tech-Sheet-2.pdf",
+      "title": "BBTT Series bench top tilters customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/tilt-table/bench-top-tilters/",
+      "original": "https://www.beacontechnology.com/PDF/BBTT-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-bbtt-bench-top-tilters"
+      ]
+    },
+    {
+      "file": "beacon-industries/BSCTAB-Tech-Sheet-2.pdf",
+      "title": "BSCTAB Series mobile elevating table customer survey",
+      "type": "form",
+      "credit": "Beacon",
+      "source": "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/mobile-elevating-table/",
+      "original": "https://www.beacontechnology.com/PDF/BSCTAB-Tech-Sheet-2.pdf",
+      "lines": [
+        "beacon-foot-pump-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "air-technical-industries/ZL-manual.pdf",
+      "title": "Zero-Low Lift Table manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/zero-low-scissors-lift-tables/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/07/ZL-manual.pdf",
+      "lines": [
+        "ati-zero-low-lift-tables",
+        "ati-low-profile-zero-low-lift-tables",
+        "ati-zero-low-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "air-technical-industries/ZL3P-MANUAL.pdf",
+      "title": "Zero-Low 3-Point Entry Lift Table operation & maintenance manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/zero-low-3-point-entry-lift-tables-2/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/03/ZL3P-MANUAL.pdf",
+      "lines": [
+        "ati-zero-low-3-point-entry-lift-tables"
+      ]
+    },
+    {
+      "file": "air-technical-industries/SLL-SLI-SLH.pdf",
+      "title": "SLL, SLI and SLH Hydraulic Lift Tables manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/hydraulic-lift-table/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/03/SLL-SLI-SLH.pdf",
+      "lines": [
+        "ati-hydraulic-lift-tables"
+      ]
+    },
+    {
+      "file": "air-technical-industries/MSL-DMSL-manual.pdf",
+      "title": "MSL and DMSL Mini Scissor Lift manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/mini-scissors-lift-tables/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/07/MSL-DMSL-manual.pdf",
+      "lines": [
+        "ati-mini-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "air-technical-industries/SLTD.pdf",
+      "title": "Tandem Scissor Lift operation & maintenance manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/tandem-scissors-lift-table/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/03/SLTD.pdf",
+      "lines": [
+        "ati-tandem-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "air-technical-industries/DSL-MANUAL.pdf",
+      "title": "Double Scissor Lift parts and service manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/double-scissors-lift-tables/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/03/DSL-MANUAL.pdf",
+      "lines": [
+        "ati-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "air-technical-industries/SLTT.pdf",
+      "title": "SLTT Lift and Tilt Table manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/lift-and-tilt-tables/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/03/SLTT.pdf",
+      "lines": [
+        "ati-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "air-technical-industries/SCP-manual.pdf",
+      "title": "SCP Crate Positioner manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/crate-positioner-upender-tilt-table/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/02/SCP-manual.pdf",
+      "lines": [
+        "ati-crate-positioners"
+      ]
+    },
+    {
+      "file": "air-technical-industries/LT-manual.pdf",
+      "title": "Post Lift Table parts and service manual",
+      "type": "manual",
+      "credit": "Air Technical Industries",
+      "source": "https://airtechnical.com/product/post-lift-tables/",
+      "original": "https://airtechnical.com/wp-content/uploads/2022/03/LT-manual.pdf",
+      "lines": [
+        "ati-post-lift-tables"
+      ]
+    },
+    {
+      "file": "bishamon/Alpha-Literature-Full-View.pdf",
+      "title": "Alpha Series next generation lift tables brochure",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/alpha/",
+      "original": "https://bishamon.com/wp-content/uploads/2026/07/Alpha-Literature-Full-View.pdf",
+      "lines": [
+        "bishamon-alpha-series"
+      ]
+    },
+    {
+      "file": "bishamon/Lift-Table-EZ-UP-EZU.pdf",
+      "title": "EZ-UP pneumatic lift table literature",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/ezup-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2022/08/Lift-Table-EZ-UP-EZU.pdf",
+      "lines": [
+        "bishamon-ez-up-series"
+      ]
+    },
+    {
+      "file": "bishamon/Lift-Table-LoProfile-LX.pdf",
+      "title": "LoProfile LX Series lift tables literature",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/loprofile-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/07/Lift-Table-LoProfile-LX.pdf",
+      "lines": [
+        "bishamon-loprofile-lx-series"
+      ]
+    },
+    {
+      "file": "bishamon/Lift-Table-CompacLift-X-Series.pdf",
+      "title": "CompacLift X Series scissor lift tables literature",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/compaclift-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/07/Lift-Table-CompacLift-X-Series.pdf",
+      "lines": [
+        "bishamon-compaclift-x-series"
+      ]
+    },
+    {
+      "file": "bishamon/Lift-Table-Mobilift-BX-BXB.pdf",
+      "title": "MobiLift BX & BXB mobile lift tables literature",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/mobilift-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/07/Lift-Table-Mobilift-BX-BXB.pdf",
+      "lines": [
+        "bishamon-mobilift-series"
+      ]
+    },
+    {
+      "file": "bishamon/Pallet-Positioner-EZ-Loader.pdf",
+      "title": "EZ Loader pallet positioner literature",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/ez-loader-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/07/Pallet-Positioner-EZ-Loader.pdf",
+      "lines": [
+        "bishamon-ez-loader"
+      ]
+    },
+    {
+      "file": "bishamon/Pallet-Positioner-EZ-Off-Lifter.pdf",
+      "title": "EZ-Off Lifter literature",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/ezoff-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/07/Pallet-Positioner-EZ-Off-Lifter.pdf",
+      "lines": [
+        "bishamon-ez-off-lifter"
+      ]
+    },
+    {
+      "file": "bishamon/Mobile-Handling-Mobileveler-ESX.pdf",
+      "title": "ESX MobiLeveler literature",
+      "type": "brochure",
+      "credit": "Bishamon",
+      "source": "https://bishamon.com/mobileveleresx-en/",
+      "original": "https://bishamon.com/wp-content/uploads/2020/07/Mobile-Handling-Mobileveler-ESX.pdf",
+      "lines": [
+        "bishamon-mobileveler-esx"
+      ]
+    },
+    {
+      "file": "lange-lift/Lange-Lift-Product-Catalog-v6.pdf",
+      "title": "Lange Lift product catalog",
+      "type": "catalog",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/manual-hydraulic-lift-tables-main/",
+      "original": "https://langelift.com/wp-content/uploads/2024/04/Lange-Lift-Product-Catalog-v6.pdf",
+      "lines": [
+        "lange-lift-manual-lift-tables",
+        "lange-lift-electric-lift-tables",
+        "lange-lift-battery-lift-tables",
+        "lange-lift-air-lift-tables",
+        "lange-lift-modified-custom-lifts"
+      ]
+    },
+    {
+      "file": "lange-lift/Lange-Lift-Brochure-v2.pdf",
+      "title": "Lange Lift product brochure",
+      "type": "brochure",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/manual-hydraulic-lift-tables-main/",
+      "original": "https://langelift.com/wp-content/uploads/2024/04/Lange-Lift-Brochure-v2.pdf",
+      "lines": [
+        "lange-lift-manual-lift-tables",
+        "lange-lift-electric-lift-tables",
+        "lange-lift-battery-lift-tables",
+        "lange-lift-air-lift-tables",
+        "lange-lift-modified-custom-lifts"
+      ]
+    },
+    {
+      "file": "lange-lift/Lange-Lift-Modified-Custom-Lift-Brochure-v1.pdf",
+      "title": "Modified & Custom Lift Solutions brochure",
+      "type": "brochure",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/",
+      "original": "https://www.langelift.com/wp-content/uploads/2020/03/Lange-Lift-Modified-Custom-Lift-Brochure-v1.pdf",
+      "lines": [
+        "lange-lift-modified-custom-lifts"
+      ]
+    },
+    {
+      "file": "lange-lift/L-136-EP-Specification-Sheet-v3.pdf",
+      "title": "L-136-EP electric lift table specification sheet",
+      "type": "spec_sheet",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/",
+      "original": "https://langelift.com/wp-content/uploads/2023/04/L-136-EP-Specification-Sheet-v3.pdf",
+      "lines": [
+        "lange-lift-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "lange-lift/L-236-EP-Specification-Sheet-v3.pdf",
+      "title": "L-236-EP electric lift table specification sheet",
+      "type": "spec_sheet",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/",
+      "original": "https://langelift.com/wp-content/uploads/2023/04/L-236-EP-Specification-Sheet-v3.pdf",
+      "lines": [
+        "lange-lift-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "lange-lift/L-336-EP-Specification-Sheet-v3.pdf",
+      "title": "L-336-EP electric lift table specification sheet",
+      "type": "spec_sheet",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/",
+      "original": "https://langelift.com/wp-content/uploads/2023/04/L-336-EP-Specification-Sheet-v3.pdf",
+      "lines": [
+        "lange-lift-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "lange-lift/L-436-EP-Specification-Sheet-v3.pdf",
+      "title": "L-436-EP electric lift table specification sheet",
+      "type": "spec_sheet",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/",
+      "original": "https://langelift.com/wp-content/uploads/2023/04/L-436-EP-Specification-Sheet-v3.pdf",
+      "lines": [
+        "lange-lift-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "lange-lift/L-536-EP-Specification-Sheet-v3.pdf",
+      "title": "L-536-EP electric lift table specification sheet",
+      "type": "spec_sheet",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/electric-powered-hydraulic-lift-tables/36-electric-powered-hydraulic-lift-tables/",
+      "original": "https://langelift.com/wp-content/uploads/2023/04/L-536-EP-Specification-Sheet-v3.pdf",
+      "lines": [
+        "lange-lift-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "lange-lift/Lange-Lift-Product-Manual-v3.pdf",
+      "title": "Lange Lift product manual",
+      "type": "manual",
+      "credit": "Lange Lift",
+      "source": "https://www.langelift.com/manual-hydraulic-lift-tables-main/",
+      "original": "https://langelift.com/wp-content/uploads/2024/04/Lange-Lift-Product-Manual-v3.pdf",
+      "lines": [
+        "lange-lift-manual-lift-tables",
+        "lange-lift-electric-lift-tables",
+        "lange-lift-battery-lift-tables",
+        "lange-lift-air-lift-tables",
+        "lange-lift-modified-custom-lifts"
+      ]
+    },
+    {
+      "file": "lift-products/max-lift.pdf",
+      "title": "Max-Lift scissor lift tables literature",
+      "type": "brochure",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/max_lift.html",
+      "original": "https://cdn.liftproducts.com/pdf/max-lift.pdf",
+      "lines": [
+        "lift-products-max-lift-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "lift-products/roto-max.pdf",
+      "title": "Roto-Max Work Positioner literature",
+      "type": "brochure",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/rotating/roto_max.html",
+      "original": "https://cdn.liftproducts.com/pdf/roto-max.pdf",
+      "lines": [
+        "lift-products-roto-max-work-positioners"
+      ]
+    },
+    {
+      "file": "lift-products/lift-n-spin.pdf",
+      "title": "Guardian “Lift ’n Spin” Low Profile Lift Tables literature",
+      "type": "brochure",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/rotating/guardian_lift_spin.html",
+      "original": "https://cdn.liftproducts.com/pdf/lift-n-spin.pdf",
+      "lines": [
+        "lift-products-guardian-lift-n-spin"
+      ]
+    },
+    {
+      "file": "lift-products/g-series-manual.pdf",
+      "title": "2G & 3G Light Duty Lift Tables service manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/2G-3G.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/g-series-manual.pdf",
+      "lines": [
+        "lift-products-g-series-lift-tables"
+      ]
+    },
+    {
+      "file": "lift-products/max-lift-manual.pdf",
+      "title": "Max-Lift manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/max_lift.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/max-lift-manual.pdf",
+      "lines": [
+        "lift-products-max-lift-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "lift-products/lpmc-manual.pdf",
+      "title": "LPMC-24V self-propelled lift cart manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/mobile/lpmc.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/lpmc-manual.pdf",
+      "lines": [
+        "lift-products-lpmc-self-propelled-lift-carts"
+      ]
+    },
+    {
+      "file": "lift-products/roto-max-manual.pdf",
+      "title": "Roto-Max Work Positioner operation and maintenance manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/rotating/roto_max.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/roto-max-manual.pdf",
+      "lines": [
+        "lift-products-roto-max-work-positioners"
+      ]
+    },
+    {
+      "file": "lift-products/lift-n-spin-manual.pdf",
+      "title": "Guardian Series Lift Tables service manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/rotating/guardian_lift_spin.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/lift-n-spin-manual.pdf",
+      "lines": [
+        "lift-products-guardian-lift-n-spin"
+      ]
+    },
+    {
+      "file": "lift-products/lpble-manual.pdf",
+      "title": "Guardian Series Lift Tables service manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/lowprofile/elift.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/lpble-manual.pdf",
+      "lines": [
+        "lift-products-guardian-e-lift-tables"
+      ]
+    },
+    {
+      "file": "lift-products/level-lifter-manual.pdf",
+      "title": "Level Lifter Ground Entry Lift Table service manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/lifttables/groundentry/level_lifter.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/level-lifter-manual.pdf",
+      "lines": [
+        "lift-products-level-lifter-ground-entry-lift-tables"
+      ]
+    },
+    {
+      "file": "lift-products/ergo-tilter-manual.pdf",
+      "title": "Maxx Ergo Tilter Series service and operating manual",
+      "type": "manual",
+      "credit": "Lift Products",
+      "source": "https://www.liftproducts.com/tilters/max-ergo-tilter.html",
+      "original": "https://cdn.liftproducts.com/pdf/manuals/ergo-tilter-manual.pdf",
+      "lines": [
+        "lift-products-maxx-ergo-tilters"
+      ]
+    },
+    {
+      "file": "southworth-products/26-SOUTHWORTH-FULL-Brochure.pdf",
+      "title": "Southworth lifting, positioning and transporting solutions catalog",
+      "type": "catalog",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/06/26-SOUTHWORTH-FULL-Brochure.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-manual-dandy-lift-tables",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-dandy-levelers",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables",
+        "southworth-fixed-height-tilters",
+        "southworth-pan-style-container-tilters",
+        "southworth-portable-container-tilters",
+        "southworth-roll-on-container-tilters",
+        "southworth-palletpal-360-level-loaders",
+        "southworth-powered-palletpal-levelers",
+        "southworth-palletpal-roll-in-level-loaders",
+        "southworth-palletpal-roll-on-level-loaders",
+        "southworth-stackbox-positioners"
+      ]
+    },
+    {
+      "file": "southworth-products/26-SOUTHWORTH-LIFT-TABLES-Brochure.pdf",
+      "title": "Lift Tables brochure",
+      "type": "brochure",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/06/26-SOUTHWORTH-LIFT-TABLES-Brochure.pdf",
+      "lines": [
+        "southworth-backsaver-hydraulic-lift-tables",
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables",
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables",
+        "southworth-l-series-cam-lift-tables",
+        "southworth-heavy-duty-hydraulic-lift-tables",
+        "southworth-spacesaver-high-rise-lift-tables",
+        "southworth-stainless-steel-lift-tables",
+        "southworth-pneumatic-lift-tables",
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-flush-mount-turntable-lifts",
+        "southworth-manual-dandy-lift-tables",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-dandy-levelers",
+        "southworth-lift-and-tilt-tables",
+        "southworth-low-profile-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/26-SOUTHWORTH-LOW-PRO-Brochure.pdf",
+      "title": "Low-Profile Lift Tables and Levelers brochure",
+      "type": "brochure",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/floor-height-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/06/26-SOUTHWORTH-LOW-PRO-Brochure.pdf",
+      "lines": [
+        "southworth-floor-height-lift-tables",
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-low-profile-lift-and-tilt-tables",
+        "southworth-palletpal-roll-in-level-loaders",
+        "southworth-palletpal-roll-on-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/24-SOUTH-0934-DANDY-LIFTS-Brochure-1205.pdf",
+      "title": "Dandy Lifts brochure",
+      "type": "brochure",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/manual-dandy-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/06/24-SOUTH-0934-DANDY-LIFTS-Brochure-1205.pdf",
+      "lines": [
+        "southworth-manual-dandy-lift-tables",
+        "southworth-powered-dandy-lift-tables",
+        "southworth-dandy-levelers"
+      ]
+    },
+    {
+      "file": "southworth-products/26-SOUTHWORTH-CONTAINER-ACCESS-Brochure.pdf",
+      "title": "Container Access Solutions brochure",
+      "type": "brochure",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/low-profile-lift-and-tilt-table/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/06/26-SOUTHWORTH-CONTAINER-ACCESS-Brochure.pdf",
+      "lines": [
+        "southworth-low-profile-lift-and-tilt-tables",
+        "southworth-fixed-height-tilters",
+        "southworth-pan-style-container-tilters",
+        "southworth-portable-container-tilters",
+        "southworth-roll-on-container-tilters",
+        "southworth-stackbox-positioners"
+      ]
+    },
+    {
+      "file": "southworth-products/26-SOUTHWORTH-PALLET-HANDLING-Brochure.pdf",
+      "title": "Pallet Handling brochure",
+      "type": "brochure",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-360/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/06/26-SOUTHWORTH-PALLET-HANDLING-Brochure.pdf",
+      "lines": [
+        "southworth-palletpal-360-level-loaders",
+        "southworth-powered-palletpal-levelers",
+        "southworth-palletpal-roll-in-level-loaders",
+        "southworth-palletpal-roll-on-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/backsaver_lite.pdf",
+      "title": "Backsaver Lite Lifts owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/backsaver-lite-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/backsaver_lite.pdf",
+      "lines": [
+        "southworth-backsaver-lite-lift-tables",
+        "southworth-backsaver-lite-portable-lift-tables",
+        "southworth-backsaver-compact-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/LS_CBL_GCE_LEG_SERIES_December_11_2023.pdf",
+      "title": "LS Series (LSX-24, LSX-36, LSX-48) owner’s manual, machines shipped from June 2023",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/LS_CBL_GCE_LEG_SERIES_December_11_2023.pdf",
+      "lines": [
+        "southworth-ls-series-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/LS_Manual.pdf",
+      "title": "LS Series Lift Tables (LS, LSD, LST, LSW & PPH) owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/LS_Manual.pdf",
+      "lines": [
+        "southworth-ls-series-lift-tables",
+        "southworth-lsd-series-dual-lift-tables",
+        "southworth-lst-series-tandem-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/LSH_series_Mar2017.pdf",
+      "title": "LSH Series Lift Tables owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/LSH_series_Mar2017.pdf",
+      "lines": [
+        "southworth-ls-series-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/ssls2_5_27_ssls4_27_owners_manual.pdf",
+      "title": "SSLS2.5-37 & SSLS4-27 Series Lift Tables owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/stainless-steel-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/ssls2_5_27_ssls4_27_owners_manual.pdf",
+      "lines": [
+        "southworth-stainless-steel-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Pneumatic-Lift-Aug2017.pdf",
+      "title": "Air Bag Lift Tables (PPA, GTA, GLSA & GLTA) owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/pneumatic-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Pneumatic-Lift-Aug2017.pdf",
+      "lines": [
+        "southworth-pneumatic-lift-tables",
+        "southworth-low-profile-lift-and-tilt-tables",
+        "southworth-fixed-height-tilters",
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/zls_series.pdf",
+      "title": "ZLS Series Floor Height Lift Tables owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/floor-height-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/zls_series.pdf",
+      "lines": [
+        "southworth-floor-height-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/ssfh2.5_37_manual.pdf",
+      "title": "SSFH2.5-37 Floor Height Lift Table owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/floor-height-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/ssfh2.5_37_manual.pdf",
+      "lines": [
+        "southworth-floor-height-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Low_Profile_Lifts_10-16.pdf",
+      "title": "Low Profile Lifts owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/liftmat-low-profile-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Low_Profile_Lifts_10-16.pdf",
+      "lines": [
+        "southworth-liftmat-low-profile-lift-tables",
+        "southworth-palletpal-roll-in-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Dandy_Lift_-_New_Style.pdf",
+      "title": "Dandy Lift owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/manual-dandy-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Dandy_Lift_-_New_Style.pdf",
+      "lines": [
+        "southworth-manual-dandy-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Powered_Dandy_Rev_9-16.pdf",
+      "title": "Powered Dandy Lifts (PLM-100, PLM-100W, PLM-150, PLM-150W) owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/powered-dandy-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Powered_Dandy_Rev_9-16.pdf",
+      "lines": [
+        "southworth-powered-dandy-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/Powered_Dandy-PLM_250_Rev_9-16.pdf",
+      "title": "Powered Dandy PLM 250 owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/powered-dandy-lift-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Powered_Dandy-PLM_250_Rev_9-16.pdf",
+      "lines": [
+        "southworth-powered-dandy-lift-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/dandy_leveler___new_style.pdf",
+      "title": "Dandy Leveler UDLV-150 & UDLV-500 owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/dandy-levelers/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/dandy_leveler___new_style.pdf",
+      "lines": [
+        "southworth-dandy-levelers"
+      ]
+    },
+    {
+      "file": "southworth-products/lift_and_tilt.pdf",
+      "title": "Hydraulic Lift & Tilt owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/lift-tilt-tables/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/lift_and_tilt.pdf",
+      "lines": [
+        "southworth-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "southworth-products/ztu.pdf",
+      "title": "ZTU and ZTU Pan E-Z Reach Container Tilters owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/pan-style-container-tilters/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/ztu.pdf",
+      "lines": [
+        "southworth-pan-style-container-tilters",
+        "southworth-roll-on-container-tilters"
+      ]
+    },
+    {
+      "file": "southworth-products/Portable-Container-Tilter_PTU2.pdf",
+      "title": "PTU2-85 E-Z Reach Portable Container Tilter owner’s manual, machines shipped from October 2025",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/portable-container-tilters/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2025/10/Portable-Container-Tilter_PTU2.pdf",
+      "lines": [
+        "southworth-portable-container-tilters"
+      ]
+    },
+    {
+      "file": "southworth-products/PTU-2-Sept2017.pdf",
+      "title": "PTU-2 Series E-Z Reach Portable Container Tilter operating and maintenance manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/portable-container-tilters/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/PTU-2-Sept2017.pdf",
+      "lines": [
+        "southworth-portable-container-tilters"
+      ]
+    },
+    {
+      "file": "southworth-products/ptu_4.pdf",
+      "title": "PTU-4 Series E-Z Reach Portable Container Tilter operating and maintenance manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/portable-container-tilters/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/ptu_4.pdf",
+      "lines": [
+        "southworth-portable-container-tilters"
+      ]
+    },
+    {
+      "file": "southworth-products/PPal-360-Spring_April-11-2025.pdf",
+      "title": "PalletPal 360 Spring Load Leveler owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-360/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/PPal-360-Spring_April-11-2025.pdf",
+      "lines": [
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Pallet_Pal_360_Air_March_6_2020.pdf",
+      "title": "PalletPal 360 Air owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-360-air/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Pallet_Pal_360_Air_March_6_2020.pdf",
+      "lines": [
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/PalletPal-Spring-II-and-SST-11_2016.pdf",
+      "title": "PalletPal Spring Load Leveler, PalletPal II and stainless steel units owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/stainless-steel-palletpal/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2025/06/PalletPal-Spring-II-and-SST-11_2016.pdf",
+      "lines": [
+        "southworth-palletpal-360-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Roll_C_June_5_2019.pdf",
+      "title": "Roll-On Load Leveler owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-roll-on-level-loader/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Roll_C_June_5_2019.pdf",
+      "lines": [
+        "southworth-palletpal-roll-on-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/Roll-C_TT_March_21_2019.pdf",
+      "title": "ROLLCTT 2.5-28 owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/palletpal-roll-on-leveler-with-turntable/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/Roll-C_TT_March_21_2019.pdf",
+      "lines": [
+        "southworth-palletpal-roll-on-level-loaders"
+      ]
+    },
+    {
+      "file": "southworth-products/stackbox.pdf",
+      "title": "Stackbox owner’s manual",
+      "type": "manual",
+      "credit": "Southworth",
+      "source": "https://www.southworthproducts.com/products/stackbox-positioners/",
+      "original": "https://www.southworthproducts.com/wp-content/uploads/2024/07/stackbox.pdf",
+      "lines": [
+        "southworth-stackbox-positioners"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-and-Galvanized-Combo-Tilters-1_0d8e0472-04fd-4313-a87e-508a1a25294d.pdf",
+      "title": "Stainless Steel Tilter & Straddle Tilter spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/standard-scissor-lifts",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-and-Galvanized-Combo-Tilters-1_0d8e0472-04fd-4313-a87e-508a1a25294d.pdf",
+      "lines": [
+        "superlift-tilt-tables",
+        "superlift-portable-tote-box-and-combo-tilters"
+      ]
+    },
+    {
+      "file": "superlift/standard-scissor-lifts.pdf",
+      "title": "Standard Scissor Lifts spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/standard-scissor-lifts",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard-scissor-lifts.pdf",
+      "lines": [
+        "superlift-standard-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/double-scissor-lifts.pdf",
+      "title": "Double Scissor Lifts spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/double-scissor-lifts",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/double-scissor-lifts.pdf",
+      "lines": [
+        "superlift-double-and-triple-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/heavy-duty-scissor-lifts.pdf",
+      "title": "Heavy Duty Scissor Lifts spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/heavy-duty-scissor-lifts",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf",
+      "lines": [
+        "superlift-heavy-capacity-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/pneumatic_lEofile_tables.pdf",
+      "title": "Pneumatic Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/low-profile-lift-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_lEofile_tables.pdf",
+      "lines": [
+        "superlift-low-profile-lift-tables",
+        "superlift-pneumatic-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "superlift/ground_level_Esor_lift_32.pdf",
+      "title": "Ground Level Scissor Lifts spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/ground-level-scissor-lifts",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/ground_level_Esor_lift_32.pdf",
+      "lines": [
+        "superlift-ground-level-scissor-lifts"
+      ]
+    },
+    {
+      "file": "superlift/Stainless_Steel_Ground_Level_Scissor_Lifts_2.pdf",
+      "title": "Stainless Steel Ground Level Scissor Lifts spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-ground-level-scissor",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Ground_Level_Scissor_Lifts_2.pdf",
+      "lines": [
+        "superlift-ground-level-scissor-lifts"
+      ]
+    },
+    {
+      "file": "superlift/Stainless_Steel_Semi_Portable_Ground_Level_Lift.pdf",
+      "title": "Stainless Steel Semi Portable Ground Level Lift spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-semi-portable-ground-level-lift",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Semi_Portable_Ground_Level_Lift.pdf",
+      "lines": [
+        "superlift-ground-level-scissor-lifts"
+      ]
+    },
+    {
+      "file": "superlift/pneumatic_LifEilt_table_24.pdf",
+      "title": "Pneumatic Lift and Tilt Table spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/pneumatic-lift-and-tilt-tables",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_LifEilt_table_24.pdf",
+      "lines": [
+        "superlift-pneumatic-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "superlift/standad_tilt_Eneumatic_tilt.pdf",
+      "title": "Standard Tilts spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/pneumatic-tilts",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standad_tilt_Eneumatic_tilt.pdf",
+      "lines": [
+        "superlift-pneumatic-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-Steel-Pneumatic-Tilter-1.pdf",
+      "title": "Stainless Steel Pneumatic Tilter spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-pneumatic-tilter",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Pneumatic-Tilter-1.pdf",
+      "lines": [
+        "superlift-pneumatic-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "superlift/standard_liftE_tilt_30_40.pdf",
+      "title": "Standard Lift and Tilts spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/standard-lift-and-tilts",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard_liftE_tilt_30_40.pdf",
+      "lines": [
+        "superlift-lift-and-tilt-tables",
+        "superlift-portable-tote-box-and-combo-tilters"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-Steel-Scissor-Lift-And-Tilt-Table-1.pdf",
+      "title": "Stainless Steel Scissors Lift & Tilt spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-scissor-lift-and-tilt-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Scissor-Lift-And-Tilt-Table-1.pdf",
+      "lines": [
+        "superlift-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "superlift/Ground_level_tilters.pdf",
+      "title": "Ground Level Tilters spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/ground-level-tilters",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Ground_level_tilters.pdf",
+      "lines": [
+        "superlift-ground-level-tilters"
+      ]
+    },
+    {
+      "file": "superlift/ground-level-tilter.pdf",
+      "title": "Stainless Steel Sanitary Ground Level Tilter spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-sanitary-ground-level-tilter",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/ground-level-tilter.pdf",
+      "lines": [
+        "superlift-ground-level-tilters"
+      ]
+    },
+    {
+      "file": "superlift/Stainless_Steel_Combo_Tilter.pdf",
+      "title": "Stainless Steel Combo Tilter spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-combo-tilters",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Combo_Tilter.pdf",
+      "lines": [
+        "superlift-portable-tote-box-and-combo-tilters"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-Steel-Lift-Table.pdf",
+      "title": "Stainless Steel Ergonomic Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-lift-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Lift-Table.pdf",
+      "lines": [
+        "superlift-stainless-steel-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/stainless-steel-wash-down-lift-table_ede2c22c-d44d-4861-ace0-6e1b1b1a6424.pdf",
+      "title": "Stainless Steel Wash Down Lift Table spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-wash-down-lift-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-wash-down-lift-table_ede2c22c-d44d-4861-ace0-6e1b1b1a6424.pdf",
+      "lines": [
+        "superlift-stainless-steel-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/stainless-steel-economy-lift-tables.pdf",
+      "title": "Stainless Steel Economy Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-economy-lift-tables",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-economy-lift-tables.pdf",
+      "lines": [
+        "superlift-stainless-steel-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/stainless-steel-electric-lift-table_e2c20114-2d8e-4c31-b3f9-2358807e75fd.pdf",
+      "title": "Stainless Steel Electric Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-electric-lift-tables",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-electric-lift-table_e2c20114-2d8e-4c31-b3f9-2358807e75fd.pdf",
+      "lines": [
+        "superlift-stainless-steel-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-Steel-Portable-Lift-Table-1.pdf",
+      "title": "Stainless Steel Single & Double Portable Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-portable-lift-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf",
+      "lines": [
+        "superlift-stainless-steel-portable-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/Stainless_Steel_Cleanroom_Portable_Lift_Tables.pdf",
+      "title": "Stainless Steel Cleanroom Portable Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-clean-room-portable-lift-tables",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Cleanroom_Portable_Lift_Tables.pdf",
+      "lines": [
+        "superlift-stainless-steel-portable-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/Stainless_Steel_Cleanroom_Foot_Pump_Lift_Table.pdf",
+      "title": "Stainless Steel Cleanroom Foot & Pump Lift Table spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-cleanroom-foot-pump-lift-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Cleanroom_Foot_Pump_Lift_Table.pdf",
+      "lines": [
+        "superlift-stainless-steel-portable-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/Cleanroom_Powered_Drive_Electric_Lift_Table.pdf",
+      "title": "Cleanroom Powered Drive Electric Lift Table spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/cleanroom-powered-drive-electric-lift-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Cleanroom_Powered_Drive_Electric_Lift_Table.pdf",
+      "lines": [
+        "superlift-stainless-steel-portable-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-Steel-Triple-Scissors-Lift-Table_84b670f9-f3b0-4224-9e36-cdb9a465cce1.pdf",
+      "title": "Stainless Steel Triple Scissors Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-triple-scissors-lift-tables",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Triple-Scissors-Lift-Table_84b670f9-f3b0-4224-9e36-cdb9a465cce1.pdf",
+      "lines": [
+        "superlift-stainless-steel-high-lift-scissor-tables"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-Steel-Low-Profile-Lift-Tables-1.pdf",
+      "title": "Stainless Steel Low Profile Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-low-profile-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Low-Profile-Lift-Tables-1.pdf",
+      "lines": [
+        "superlift-stainless-steel-low-profile-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/stainless-steel-E-low-profile-lift-table.pdf",
+      "title": "Stainless Steel “E” Low Profile Lift Table spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-e-low-profile-lift-table",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-E-low-profile-lift-table.pdf",
+      "lines": [
+        "superlift-stainless-steel-low-profile-lift-tables"
+      ]
+    },
+    {
+      "file": "superlift/Stainless-Steel-Spring-Loaded-Pallet-Positioner_Pallet-Loader-1.pdf",
+      "title": "Stainless Steel Spring Actuated Level Loader spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-spring-loaded-pallet-positioner-pallet-loader",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Spring-Loaded-Pallet-Positioner_Pallet-Loader-1.pdf",
+      "lines": [
+        "superlift-stainless-steel-self-adjusting-pallet-positioners"
+      ]
+    },
+    {
+      "file": "superlift/Stainless_Steel_Sanitary_Self-Adjusting_Spring_Loaded_Lift_Table.pdf",
+      "title": "Stainless Steel Sanitary Self-Adjusting Spring Loaded Lift Table spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-spring-actuated-level-loader",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Sanitary_Self-Adjusting_Spring_Loaded_Lift_Table.pdf",
+      "lines": [
+        "superlift-stainless-steel-self-adjusting-pallet-positioners"
+      ]
+    },
+    {
+      "file": "superlift/stainless-steel-self-adjusting-lift_table.pdf",
+      "title": "Stainless Steel Self Adjusting Lift Tables spec sheet",
+      "type": "spec_sheet",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-steel-self-adjusting-pallet-positioners",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-self-adjusting-lift_table.pdf",
+      "lines": [
+        "superlift-stainless-steel-self-adjusting-pallet-positioners"
+      ]
+    },
+    {
+      "file": "superlift/superlift-stainless-straddle-tilter-manual.pdf",
+      "title": "Stainless Steel Straddle Tilter operating & maintenance manual",
+      "type": "manual",
+      "credit": "Superlift",
+      "source": "https://superlift.net/products/stainless-combo-tilters",
+      "original": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/superlift-stainless-straddle-tilter-manual.pdf",
+      "lines": [
+        "superlift-portable-tote-box-and-combo-tilters"
+      ]
+    },
+    {
+      "file": "vestil/EHLT-MANUAL.pdf",
+      "title": "EHLT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=196",
+      "original": "https://vestildocs.com/manuals/EHLT,%20MANUAL.pdf",
+      "lines": [
+        "vestil-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLT-EHLTD-PST-24-126-120-MANUAL.pdf",
+      "title": "EHLT, EHLTD & PST manual (24-126-120)",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=180",
+      "original": "https://vestildocs.com/manuals/EHLT,%20EHLTD%20&%20PST,%2024-126-120,%20MANUAL.pdf",
+      "lines": [
+        "vestil-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLT-E-MANUAL.pdf",
+      "title": "EHLT-E manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=1743",
+      "original": "https://vestildocs.com/manuals/EHLT-E,%20MANUAL.pdf",
+      "lines": [
+        "vestil-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/HST-40-ST-MANUAL.pdf",
+      "title": "HST-40-ST manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=1437",
+      "original": "https://vestildocs.com/manuals/HST-40-ST,%20MANUAL.pdf",
+      "lines": [
+        "vestil-powered-lift-tables-with-manual-rotation"
+      ]
+    },
+    {
+      "file": "vestil/EHLTG-MANUAL.pdf",
+      "title": "EHLTG manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=208",
+      "original": "https://vestildocs.com/manuals/EHLTG,%20MANUAL.pdf",
+      "lines": [
+        "vestil-ground-lift-scissor-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTG-SKIRT-Manual.pdf",
+      "title": "EHLTG-SKIRT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=208",
+      "original": "https://vestildocs.com/manuals/EHLTG-SKIRT,%20Manual.pdf",
+      "lines": [
+        "vestil-ground-lift-scissor-tables"
+      ]
+    },
+    {
+      "file": "vestil/ABLT-H-manual.pdf",
+      "title": "ABLT-H manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=200",
+      "original": "https://vestildocs.com/manuals/ABLT-H,%20manual.pdf",
+      "lines": [
+        "vestil-pneumatic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHU-MANUAL.pdf",
+      "title": "EHU manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=207",
+      "original": "https://vestildocs.com/manuals/EHU,%20MANUAL.pdf",
+      "lines": [
+        "vestil-low-profile-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHE-MANUAL.pdf",
+      "title": "EHE manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=207",
+      "original": "https://vestildocs.com/manuals/EHE,%20MANUAL.pdf",
+      "lines": [
+        "vestil-low-profile-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTX-MANUAL.pdf",
+      "title": "EHLTX manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=206",
+      "original": "https://vestildocs.com/manuals/EHLTX,%20MANUAL.pdf",
+      "lines": [
+        "vestil-low-profile-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTT-MANUAL.pdf",
+      "title": "EHLTT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=209",
+      "original": "https://vestildocs.com/manuals/EHLTT,%20MANUAL.pdf",
+      "lines": [
+        "vestil-lift-and-tilt-scissor-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTD-MANUAL.pdf",
+      "title": "EHLTD manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=202",
+      "original": "https://vestildocs.com/manuals/EHLTD,%20MANUAL.pdf",
+      "lines": [
+        "vestil-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/PST-MANUAL.pdf",
+      "title": "PST manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=203",
+      "original": "https://vestildocs.com/manuals/PST,%20MANUAL.pdf",
+      "lines": [
+        "vestil-portable-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/AUTOSHIFTER-MANUAL.pdf",
+      "title": "Autoshifter manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=203",
+      "original": "https://vestildocs.com/manuals/AUTOSHIFTER,%20MANUAL.pdf",
+      "lines": [
+        "vestil-portable-scissor-lift-tables",
+        "vestil-economy-transporter-tilters",
+        "vestil-lift-and-tilt-carts",
+        "vestil-dc-powered-and-manual-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/EHLT-WSI-MANUAL.pdf",
+      "title": "EHLT-WSI manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=205",
+      "original": "https://vestildocs.com/manuals/EHLT-WSI,%20MANUAL.pdf",
+      "lines": [
+        "vestil-work-station-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/ZLTT-MANUAL.pdf",
+      "title": "ZLTT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=210",
+      "original": "https://vestildocs.com/manuals/ZLTT,%20MANUAL.pdf",
+      "lines": [
+        "vestil-zero-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "vestil/AHLT-Manual.pdf",
+      "title": "AHLT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=197",
+      "original": "https://vestildocs.com/manuals/AHLT,%20Manual.pdf",
+      "lines": [
+        "vestil-rotary-air-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTP-MANUAL.pdf",
+      "title": "EHLTP manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=1441",
+      "original": "https://vestildocs.com/manuals/EHLTP,%20MANUAL.pdf",
+      "lines": [
+        "vestil-portable-electric-hydraulic-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EM1-200-500-EHTT-EHTT-L-MANUAL.pdf",
+      "title": "EM1-200 & -500, EHTT, EHTT-L manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=214",
+      "original": "https://vestildocs.com/manuals/EM1-200%20&%20-500,%20EHTT,%20EHTT-L,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hinge-and-sliding-tilt-tables",
+        "vestil-efficiency-master-tilt-tables"
+      ]
+    },
+    {
+      "file": "vestil/GLT-Manual.pdf",
+      "title": "GLT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=215",
+      "original": "https://vestildocs.com/manuals/GLT,%20Manual.pdf",
+      "lines": [
+        "vestil-ground-tilters"
+      ]
+    },
+    {
+      "file": "vestil/EHLT-TL-MANUAL.pdf",
+      "title": "EHLT-TL manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=1734",
+      "original": "https://vestildocs.com/manuals/EHLT-TL,%20MANUAL.pdf",
+      "lines": [
+        "vestil-tandem-lifting-tables"
+      ]
+    },
+    {
+      "file": "vestil/ULTT-MANUAL.pdf",
+      "title": "ULTT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=212",
+      "original": "https://vestildocs.com/manuals/ULTT,%20MANUAL.pdf",
+      "lines": [
+        "vestil-lift-and-tilt-workstation-tables"
+      ]
+    },
+    {
+      "file": "vestil/TM-TMS-MANUAL.pdf",
+      "title": "TM, TMS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=221",
+      "original": "https://vestildocs.com/manuals/TM,%20TMS,%20MANUAL.pdf",
+      "lines": [
+        "vestil-tilt-master-container-tilters"
+      ]
+    },
+    {
+      "file": "vestil/TM-0401.pdf",
+      "title": "TM-0401 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=221",
+      "original": "https://vestildocs.com/manuals/TM-0401.PDF",
+      "lines": [
+        "vestil-tilt-master-container-tilters"
+      ]
+    },
+    {
+      "file": "vestil/MPU-AC-GEN2-MANUAL.pdf",
+      "title": "MPU-AC GEN2 power unit manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=221",
+      "original": "https://vestildocs.com/manuals/MPU-AC%20GEN2,%20MANUAL.pdf",
+      "lines": [
+        "vestil-tilt-master-container-tilters"
+      ]
+    },
+    {
+      "file": "vestil/MPU-DC-GEN2-MANUAL.pdf",
+      "title": "MPU-DC GEN2 power unit manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=221",
+      "original": "https://vestildocs.com/manuals/MPU-DC%20GEN2,%20MANUAL.pdf",
+      "lines": [
+        "vestil-tilt-master-container-tilters"
+      ]
+    },
+    {
+      "file": "vestil/ULM-TM-15-2331-MANUAL.pdf",
+      "title": "ULM-TM-15-2331 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=1624",
+      "original": "https://vestildocs.com/manuals/ULM-TM-15-2331,%20MANUAL.pdf",
+      "lines": [
+        "vestil-tilt-master-container-tilters"
+      ]
+    },
+    {
+      "file": "vestil/ETT-254-MANUAL.pdf",
+      "title": "ETT-254 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=217",
+      "original": "https://vestildocs.com/manuals/ETT-254,%20MANUAL.pdf",
+      "lines": [
+        "vestil-economy-transporter-tilters"
+      ]
+    },
+    {
+      "file": "vestil/BTT-MANUAL.pdf",
+      "title": "BTT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=216",
+      "original": "https://vestildocs.com/manuals/BTT,%20MANUAL.pdf",
+      "lines": [
+        "vestil-bench-top-tilters"
+      ]
+    },
+    {
+      "file": "vestil/AIR-THL-MANUAL.pdf",
+      "title": "AIR-THL manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=222",
+      "original": "https://vestildocs.com/manuals/AIR-THL,%20MANUAL.pdf",
+      "lines": [
+        "vestil-corner-tilters"
+      ]
+    },
+    {
+      "file": "vestil/EMC-MANUAL.pdf",
+      "title": "EMC manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=223",
+      "original": "https://vestildocs.com/manuals/EMC,%20MANUAL.pdf",
+      "lines": [
+        "vestil-corner-tilters"
+      ]
+    },
+    {
+      "file": "vestil/SST-45-MANUAL.pdf",
+      "title": "SST-45 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=273",
+      "original": "https://vestildocs.com/manuals/SST-45,%20MANUAL.pdf",
+      "lines": [
+        "vestil-spring-scissor-tables"
+      ]
+    },
+    {
+      "file": "vestil/ETS-MANUAL.pdf",
+      "title": "ETS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=276",
+      "original": "https://vestildocs.com/manuals/ETS,%20MANUAL.pdf",
+      "lines": [
+        "vestil-self-elevating-spring-tables"
+      ]
+    },
+    {
+      "file": "vestil/ETS-840-30-MANUAL.pdf",
+      "title": "ETS-840-30 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=276",
+      "original": "https://vestildocs.com/manuals/ETS-840-30,%20MANUAL.PDF",
+      "lines": [
+        "vestil-self-elevating-spring-tables"
+      ]
+    },
+    {
+      "file": "vestil/ETS-1120-24-MANUAL.pdf",
+      "title": "ETS-1120-24 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=276",
+      "original": "https://vestildocs.com/manuals/ETS-1120-24,%20MANUAL.PDF",
+      "lines": [
+        "vestil-self-elevating-spring-tables"
+      ]
+    },
+    {
+      "file": "vestil/SCSC-1000-Manual.pdf",
+      "title": "SCSC-1000 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=274",
+      "original": "https://vestildocs.com/manuals/SCSC-1000,%20Manual.PDF",
+      "lines": [
+        "vestil-self-elevating-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/SCSC-400-800-Manual.pdf",
+      "title": "SCSC-400 & 800 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=275",
+      "original": "https://vestildocs.com/manuals/SCSC-400%20&%20800,%20Manual.pdf",
+      "lines": [
+        "vestil-self-elevating-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/HT-LDLT-Manual.pdf",
+      "title": "HT, LDLT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=285",
+      "original": "https://vestildocs.com/manuals/HT,%20LDLT,%20Manual.pdf",
+      "lines": [
+        "vestil-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/HT-60-3248-MANUAL.pdf",
+      "title": "HT-60-3248 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=285",
+      "original": "https://vestildocs.com/manuals/HT-60-3248,%20MANUAL.PDF",
+      "lines": [
+        "vestil-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/HT-A-MANUAL.pdf",
+      "title": "HT-A manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=285",
+      "original": "https://vestildocs.com/manuals/HT-A,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/HT-05-1818A-Manual-Imported-.pdf",
+      "title": "HT-05-1818A manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=285",
+      "original": "https://vestildocs.com/manuals/HT-05-1818A,%20Manual%20(Imported).pdf",
+      "lines": [
+        "vestil-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/HT-20-3036A-Manual-Imported-.pdf",
+      "title": "HT-20-3036A manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=280",
+      "original": "https://vestildocs.com/manuals/HT-20-3036A,%20Manual%20(Imported).pdf",
+      "lines": [
+        "vestil-air-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/HT-20-2436A-Manual-Imported-.pdf",
+      "title": "HT-20-2436A manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=280",
+      "original": "https://vestildocs.com/manuals/HT-20-2436A,%20Manual%20(Imported).pdf",
+      "lines": [
+        "vestil-air-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/HT-10-2036A-Manual.pdf",
+      "title": "HT-10-2036A manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=280",
+      "original": "https://vestildocs.com/manuals/HT-10-2036A,%20Manual.pdf",
+      "lines": [
+        "vestil-air-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/HT-10-2036-Manual.pdf",
+      "title": "HT-10-2036 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=280",
+      "original": "https://vestildocs.com/manuals/HT-10-2036,%20Manual.pdf",
+      "lines": [
+        "vestil-air-hydraulic-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/MT-MANUAL.pdf",
+      "title": "MT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=282",
+      "original": "https://vestildocs.com/manuals/MT,%20MANUAL.pdf",
+      "lines": [
+        "vestil-mechanical-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/DIE-MANUAL.pdf",
+      "title": "DIE manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=279",
+      "original": "https://vestildocs.com/manuals/DIE,%20MANUAL.pdf",
+      "lines": [
+        "vestil-die-tables"
+      ]
+    },
+    {
+      "file": "vestil/CART-200-ALUM-MANUAL.pdf",
+      "title": "CART-200-ALUM manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=294",
+      "original": "https://vestildocs.com/manuals/CART-200-ALUM,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-750-TS-MANUAL.pdf",
+      "title": "CART-750-TS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=294",
+      "original": "https://vestildocs.com/manuals/CART-750-TS,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1000-TS-MANUAL.pdf",
+      "title": "CART-1000-TS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=294",
+      "original": "https://vestildocs.com/manuals/CART-1000-TS,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-FP-MANUAL.pdf",
+      "title": "CART-FP manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=294",
+      "original": "https://vestildocs.com/manuals/CART-FP,%20MANUAL.PDF",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1000-LD-MANUAL-China-.pdf",
+      "title": "CART-1000-LD manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=294",
+      "original": "https://vestildocs.com/manuals/CART-1000-LD,%20MANUAL%20(China).pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-500-SCL-MANUAL.pdf",
+      "title": "CART-500-SCL manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=287",
+      "original": "https://vestildocs.com/manuals/CART-500-SCL,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1000-SCL-MANUAL.pdf",
+      "title": "CART-1000-SCL manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=287",
+      "original": "https://vestildocs.com/manuals/CART-1000-SCL,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-550-AS-MANUAL.pdf",
+      "title": "CART-550-AS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=295",
+      "original": "https://vestildocs.com/manuals/CART-550-AS,%20MANUAL.pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-660-M-MANUAL.pdf",
+      "title": "CART-660-M manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=286",
+      "original": "https://vestildocs.com/manuals/CART-660-M,%20MANUAL.pdf",
+      "lines": [
+        "vestil-mechanical-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-D-FR-Manual.pdf",
+      "title": "CART-D-FR manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=288",
+      "original": "https://vestildocs.com/manuals/CART-D-FR,%20Manual.pdf",
+      "lines": [
+        "vestil-premium-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-D-HR-Manual.pdf",
+      "title": "CART-D-HR manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=288",
+      "original": "https://vestildocs.com/manuals/CART-D-HR,%20Manual.pdf",
+      "lines": [
+        "vestil-premium-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-LP-MANUAL.pdf",
+      "title": "CART-LP manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=1428",
+      "original": "https://vestildocs.com/manuals/CART-LP,%20MANUAL.pdf",
+      "lines": [
+        "vestil-low-profile-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-400-LP-AS-MANUAL.pdf",
+      "title": "CART-400-LP-AS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=1685",
+      "original": "https://vestildocs.com/manuals/CART-400-LP-AS,%20MANUAL.pdf",
+      "lines": [
+        "vestil-low-profile-scissor-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/SSSC-MANUAL.pdf",
+      "title": "SSSC manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=291",
+      "original": "https://vestildocs.com/manuals/SSSC,%20MANUAL.pdf",
+      "lines": [
+        "vestil-stainless-steel-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-550-SS-MANUAL.pdf",
+      "title": "CART-550-SS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=291",
+      "original": "https://vestildocs.com/manuals/CART-550-SS,%20MANUAL.pdf",
+      "lines": [
+        "vestil-stainless-steel-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1100-SS-Manual.pdf",
+      "title": "CART-1100-SS manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=291",
+      "original": "https://vestildocs.com/manuals/CART-1100-SS,%20Manual.pdf",
+      "lines": [
+        "vestil-stainless-steel-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1000D-DC-MANUAL.pdf",
+      "title": "CART-1000D-DC manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=291",
+      "original": "https://vestildocs.com/manuals/CART-1000D-DC,%20MANUAL.pdf",
+      "lines": [
+        "vestil-stainless-steel-scissor-carts",
+        "vestil-dc-powered-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/SCTAB-manual.pdf",
+      "title": "SCTAB manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=292",
+      "original": "https://vestildocs.com/manuals/SCTAB,%20manual.pdf",
+      "lines": [
+        "vestil-foot-pump-and-powered-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/SCTAB-FP-MANUAL.pdf",
+      "title": "SCTAB-FP manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=292",
+      "original": "https://vestildocs.com/manuals/SCTAB-FP,%20MANUAL.PDF",
+      "lines": [
+        "vestil-foot-pump-and-powered-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/SCTAB-DC-MANUAL.pdf",
+      "title": "SCTAB-DC manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=292",
+      "original": "https://vestildocs.com/manuals/SCTAB-DC,%20MANUAL.PDF",
+      "lines": [
+        "vestil-foot-pump-and-powered-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/CHK-MANUAL.pdf",
+      "title": "CHK manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=292",
+      "original": "https://vestildocs.com/manuals/CHK,%20MANUAL.PDF",
+      "lines": [
+        "vestil-foot-pump-and-powered-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/CART-23-24-MANUAL.pdf",
+      "title": "CART-23 & -24 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=296",
+      "original": "https://vestildocs.com/manuals/CART-23%20%20-24,%20MANUAL.pdf",
+      "lines": [
+        "vestil-dc-powered-and-manual-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-DC-MANUAL.pdf",
+      "title": "CART-DC manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=296",
+      "original": "https://vestildocs.com/manuals/CART-DC,%20MANUAL.PDF",
+      "lines": [
+        "vestil-dc-powered-and-manual-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/FOOT-PUMP-Manual.pdf",
+      "title": "Foot pump manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=296",
+      "original": "https://vestildocs.com/manuals/FOOT%20PUMP,%20Manual.pdf",
+      "lines": [
+        "vestil-dc-powered-and-manual-scissor-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1000-DC-MANUAL.pdf",
+      "title": "CART-1000-DC manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=297",
+      "original": "https://vestildocs.com/manuals/CART-1000-DC,%20MANUAL.pdf",
+      "lines": [
+        "vestil-dc-powered-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-SCTAB-MANUAL.pdf",
+      "title": "CART-SCTAB manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=297",
+      "original": "https://vestildocs.com/manuals/CART-SCTAB,%20MANUAL.pdf",
+      "lines": [
+        "vestil-dc-powered-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-CTD-MANUAL.pdf",
+      "title": "CART-CTD manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=298",
+      "original": "https://vestildocs.com/manuals/CART-CTD,%20MANUAL.pdf",
+      "lines": [
+        "vestil-powered-drive-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1500D-DC-CTD-MANUAL.pdf",
+      "title": "CART-1500D-DC-CTD manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=298",
+      "original": "https://vestildocs.com/manuals/CART-1500D-DC-CTD,%20MANUAL.pdf",
+      "lines": [
+        "vestil-powered-drive-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CTD-MANUAL.pdf",
+      "title": "CTD manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=298",
+      "original": "https://vestildocs.com/manuals/CTD,%20MANUAL.pdf",
+      "lines": [
+        "vestil-powered-drive-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/AIR-800-D-MANUAL.pdf",
+      "title": "AIR-800-D manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=301",
+      "original": "https://vestildocs.com/manuals/AIR-800-D,%20MANUAL.pdf",
+      "lines": [
+        "vestil-air-hydraulic-carts"
+      ]
+    },
+    {
+      "file": "vestil/AIR-1000-MANUAL.pdf",
+      "title": "AIR-1000 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=301",
+      "original": "https://vestildocs.com/manuals/AIR-1000,%20MANUAL.pdf",
+      "lines": [
+        "vestil-air-hydraulic-carts"
+      ]
+    },
+    {
+      "file": "vestil/AIR-1750-MANUAL.pdf",
+      "title": "AIR-1750 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=301",
+      "original": "https://vestildocs.com/manuals/AIR-1750,%20MANUAL.pdf",
+      "lines": [
+        "vestil-air-hydraulic-carts"
+      ]
+    },
+    {
+      "file": "vestil/AIR-1500-D-MANUAL.pdf",
+      "title": "AIR-1500-D manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=301",
+      "original": "https://vestildocs.com/manuals/AIR-1500-D,%20MANUAL.pdf",
+      "lines": [
+        "vestil-air-hydraulic-carts"
+      ]
+    },
+    {
+      "file": "vestil/AIR-2000-MANUAL.pdf",
+      "title": "AIR-2000 manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=301",
+      "original": "https://vestildocs.com/manuals/AIR-2000,%20MANUAL.pdf",
+      "lines": [
+        "vestil-air-hydraulic-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-400-600-LT-Manual.pdf",
+      "title": "CART-400 & 600-LT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=302",
+      "original": "https://vestildocs.com/manuals/CART-400%20&%20600-LT,%20Manual.pdf",
+      "lines": [
+        "vestil-lift-and-tilt-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-1000-LT-MANUAL.pdf",
+      "title": "CART-1000-LT manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=302",
+      "original": "https://vestildocs.com/manuals/CART-1000-LT,%20MANUAL.pdf",
+      "lines": [
+        "vestil-lift-and-tilt-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-400-D-LA-MANUAL.pdf",
+      "title": "CART-400-D-LA manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=277",
+      "original": "https://vestildocs.com/manuals/CART-400-D-LA,%20MANUAL.pdf",
+      "lines": [
+        "vestil-linear-actuated-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/CART-400-LA-MANUAL.pdf",
+      "title": "CART-400-LA manual",
+      "type": "manual",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=277",
+      "original": "https://vestildocs.com/manuals/CART-400-LA,%20MANUAL.pdf",
+      "lines": [
+        "vestil-linear-actuated-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/EHLT-survey.pdf",
+      "title": "EHLT survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=196",
+      "original": "https://vestildocs.com/surveys/EHLT.pdf",
+      "lines": [
+        "vestil-electric-hydraulic-scissor-lift-tables",
+        "vestil-low-profile-electric-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLT-WITH-CONVEYOR-survey.pdf",
+      "title": "EHLT with conveyor survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=196",
+      "original": "https://vestildocs.com/surveys/EHLT%20WITH%20CONVEYOR.pdf",
+      "lines": [
+        "vestil-electric-hydraulic-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/UNI-survey.pdf",
+      "title": "UNI survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=211",
+      "original": "https://vestildocs.com/surveys/UNI.pdf",
+      "lines": [
+        "vestil-single-scissor-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTG-survey.pdf",
+      "title": "EHLTG survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=208",
+      "original": "https://vestildocs.com/surveys/EHLTG.pdf",
+      "lines": [
+        "vestil-ground-lift-scissor-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTT-survey.pdf",
+      "title": "EHLTT survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=209",
+      "original": "https://vestildocs.com/surveys/EHLTT.pdf",
+      "lines": [
+        "vestil-lift-and-tilt-scissor-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHLTD-survey.pdf",
+      "title": "EHLTD survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=202",
+      "original": "https://vestildocs.com/surveys/EHLTD.PDF",
+      "lines": [
+        "vestil-double-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/PST-survey.pdf",
+      "title": "PST survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=203",
+      "original": "https://vestildocs.com/surveys/PST.pdf",
+      "lines": [
+        "vestil-portable-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "vestil/EHTT-survey.pdf",
+      "title": "EHTT survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=214",
+      "original": "https://vestildocs.com/surveys/EHTT.pdf",
+      "lines": [
+        "vestil-hinge-and-sliding-tilt-tables"
+      ]
+    },
+    {
+      "file": "vestil/ULTT-survey.pdf",
+      "title": "ULTT survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=212",
+      "original": "https://vestildocs.com/surveys/ULTT.pdf",
+      "lines": [
+        "vestil-lift-and-tilt-workstation-tables"
+      ]
+    },
+    {
+      "file": "vestil/EM1-survey.pdf",
+      "title": "EM1 survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=219",
+      "original": "https://vestildocs.com/surveys/EM1.pdf",
+      "lines": [
+        "vestil-efficiency-master-tilt-tables"
+      ]
+    },
+    {
+      "file": "vestil/SCSC-survey.pdf",
+      "title": "SCSC survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=274",
+      "original": "https://vestildocs.com/surveys/SCSC.pdf",
+      "lines": [
+        "vestil-self-elevating-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/SCSC-750-2040-survey.pdf",
+      "title": "SCSC-750-2040 survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=274",
+      "original": "https://vestildocs.com/surveys/SCSC-750-2040.pdf",
+      "lines": [
+        "vestil-self-elevating-lift-carts"
+      ]
+    },
+    {
+      "file": "vestil/MT-2436-LP-survey.pdf",
+      "title": "MT-2436-LP survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=282",
+      "original": "https://vestildocs.com/surveys/MT-2436-LP.pdf",
+      "lines": [
+        "vestil-mechanical-post-tables"
+      ]
+    },
+    {
+      "file": "vestil/CART-2000-survey.pdf",
+      "title": "CART-2000 survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=294",
+      "original": "https://vestildocs.com/surveys/CART-2000.pdf",
+      "lines": [
+        "vestil-hydraulic-elevating-carts",
+        "vestil-dc-powered-hydraulic-elevating-carts"
+      ]
+    },
+    {
+      "file": "vestil/SCTAB-survey.pdf",
+      "title": "SCTAB survey sheet",
+      "type": "form",
+      "credit": "Vestil",
+      "source": "https://www.vestil.com/product.php?FID=292",
+      "original": "https://vestildocs.com/surveys/SCTAB.pdf",
+      "lines": [
+        "vestil-foot-pump-and-powered-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "advance-lifts/Lift-Table-Brochure-2024.pdf",
+      "title": "Lift tables brochure (2024)",
+      "type": "brochure",
+      "credit": "Advance Lifts",
+      "source": "https://www.advancelifts.com/literature/",
+      "original": "https://www.advancelifts.com/wp-content/uploads/2024/11/Lift-Table-Brochure-2024.pdf",
+      "lines": [
+        "advance-lifts-p-series-lift-tables",
+        "advance-lifts-hd-series-lift-tables",
+        "advance-lifts-super-duty-and-jumbo-lift-tables",
+        "advance-lifts-high-cycle-lift-tables",
+        "advance-lifts-air-spring-lift-tables",
+        "advance-lifts-multi-stage-lift-tables",
+        "advance-lifts-pallet-pro-palletizers",
+        "advance-lifts-pt-series-lift-and-tilt-tables",
+        "advance-lifts-att-series-air-lift-and-tilt-tables",
+        "advance-lifts-tt-series-electric-tilt-tables",
+        "advance-lifts-ati-series-air-tilt-tables",
+        "advance-lifts-bin-tilters",
+        "advance-lifts-pm-pp-series-lift-and-turn-tables",
+        "advance-lifts-atr-series-air-lift-and-turn-tables"
+      ]
+    },
+    {
+      "file": "advance-lifts/Production-Scissor-Lifts-White-Paper.pdf",
+      "title": "Production Scissors Lifts application guide",
+      "type": "other",
+      "credit": "Advance Lifts",
+      "source": "https://www.advancelifts.com/scissors-lifts-tables/production-p-series-lift-tables/",
+      "original": "https://www.advancelifts.com/wp-content/uploads/2019/10/Production-Scissor-Lifts-White-Paper.pdf",
+      "lines": [
+        "advance-lifts-p-series-lift-tables",
+        "advance-lifts-hd-series-lift-tables",
+        "advance-lifts-super-duty-and-jumbo-lift-tables",
+        "advance-lifts-high-cycle-lift-tables",
+        "advance-lifts-air-spring-lift-tables",
+        "advance-lifts-multi-stage-lift-tables",
+        "advance-lifts-pallet-pro-palletizers",
+        "advance-lifts-pt-series-lift-and-tilt-tables",
+        "advance-lifts-att-series-air-lift-and-tilt-tables",
+        "advance-lifts-pm-pp-series-lift-and-turn-tables",
+        "advance-lifts-atr-series-air-lift-and-turn-tables"
+      ]
+    },
+    {
+      "file": "autoquip/Autoquip-2025-Brochure.pdf",
+      "title": "Autoquip 2025 lift systems brochure",
+      "type": "brochure",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/products/scissor-lift-tables/series-35/",
+      "original": "https://autoquip.com/wp-content/uploads/2025/12/Autoquip-2025-Brochure.pdf",
+      "lines": [
+        "autoquip-series-35-scissor-lift-tables",
+        "autoquip-series-35-low-profile-lift-tables",
+        "autoquip-series-35-rover-mobile-lift-tables",
+        "autoquip-series-35-double-high-lift-tables",
+        "autoquip-series-35-triple-high-lift-tables",
+        "autoquip-titan-scissor-lift-tables",
+        "autoquip-super-titan-scissor-lift-tables",
+        "autoquip-q-lift-scissor-lifts",
+        "autoquip-double-pantograph-scissor-lifts",
+        "autoquip-mechanical-scissor-lifts",
+        "autoquip-xlr-pan-style-scissor-lifts",
+        "autoquip-abs-pneumatic-scissor-lifts",
+        "autoquip-air-force-lift-and-tilt-tables",
+        "autoquip-air-force-pneumatic-tilters",
+        "autoquip-series-35-tilters",
+        "autoquip-autotilt-portable-tilters",
+        "american-lifts-torklift-scissor-lift-tables",
+        "american-lifts-torklift-t2-double-pantograph-lifts",
+        "american-lifts-torklift-t3-triple-pantograph-lifts",
+        "american-lifts-torklift-t4-quad-pantograph-lifts",
+        "american-lifts-compact-lift-tables",
+        "american-lifts-tiltlift-lift-and-tilt-tables",
+        "american-lifts-90-degree-tilters",
+        "american-lifts-tork-non-intrusive-tilters"
+      ]
+    },
+    {
+      "file": "autoquip/S35-Lift-Manual-V5.pdf",
+      "title": "Series 35 Scissors Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/S35-Lift-Manual-V5.pdf",
+      "lines": [
+        "autoquip-series-35-scissor-lift-tables",
+        "autoquip-series-35-low-profile-lift-tables",
+        "autoquip-series-35-double-high-lift-tables",
+        "autoquip-series-35-triple-high-lift-tables"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Series-35-Rover-Manual-V2-2.pdf",
+      "title": "Series 35 Rover 12VDC Portable Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Series-35-Rover-Manual-V2-2.pdf",
+      "lines": [
+        "autoquip-series-35-rover-mobile-lift-tables"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Titan-Scissors-Lift-V2-5.pdf",
+      "title": "Titan Scissors Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Titan-Scissors-Lift-V2-5.pdf",
+      "lines": [
+        "autoquip-titan-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Super-Titan-TSL-Manual-V2-3.pdf",
+      "title": "SuperTitan / TSL Scissors Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Super-Titan-TSL-Manual-V2-3.pdf",
+      "lines": [
+        "autoquip-super-titan-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Q-Lift-Manual-V2-6.pdf",
+      "title": "Q-Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Q-Lift-Manual-V2-6.pdf",
+      "lines": [
+        "autoquip-q-lift-scissor-lifts"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Double-Pantograph-V2-Manual-7.pdf",
+      "title": "Double Pantograph Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Double-Pantograph-V2-Manual-7.pdf",
+      "lines": [
+        "autoquip-double-pantograph-scissor-lifts"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Mechanical-Scissor-Lift-Manual-V1-1.pdf",
+      "title": "Mechanical Scissors Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Mechanical-Scissor-Lift-Manual-V1-1.pdf",
+      "lines": [
+        "autoquip-mechanical-scissor-lifts"
+      ]
+    },
+    {
+      "file": "autoquip/830SL-V1.pdf",
+      "title": "SpiraLift Scissors Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/08/830SL-V1.pdf",
+      "lines": [
+        "autoquip-mechanical-scissor-lifts"
+      ]
+    },
+    {
+      "file": "autoquip/VBS-Manual-V1.pdf",
+      "title": "Vertical Ball Screw Scissors Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/VBS-Manual-V1.pdf",
+      "lines": [
+        "autoquip-mechanical-scissor-lifts"
+      ]
+    },
+    {
+      "file": "autoquip/XLR-Manual.pdf",
+      "title": "XLR Low Reach Pan Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2019/03/XLR-Manual.pdf",
+      "lines": [
+        "autoquip-xlr-pan-style-scissor-lifts"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-1.pdf",
+      "title": "ABS Air Bag Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-1.pdf",
+      "lines": [
+        "autoquip-abs-pneumatic-scissor-lifts"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Air-Force-Lift-and-Tilt-Manual-2-1.pdf",
+      "title": "Air Force Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=scissor-lift-tables",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Air-Force-Lift-and-Tilt-Manual-2-1.pdf",
+      "lines": [
+        "autoquip-air-force-lift-and-tilt-tables"
+      ]
+    },
+    {
+      "file": "autoquip/Series35_Tilters_Manual.pdf",
+      "title": "Series 35 Tilter installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=tilters",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Series35_Tilters_Manual.pdf",
+      "lines": [
+        "autoquip-series-35-tilters"
+      ]
+    },
+    {
+      "file": "autoquip/Manuals-Autotilt-Manual-2.pdf",
+      "title": "Auto-Tilt Portable Tilter installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=tilters",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Manuals-Autotilt-Manual-2.pdf",
+      "lines": [
+        "autoquip-autotilt-portable-tilters"
+      ]
+    },
+    {
+      "file": "american-lifts/830AMT-V4.pdf",
+      "title": "Tork Lift T1/T2/T3/T4 installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=american-lifts",
+      "original": "https://autoquip.com/wp-content/uploads/2020/06/830AMT-V4.pdf",
+      "lines": [
+        "american-lifts-torklift-scissor-lift-tables",
+        "american-lifts-torklift-t2-double-pantograph-lifts",
+        "american-lifts-torklift-t3-triple-pantograph-lifts",
+        "american-lifts-torklift-t4-quad-pantograph-lifts"
+      ]
+    },
+    {
+      "file": "american-lifts/Compact-Lift-Manual-V4.pdf",
+      "title": "Compact Lift installation, operation and service manual",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=american-lifts",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/Compact-Lift-Manual-V4.pdf",
+      "lines": [
+        "american-lifts-compact-lift-tables"
+      ]
+    },
+    {
+      "file": "american-lifts/830TML.pdf",
+      "title": "TM, TML, TM1A, TM2B and TM2E Hydraulic Tilter operating and maintenance instructions",
+      "type": "manual",
+      "credit": "Autoquip",
+      "source": "https://autoquip.com/manuals/family/?c=american-lifts",
+      "original": "https://autoquip.com/wp-content/uploads/2018/03/830TML.pdf",
+      "lines": [
+        "american-lifts-tork-non-intrusive-tilters"
+      ]
+    },
+    {
+      "file": "presto-lifts/Presto_General_Catalog.pdf",
+      "title": "Presto Lifts general catalog",
+      "type": "catalog",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/product-brochures",
+      "original": "https://www.prestolifts.com/images/documents/brochures/2026/Presto_General_Catalog.pdf",
+      "lines": [
+        "presto-xl-series-scissor-lift-tables",
+        "presto-xw-series-wide-base-lift-tables",
+        "presto-dxs-series-double-scissor-lifts",
+        "presto-tandem-scissor-lifts",
+        "presto-dual-scissor-lifts",
+        "presto-xz-series-floor-height-lift-tables",
+        "presto-xzt-series-floor-level-lift-and-tilt-tables",
+        "presto-hydraulic-scissor-lift-and-tilt-tables",
+        "presto-axt-pneumatic-lift-and-tilt-tables",
+        "presto-light-duty-scissor-lift-tables",
+        "presto-ax-pneumatic-scissor-lifts",
+        "presto-axr-pneumatic-turntable-lifts",
+        "presto-dbp-portable-double-scissor-lifts",
+        "presto-xbp-wbp-battery-portable-lift-tables",
+        "presto-xp-wxp-manual-portable-lift-tables",
+        "presto-pt-pts-portable-container-tilters",
+        "presto-srt-stationary-container-tilters",
+        "presto-tz-floor-level-45-degree-tilters",
+        "presto-zrt-floor-level-container-tilters",
+        "presto-at-series-pneumatic-tilt-tables",
+        "presto-tt-series-tilt-tables",
+        "presto-wt-series-wide-base-tilt-tables",
+        "presto-p3-load-levelers",
+        "presto-p4-floor-height-load-levelers",
+        "presto-lp-low-profile-lift-tables",
+        "presto-u-lift-roll-in-levelers",
+        "presto-post-lift-tables",
+        "ecoa-hlt-series-scissor-lifts",
+        "ecoa-hh-series-heavy-duty-lifts",
+        "ecoa-clt-compact-double-scissor-lifts",
+        "ecoa-extended-travel-scissor-lifts",
+        "ecoa-magnum-super-heavy-duty-scissor-lifts"
+      ]
+    },
+    {
+      "file": "presto-lifts/P3_Flyer.pdf",
+      "title": "P3 All-Around Spring load leveler flyer",
+      "type": "brochure",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/products/pallet-positioners/p3-load-leveler",
+      "original": "https://www.prestolifts.com/images/documents/brochures/P3_Flyer.pdf",
+      "lines": [
+        "presto-p3-load-levelers"
+      ]
+    },
+    {
+      "file": "presto-lifts/P3_Air_Flyer.pdf",
+      "title": "P3 All-Around Pneumatic load leveler flyer",
+      "type": "brochure",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/products/pallet-positioners/p3-load-leveler",
+      "original": "https://www.prestolifts.com/images/documents/brochures/P3_Air_Flyer.pdf",
+      "lines": [
+        "presto-p3-load-levelers"
+      ]
+    },
+    {
+      "file": "presto-lifts/XL-Series-manual-machines-shipping-from-June-2023.pdf",
+      "title": "XL Series (XL24-X, XL36-X, XL48-X) manual, machines shipped from June 2023",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=469&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-xl-series-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/XL-Series-and-ECOA-HLT-Series-Scissor-Lifts-manual.pdf",
+      "title": "Presto XL, P3PH and ECOA HLT Series manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=413&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-xl-series-scissor-lift-tables",
+        "ecoa-hlt-series-scissor-lifts"
+      ]
+    },
+    {
+      "file": "presto-lifts/X3W-X4W-Series-manual.pdf",
+      "title": "X3W & X4W Series Scissor Lifts with Tilt manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=456&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-hydraulic-scissor-lift-and-tilt-tables",
+        "presto-xw-series-wide-base-lift-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/DXS-Series-Scissor-Lifts-Manual.pdf",
+      "title": "Presto DXS and ECOA CDL & CLT Series manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=407&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-dxs-series-double-scissor-lifts",
+        "ecoa-clt-compact-double-scissor-lifts"
+      ]
+    },
+    {
+      "file": "presto-lifts/XS-WXS-Series-Electric-Scissor-Lifts-Manual.pdf",
+      "title": "XS & WXS Series Scissor Lifts installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=415&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-light-duty-scissor-lift-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/XF-WXF-XP-and-WXP-Series-Scissor-Lifts-Manual.pdf",
+      "title": "XF, WXF, XP & WXP Series Foot Pump Operated Scissor Lifts manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=412&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-light-duty-scissor-lift-tables",
+        "presto-xp-wxp-manual-portable-lift-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/AX-AXR-AXS-Pneumatic-Lift-Tables-Manual.pdf",
+      "title": "AX, AXR, AXS, AXT & AT Series Pneumatic Lift Tables manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=405&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-ax-pneumatic-scissor-lifts",
+        "presto-axr-pneumatic-turntable-lifts",
+        "presto-axt-pneumatic-lift-and-tilt-tables",
+        "presto-at-series-pneumatic-tilt-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/DBP-Series-Scissor-Lifts-Manual.pdf",
+      "title": "DBP Series Scissor Lifts installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=406&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-dbp-portable-double-scissor-lifts"
+      ]
+    },
+    {
+      "file": "presto-lifts/XBP-WBP-Series-Scissor-Lifts-Manual.pdf",
+      "title": "XBP & WBP Series Scissor Lifts installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=411&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-xbp-wbp-battery-portable-lift-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/Post-Lift-Tables-Manual.pdf",
+      "title": "P12-P18 and BP12-BP18 Series Two and Four Post Lift Tables manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=409&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-post-lift-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/Mechanical-Post-Lift-Table-manual.pdf",
+      "title": "Mechanical Post Lift Table owner’s manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=457&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-post-lift-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/Floor-Level-Lifts-Tilts-Manual.pdf",
+      "title": "XZ Floor Level Lifts, TZ Floor Level Tilts & XZT Floor Level Lift & Tilts manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/tilters-4",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=426&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-xz-series-floor-height-lift-tables",
+        "presto-xzt-series-floor-level-lift-and-tilt-tables",
+        "presto-tz-floor-level-45-degree-tilters"
+      ]
+    },
+    {
+      "file": "presto-lifts/Presto-TT-WT-Tilt-Tables-Manual.pdf",
+      "title": "Presto TT & WT and ECOA HTT & HUE Series Tilt Tables manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/tilters-4",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=424&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-tt-series-tilt-tables",
+        "presto-wt-series-wide-base-tilt-tables"
+      ]
+    },
+    {
+      "file": "presto-lifts/PT-PTS-Series-Manual.pdf",
+      "title": "PT & PTS Series Portable Container Tilters manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/tilters-4",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=423&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-pt-pts-portable-container-tilters"
+      ]
+    },
+    {
+      "file": "presto-lifts/SRT-20-SRT-40-Container-Tilters-Manual.pdf",
+      "title": "SRT-20 and SRT-40 Container Tilters installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/tilters-4",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=425&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-srt-stationary-container-tilters"
+      ]
+    },
+    {
+      "file": "presto-lifts/ZRT-Floor-Level-Tilters-manual.pdf",
+      "title": "ZRT Floor Level Tilter installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/tilters-4",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=448&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-zrt-floor-level-container-tilters"
+      ]
+    },
+    {
+      "file": "presto-lifts/P3-All-Around-Manual-machines-shipping-from-July-2024.pdf",
+      "title": "P3 All-Around Air Load Leveler manual, machines shipped from July 2024",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/pallet-positioners-pallet-trucks-2",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=471&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-p3-load-levelers"
+      ]
+    },
+    {
+      "file": "presto-lifts/P3-All-Around-Manual.pdf",
+      "title": "P3 All-Around Air owner’s manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/pallet-positioners-pallet-trucks-2",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=419&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-p3-load-levelers"
+      ]
+    },
+    {
+      "file": "presto-lifts/P3-All-Around-Spring-Level-Loader-manual.pdf",
+      "title": "P3 All-Around Spring Load Leveler manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/pallet-positioners-pallet-trucks-2",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=438&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-p3-load-levelers"
+      ]
+    },
+    {
+      "file": "presto-lifts/P4-Level-Loader-Manual.pdf",
+      "title": "P4 Floor Height Load Leveler owner’s manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/pallet-positioners-pallet-trucks-2",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=420&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-p4-floor-height-load-levelers"
+      ]
+    },
+    {
+      "file": "presto-lifts/P4-Level-Loader-with-Turntable-manual.pdf",
+      "title": "P4-LPT Load Leveler with Turntable owner’s manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/pallet-positioners-pallet-trucks-2",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=458&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-p4-floor-height-load-levelers"
+      ]
+    },
+    {
+      "file": "presto-lifts/U-Lift-Roll-In-Lift-Table-manual.pdf",
+      "title": "U-Lift Roll-In Lift Table owner’s manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/pallet-positioners-pallet-trucks-2",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=454&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "presto-u-lift-roll-in-levelers"
+      ]
+    },
+    {
+      "file": "ecoa/17-364_Presto_ECOA_Brochure_6-23.pdf",
+      "title": "ECOA industrial lifting products catalog",
+      "type": "catalog",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/product-brochures",
+      "original": "https://www.prestolifts.com/images/documents/brochures/2023/17-364_Presto_ECOA_Brochure_6-23.pdf",
+      "lines": [
+        "ecoa-hlt-series-scissor-lifts",
+        "ecoa-hh-series-heavy-duty-lifts",
+        "ecoa-clt-compact-double-scissor-lifts",
+        "ecoa-extended-travel-scissor-lifts",
+        "ecoa-magnum-super-heavy-duty-scissor-lifts"
+      ]
+    },
+    {
+      "file": "ecoa/ECOA-HH-Series-manual.pdf",
+      "title": "ECOA HH Series installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=453&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "ecoa-hh-series-heavy-duty-lifts"
+      ]
+    },
+    {
+      "file": "ecoa/ECOA-MLT-Lift-Series-manual.pdf",
+      "title": "ECOA MLT Series installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=451&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "ecoa-magnum-super-heavy-duty-scissor-lifts"
+      ]
+    },
+    {
+      "file": "ecoa/DSL-Scissor-Lift-manual.pdf",
+      "title": "DSL, TSL and QSL Series installation, operation and service manual",
+      "type": "manual",
+      "credit": "Presto Lifts",
+      "source": "https://www.prestolifts.com/resources/owner-s-manuals/lift-tables",
+      "original": "https://www.prestolifts.com/component/zoo/?task=callelement&format=raw&item_id=449&element=2985d0a1-ba5d-435c-82a3-2a754bb9dddb&method=download",
+      "lines": [
+        "ecoa-extended-travel-scissor-lifts"
+      ]
     }
   ]
 }

@@ -187,14 +187,41 @@ php tools/import-documents.php <this repo>/documents/documents.json --update   #
 php tools/import-documents.php <this repo>/documents/documents.json --prune    # take down documents removed from the file
 ```
 
-So far the manifest covers Blue Giant and Pentalift: 49 documents on 34 lines.
-Blue Giant's installation manuals, parts lists, placard, warranty guide and PL4
-operator's manual sit behind a dealer login, so they aren't included. Pentalift
-calls its website owner's manuals generic and asks for a lift's serial number to
-supply the right one; that notice is shown with both manuals. Pentalift's
-all-products catalog is attached to every Pentalift line. Its E-Series, drive-on
-bin tilter and older bin tilter sheets aren't attached, since no line here covers
-those products.
+The manifest holds 354 documents on 245 lines, covering 15 brands. Within a
+brand, each line lists catalogs and brochures first, then spec sheets, manuals,
+installation guides, parts lists and application forms.
+
+What's included is each brand's line-level literature, owner's manuals and
+application or survey forms. Left out: drawings, labels and certificates for
+single models (Vestil's and Advance Lifts' per-model PDFs, Wesco's item sheets),
+warranties, terms, Southworth's service procedures and maintenance sheets, and
+general reference sheets such as Beacon's voltage, NEMA and paint colour charts.
+Spanish-language copies aren't included.
+
+Notes by brand:
+
+- **Blue Giant:** installation manuals, parts lists, placard, warranty guide and
+  PL4 operator's manual sit behind a dealer login, so they aren't included.
+- **Pentalift:** calls its website owner's manuals generic and asks for a lift's
+  serial number to supply the right one; that notice is shown with both manuals.
+  The all-products catalog is on every Pentalift line. The E-Series, drive-on bin
+  tilter and older bin tilter sheets aren't attached, since no line here covers
+  those products.
+- **Autoquip and American Lifts:** Autoquip's manuals page links three Super
+  Titan manuals that are the same file, so one is used. Its Air Force Pneumatic
+  Tilters link serves the AutoTilt manual and its 90 Degree Tilter link serves
+  the Series 35 Tilter manual, so those two lines have no manual. The Tiltlift
+  manual is listed without a file.
+- **Presto and ECOA:** Presto publishes ECOA's literature and manuals, so they
+  are credited to Presto Lifts. Presto's general catalog is on every Presto and
+  ECOA line.
+- **Beacon:** the BBTT tech sheet link serves a platform cart sheet, and two BHTT
+  "tech sheets" are handwritten sketches; none of the three is used.
+- **Superlift:** its tilter sheet is linked from most product pages but is only
+  attached to the tilter lines.
+- **No documents:** JET, Premier Handling Solutions, Wesco and Lexco publish no
+  line-level PDFs. Econo Lift's site wasn't responding when the documents were
+  gathered (September 2026), so its lines have none yet.
 
 ## Products are drafts at launch
 
