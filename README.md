@@ -134,6 +134,10 @@ Portable Tilters and American Lifts Tork Non-Intrusive Tilters. Their cards
 show the category drawing instead. Advance Lifts photos come from its photo
 gallery, since the images on its product pages are under 500 px. The Advance
 Lifts PM/PP photo has a cream background, so it uses `"fit": "cover"`.
+Presto and ECOA publish product images at 300 to 350 px, so only Presto XW,
+Presto Tandem and ECOA Extended Travel have photos; their other lines show
+category drawings. Vestil photos are each line's featured model, named in the
+alt text.
 
 **To take images down** (for example, if a manufacturer asks), delete their
 entries from `images.json` and run the importer with `--prune`. That removes
