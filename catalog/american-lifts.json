@@ -213,5 +213,1196 @@
                 "https://autoquip.com/wp-json/lifts/v1/filter?productLine=tork-non-intrusive-tilter&per_page=-1"
             ]
         }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "american-lifts-torklift-models",
+            "title": "American Lifts TorkLift Models",
+            "line": "american-lifts-torklift-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "29 models rated 1,500–30,000 lb, with 24–72 in. of travel.",
+            "models": [
+                {
+                    "model": "TRK-024-0022-T1",
+                    "capacity_lbs": 2200,
+                    "platform": "24 x 36 to 36 x 48 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 30,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "TRK-036-0015-T1",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 48 to 36 x 60 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 42,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-036-0022-T1",
+                    "capacity_lbs": 2200,
+                    "platform": "23.5 x 47 to 48 x 72 in",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 42.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-036-0044-T1",
+                    "capacity_lbs": 4400,
+                    "platform": "23.5 x 47 to 48 x 72 in",
+                    "lowered_height_in": 6.5,
+                    "raised_height_in": 42.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-036-0060-T1",
+                    "capacity_lbs": 6000,
+                    "platform": "23.5 x 47 to 44 x 68 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-036-0080-T1",
+                    "capacity_lbs": 8000,
+                    "platform": "45 x 59.5 to 66 x 80 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-036-0100-T1",
+                    "capacity_lbs": 10000,
+                    "platform": "35 x 62.5 to 54 x 82 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 50,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-036-0120-T1",
+                    "capacity_lbs": 12000,
+                    "platform": "35 x 62.5 to 54 x 82 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 50,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-036-0160-T1",
+                    "capacity_lbs": 16000,
+                    "platform": "35 x 70 to 54 x 92 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 52,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-048-0020-T1",
+                    "capacity_lbs": 2000,
+                    "platform": "28 x 65.5 to 48 x 86 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0040-T1",
+                    "capacity_lbs": 4000,
+                    "platform": "28 x 65.5 to 48 x 86 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0060-T1",
+                    "capacity_lbs": 6000,
+                    "platform": "28 x 65.5 to 48 x 86 in",
+                    "lowered_height_in": 9,
+                    "raised_height_in": 57,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0080-T1",
+                    "capacity_lbs": 8000,
+                    "platform": "30 x 77 to 50 x 98 in",
+                    "lowered_height_in": 13.25,
+                    "raised_height_in": 61.25,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0100-T1",
+                    "capacity_lbs": 10000,
+                    "platform": "40 x 80 to 60 x 100 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 63,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0120-T1",
+                    "capacity_lbs": 12000,
+                    "platform": "40 x 80 to 60 x 100 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0160-T1",
+                    "capacity_lbs": 16000,
+                    "platform": "40 x 80 to 60 x 100 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0200-T1",
+                    "capacity_lbs": 20000,
+                    "platform": "40 x 80 to 60 x 100 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 64,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0300-T1",
+                    "capacity_lbs": 30000,
+                    "platform": "44 x 84 to 62 x 102 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 66,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-060-0025-T1",
+                    "capacity_lbs": 2500,
+                    "platform": "48.5 x 95.75 to 68 x 116 in",
+                    "lowered_height_in": 9.75,
+                    "raised_height_in": 69.75,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0040-T1",
+                    "capacity_lbs": 4000,
+                    "platform": "47 x 82 to 68 x 102 in",
+                    "lowered_height_in": 9.75,
+                    "raised_height_in": 69.75,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0060-T1",
+                    "capacity_lbs": 6000,
+                    "platform": "54 x 97 to 74 x 118 in",
+                    "lowered_height_in": 11.75,
+                    "raised_height_in": 71.75,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0090-T1",
+                    "capacity_lbs": 9000,
+                    "platform": "54 x 99 to 74 x 120 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 74.5,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0120-T1",
+                    "capacity_lbs": 12000,
+                    "platform": "54 x 99 to 74 x 120 in",
+                    "lowered_height_in": 14.5,
+                    "raised_height_in": 74.5,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0160-T1",
+                    "capacity_lbs": 16000,
+                    "platform": "60 x 100 to 80 x 120 in",
+                    "lowered_height_in": 15.5,
+                    "raised_height_in": 75.5,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0200-T1",
+                    "capacity_lbs": 20000,
+                    "platform": "60 x 100 to 80 x 120 in",
+                    "lowered_height_in": 15.5,
+                    "raised_height_in": 75.5,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0300-T1",
+                    "capacity_lbs": 30000,
+                    "platform": "64 x 104 to 83 x 122 in",
+                    "lowered_height_in": 18.5,
+                    "raised_height_in": 78.5,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-072-0020-T1",
+                    "capacity_lbs": 2000,
+                    "platform": "47 x 108 to 68 x 128 in",
+                    "lowered_height_in": 9.75,
+                    "raised_height_in": 81.75,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0040-T1",
+                    "capacity_lbs": 4000,
+                    "platform": "45 x 100 to 66 x 120 in",
+                    "lowered_height_in": 11.25,
+                    "raised_height_in": 83.25,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0060-T1",
+                    "capacity_lbs": 6000,
+                    "platform": "47 x 108 to 68 x 128 in",
+                    "lowered_height_in": 12.75,
+                    "raised_height_in": 84.75,
+                    "notes": "72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/torklift/"
+            ]
+        },
+        {
+            "slug": "american-lifts-torklift-t2-models",
+            "title": "American Lifts TorkLift T2 Models",
+            "line": "american-lifts-torklift-t2-double-pantograph-lifts",
+            "menu_order": 10,
+            "excerpt": "23 models rated 2,000–10,000 lb, with 36–144 in. of travel.",
+            "models": [
+                {
+                    "model": "TRK-036-0020-T2",
+                    "capacity_lbs": 2000,
+                    "platform": "26 x 32 to 50 x 56 in",
+                    "lowered_height_in": 10.5,
+                    "raised_height_in": 46.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "TRK-060-0020-T2",
+                    "capacity_lbs": 2000,
+                    "platform": "23 x 47.25 to 47 x 72 in",
+                    "lowered_height_in": 11.5,
+                    "raised_height_in": 71.5,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0040-T2",
+                    "capacity_lbs": 4000,
+                    "platform": "33 x 47.25 to 57 x 72 in",
+                    "lowered_height_in": 11.75,
+                    "raised_height_in": 71.75,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0100-T2",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 58 to 72 x 82 in",
+                    "lowered_height_in": 18.5,
+                    "raised_height_in": 78.5,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-072-0020-T2",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 56 to 60 x 80 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 86,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0040-T2",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 56 to 60 x 80 in",
+                    "lowered_height_in": 13.75,
+                    "raised_height_in": 85.75,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0060-T2",
+                    "capacity_lbs": 6000,
+                    "platform": "35 x 56 to 59 x 80 in",
+                    "lowered_height_in": 16.75,
+                    "raised_height_in": 88.75,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0080-T2",
+                    "capacity_lbs": 8000,
+                    "platform": "37 x 56 to 61 x 80 in",
+                    "lowered_height_in": 16.75,
+                    "raised_height_in": 88.75,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0100-T2",
+                    "capacity_lbs": 10000,
+                    "platform": "45 x 57 to 69 x 81 in",
+                    "lowered_height_in": 18.125,
+                    "raised_height_in": 90.125,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-084-0100-T2",
+                    "capacity_lbs": 10000,
+                    "platform": "45 x 71 to 69 x 95 in",
+                    "lowered_height_in": 18.125,
+                    "raised_height_in": 102.125,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "TRK-096-0020-T2",
+                    "capacity_lbs": 2000,
+                    "platform": "47 x 66 to 71 x 90 in",
+                    "lowered_height_in": 15.125,
+                    "raised_height_in": 111.125,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-096-0040-T2",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 76 to 66 x 100 in",
+                    "lowered_height_in": 16.75,
+                    "raised_height_in": 112.75,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-096-0060-T2",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 82 to 72 x 104 in",
+                    "lowered_height_in": 19.5,
+                    "raised_height_in": 115.5,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-096-0080-T2",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 80 to 72 x 104 in",
+                    "lowered_height_in": 19.5,
+                    "raised_height_in": 115.5,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-096-0100-T2",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 84 to 84 x 108 in",
+                    "lowered_height_in": 22,
+                    "raised_height_in": 118,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-108-0060-T2",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 88 to 72 x 112 in",
+                    "lowered_height_in": 16.5,
+                    "raised_height_in": 124.5,
+                    "notes": "108 in travel"
+                },
+                {
+                    "model": "TRK-120-0020-T2",
+                    "capacity_lbs": 2000,
+                    "platform": "46 x 94 to 70 x 118 in",
+                    "lowered_height_in": 14.813,
+                    "raised_height_in": 134.813,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TRK-120-0040-T2",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 95 to 84 x 119 in",
+                    "lowered_height_in": 16.75,
+                    "raised_height_in": 136.75,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TRK-120-0060-T2",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 96 to 72 x 120 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 140,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TRK-120-0080-T2",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 96 to 72 x 120 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 140,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TRK-144-0020-T2",
+                    "capacity_lbs": 2000,
+                    "platform": "72 x 96 to 75 x 120 in",
+                    "lowered_height_in": 21,
+                    "raised_height_in": 165,
+                    "notes": "144 in travel"
+                },
+                {
+                    "model": "TRK-144-0040-T2",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 117 to 84 x 141 in",
+                    "lowered_height_in": 21,
+                    "raised_height_in": 165,
+                    "notes": "144 in travel"
+                },
+                {
+                    "model": "TRK-144-0060-T2",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 117 to 84 x 141 in",
+                    "lowered_height_in": 21,
+                    "raised_height_in": 165,
+                    "notes": "144 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/torklift-t2-double-pantograph/"
+            ]
+        },
+        {
+            "slug": "american-lifts-torklift-t3-models",
+            "title": "American Lifts TorkLift T3 Models",
+            "line": "american-lifts-torklift-t3-triple-pantograph-lifts",
+            "menu_order": 10,
+            "excerpt": "30 models rated 2,000–10,000 lb, with 48–300 in. of travel.",
+            "models": [
+                {
+                    "model": "TRK-048-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 33 to 56 x 57 in",
+                    "lowered_height_in": 16.5,
+                    "raised_height_in": 64.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-048-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "34 x 34 to 58 x 58 in",
+                    "lowered_height_in": 19,
+                    "raised_height_in": 67,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "TRK-060-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 38.875 to 48 x 62.875 in",
+                    "lowered_height_in": 15.75,
+                    "raised_height_in": 75.75,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 39 to 56 x 63 in",
+                    "lowered_height_in": 17.063,
+                    "raised_height_in": 77.063,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-060-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 39 to 56 x 63 in",
+                    "lowered_height_in": 17.063,
+                    "raised_height_in": 77.063,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "TRK-072-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 44 to 54 x 68 in",
+                    "lowered_height_in": 15.75,
+                    "raised_height_in": 87.75,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "34 x 45 to 58 x 69 in",
+                    "lowered_height_in": 17.563,
+                    "raised_height_in": 89.563,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-072-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 45 to 56 x 69 in",
+                    "lowered_height_in": 18.438,
+                    "raised_height_in": 90.438,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "TRK-084-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 51 to 56 x 75 in",
+                    "lowered_height_in": 17.063,
+                    "raised_height_in": 101.063,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "TRK-084-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "40 x 58 to 64 x 82 in",
+                    "lowered_height_in": 19.563,
+                    "raised_height_in": 103.563,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "TRK-084-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 54 to 60 x 78 in",
+                    "lowered_height_in": 22,
+                    "raised_height_in": 106,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "TRK-084-0100-T3",
+                    "capacity_lbs": 10000,
+                    "platform": "42 x 52 to 63 x 68 in",
+                    "lowered_height_in": 23.375,
+                    "raised_height_in": 107.375,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "TRK-096-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "38 x 56 to 62 x 80 in",
+                    "lowered_height_in": 22,
+                    "raised_height_in": 118,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-096-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "40 x 58 to 64 x 82 in",
+                    "lowered_height_in": 20.563,
+                    "raised_height_in": 116.563,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-096-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "46 x 59 to 70 x 83 in",
+                    "lowered_height_in": 21.25,
+                    "raised_height_in": 117.25,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "TRK-108-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "42 x 63 to 66 x 87 in",
+                    "lowered_height_in": 18.625,
+                    "raised_height_in": 126.625,
+                    "notes": "108 in travel"
+                },
+                {
+                    "model": "TRK-108-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 64 to 72 x 88 in",
+                    "lowered_height_in": 22,
+                    "raised_height_in": 130,
+                    "notes": "108 in travel"
+                },
+                {
+                    "model": "TRK-108-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "54 x 65 to 78 x 89 in",
+                    "lowered_height_in": 12.5,
+                    "raised_height_in": 120.5,
+                    "notes": "108 in travel"
+                },
+                {
+                    "model": "TRK-120-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 69 to 72 x 93 in",
+                    "lowered_height_in": 18.563,
+                    "raised_height_in": 138.563,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TRK-120-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 70 to 72 x 94 in",
+                    "lowered_height_in": 22.563,
+                    "raised_height_in": 142.563,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TRK-120-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "56 x 70 to 80 x 94 in",
+                    "lowered_height_in": 22.563,
+                    "raised_height_in": 142.563,
+                    "notes": "120 in travel"
+                },
+                {
+                    "model": "TRK-132-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "54 x 75 to 78 x 99 in",
+                    "lowered_height_in": 22,
+                    "raised_height_in": 154,
+                    "notes": "132 in travel"
+                },
+                {
+                    "model": "TRK-132-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "56 x 77 to 80 x 101 in",
+                    "lowered_height_in": 25.063,
+                    "raised_height_in": 157.063,
+                    "notes": "132 in travel"
+                },
+                {
+                    "model": "TRK-132-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "56 x 77 to 80 x 101 in",
+                    "lowered_height_in": 25.063,
+                    "raised_height_in": 157.063,
+                    "notes": "132 in travel"
+                },
+                {
+                    "model": "TRK-144-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "56 x 81 to 80 x 105 in",
+                    "lowered_height_in": 22.563,
+                    "raised_height_in": 166.563,
+                    "notes": "144 in travel"
+                },
+                {
+                    "model": "TRK-144-0040-T3",
+                    "capacity_lbs": 4000,
+                    "platform": "56 x 81 to 80 x 105 in",
+                    "lowered_height_in": 22.563,
+                    "raised_height_in": 166.563,
+                    "notes": "144 in travel"
+                },
+                {
+                    "model": "TRK-144-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 82 to 72 x 106 in",
+                    "lowered_height_in": 27.75,
+                    "raised_height_in": 171.75,
+                    "notes": "144 in travel"
+                },
+                {
+                    "model": "TRK-180-0060-T3",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 96 to 72 x 125 in",
+                    "lowered_height_in": 29,
+                    "raised_height_in": 209,
+                    "notes": "180 in travel"
+                },
+                {
+                    "model": "TRK-192-0080-T3",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 96 to 72 x 125 in",
+                    "lowered_height_in": 29,
+                    "raised_height_in": 221,
+                    "notes": "192 in travel"
+                },
+                {
+                    "model": "TRK-300-0020-T3",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 144 to 72 x 187 in",
+                    "lowered_height_in": 32.25,
+                    "raised_height_in": 332.25,
+                    "notes": "300 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/torklift-t3-triple-pantograph/"
+            ]
+        },
+        {
+            "slug": "american-lifts-torklift-t4-models",
+            "title": "American Lifts TorkLift T4 Models",
+            "line": "american-lifts-torklift-t4-quad-pantograph-lifts",
+            "menu_order": 10,
+            "excerpt": "5 models rated 2,000–6,000 lb, with 132–546 in. of travel.",
+            "models": [
+                {
+                    "model": "TRK-132-0020-T4",
+                    "capacity_lbs": 2000,
+                    "platform": "40 x 53 to 64 x 77 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 156,
+                    "notes": "132 in travel"
+                },
+                {
+                    "model": "TRK-180-0020-T4",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 72 to 84 x 120 in",
+                    "lowered_height_in": 26,
+                    "raised_height_in": 206,
+                    "notes": "180 in travel"
+                },
+                {
+                    "model": "TRK-288-0060-T4",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 120 to 108 x 168 in",
+                    "lowered_height_in": 41.25,
+                    "raised_height_in": 329.25,
+                    "notes": "288 in travel"
+                },
+                {
+                    "model": "TRK-300-0040-T4",
+                    "capacity_lbs": 4000,
+                    "platform": "68 x 125 to 116 x 149 in",
+                    "lowered_height_in": 39,
+                    "raised_height_in": 339,
+                    "notes": "300 in travel"
+                },
+                {
+                    "model": "TRK-546-0030-T4",
+                    "capacity_lbs": 3000,
+                    "platform": "96 x 192 to 144 x 216 in",
+                    "lowered_height_in": 61,
+                    "raised_height_in": 607,
+                    "notes": "546 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/torklift-t4-quad-pantograph/"
+            ]
+        },
+        {
+            "slug": "american-lifts-compact-lift-models",
+            "title": "American Lifts Compact Lift Models",
+            "line": "american-lifts-compact-lift-tables",
+            "menu_order": 10,
+            "excerpt": "33 models rated 500–12,000 lb, with 25–84 in. of travel.",
+            "models": [
+                {
+                    "model": "CPT-025-0005",
+                    "capacity_lbs": 500,
+                    "platform": "12 x 25 to 24 x 36 in",
+                    "lowered_height_in": 5,
+                    "raised_height_in": 30,
+                    "notes": "25 in travel"
+                },
+                {
+                    "model": "CPT-030-0010-SF",
+                    "capacity_lbs": 1000,
+                    "platform": "16.375 x 27 to 28 x 34.25 in",
+                    "lowered_height_in": 6.25,
+                    "raised_height_in": 36.25,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "CPT-030-0010",
+                    "capacity_lbs": 1000,
+                    "platform": "16.375 x 34.375 to 28 x 46 in",
+                    "lowered_height_in": 6.25,
+                    "raised_height_in": 36.25,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "CPT-036-0020-SF",
+                    "capacity_lbs": 2000,
+                    "platform": "17.5 x 30 to 38 x 41.38 in",
+                    "lowered_height_in": 6.125,
+                    "raised_height_in": 42.125,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-036-0020",
+                    "capacity_lbs": 2000,
+                    "platform": "17.5 x 41.5 to 38 x 62 in",
+                    "lowered_height_in": 6.125,
+                    "raised_height_in": 42.125,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-036-0040-SF",
+                    "capacity_lbs": 4000,
+                    "platform": "23 x 34.63 to 44 x 46.88 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-036-0040",
+                    "capacity_lbs": 4000,
+                    "platform": "23 x 47 to 44 x 68 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 43,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-036-0060-SF",
+                    "capacity_lbs": 6000,
+                    "platform": "23 x 34.63 to 44 x 46.88 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-036-0060",
+                    "capacity_lbs": 6000,
+                    "platform": "23 x 47 to 44 x 68 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-036-0120-SF",
+                    "capacity_lbs": 12000,
+                    "platform": "34 x 39.25 to 54 x 53.88 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 46,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-036-0120",
+                    "capacity_lbs": 12000,
+                    "platform": "34 x 54 to 54 x 74 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 46,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "CPT-048-0015-SF",
+                    "capacity_lbs": 1500,
+                    "platform": "17.5 x 38 to 38 x 49.38 in",
+                    "lowered_height_in": 6.125,
+                    "raised_height_in": 54.125,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-048-0015",
+                    "capacity_lbs": 1500,
+                    "platform": "17.5 x 49.5 to 38 x 70 in",
+                    "lowered_height_in": 6.125,
+                    "raised_height_in": 54.125,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-048-0030-SF",
+                    "capacity_lbs": 3000,
+                    "platform": "23 x 46.63 to 44 x 58.88 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-048-0030",
+                    "capacity_lbs": 3000,
+                    "platform": "23 x 59 to 44 x 80 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-048-0040",
+                    "capacity_lbs": 4000,
+                    "platform": "23 x 59 to 44 x 80 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-048-0040-SF",
+                    "capacity_lbs": 4000,
+                    "platform": "23 x 46.63 to 44 x 58.88 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-048-0120-SF",
+                    "capacity_lbs": 12000,
+                    "platform": "34 x 46.38 to 54 x 58.88 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-048-0120",
+                    "capacity_lbs": 12000,
+                    "platform": "34 x 59 to 54 x 80 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "CPT-060-0020-SF",
+                    "capacity_lbs": 2000,
+                    "platform": "23 x 57.13 to 44 x 69.38 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "CPT-060-0020",
+                    "capacity_lbs": 2000,
+                    "platform": "23 x 69.5 to 44 x 90 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 67,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "CPT-060-0030-SF",
+                    "capacity_lbs": 3000,
+                    "platform": "23 x 57.13 to 44 x 69.38 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "CPT-060-0030",
+                    "capacity_lbs": 3000,
+                    "platform": "23 x 69.5 to 44 x 90 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "CPT-060-0060",
+                    "capacity_lbs": 6000,
+                    "platform": "31 x 70 to 52 x 90 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "CPT-060-0060-SF",
+                    "capacity_lbs": 6000,
+                    "platform": "31 x 58.13 to 52 x 69.88 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "CPT-072-0020-SF",
+                    "capacity_lbs": 2000,
+                    "platform": "23 x 62.63 to 44 x 74.88 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 82,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "CPT-072-0020",
+                    "capacity_lbs": 2000,
+                    "platform": "23 x 75 to 44 x 96 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 82,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "CPT-072-0040-SF",
+                    "capacity_lbs": 4000,
+                    "platform": "31 x 64.13 to 52 x 75.88 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 82,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "CPT-072-0040",
+                    "capacity_lbs": 4000,
+                    "platform": "31 x 76 to 52 x 96 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 82,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "CPT-084-0020-SF",
+                    "capacity_lbs": 2000,
+                    "platform": "31 x 72.63 to 50 x 84.38 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 94,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "CPT-084-0020",
+                    "capacity_lbs": 2000,
+                    "platform": "31 x 84.5 to 50 x 104 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 94,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "CPT-084-0040-SF",
+                    "capacity_lbs": 4000,
+                    "platform": "31 x 72.63 to 50 x 84.38 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 94,
+                    "notes": "84 in travel"
+                },
+                {
+                    "model": "CPT-084-0040",
+                    "capacity_lbs": 4000,
+                    "platform": "31 x 84.5 to 50 x 104 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 94,
+                    "notes": "84 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/scissor-lift-tables/compact-lift/"
+            ]
+        },
+        {
+            "slug": "american-lifts-tiltlift-models",
+            "title": "American Lifts TiltLift Models",
+            "line": "american-lifts-tiltlift-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,000–8,000 lb, with 22-3/16–25 in. of travel and 45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "TLA-022-0080",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 54 to 60 x 56 in",
+                    "lowered_height_in": 10.81,
+                    "raised_height_in": 33,
+                    "notes": "22-3/16 in travel, 45° tilt"
+                },
+                {
+                    "model": "TLA-023-0020",
+                    "capacity_lbs": 2000,
+                    "platform": "17.5 x 41.5 to 48 x 48 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 29,
+                    "notes": "23 in travel, 45° tilt"
+                },
+                {
+                    "model": "TLA-025-0040",
+                    "capacity_lbs": 4000,
+                    "platform": "23 x 47 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 32,
+                    "notes": "25 in travel, 45° tilt"
+                },
+                {
+                    "model": "TLA-025-0060",
+                    "capacity_lbs": 6000,
+                    "platform": "23 x 47 to 48 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 33,
+                    "notes": "25 in travel, 45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/tilters/tiltlift/"
+            ]
+        },
+        {
+            "slug": "american-lifts-90-degree-tilter-models",
+            "title": "American Lifts 90 Degree Tilter Models",
+            "line": "american-lifts-90-degree-tilters",
+            "menu_order": 10,
+            "excerpt": "3 models rated 2,000–6,000 lb, with 90 degrees of tilt.",
+            "models": [
+                {
+                    "model": "TLT-024044-0020",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "90° tilt"
+                },
+                {
+                    "model": "TLT-024044-0040",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 44 to 48 x 48 in",
+                    "lowered_height_in": 7,
+                    "notes": "90° tilt"
+                },
+                {
+                    "model": "TLT-044052-0060",
+                    "capacity_lbs": 6000,
+                    "platform": "44 x 52 to 48 x 52 in",
+                    "lowered_height_in": 12,
+                    "notes": "90° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/tilters/90-degree-tilter/"
+            ]
+        },
+        {
+            "slug": "american-lifts-tork-non-intrusive-tilter-models",
+            "title": "American Lifts Tork Non-Intrusive Tilter Models",
+            "line": "american-lifts-tork-non-intrusive-tilters",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,200–8,000 lb, with 45 degrees of tilt.",
+            "models": [
+                {
+                    "model": "TNI-024048-0022",
+                    "capacity_lbs": 2200,
+                    "platform": "24 x 48 to 50 x 60 in",
+                    "lowered_height_in": 8.625,
+                    "raised_height_in": 8.625,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TNI-024048-0044",
+                    "capacity_lbs": 4400,
+                    "platform": "24 x 48 to 50 x 60 in",
+                    "lowered_height_in": 8.625,
+                    "raised_height_in": 8.625,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TNI-024048-0060",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 to 50 x 60 in",
+                    "lowered_height_in": 9.625,
+                    "raised_height_in": 9.625,
+                    "notes": "45° tilt"
+                },
+                {
+                    "model": "TNI-024048-0080",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 48 to 50 x 60 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 10,
+                    "notes": "45° tilt"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://autoquip.com/products/tilters/tork-non-intrusive-tilter/"
+            ]
+        }
     ]
 }

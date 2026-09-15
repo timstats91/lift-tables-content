@@ -49,9 +49,24 @@ php generators/lange-lift.php
 php generators/bishamon.php
 ```
 
-`catalog/jet.json`, `catalog/autoquip.json`, `catalog/american-lifts.json`,
-`catalog/advance-lifts.json` and `catalog/air-technical-industries.json` are
-hand-maintained. The last four hold product lines only, with no product entries.
+`catalog/jet.json` is hand-maintained.
+
+In `catalog/autoquip.json`, `catalog/american-lifts.json`,
+`catalog/advance-lifts.json` and `catalog/air-technical-industries.json` the
+product lines are hand-maintained, but the products are generated. Each
+product is a draft holding one design's model table, built from the
+manufacturer's published data: Autoquip's lifts API (which also covers American
+Lifts), the spec tables on advancelifts.com and ATI's WooCommerce Store API.
+Regenerate them with:
+
+```bash
+node generators/line-models.js catalog
+```
+
+It replaces only the `products` array in those four files. Advance Lifts
+publishes the Pallet Pro specs as images, so those four rows are typed into the
+generator. ATI publishes no model list for its Mechanical Lift Tables or
+Zero-Low Crate Positioners, so those two lines have no table.
 
 ## Brand
 
@@ -129,10 +144,10 @@ an existing item's status.
 | JET | 1 | 5 | 5 |
 | Lange Lift | 5 | 17 | 78 |
 | Bishamon | 8 | 16 | 69 |
-| Autoquip | 16 | 0 | 0 |
-| American Lifts | 8 | 0 | 0 |
-| Advance Lifts | 14 | 0 | 0 |
-| Air Technical Industries | 14 | 0 | 0 |
+| Autoquip | 16 | 26 | 736 |
+| American Lifts | 8 | 8 | 131 |
+| Advance Lifts | 14 | 27 | 583 |
+| Air Technical Industries | 14 | 12 | 194 |
 
 Brands in `brands.json` without a catalog file yet: Southworth, Presto, ECOA,
 Vestil, Lift Products, Beacon, Wesco, Lexco, Premier Handling Solutions,

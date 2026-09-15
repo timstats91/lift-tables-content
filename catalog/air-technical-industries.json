@@ -319,5 +319,1697 @@
                 "https://airtechnical.com/product/post-lift-tables/"
             ]
         }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "ati-zero-low-lift-table-models",
+            "title": "Air Technical Industries Zero-Low Lift Table Models",
+            "line": "ati-zero-low-lift-tables",
+            "menu_order": 10,
+            "excerpt": "26 models rated 250–10,000 lb, with 22–96 in. of travel.",
+            "models": [
+                {
+                    "model": "ZLA-2636",
+                    "capacity_lbs": 250,
+                    "platform": "26 x 36 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "22 in travel"
+                },
+                {
+                    "model": "ZLB-3466",
+                    "capacity_lbs": 500,
+                    "platform": "34 x 66 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "ZLB-5048",
+                    "capacity_lbs": 500,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLB-5072",
+                    "capacity_lbs": 500,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZLC-5048",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLC-5072",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZLD-2654",
+                    "capacity_lbs": 1000,
+                    "platform": "26 x 54 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "ZLD-5048",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLD-5072",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZLE-5048",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLE-5072",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZLH-45084",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 84 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZLH-450120",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 120 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "78 in travel"
+                },
+                {
+                    "model": "ZLH-46084",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 84 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "54 in travel"
+                },
+                {
+                    "model": "ZLH-460120",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 120 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "78 in travel"
+                },
+                {
+                    "model": "ZLH-65048",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLH-65072",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLH-65084",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 84 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "54 in travel"
+                },
+                {
+                    "model": "ZLH-650120",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 120 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "78 in travel"
+                },
+                {
+                    "model": "ZLH-66072",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 72 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLH-66084",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 84 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "54 in travel"
+                },
+                {
+                    "model": "ZLH-660120",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 120 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "78 in travel"
+                },
+                {
+                    "model": "ZLH-106072",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 72 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLH-106084",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 84 in",
+                    "lowered_height_in": 1.5,
+                    "notes": "56 in travel"
+                },
+                {
+                    "model": "ZLH-1060120",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 120 in",
+                    "lowered_height_in": 1.5,
+                    "notes": "72 in travel"
+                },
+                {
+                    "model": "ZLH-1060156",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 156 in",
+                    "lowered_height_in": 1.5,
+                    "notes": "96 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/zero-low-scissors-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-low-profile-zero-low-lift-table-models",
+            "title": "Air Technical Industries Low-Profile Zero-Low Lift Table Models",
+            "line": "ati-low-profile-zero-low-lift-tables",
+            "menu_order": 10,
+            "excerpt": "11 models rated 1,000–2,500 lb, with 32–46 in. of travel.",
+            "models": [
+                {
+                    "model": "ZLLPC-2648",
+                    "capacity_lbs": 1000,
+                    "platform": "26 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPC-3848",
+                    "capacity_lbs": 1000,
+                    "platform": "38 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPC-4448",
+                    "capacity_lbs": 1000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPC-5048",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPC-5072",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.375,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLLPF-2648",
+                    "capacity_lbs": 2500,
+                    "platform": "26 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPF-3848",
+                    "capacity_lbs": 2500,
+                    "platform": "38 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPF-4448",
+                    "capacity_lbs": 2500,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPF-5048",
+                    "capacity_lbs": 2500,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLLPF-3872",
+                    "capacity_lbs": 2500,
+                    "platform": "38 x 72 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLLPF-5072",
+                    "capacity_lbs": 2500,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "46 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/low-profile-zero-low-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-zero-low-lift-and-tilt-table-models",
+            "title": "Air Technical Industries Zero-Low Lift and Tilt Table Models",
+            "line": "ati-zero-low-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "9 models rated 1,000–6,000 lb, with 30–46 in. of travel.",
+            "models": [
+                {
+                    "model": "ZLTTC-5048",
+                    "capacity_lbs": 1000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLTTD-5048",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLTTE-5048",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "ZLTTD-5072",
+                    "capacity_lbs": 2000,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.5,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLTTE-5072",
+                    "capacity_lbs": 4000,
+                    "platform": "50 x 72 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLTTE-6060",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 60 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "ZLTTE-6072",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 72 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZLTTG-5048",
+                    "capacity_lbs": 6000,
+                    "platform": "50 x 48 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "ZLTTG-6072",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 72 in",
+                    "lowered_height_in": 0.75,
+                    "notes": "46 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Scissor Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/zero-low-lift-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "ati-zero-low-3-point-entry-lift-table-models",
+            "title": "Air Technical Industries Zero-Low 3-Point Entry Lift Table Models",
+            "line": "ati-zero-low-3-point-entry-lift-tables",
+            "menu_order": 10,
+            "excerpt": "8 models rated 1,000–2,500 lb, with 46–48 in. of travel.",
+            "models": [
+                {
+                    "model": "ZL3PC-3030",
+                    "capacity_lbs": 1000,
+                    "platform": "30 x 30 in",
+                    "lowered_height_in": 1.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZL3PC-3636",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 36 in",
+                    "lowered_height_in": 1.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZL3PC-4242",
+                    "capacity_lbs": 1000,
+                    "platform": "42 x 42 in",
+                    "lowered_height_in": 1.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZL3PC-4848",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 1.5,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZL3PF-3030",
+                    "capacity_lbs": 2500,
+                    "platform": "30 x 30 in",
+                    "lowered_height_in": 2,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZL3PF-3636",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 36 in",
+                    "lowered_height_in": 2,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "ZL3PF-4242",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 36 in",
+                    "lowered_height_in": 2,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "ZL3PF-4848",
+                    "capacity_lbs": 2500,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 2,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/zero-low-3-point-entry-lift-tables-2/"
+            ]
+        },
+        {
+            "slug": "ati-hydraulic-lift-table-models",
+            "title": "Air Technical Industries Hydraulic Lift Table Models",
+            "line": "ati-hydraulic-lift-tables",
+            "menu_order": 10,
+            "excerpt": "53 models rated 500–10,000 lb, with 18–60 in. of travel.",
+            "models": [
+                {
+                    "model": "SLL-51836",
+                    "capacity_lbs": 500,
+                    "platform": "18 x 36 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 26,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "SLL-53254",
+                    "capacity_lbs": 500,
+                    "platform": "32 x 54 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 38,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLL-53260",
+                    "capacity_lbs": 500,
+                    "platform": "32 x 60 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SLL-53266",
+                    "capacity_lbs": 500,
+                    "platform": "32 x 66 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 48,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLL-12436",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 26,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "SLL-13248",
+                    "capacity_lbs": 1000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLL-14848",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLL-12454",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 54 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 38,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLL-13254",
+                    "capacity_lbs": 1000,
+                    "platform": "32 x 54 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 38,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLL-14860",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SLL-13678",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 78 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLL-14884",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 84 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 60,
+                    "notes": "52 in travel"
+                },
+                {
+                    "model": "SLH-64878",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLL-14896",
+                    "capacity_lbs": 1000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "SLI-22436",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 26,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "SLI-22442",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 42 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 26,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "SLI-23042",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 42 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 26,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "SLI-23248",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLI-24848",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLI-23254",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 54 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 38,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLI-22454",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 54 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 38,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLI-23260",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 60 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SLI-23666",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 66 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 48,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLI-24860",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SLI-24872",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 72 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 52,
+                    "notes": "44 in travel"
+                },
+                {
+                    "model": "SLI-23678",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 78 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLI-24878",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLI-24884",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 84 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 62,
+                    "notes": "52 in travel"
+                },
+                {
+                    "model": "SLI-24896",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "SLI-44848",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLI-42454",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 54 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 38,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLI-44860",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SLI-44872",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 72 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 52,
+                    "notes": "44 in travel"
+                },
+                {
+                    "model": "SLI-44878",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLI-44884",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 84 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 60,
+                    "notes": "52 in travel"
+                },
+                {
+                    "model": "SLI-44896",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 68,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "SLI-63254",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 54 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 38,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLI-64848",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLI-64860",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 60 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "SLH-64872",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 72 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 52,
+                    "notes": "44 in travel"
+                },
+                {
+                    "model": "SLH-64884",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 84 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 62,
+                    "notes": "52 in travel"
+                },
+                {
+                    "model": "SLH-64896",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "SLH-660102",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 102 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "SLH-672102",
+                    "capacity_lbs": 6000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "SLH-83666",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 66 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 48,
+                    "notes": "38 in travel"
+                },
+                {
+                    "model": "SLH-84878",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 56,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "SLH-84884",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 84 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 62,
+                    "notes": "52 in travel"
+                },
+                {
+                    "model": "SLH-84896",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 68,
+                    "notes": "58 in travel"
+                },
+                {
+                    "model": "SLH-872102",
+                    "capacity_lbs": 8000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                },
+                {
+                    "model": "SLH-104878",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 56,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "SLH-104884",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 84 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 62,
+                    "notes": "52 in travel"
+                },
+                {
+                    "model": "SLH-104896",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 68,
+                    "notes": "58 in travel"
+                },
+                {
+                    "model": "SLH-1072102",
+                    "capacity_lbs": 10000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/hydraulic-lift-table/"
+            ]
+        },
+        {
+            "slug": "ati-vertical-column-lift-table-models",
+            "title": "Air Technical Industries Vertical Column Lift Table Models",
+            "line": "ati-vertical-column-lift-tables",
+            "menu_order": 10,
+            "excerpt": "10 models rated 50–2,500 lb, with 18–36 in. of travel.",
+            "models": [
+                {
+                    "model": "VCL-F4848E",
+                    "capacity_lbs": 2500,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 4,
+                    "raised_height_in": 40,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "VCL-F3636E",
+                    "capacity_lbs": 2500,
+                    "platform": "36 x 36 in",
+                    "lowered_height_in": 3.5,
+                    "raised_height_in": 27.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "VCL-C4848E",
+                    "capacity_lbs": 1200,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 3,
+                    "raised_height_in": 39,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "VCL-C3636E",
+                    "capacity_lbs": 1200,
+                    "platform": "36 x 36 in",
+                    "lowered_height_in": 2.5,
+                    "raised_height_in": 26.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "VCL-B3636E",
+                    "capacity_lbs": 500,
+                    "platform": "36 x 36 in",
+                    "lowered_height_in": 1.5,
+                    "raised_height_in": 37.5,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "VCL-B2424E",
+                    "capacity_lbs": 500,
+                    "platform": "24 x 24 in",
+                    "lowered_height_in": 1.5,
+                    "raised_height_in": 25.5,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "VCL-A2424E",
+                    "capacity_lbs": 250,
+                    "platform": "24 x 24 in",
+                    "lowered_height_in": 0.25,
+                    "raised_height_in": 24.25,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "VCL-A1818E",
+                    "capacity_lbs": 250,
+                    "platform": "18 x 18 in",
+                    "lowered_height_in": 0.25,
+                    "raised_height_in": 18.25,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "VCL-01818E",
+                    "capacity_lbs": 50,
+                    "platform": "18 x 18 in",
+                    "lowered_height_in": 0.25,
+                    "raised_height_in": 18.25,
+                    "notes": "18 in travel"
+                },
+                {
+                    "model": "VCL-01212E",
+                    "capacity_lbs": 50,
+                    "platform": "12 x 12 in",
+                    "lowered_height_in": 0.25,
+                    "raised_height_in": 18.25,
+                    "notes": "18 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/vertical-column-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-mini-scissor-lift-table-models",
+            "title": "Air Technical Industries Mini Scissor Lift Table Models",
+            "line": "ati-mini-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "11 models rated 50–250 lb, with 6–63 in. of travel.",
+            "models": [
+                {
+                    "model": "MMSL-A1012",
+                    "capacity_lbs": 50,
+                    "platform": "10 x 12 in",
+                    "lowered_height_in": 3,
+                    "raised_height_in": 9,
+                    "notes": "6 in travel"
+                },
+                {
+                    "model": "DMSL-1519",
+                    "capacity_lbs": 150,
+                    "platform": "15 x 19 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 30,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "DMSL-1824",
+                    "capacity_lbs": 150,
+                    "platform": "18 x 24 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 38,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "DMSL-2030",
+                    "capacity_lbs": 150,
+                    "platform": "20 x 30 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 47,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "DMSL-2436",
+                    "capacity_lbs": 150,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 55,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DMSL-2448",
+                    "capacity_lbs": 150,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 7,
+                    "raised_height_in": 70,
+                    "notes": "63 in travel"
+                },
+                {
+                    "model": "MSL-A1519",
+                    "capacity_lbs": 250,
+                    "platform": "15 x 19 in",
+                    "lowered_height_in": 4,
+                    "raised_height_in": 16,
+                    "notes": "12 in travel"
+                },
+                {
+                    "model": "MSL-A1824",
+                    "capacity_lbs": 250,
+                    "platform": "18 x 24 in",
+                    "lowered_height_in": 5,
+                    "raised_height_in": 20,
+                    "notes": "15 in travel"
+                },
+                {
+                    "model": "MSL-A2030",
+                    "capacity_lbs": 250,
+                    "platform": "20 x 30 in",
+                    "lowered_height_in": 5,
+                    "raised_height_in": 24,
+                    "notes": "19 in travel"
+                },
+                {
+                    "model": "MSL-A2436",
+                    "capacity_lbs": 250,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 5,
+                    "raised_height_in": 27,
+                    "notes": "22 in travel"
+                },
+                {
+                    "model": "MSL-A2448",
+                    "capacity_lbs": 250,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 6,
+                    "raised_height_in": 36,
+                    "notes": "30 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Electric Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/mini-scissors-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-tandem-scissor-lift-table-models",
+            "title": "Air Technical Industries Tandem Scissor Lift Table Models",
+            "line": "ati-tandem-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "15 models rated 2,000–50,000 lb, with 34–76 in. of travel.",
+            "models": [
+                {
+                    "model": "SLTD-236120",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 120 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 44,
+                    "notes": "34 in travel"
+                },
+                {
+                    "model": "SLTD-248144",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 144 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 56,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "SLTD-448144",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 144 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 56,
+                    "notes": "46 in travel"
+                },
+                {
+                    "model": "SLTD-460192",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 192 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 68,
+                    "notes": "58 in travel"
+                },
+                {
+                    "model": "SLTD-648144",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 144 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 56,
+                    "notes": "44 in travel"
+                },
+                {
+                    "model": "SLTD-660192",
+                    "capacity_lbs": 6000,
+                    "platform": "60 x 192 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 68,
+                    "notes": "56 in travel"
+                },
+                {
+                    "model": "SLTD-1048144",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 144 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 56,
+                    "notes": "44 in travel"
+                },
+                {
+                    "model": "SLTD-1060192",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 192 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 66,
+                    "notes": "56 in travel"
+                },
+                {
+                    "model": "SLTD-1072240",
+                    "capacity_lbs": 10000,
+                    "platform": "72 x 240 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 88,
+                    "notes": "76 in travel"
+                },
+                {
+                    "model": "SLTD-2048144",
+                    "capacity_lbs": 20000,
+                    "platform": "48 x 144 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 56,
+                    "notes": "42 in travel"
+                },
+                {
+                    "model": "SLTD-2060192",
+                    "capacity_lbs": 20000,
+                    "platform": "60 x 192 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 68,
+                    "notes": "54 in travel"
+                },
+                {
+                    "model": "SLTD-2072240",
+                    "capacity_lbs": 20000,
+                    "platform": "72 x 240 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 88,
+                    "notes": "74 in travel"
+                },
+                {
+                    "model": "SLTD-5048144",
+                    "capacity_lbs": 50000,
+                    "platform": "48 x 144 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 56,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLTD-5060192",
+                    "capacity_lbs": 50000,
+                    "platform": "60 x 192 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 68,
+                    "notes": "52 in travel"
+                },
+                {
+                    "model": "SLTD-5072240",
+                    "capacity_lbs": 50000,
+                    "platform": "72 x 240 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 88,
+                    "notes": "72 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/tandem-scissors-lift-table/"
+            ]
+        },
+        {
+            "slug": "ati-double-scissor-lift-table-models",
+            "title": "Air Technical Industries Double Scissor Lift Table Models",
+            "line": "ati-double-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "12 models rated 500–10,000 lb, with 36–96 in. of travel.",
+            "models": [
+                {
+                    "model": "DSL-51836",
+                    "capacity_lbs": 500,
+                    "platform": "18 x 36 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 44,
+                    "notes": "36 in travel"
+                },
+                {
+                    "model": "DSL-23248",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL-23260",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 80,
+                    "notes": "68 in travel"
+                },
+                {
+                    "model": "DSL-23678",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 78 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 108,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "DSL-43248",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "DSL-44260",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 80,
+                    "notes": "68 in travel"
+                },
+                {
+                    "model": "DSL-44878",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 108,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "DSL-63260",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 82,
+                    "notes": "70 in travel"
+                },
+                {
+                    "model": "DSL-64878",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 108,
+                    "notes": "96 in travel"
+                },
+                {
+                    "model": "DSL-672102",
+                    "capacity_lbs": 6000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 110,
+                    "notes": "94 in travel"
+                },
+                {
+                    "model": "DSL-104878",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 108,
+                    "notes": "92 in travel"
+                },
+                {
+                    "model": "DSL-1072102",
+                    "capacity_lbs": 10000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 110,
+                    "notes": "94 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/double-scissors-lift-tables/"
+            ]
+        },
+        {
+            "slug": "ati-lift-and-tilt-table-models",
+            "title": "Air Technical Industries Lift-and-Tilt Table Models",
+            "line": "ati-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "22 models rated 1,000–10,000 lb, with 24–48 in. of travel.",
+            "models": [
+                {
+                    "model": "SLTT-1A00",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 34,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLTT-1B00",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 34,
+                    "notes": "24 in travel"
+                },
+                {
+                    "model": "SLTT-2A00",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 54 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 40,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLTT-2B00",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 54 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 40,
+                    "notes": "30 in travel"
+                },
+                {
+                    "model": "SLTT-4A00",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 66 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 42,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "SLTT-4B00",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 66 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 42,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "SLTT-6A00",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 44,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "SLTT-6B00",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 44,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "SLTT-6A48",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 52,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLTT-6B48",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 52,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLTT-6A72",
+                    "capacity_lbs": 6000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLTT-6B72",
+                    "capacity_lbs": 6000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLTT-8A00",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 66 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 46,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "SLTT-8B00",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 66 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 46,
+                    "notes": "32 in travel"
+                },
+                {
+                    "model": "SLTT-8A48",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 54,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLTT-8B48",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 54,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLTT-1A000",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 54,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLTT-1B000",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 78 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 54,
+                    "notes": "40 in travel"
+                },
+                {
+                    "model": "SLTT-1A060",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 102 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 62,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLTT-1B060",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 102 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 62,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLTT-1A072",
+                    "capacity_lbs": 10000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 62,
+                    "notes": "48 in travel"
+                },
+                {
+                    "model": "SLTT-1B072",
+                    "capacity_lbs": 10000,
+                    "platform": "72 x 102 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 62,
+                    "notes": "48 in travel"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/lift-and-tilt-tables/"
+            ]
+        },
+        {
+            "slug": "ati-crate-positioner-models",
+            "title": "Air Technical Industries Crate Positioner Models",
+            "line": "ati-crate-positioners",
+            "menu_order": 10,
+            "excerpt": "10 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "SCP-2000",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 8
+                },
+                {
+                    "model": "SCP-4000",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 60 in",
+                    "lowered_height_in": 8
+                },
+                {
+                    "model": "SCP-6000",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 10
+                },
+                {
+                    "model": "SCP-6048",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 72 in",
+                    "lowered_height_in": 10
+                },
+                {
+                    "model": "SCP-6072",
+                    "capacity_lbs": 6000,
+                    "platform": "72 x 96 in",
+                    "lowered_height_in": 10
+                },
+                {
+                    "model": "SCP-8000",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 10
+                },
+                {
+                    "model": "SCP-8048",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 72 in",
+                    "lowered_height_in": 10
+                },
+                {
+                    "model": "SCP-10000",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 72 in",
+                    "lowered_height_in": 10
+                },
+                {
+                    "model": "SCP-10060",
+                    "capacity_lbs": 10000,
+                    "platform": "60 x 96 in",
+                    "lowered_height_in": 12
+                },
+                {
+                    "model": "SCP-10072",
+                    "capacity_lbs": 10000,
+                    "platform": "72 x 96 in",
+                    "lowered_height_in": 12
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/crate-positioner-upender-tilt-table/"
+            ]
+        },
+        {
+            "slug": "ati-post-lift-table-models",
+            "title": "Air Technical Industries Post Lift Table Models",
+            "line": "ati-post-lift-tables",
+            "menu_order": 10,
+            "excerpt": "7 models rated 500–6,000 lb, with 18–24 in. of travel.",
+            "models": [
+                {
+                    "model": "LT-500",
+                    "capacity_lbs": 500,
+                    "platform": "18 x 18 in",
+                    "lowered_height_in": 31,
+                    "raised_height_in": 49,
+                    "notes": "18 in travel, 2-post"
+                },
+                {
+                    "model": "LT-1000",
+                    "capacity_lbs": 1000,
+                    "platform": "18 x 36 in",
+                    "lowered_height_in": 31,
+                    "raised_height_in": 49,
+                    "notes": "18 in travel, 2-post"
+                },
+                {
+                    "model": "LT-1048",
+                    "capacity_lbs": 1000,
+                    "platform": "20 x 48 in",
+                    "lowered_height_in": 31,
+                    "raised_height_in": 49,
+                    "notes": "18 in travel, 2-post"
+                },
+                {
+                    "model": "LT-2000",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 36,
+                    "raised_height_in": 60,
+                    "notes": "24 in travel, 4-post"
+                },
+                {
+                    "model": "LT-2048",
+                    "capacity_lbs": 2000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 36,
+                    "raised_height_in": 60,
+                    "notes": "24 in travel, 4-post"
+                },
+                {
+                    "model": "LT-4048",
+                    "capacity_lbs": 4000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 36,
+                    "raised_height_in": 60,
+                    "notes": "24 in travel, 4-post"
+                },
+                {
+                    "model": "LT-6048",
+                    "capacity_lbs": 6000,
+                    "platform": "32 x 48 in",
+                    "lowered_height_in": 36,
+                    "raised_height_in": 60,
+                    "notes": "24 in travel, 4-post"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Post Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Manual Lift Tables"
+            ],
+            "sources": [
+                "https://airtechnical.com/product/post-lift-tables/"
+            ]
+        }
     ]
 }
