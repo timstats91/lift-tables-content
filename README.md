@@ -102,8 +102,12 @@ php tools/import-images.php <this repo>/images/lines/images.json   # from the pl
 
 The generator trims cut-out shots and centres them on white at 1200 x 900, or
 centre-crops real photos (`"fit": "cover"`). It never retouches the product.
-Lange Lift Modified & Custom Lifts has no photo: the only original found was
-300 px, too small to use; its card shows its category drawing instead.
+Three lines have no photo because the only originals found were too small to
+use (300 to 430 px): Lange Lift Modified & Custom Lifts, Autoquip AutoTilt
+Portable Tilters and American Lifts Tork Non-Intrusive Tilters. Their cards
+show the category drawing instead. Advance Lifts photos come from its photo
+gallery, since the images on its product pages are under 500 px. The Advance
+Lifts PM/PP photo has a cream background, so it uses `"fit": "cover"`.
 
 **To take images down** (for example, if a manufacturer asks), delete their
 entries from `images.json` and run the importer with `--prune`. That removes
