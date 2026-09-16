@@ -97,13 +97,13 @@ its Double Wide brochure lists 4,000 to 12,000 lb models where its web page says
 LTNI, 10L, 12L, IR, L, TL, TLH, NL, NLT, DSL, TSL, QSL and mechanical bin tilter
 lines describe the series without model numbers, so those lines have no table.
 Superlift publishes its specs as images too, so its rows are typed in from the
-spec sheets on superlift.net: 117 models on 10 of its 15 lines. Its ground level
+spec sheets on superlift.net: 114 models on 10 of its 15 lines. Its ground level
 tilters, tote box and combo tilters, stainless low profile tables and stainless
 self-adjusting positioners are described by capacity only, with no model
 numbers, so those five lines have no table. Superlift prints the same SLALT
 4 xxxx numbers on both its pneumatic lift and its lift-and-tilt sheet, and the
-generator keeps one row per model number, so those three appear once on the
-line. Its stainless economy sheet prints the SL B SS50 raised height as both
+generator keeps one row per model number, so 117 typed rows become 114 on the
+site, with those three appearing once. Its stainless economy sheet prints the SL B SS50 raised height as both
 950 mm and 6 in; 37.4 in is used, and the row says so.
 
 ## Brand
@@ -279,7 +279,7 @@ an existing item's status.
 | Pentalift | 23 | 11 | 93 |
 | Blue Giant | 11 | 13 | 111 |
 | Econo Lift | 16 | 21 | 247 |
-| Superlift | 15 | 26 | 117 |
+| Superlift | 15 | 26 | 114 |
 
 Every brand in `brands.json` now has a catalog file.
 
