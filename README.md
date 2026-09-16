@@ -121,6 +121,17 @@ php generators/category-pngs.php
 php brand/generate-logo.php
 ```
 
+`brand/share-card.php` draws `brand/share-card.png`, the 1200 x 630 card shown
+when a page with no photo of its own is shared. It is the reverse logo on the
+ink ground over the hazard stripe, rendered with headless Chrome:
+
+```bash
+php brand/share-card.php
+```
+
+The card’s address goes in **Equipment Directory → Settings → Default Share
+Image**, alongside the home page title and description used in search results.
+
 The site uses them through Appearance → Customize → Directory Branding:
 
 | Setting | Value |
