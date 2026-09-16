@@ -158,19 +158,22 @@ php tools/import-images.php <this repo>/images/lines/images.json   # from the pl
 
 The generator trims cut-out shots and centres them on white at 1200 x 900, or
 centre-crops real photos (`"fit": "cover"`). It never retouches the product.
-Three lines have no photo because the only originals found were too small to
-use (300 to 430 px): Lange Lift Modified & Custom Lifts, Autoquip AutoTilt
-Portable Tilters and American Lifts Tork Non-Intrusive Tilters. Their cards
-show the category drawing instead. Advance Lifts photos come from its photo
+Advance Lifts photos come from its photo
 gallery, since the images on its product pages are under 500 px. The Advance
 Lifts PM/PP photo has a cream background, so it uses `"fit": "cover"`.
 Presto and ECOA publish product images at 300 to 350 px, so only Presto XW,
 Presto Tandem and ECOA Extended Travel have photos; their other lines show
 category drawings. Vestil photos are each line's featured model, named in the
 alt text.
-Four lines added in the last batch have no photo: Lift Products Max-M22/M33
-and Pentalift ProAir Lift and Rotate (originals of 350 and 410 px), and Beacon
-BCDL and BHLTTL (the only images are scans with a grey border). Beacon's other
+Every product line now has a photo. Thirty-six were added from originals of
+300 to 500 px, the only sizes their manufacturers publish: all 25 remaining
+Presto lines, ECOA, Beacon BCDL and BHLTTL, Autoquip AutoTilt, American Lifts
+Tork Non-Intrusive, Lange Lift Modified & Custom, Lift Products Max-M22/M33 and
+Pentalift ProAir Lift and Rotate. They are soft at full size but show the right
+machine. Two manifest options support them: `"enlarge"` raises the 1.6x cap on
+how far a small cut-out is scaled up (3x for these), and `"inset"` cuts a
+percentage off each edge first, which removes the printed border on the two
+Beacon scans. Beacon's other
 photos are 450 x 280 px, so they sit small in the frame. Several Lift Products
 photos carry the manufacturer's own "Quick Ship" badge, and Econo Lift's images
 are catalogue illustrations with callout labels; both are used as published.

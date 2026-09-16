@@ -148,6 +148,22 @@ foreach ( $manifest['images'] as $entry ) {
 	$w = imagesx( $img );
 	$h = imagesy( $img );
 
+	// "inset" cuts a percentage off each edge first, for scans that carry a
+	// printed border. It only ever removes frame, never product.
+	if ( ! empty( $entry['inset'] ) ) {
+		$cut  = min( 0.2, max( 0.0, (float) $entry['inset'] / 100 ) );
+		$dx   = (int) round( $w * $cut );
+		$dy   = (int) round( $h * $cut );
+		$crop = imagecrop( $img, array( 'x' => $dx, 'y' => $dy, 'width' => $w - 2 * $dx, 'height' => $h - 2 * $dy ) );
+
+		if ( $crop ) {
+			imagedestroy( $img );
+			$img = $crop;
+			$w   = imagesx( $img );
+			$h   = imagesy( $img );
+		}
+	}
+
 	if ( 'cover' === ( $entry['fit'] ?? 'contain' ) ) {
 		// Centre-crop the photo to 4:3, then scale to the output size.
 		$ratio = OUT_W / OUT_H;
@@ -164,7 +180,11 @@ foreach ( $manifest['images'] as $entry ) {
 
 		$avail_w = OUT_W * ( 1 - 2 * MARGIN );
 		$avail_h = OUT_H * ( 1 - 2 * MARGIN );
-		$scale   = min( MAX_ENLARGE, $avail_w / $bw, $avail_h / $bh );
+		// "enlarge" lifts the cap for lines whose only published photo is
+		// small: a soft picture of the right machine beats no picture, and the
+		// entry records the choice.
+		$limit   = isset( $entry['enlarge'] ) ? min( 4.0, max( 1.0, (float) $entry['enlarge'] ) ) : MAX_ENLARGE;
+		$scale   = min( $limit, $avail_w / $bw, $avail_h / $bh );
 		$dw      = (int) round( $bw * $scale );
 		$dh      = (int) round( $bh * $scale );
 
