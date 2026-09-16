@@ -1,1722 +1,2892 @@
 {
-  "note": "Model rows typed from manufacturer PDFs, whose tables are images or merged cells that do not parse reliably. Each product lists the PDF it came from. Edit here and regenerate with generators/line-models.js.",
-  "products": [
+ "note": "Model rows typed from manufacturer PDFs, whose tables are images or merged cells that do not parse reliably. Each product lists the PDF it came from. Edit here and regenerate with generators/line-models.js.",
+ "products": [
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-standard-duty-scissor-lift-tables",
+   "stem": "blue-giant-lft",
+   "title": "Standard Duty LFT",
+   "source": "https://www.bluegiant.com/getattachment/f4bcd23e-01d0-4090-937e-9bd301b36449/Standard_Duty_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-standard-duty-scissor-lift-tables",
-      "stem": "blue-giant-lft",
-      "title": "Standard Duty LFT",
-      "source": "https://www.bluegiant.com/getattachment/f4bcd23e-01d0-4090-937e-9bd301b36449/Standard_Duty_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "LFT24-20",
-          "capacity_lbs": 2000,
-          "platform": "24 x 36 to 48 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFT24-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 36 to 48 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFT24-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 36 to 48 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFT36-20",
-          "capacity_lbs": 2000,
-          "platform": "24 x 48 to 48 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFT36-30",
-          "capacity_lbs": 3000,
-          "platform": "24 x 48 to 48 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFT36-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 48 to 48 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFT36-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 48 to 48 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFT48-20",
-          "capacity_lbs": 2000,
-          "platform": "24 x 64 to 48 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFT48-30",
-          "capacity_lbs": 3000,
-          "platform": "24 x 64 to 48 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFT48-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 64 to 48 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFT48-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 64 to 48 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFT60-20",
-          "capacity_lbs": 2000,
-          "platform": "24 x 88 to 48 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFT60-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 88 to 48 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFT60-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 88 to 48 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        }
-      ]
+     "model": "LFT24-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 36 to 48 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-wide-base-scissor-lift-tables",
-      "stem": "blue-giant-lftwb",
-      "title": "Wide Base LFTWB",
-      "source": "https://www.bluegiant.com/getattachment/a3d34e91-e963-4bab-aa39-c0020e76b4fa/Wide_Base_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "LFTWB24-20",
-          "capacity_lbs": 2000,
-          "platform": "36 x 36.25 to 60 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTWB24-40",
-          "capacity_lbs": 4000,
-          "platform": "36 x 36.25 to 60 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTWB24-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 36.25 to 60 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTWB36-20",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 60 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTWB36-40",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 to 60 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTWB36-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 48 to 60 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTWB48-20",
-          "capacity_lbs": 2000,
-          "platform": "36 x 64 to 60 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTWB48-40",
-          "capacity_lbs": 4000,
-          "platform": "36 x 64 to 60 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTWB48-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 64 to 60 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        }
-      ]
+     "model": "LFT24-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 36 to 48 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-wide-base-scissor-lift-tables",
-      "stem": "blue-giant-lftxb",
-      "title": "Extra Wide Base LFTXB",
-      "source": "https://www.bluegiant.com/getattachment/a3d34e91-e963-4bab-aa39-c0020e76b4fa/Wide_Base_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "LFTXB36-20",
-          "capacity_lbs": 2000,
-          "platform": "48 x 48 to 72 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTXB36-40",
-          "capacity_lbs": 4000,
-          "platform": "48 x 48 to 72 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTXB36-60",
-          "capacity_lbs": 6000,
-          "platform": "48 x 48 to 72 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTXB48-20",
-          "capacity_lbs": 2000,
-          "platform": "48 x 64 to 72 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTXB48-40",
-          "capacity_lbs": 4000,
-          "platform": "48 x 64 to 72 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTXB48-60",
-          "capacity_lbs": 6000,
-          "platform": "48 x 64 to 72 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTXB60-20",
-          "capacity_lbs": 2000,
-          "platform": "56 x 88 to 84 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFTXB60-40",
-          "capacity_lbs": 4000,
-          "platform": "56 x 88 to 84 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFTXB60-60",
-          "capacity_lbs": 6000,
-          "platform": "56 x 88 to 84 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        }
-      ]
+     "model": "LFT24-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 36 to 48 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-double-wide-scissor-lift-tables",
-      "stem": "blue-giant-lftdw",
-      "title": "Double Wide LFTDW",
-      "source": "https://www.bluegiant.com/getattachment/1f027410-82e7-4664-9da4-f734efb6db57/Double_Wide_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "LFTDW24-40",
-          "capacity_lbs": 4000,
-          "platform": "72 x 36.25 to 72 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTDW24-80",
-          "capacity_lbs": 8000,
-          "platform": "72 x 36.25 to 72 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTDW24-120",
-          "capacity_lbs": 12000,
-          "platform": "72 x 36.25 to 72 x 60 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTDW36-40",
-          "capacity_lbs": 4000,
-          "platform": "72 x 48 to 72 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTDW36-80",
-          "capacity_lbs": 8000,
-          "platform": "72 x 48 to 72 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTDW36-120",
-          "capacity_lbs": 12000,
-          "platform": "72 x 48 to 72 x 72 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTDW48-40",
-          "capacity_lbs": 4000,
-          "platform": "72 x 64 to 72 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTDW48-80",
-          "capacity_lbs": 8000,
-          "platform": "72 x 64 to 72 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTDW48-120",
-          "capacity_lbs": 12000,
-          "platform": "72 x 64 to 72 x 96 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTDW60-40",
-          "capacity_lbs": 4000,
-          "platform": "72 x 88 to 96 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFTDW60-80",
-          "capacity_lbs": 8000,
-          "platform": "72 x 88 to 96 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFTDW60-120",
-          "capacity_lbs": 12000,
-          "platform": "72 x 88 to 96 x 120 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        }
-      ]
+     "model": "LFT36-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 48 to 48 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-tandem-long-scissor-lift-tables",
-      "stem": "blue-giant-lftdl",
-      "title": "Tandem Long LFTDL",
-      "source": "https://www.bluegiant.com/getattachment/8850c7ee-f1ef-408d-bdf8-3018405ba511/Tandem_Long_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "LFTDL24-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 72.5 to 48 x 120 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTDL24-80",
-          "capacity_lbs": 8000,
-          "platform": "24 x 72.5 to 48 x 120 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTDL24-120",
-          "capacity_lbs": 12000,
-          "platform": "36 x 72.5 to 48 x 120 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 31.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "LFTDL36-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 96 to 48 x 144 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTDL36-80",
-          "capacity_lbs": 8000,
-          "platform": "24 x 96 to 48 x 144 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTDL36-120",
-          "capacity_lbs": 12000,
-          "platform": "36 x 96 to 48 x 144 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 43.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "LFTDL48-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 128 to 48 x 176 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTDL48-80",
-          "capacity_lbs": 8000,
-          "platform": "24 x 128 to 48 x 176 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTDL48-120",
-          "capacity_lbs": 12000,
-          "platform": "36 x 128 to 48 x 176 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "LFTDL60-40",
-          "capacity_lbs": 4000,
-          "platform": "24 x 176 to 48 x 220 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFTDL60-80",
-          "capacity_lbs": 8000,
-          "platform": "24 x 176 to 48 x 220 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "LFTDL60-120",
-          "capacity_lbs": 12000,
-          "platform": "36 x 176 to 48 x 220 in",
-          "lowered_height_in": 10,
-          "raised_height_in": 70,
-          "notes": "60 in travel"
-        }
-      ]
+     "model": "LFT36-30",
+     "capacity_lbs": 3000,
+     "platform": "24 x 48 to 48 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-double-scissor-lift-tables",
-      "stem": "blue-giant-ds",
-      "title": "Double Scissor DS",
-      "source": "https://www.bluegiant.com/getattachment/7d3c4e57-62c2-40ed-98f9-cffc4f684670/Double_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "DS1-48",
-          "capacity_lbs": 1000,
-          "platform": "24 x 48 to 48 x 48 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 60,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "DS2-48",
-          "capacity_lbs": 2000,
-          "platform": "24 x 48 to 48 x 48 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 60,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "DS3-48",
-          "capacity_lbs": 3000,
-          "platform": "24 x 48 to 48 x 48 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 60,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "DS4-48",
-          "capacity_lbs": 4000,
-          "platform": "24 x 48 to 48 x 48 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 60,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "DS1-60",
-          "capacity_lbs": 1000,
-          "platform": "24 x 60 to 48 x 60 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 72,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "DS2-60",
-          "capacity_lbs": 2000,
-          "platform": "24 x 60 to 48 x 60 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 72,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "DS3-60",
-          "capacity_lbs": 3000,
-          "platform": "24 x 60 to 48 x 60 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 72,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "DS4-60",
-          "capacity_lbs": 4000,
-          "platform": "24 x 60 to 48 x 60 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 72,
-          "notes": "60 in travel"
-        },
-        {
-          "model": "DS1-72",
-          "capacity_lbs": 1000,
-          "platform": "24 x 72 to 48 x 72 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 84,
-          "notes": "72 in travel"
-        },
-        {
-          "model": "DS2-72",
-          "capacity_lbs": 2000,
-          "platform": "24 x 72 to 48 x 72 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 84,
-          "notes": "72 in travel"
-        },
-        {
-          "model": "DS3-72",
-          "capacity_lbs": 3000,
-          "platform": "24 x 72 to 48 x 72 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 84,
-          "notes": "72 in travel"
-        },
-        {
-          "model": "DS4-72",
-          "capacity_lbs": 4000,
-          "platform": "24 x 72 to 48 x 72 in",
-          "lowered_height_in": 12,
-          "raised_height_in": 84,
-          "notes": "72 in travel"
-        }
-      ]
+     "model": "LFT36-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 48 to 48 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-pneumatic-scissor-lift-tables",
-      "stem": "blue-giant-af24",
-      "title": "Pneumatic AF24",
-      "source": "https://www.bluegiant.com/getattachment/9890d10f-ffd7-4bca-9fd4-faf3eb38fb56/Pneumatic_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "AF24-10-3648",
-          "capacity_lbs": 1000,
-          "platform": "36 x 48 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-10-4848",
-          "capacity_lbs": 1000,
-          "platform": "48 x 48 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-10-4856",
-          "capacity_lbs": 1000,
-          "platform": "48 x 56 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-10-4860",
-          "capacity_lbs": 1000,
-          "platform": "48 x 60 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-20-3648",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-20-4848",
-          "capacity_lbs": 2000,
-          "platform": "48 x 48 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-20-4856",
-          "capacity_lbs": 2000,
-          "platform": "48 x 56 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-20-4860",
-          "capacity_lbs": 2000,
-          "platform": "48 x 60 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-40-3648",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-40-4848",
-          "capacity_lbs": 4000,
-          "platform": "48 x 48 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-40-4856",
-          "capacity_lbs": 4000,
-          "platform": "48 x 56 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "AF24-40-4860",
-          "capacity_lbs": 4000,
-          "platform": "48 x 60 in",
-          "lowered_height_in": 9.5,
-          "raised_height_in": 33.5,
-          "notes": "24 in travel"
-        }
-      ]
+     "model": "LFT36-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 to 48 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-pneumatic-tilt-tables",
-      "stem": "blue-giant-aft",
-      "title": "Pneumatic Tilt AFT",
-      "source": "https://www.bluegiant.com/getattachment/bc6b8f3e-d4f4-405b-a626-c690f34bb44b/Pneumatic_Tilt_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "AFT10-3648",
-          "capacity_lbs": 1000,
-          "platform": "36 x 48 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT10-4848",
-          "capacity_lbs": 1000,
-          "platform": "48 x 48 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT10-4856",
-          "capacity_lbs": 1000,
-          "platform": "48 x 56 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT10-4860",
-          "capacity_lbs": 1000,
-          "platform": "48 x 60 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT20-3648",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT20-4848",
-          "capacity_lbs": 2000,
-          "platform": "48 x 48 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT20-4856",
-          "capacity_lbs": 2000,
-          "platform": "48 x 56 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT20-4860",
-          "capacity_lbs": 2000,
-          "platform": "48 x 60 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT40-3648",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT40-4856",
-          "capacity_lbs": 4000,
-          "platform": "48 x 56 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        },
-        {
-          "model": "AFT40-4860",
-          "capacity_lbs": 4000,
-          "platform": "48 x 60 in",
-          "lowered_height_in": 8,
-          "notes": "30 or 45° tilt"
-        }
-      ]
+     "model": "LFT48-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 64 to 48 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-zero-ground-level-scissor-lift-tables",
-      "stem": "blue-giant-zpl",
-      "title": "Zero Ground Level ZPL",
-      "source": "https://www.bluegiant.com/getattachment/52a85b3b-080b-4063-9aed-197517ed88c5/Zero_Ground_Level_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "ZPL-20-4448",
-          "capacity_lbs": 2000,
-          "platform": "44 x 48 in",
-          "lowered_height_in": 0.375,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "ZPL-20-5048",
-          "capacity_lbs": 2000,
-          "platform": "50 x 48 in",
-          "lowered_height_in": 0.375,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "ZPL-40-4448",
-          "capacity_lbs": 4000,
-          "platform": "44 x 48 in",
-          "lowered_height_in": 0.5,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "ZPL-40-5048",
-          "capacity_lbs": 4000,
-          "platform": "50 x 48 in",
-          "lowered_height_in": 0.5,
-          "notes": "36 in travel"
-        }
-      ]
+     "model": "LFT48-30",
+     "capacity_lbs": 3000,
+     "platform": "24 x 64 to 48 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-hydraulic-tilters",
-      "stem": "blue-giant-ett",
-      "title": "Hydraulic Tilter ETT",
-      "source": "https://www.bluegiant.com/getattachment/40a111c3-32ee-447b-9993-ceb0455e0b0b/Hydraulic_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "ETT45-20",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 48 x 60 in",
-          "lowered_height_in": 8,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "ETT45-40",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 to 48 x 60 in",
-          "lowered_height_in": 8,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "ETT45-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 48 to 48 x 60 in",
-          "lowered_height_in": 8,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "ETT90-20",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 48 x 60 in",
-          "lowered_height_in": 12,
-          "notes": "90° tilt"
-        },
-        {
-          "model": "ETT90-40",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 to 48 x 60 in",
-          "lowered_height_in": 12,
-          "notes": "90° tilt"
-        },
-        {
-          "model": "ETT90-60",
-          "capacity_lbs": 6000,
-          "platform": "36 x 48 to 48 x 60 in",
-          "lowered_height_in": 12,
-          "notes": "90° tilt"
-        }
-      ]
+     "model": "LFT48-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 64 to 48 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-hydraulic-tilters",
-      "stem": "blue-giant-wbett",
-      "title": "Wide Base Tilter WBETT",
-      "source": "https://www.bluegiant.com/getattachment/b1b73e46-1edd-4672-80a2-89165a357228/Wide_Base_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "WBETT45-20",
-          "capacity_lbs": 2000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "lowered_height_in": 8,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "WBETT45-40",
-          "capacity_lbs": 4000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "lowered_height_in": 8,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "WBETT45-60",
-          "capacity_lbs": 6000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "lowered_height_in": 12,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "WBETT90-20",
-          "capacity_lbs": 2000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "lowered_height_in": 8,
-          "notes": "90° tilt"
-        },
-        {
-          "model": "WBETT90-40",
-          "capacity_lbs": 4000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "lowered_height_in": 8,
-          "notes": "90° tilt"
-        },
-        {
-          "model": "WBETT90-60",
-          "capacity_lbs": 6000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "lowered_height_in": 12,
-          "notes": "90° tilt"
-        }
-      ]
+     "model": "LFT48-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 64 to 48 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-hydraulic-tilters",
-      "stem": "blue-giant-wbett60",
-      "title": "Wide Base Tilter WBETT60",
-      "source": "https://www.bluegiant.com/getattachment/3302aa09-2282-4985-8e53-02f3e33081b8/In-Plant_Lifts_Catalog_2025.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "WBETT60-20",
-          "capacity_lbs": 2000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "notes": "60° tilt"
-        },
-        {
-          "model": "WBETT60-40",
-          "capacity_lbs": 4000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "notes": "60° tilt"
-        },
-        {
-          "model": "WBETT60-60",
-          "capacity_lbs": 6000,
-          "platform": "60 x 60 to 96 x 96 in",
-          "notes": "60° tilt"
-        }
-      ]
+     "model": "LFT60-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 88 to 48 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
     },
     {
-      "brand": "blue-giant",
-      "line": "blue-giant-pl4-automatic-pallet-positioner",
-      "stem": "blue-giant-pl4",
-      "title": "PL4 Automatic Pallet Positioner",
-      "source": "https://www.bluegiant.com/getattachment/0754b8c6-dd4a-40aa-8e92-be03db7052c3/PL4_Automatic_Pallet_Positioner_Brochure_2024.pdf?lang=en-us&ext=.pdf",
-      "rows": [
-        {
-          "model": "PL4",
-          "capacity_lbs": 4000,
-          "platform": "43 in round",
-          "lowered_height_in": 10.5,
-          "raised_height_in": 33.5,
-          "notes": "self-levels 400–3,500 lb, 23 in travel"
-        }
-      ]
+     "model": "LFT60-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 88 to 48 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
     },
     {
-      "brand": "pentalift",
-      "line": "pentalift-pro-series-lift-tables",
-      "stem": "pentalift-pro-series-lift",
-      "title": "Pro-Series Lift Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf",
-      "rows": [
-        {
-          "model": "7P242.5",
-          "capacity_lbs": 2500,
-          "platform": "24 x 36 to 48 x 60 in",
-          "lowered_height_in": 7,
-          "raised_height_in": 31,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "7P362.5",
-          "capacity_lbs": 2500,
-          "platform": "24 x 48 to 48 x 72 in",
-          "lowered_height_in": 7,
-          "raised_height_in": 43,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "7P482.5",
-          "capacity_lbs": 2500,
-          "platform": "24 x 64 to 48 x 88 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "7P244",
-          "capacity_lbs": 4000,
-          "platform": "24 x 36 to 48 x 60 in",
-          "lowered_height_in": 7,
-          "raised_height_in": 31,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "7P364",
-          "capacity_lbs": 4000,
-          "platform": "24 x 48 to 48 x 72 in",
-          "lowered_height_in": 7,
-          "raised_height_in": 43,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "7P484",
-          "capacity_lbs": 4000,
-          "platform": "24 x 64 to 48 x 88 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        },
-        {
-          "model": "7P246",
-          "capacity_lbs": 6000,
-          "platform": "24 x 36 to 48 x 60 in",
-          "lowered_height_in": 7,
-          "raised_height_in": 31,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "7P366",
-          "capacity_lbs": 6000,
-          "platform": "24 x 48 to 48 x 72 in",
-          "lowered_height_in": 7,
-          "raised_height_in": 43,
-          "notes": "36 in travel"
-        },
-        {
-          "model": "7P486",
-          "capacity_lbs": 6000,
-          "platform": "24 x 64 to 48 x 88 in",
-          "lowered_height_in": 7.5,
-          "raised_height_in": 55.5,
-          "notes": "48 in travel"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-pro-series-tilters",
-      "stem": "pentalift-pro-series-tilt",
-      "title": "Pro-Series Tilt Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf",
-      "rows": [
-        {
-          "model": "PT302544",
-          "capacity_lbs": 2500,
-          "platform": "30 x 44 to 48 x 48 in",
-          "lowered_height_in": 7,
-          "notes": "30° tilt"
-        },
-        {
-          "model": "PT302550",
-          "capacity_lbs": 2500,
-          "platform": "30 x 48 to 50 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "30° tilt"
-        },
-        {
-          "model": "PT452544",
-          "capacity_lbs": 2500,
-          "platform": "30 x 44 to 48 x 48 in",
-          "lowered_height_in": 7,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "PT452550",
-          "capacity_lbs": 2500,
-          "platform": "30 x 48 to 50 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "PT304044",
-          "capacity_lbs": 4000,
-          "platform": "30 x 44 to 48 x 48 in",
-          "lowered_height_in": 7,
-          "notes": "30° tilt"
-        },
-        {
-          "model": "PT304050",
-          "capacity_lbs": 4000,
-          "platform": "30 x 48 to 50 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "30° tilt"
-        },
-        {
-          "model": "PT454044",
-          "capacity_lbs": 4000,
-          "platform": "30 x 44 to 48 x 48 in",
-          "lowered_height_in": 7,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "PT454050",
-          "capacity_lbs": 4000,
-          "platform": "30 x 48 to 50 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "PT306044",
-          "capacity_lbs": 6000,
-          "platform": "30 x 44 to 48 x 48 in",
-          "lowered_height_in": 7,
-          "notes": "30° tilt"
-        },
-        {
-          "model": "PT306050",
-          "capacity_lbs": 6000,
-          "platform": "30 x 48 to 50 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "30° tilt"
-        },
-        {
-          "model": "PT456044",
-          "capacity_lbs": 6000,
-          "platform": "30 x 44 to 48 x 48 in",
-          "lowered_height_in": 7,
-          "notes": "45° tilt"
-        },
-        {
-          "model": "PT456050",
-          "capacity_lbs": 6000,
-          "platform": "30 x 48 to 50 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "45° tilt"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-pro-series-lift-and-tilt-tables",
-      "stem": "pentalift-pro-series-lift-and-tilt",
-      "title": "Pro-Series Lift & Tilt Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/lift-tilt-sheet.pdf",
-      "rows": [
-        {
-          "model": "PLT24302.5",
-          "capacity_lbs": 2500,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "24 in travel, 30° tilt"
-        },
-        {
-          "model": "PLT24452.5",
-          "capacity_lbs": 2500,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "24 in travel, 45° tilt"
-        },
-        {
-          "model": "PLT36302.5",
-          "capacity_lbs": 2500,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "36 in travel, 30° tilt"
-        },
-        {
-          "model": "PLT36452.5",
-          "capacity_lbs": 2500,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "36 in travel, 45° tilt"
-        },
-        {
-          "model": "PLT24304",
-          "capacity_lbs": 4000,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "24 in travel, 30° tilt, remote power unit only"
-        },
-        {
-          "model": "PLT24454",
-          "capacity_lbs": 4000,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "24 in travel, 45° tilt, remote power unit only"
-        },
-        {
-          "model": "PLT36304",
-          "capacity_lbs": 4000,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "36 in travel, 30° tilt"
-        },
-        {
-          "model": "PLT36454",
-          "capacity_lbs": 4000,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "36 in travel, 45° tilt"
-        },
-        {
-          "model": "PLT24305",
-          "capacity_lbs": 5000,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "24 in travel, 30° tilt, remote power unit only"
-        },
-        {
-          "model": "PLT36305",
-          "capacity_lbs": 5000,
-          "platform": "36 x 44 to 50 x 54 in",
-          "lowered_height_in": 14,
-          "notes": "36 in travel, 30° tilt"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-pro-series-lift-and-rotate-tables",
-      "stem": "pentalift-pro-series-lift-and-rotate",
-      "title": "Pro-Series Lift & Rotate Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/lift-and-rotate-sheet.pdf",
-      "rows": [
-        {
-          "model": "PLR24362",
-          "capacity_lbs": 2000,
-          "platform": "36 x 36 to 41 x 41 in",
-          "lowered_height_in": 9.4375,
-          "notes": "24 in travel, rotating top"
-        },
-        {
-          "model": "PLR24422",
-          "capacity_lbs": 2000,
-          "platform": "36 x 42 to 47 x 47 in",
-          "lowered_height_in": 9.4375,
-          "notes": "24 in travel, rotating top"
-        },
-        {
-          "model": "PLR24482",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 48 x 48 in",
-          "lowered_height_in": 9.4375,
-          "notes": "24 in travel, rotating top"
-        },
-        {
-          "model": "PLR36362",
-          "capacity_lbs": 2000,
-          "platform": "36 x 36 to 41 x 41 in",
-          "lowered_height_in": 9.4375,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR36422",
-          "capacity_lbs": 2000,
-          "platform": "36 x 42 to 47 x 47 in",
-          "lowered_height_in": 9.4375,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR36482",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 48 x 48 in",
-          "lowered_height_in": 9.4375,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR24363.5",
-          "capacity_lbs": 3500,
-          "platform": "36 x 36 to 41 x 41 in",
-          "lowered_height_in": 9.4375,
-          "notes": "24 in travel, rotating top"
-        },
-        {
-          "model": "PLR24423.5",
-          "capacity_lbs": 3500,
-          "platform": "36 x 42 to 47 x 47 in",
-          "lowered_height_in": 9.4375,
-          "notes": "24 in travel, rotating top"
-        },
-        {
-          "model": "PLR24483.5",
-          "capacity_lbs": 3500,
-          "platform": "36 x 48 to 48 x 48 in",
-          "lowered_height_in": 9.4375,
-          "notes": "24 in travel, rotating top"
-        },
-        {
-          "model": "PLR36363.5",
-          "capacity_lbs": 3500,
-          "platform": "36 x 36 to 41 x 41 in",
-          "lowered_height_in": 9.4375,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR36423.5",
-          "capacity_lbs": 3500,
-          "platform": "36 x 42 to 47 x 47 in",
-          "lowered_height_in": 9.4375,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR36483.5",
-          "capacity_lbs": 3500,
-          "platform": "36 x 48 to 48 x 48 in",
-          "lowered_height_in": 9.4375,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR24365.5",
-          "capacity_lbs": 5500,
-          "platform": "36 x 36 to 41 x 41 in",
-          "lowered_height_in": 9.625,
-          "notes": "24 in travel, rotating top, remote power unit only"
-        },
-        {
-          "model": "PLR24425.5",
-          "capacity_lbs": 5500,
-          "platform": "36 x 42 to 47 x 47 in",
-          "lowered_height_in": 9.625,
-          "notes": "24 in travel, rotating top, remote power unit only"
-        },
-        {
-          "model": "PLR24485.5",
-          "capacity_lbs": 5500,
-          "platform": "36 x 48 to 48 x 48 in",
-          "lowered_height_in": 9.625,
-          "notes": "24 in travel, rotating top, remote power unit only"
-        },
-        {
-          "model": "PLR36365.5",
-          "capacity_lbs": 5500,
-          "platform": "36 x 36 to 41 x 41 in",
-          "lowered_height_in": 9.625,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR36425.5",
-          "capacity_lbs": 5500,
-          "platform": "36 x 42 to 47 x 47 in",
-          "lowered_height_in": 9.625,
-          "notes": "36 in travel, rotating top"
-        },
-        {
-          "model": "PLR36485.5",
-          "capacity_lbs": 5500,
-          "platform": "36 x 48 to 48 x 48 in",
-          "lowered_height_in": 9.625,
-          "notes": "36 in travel, rotating top"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-pro-series-lift-and-rotate-tables",
-      "stem": "pentalift-pro-series-rotating-top",
-      "title": "Pro-Series Manual Rotating Top",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf",
-      "rows": [
-        {
-          "model": "RP3625",
-          "capacity_lbs": 2500,
-          "platform": "36 x 36 to 41 x 41 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP4225",
-          "capacity_lbs": 2500,
-          "platform": "36 x 42 to 47 x 47 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP4825",
-          "capacity_lbs": 2500,
-          "platform": "36 x 48 to 48 x 48 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP3640",
-          "capacity_lbs": 4000,
-          "platform": "36 x 36 to 41 x 41 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP4240",
-          "capacity_lbs": 4000,
-          "platform": "36 x 42 to 47 x 47 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP4840",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 to 48 x 48 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP3660",
-          "capacity_lbs": 6000,
-          "platform": "36 x 36 to 41 x 41 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP4260",
-          "capacity_lbs": 6000,
-          "platform": "36 x 42 to 47 x 47 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        },
-        {
-          "model": "RP4860",
-          "capacity_lbs": 6000,
-          "platform": "36 x 48 to 48 x 48 in",
-          "notes": "rotating top only, 2-7/16 in overall height"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-proair-pneumatic-lift-tables",
-      "stem": "pentalift-proair-lift",
-      "title": "ProAir Lift Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
-      "rows": [
-        {
-          "model": "PAL2-2548",
-          "capacity_lbs": 2000,
-          "platform": "25 x 48 to 48 x 72 in",
-          "lowered_height_in": 9,
-          "raised_height_in": 33,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PAL2-3648",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 60 x 72 in",
-          "lowered_height_in": 9,
-          "raised_height_in": 33,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PAL2-4248",
-          "capacity_lbs": 2000,
-          "platform": "42 x 48 to 66 x 72 in",
-          "lowered_height_in": 9,
-          "raised_height_in": 33,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PAL4-2548",
-          "capacity_lbs": 4000,
-          "platform": "25 x 48 to 48 x 72 in",
-          "lowered_height_in": 9,
-          "raised_height_in": 33,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PAL4-3648",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 to 60 x 72 in",
-          "lowered_height_in": 9,
-          "raised_height_in": 33,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PAL4-4248",
-          "capacity_lbs": 4000,
-          "platform": "42 x 48 to 66 x 72 in",
-          "lowered_height_in": 9,
-          "raised_height_in": 33,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PAL6-4248",
-          "capacity_lbs": 6000,
-          "platform": "42 x 48 to 66 x 72 in",
-          "lowered_height_in": 9,
-          "raised_height_in": 33,
-          "notes": "24 in travel"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-proair-pneumatic-lift-and-tilt-tables",
-      "stem": "pentalift-proair-lift-and-tilt",
-      "title": "ProAir Lift & Tilt Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
-      "rows": [
-        {
-          "model": "PALT2-2548",
-          "capacity_lbs": 2000,
-          "platform": "30 x 48 to 50 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, tray thrust"
-        },
-        {
-          "model": "PALT2-3648",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 60 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, tray thrust"
-        },
-        {
-          "model": "PALT2-4248",
-          "capacity_lbs": 2000,
-          "platform": "42 x 48 to 66 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, tray thrust"
-        },
-        {
-          "model": "PALT4-2548",
-          "capacity_lbs": 4000,
-          "platform": "30 x 48 to 50 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, tray thrust"
-        },
-        {
-          "model": "PALT4-3648",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 to 60 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, tray thrust"
-        },
-        {
-          "model": "PALT4-4248",
-          "capacity_lbs": 4000,
-          "platform": "42 x 48 to 66 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, tray thrust"
-        },
-        {
-          "model": "PALT6-4248",
-          "capacity_lbs": 6000,
-          "platform": "42 x 48 to 66 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, tray thrust"
-        },
-        {
-          "model": "PAFT2-2548",
-          "capacity_lbs": 2000,
-          "platform": "30 x 48 to 50 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, floor thrust"
-        },
-        {
-          "model": "PAFT2-3948",
-          "capacity_lbs": 2000,
-          "platform": "39 x 48 to 60 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, floor thrust"
-        },
-        {
-          "model": "PAFT4-3948",
-          "capacity_lbs": 4000,
-          "platform": "39 x 48 to 60 x 60 in",
-          "lowered_height_in": 16,
-          "notes": "24 in travel, floor thrust"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-proair-pneumatic-lift-and-rotate-tables",
-      "stem": "pentalift-proair-lift-and-rotate",
-      "title": "ProAir Lift & Rotate Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
-      "rows": [
-        {
-          "model": "PALR2-2548",
-          "capacity_lbs": 2000,
-          "platform": "25 x 48 to 48 x 54 in",
-          "lowered_height_in": 11.4375,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PALR2-3648",
-          "capacity_lbs": 2000,
-          "platform": "36 x 48 to 56 x 60 in",
-          "lowered_height_in": 11.4375,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PALR2-4248",
-          "capacity_lbs": 2000,
-          "platform": "42 x 48 to 62 x 70 in",
-          "lowered_height_in": 11.4375,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PALR4-2548",
-          "capacity_lbs": 4000,
-          "platform": "25 x 48 to 48 x 54 in",
-          "lowered_height_in": 11.4375,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PALR4-3648",
-          "capacity_lbs": 4000,
-          "platform": "36 x 48 to 56 x 60 in",
-          "lowered_height_in": 11.4375,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PALR4-4248",
-          "capacity_lbs": 4000,
-          "platform": "42 x 48 to 62 x 70 in",
-          "lowered_height_in": 11.4375,
-          "notes": "24 in travel"
-        },
-        {
-          "model": "PALR6-4248",
-          "capacity_lbs": 6000,
-          "platform": "42 x 48 to 62 x 70 in",
-          "lowered_height_in": 11.4375,
-          "notes": "24 in travel"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-proair-pneumatic-tilters",
-      "stem": "pentalift-proair-tilt",
-      "title": "ProAir Tilt Table",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
-      "rows": [
-        {
-          "model": "PAT2",
-          "capacity_lbs": 2000,
-          "platform": "30 x 36 to 66 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "30 or 40° tilt"
-        },
-        {
-          "model": "PAT4",
-          "capacity_lbs": 4000,
-          "platform": "30 x 36 to 66 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "30 or 40° tilt"
-        },
-        {
-          "model": "PAT6",
-          "capacity_lbs": 6000,
-          "platform": "48 x 44 to 66 x 54 in",
-          "lowered_height_in": 7,
-          "notes": "30 or 40° tilt"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-portable-bin-tilters",
-      "stem": "pentalift-bin-tilter",
-      "title": "Bin Tilter",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/Portable-Bin-Tilter-New-Design-01-16-18.pdf",
-      "rows": [
-        {
-          "model": "XPBT2",
-          "capacity_lbs": 2000,
-          "notes": "portable"
-        },
-        {
-          "model": "XPBT4",
-          "capacity_lbs": 4000,
-          "notes": "portable"
-        },
-        {
-          "model": "XSBT2",
-          "capacity_lbs": 2000,
-          "notes": "stationary"
-        },
-        {
-          "model": "XSBT4",
-          "capacity_lbs": 4000,
-          "notes": "stationary"
-        }
-      ]
-    },
-    {
-      "brand": "pentalift",
-      "line": "pentalift-pentaloader-self-leveling-pallet-lift-tables",
-      "stem": "pentalift-pentaloader",
-      "title": "Pentaloader",
-      "source": "https://www.pentalift.com/wp-content/uploads/2020/10/modelselection-1.pdf",
-      "rows": [
-        {
-          "model": "XPL1",
-          "capacity_lbs": 4500,
-          "platform": "48 x 48 in",
-          "notes": "begins lowering at 175 lb; fully lowered at 600–1,350 lb depending on setting"
-        },
-        {
-          "model": "XPL2",
-          "capacity_lbs": 4500,
-          "platform": "48 x 48 in",
-          "notes": "begins lowering at 175 lb; fully lowered at 600–2,175 lb depending on setting"
-        },
-        {
-          "model": "PL1",
-          "capacity_lbs": 4500,
-          "platform": "48 x 48 in",
-          "notes": "begins lowering at 350 lb; fully lowered at 1,400–2,525 lb depending on setting"
-        },
-        {
-          "model": "PL2",
-          "capacity_lbs": 4500,
-          "platform": "48 x 48 in",
-          "notes": "begins lowering at 350 lb; fully lowered at 1,400–4,100 lb depending on setting"
-        }
-      ]
+     "model": "LFT60-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 88 to 48 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
     }
-  ]
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-wide-base-scissor-lift-tables",
+   "stem": "blue-giant-lftwb",
+   "title": "Wide Base LFTWB",
+   "source": "https://www.bluegiant.com/getattachment/a3d34e91-e963-4bab-aa39-c0020e76b4fa/Wide_Base_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "LFTWB24-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 36.25 to 60 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTWB24-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 36.25 to 60 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTWB24-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 36.25 to 60 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTWB36-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 60 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTWB36-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 to 60 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTWB36-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 to 60 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTWB48-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 64 to 60 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTWB48-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 64 to 60 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTWB48-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 64 to 60 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-wide-base-scissor-lift-tables",
+   "stem": "blue-giant-lftxb",
+   "title": "Extra Wide Base LFTXB",
+   "source": "https://www.bluegiant.com/getattachment/a3d34e91-e963-4bab-aa39-c0020e76b4fa/Wide_Base_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "LFTXB36-20",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 to 72 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTXB36-40",
+     "capacity_lbs": 4000,
+     "platform": "48 x 48 to 72 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTXB36-60",
+     "capacity_lbs": 6000,
+     "platform": "48 x 48 to 72 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTXB48-20",
+     "capacity_lbs": 2000,
+     "platform": "48 x 64 to 72 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTXB48-40",
+     "capacity_lbs": 4000,
+     "platform": "48 x 64 to 72 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTXB48-60",
+     "capacity_lbs": 6000,
+     "platform": "48 x 64 to 72 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTXB60-20",
+     "capacity_lbs": 2000,
+     "platform": "56 x 88 to 84 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "LFTXB60-40",
+     "capacity_lbs": 4000,
+     "platform": "56 x 88 to 84 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "LFTXB60-60",
+     "capacity_lbs": 6000,
+     "platform": "56 x 88 to 84 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-double-wide-scissor-lift-tables",
+   "stem": "blue-giant-lftdw",
+   "title": "Double Wide LFTDW",
+   "source": "https://www.bluegiant.com/getattachment/1f027410-82e7-4664-9da4-f734efb6db57/Double_Wide_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "LFTDW24-40",
+     "capacity_lbs": 4000,
+     "platform": "72 x 36.25 to 72 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTDW24-80",
+     "capacity_lbs": 8000,
+     "platform": "72 x 36.25 to 72 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTDW24-120",
+     "capacity_lbs": 12000,
+     "platform": "72 x 36.25 to 72 x 60 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTDW36-40",
+     "capacity_lbs": 4000,
+     "platform": "72 x 48 to 72 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTDW36-80",
+     "capacity_lbs": 8000,
+     "platform": "72 x 48 to 72 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTDW36-120",
+     "capacity_lbs": 12000,
+     "platform": "72 x 48 to 72 x 72 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTDW48-40",
+     "capacity_lbs": 4000,
+     "platform": "72 x 64 to 72 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTDW48-80",
+     "capacity_lbs": 8000,
+     "platform": "72 x 64 to 72 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTDW48-120",
+     "capacity_lbs": 12000,
+     "platform": "72 x 64 to 72 x 96 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTDW60-40",
+     "capacity_lbs": 4000,
+     "platform": "72 x 88 to 96 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "LFTDW60-80",
+     "capacity_lbs": 8000,
+     "platform": "72 x 88 to 96 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "LFTDW60-120",
+     "capacity_lbs": 12000,
+     "platform": "72 x 88 to 96 x 120 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-tandem-long-scissor-lift-tables",
+   "stem": "blue-giant-lftdl",
+   "title": "Tandem Long LFTDL",
+   "source": "https://www.bluegiant.com/getattachment/8850c7ee-f1ef-408d-bdf8-3018405ba511/Tandem_Long_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "LFTDL24-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 72.5 to 48 x 120 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTDL24-80",
+     "capacity_lbs": 8000,
+     "platform": "24 x 72.5 to 48 x 120 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTDL24-120",
+     "capacity_lbs": 12000,
+     "platform": "36 x 72.5 to 48 x 120 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 31.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "LFTDL36-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 96 to 48 x 144 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTDL36-80",
+     "capacity_lbs": 8000,
+     "platform": "24 x 96 to 48 x 144 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTDL36-120",
+     "capacity_lbs": 12000,
+     "platform": "36 x 96 to 48 x 144 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 43.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "LFTDL48-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 128 to 48 x 176 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTDL48-80",
+     "capacity_lbs": 8000,
+     "platform": "24 x 128 to 48 x 176 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTDL48-120",
+     "capacity_lbs": 12000,
+     "platform": "36 x 128 to 48 x 176 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "LFTDL60-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 176 to 48 x 220 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "LFTDL60-80",
+     "capacity_lbs": 8000,
+     "platform": "24 x 176 to 48 x 220 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "LFTDL60-120",
+     "capacity_lbs": 12000,
+     "platform": "36 x 176 to 48 x 220 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-double-scissor-lift-tables",
+   "stem": "blue-giant-ds",
+   "title": "Double Scissor DS",
+   "source": "https://www.bluegiant.com/getattachment/7d3c4e57-62c2-40ed-98f9-cffc4f684670/Double_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "DS1-48",
+     "capacity_lbs": 1000,
+     "platform": "24 x 48 to 48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 60,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "DS2-48",
+     "capacity_lbs": 2000,
+     "platform": "24 x 48 to 48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 60,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "DS3-48",
+     "capacity_lbs": 3000,
+     "platform": "24 x 48 to 48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 60,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "DS4-48",
+     "capacity_lbs": 4000,
+     "platform": "24 x 48 to 48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 60,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "DS1-60",
+     "capacity_lbs": 1000,
+     "platform": "24 x 60 to 48 x 60 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 72,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "DS2-60",
+     "capacity_lbs": 2000,
+     "platform": "24 x 60 to 48 x 60 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 72,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "DS3-60",
+     "capacity_lbs": 3000,
+     "platform": "24 x 60 to 48 x 60 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 72,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "DS4-60",
+     "capacity_lbs": 4000,
+     "platform": "24 x 60 to 48 x 60 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 72,
+     "notes": "60 in travel"
+    },
+    {
+     "model": "DS1-72",
+     "capacity_lbs": 1000,
+     "platform": "24 x 72 to 48 x 72 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 84,
+     "notes": "72 in travel"
+    },
+    {
+     "model": "DS2-72",
+     "capacity_lbs": 2000,
+     "platform": "24 x 72 to 48 x 72 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 84,
+     "notes": "72 in travel"
+    },
+    {
+     "model": "DS3-72",
+     "capacity_lbs": 3000,
+     "platform": "24 x 72 to 48 x 72 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 84,
+     "notes": "72 in travel"
+    },
+    {
+     "model": "DS4-72",
+     "capacity_lbs": 4000,
+     "platform": "24 x 72 to 48 x 72 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 84,
+     "notes": "72 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-pneumatic-scissor-lift-tables",
+   "stem": "blue-giant-af24",
+   "title": "Pneumatic AF24",
+   "source": "https://www.bluegiant.com/getattachment/9890d10f-ffd7-4bca-9fd4-faf3eb38fb56/Pneumatic_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "AF24-10-3648",
+     "capacity_lbs": 1000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-10-4848",
+     "capacity_lbs": 1000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-10-4856",
+     "capacity_lbs": 1000,
+     "platform": "48 x 56 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-10-4860",
+     "capacity_lbs": 1000,
+     "platform": "48 x 60 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-20-3648",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-20-4848",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-20-4856",
+     "capacity_lbs": 2000,
+     "platform": "48 x 56 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-20-4860",
+     "capacity_lbs": 2000,
+     "platform": "48 x 60 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-40-3648",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-40-4848",
+     "capacity_lbs": 4000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-40-4856",
+     "capacity_lbs": 4000,
+     "platform": "48 x 56 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "AF24-40-4860",
+     "capacity_lbs": 4000,
+     "platform": "48 x 60 in",
+     "lowered_height_in": 9.5,
+     "raised_height_in": 33.5,
+     "notes": "24 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-pneumatic-tilt-tables",
+   "stem": "blue-giant-aft",
+   "title": "Pneumatic Tilt AFT",
+   "source": "https://www.bluegiant.com/getattachment/bc6b8f3e-d4f4-405b-a626-c690f34bb44b/Pneumatic_Tilt_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "AFT10-3648",
+     "capacity_lbs": 1000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT10-4848",
+     "capacity_lbs": 1000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT10-4856",
+     "capacity_lbs": 1000,
+     "platform": "48 x 56 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT10-4860",
+     "capacity_lbs": 1000,
+     "platform": "48 x 60 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT20-3648",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT20-4848",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT20-4856",
+     "capacity_lbs": 2000,
+     "platform": "48 x 56 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT20-4860",
+     "capacity_lbs": 2000,
+     "platform": "48 x 60 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT40-3648",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT40-4856",
+     "capacity_lbs": 4000,
+     "platform": "48 x 56 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    },
+    {
+     "model": "AFT40-4860",
+     "capacity_lbs": 4000,
+     "platform": "48 x 60 in",
+     "lowered_height_in": 8,
+     "notes": "30 or 45° tilt"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-zero-ground-level-scissor-lift-tables",
+   "stem": "blue-giant-zpl",
+   "title": "Zero Ground Level ZPL",
+   "source": "https://www.bluegiant.com/getattachment/52a85b3b-080b-4063-9aed-197517ed88c5/Zero_Ground_Level_Scissor_Lift_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "ZPL-20-4448",
+     "capacity_lbs": 2000,
+     "platform": "44 x 48 in",
+     "lowered_height_in": 0.375,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "ZPL-20-5048",
+     "capacity_lbs": 2000,
+     "platform": "50 x 48 in",
+     "lowered_height_in": 0.375,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "ZPL-40-4448",
+     "capacity_lbs": 4000,
+     "platform": "44 x 48 in",
+     "lowered_height_in": 0.5,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "ZPL-40-5048",
+     "capacity_lbs": 4000,
+     "platform": "50 x 48 in",
+     "lowered_height_in": 0.5,
+     "notes": "36 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-hydraulic-tilters",
+   "stem": "blue-giant-ett",
+   "title": "Hydraulic Tilter ETT",
+   "source": "https://www.bluegiant.com/getattachment/40a111c3-32ee-447b-9993-ceb0455e0b0b/Hydraulic_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "ETT45-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 48 x 60 in",
+     "lowered_height_in": 8,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "ETT45-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 to 48 x 60 in",
+     "lowered_height_in": 8,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "ETT45-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 to 48 x 60 in",
+     "lowered_height_in": 8,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "ETT90-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 48 x 60 in",
+     "lowered_height_in": 12,
+     "notes": "90° tilt"
+    },
+    {
+     "model": "ETT90-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 to 48 x 60 in",
+     "lowered_height_in": 12,
+     "notes": "90° tilt"
+    },
+    {
+     "model": "ETT90-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 to 48 x 60 in",
+     "lowered_height_in": 12,
+     "notes": "90° tilt"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-hydraulic-tilters",
+   "stem": "blue-giant-wbett",
+   "title": "Wide Base Tilter WBETT",
+   "source": "https://www.bluegiant.com/getattachment/b1b73e46-1edd-4672-80a2-89165a357228/Wide_Base_Tilter_Brochure_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "WBETT45-20",
+     "capacity_lbs": 2000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "lowered_height_in": 8,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "WBETT45-40",
+     "capacity_lbs": 4000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "lowered_height_in": 8,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "WBETT45-60",
+     "capacity_lbs": 6000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "lowered_height_in": 12,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "WBETT90-20",
+     "capacity_lbs": 2000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "lowered_height_in": 8,
+     "notes": "90° tilt"
+    },
+    {
+     "model": "WBETT90-40",
+     "capacity_lbs": 4000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "lowered_height_in": 8,
+     "notes": "90° tilt"
+    },
+    {
+     "model": "WBETT90-60",
+     "capacity_lbs": 6000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "lowered_height_in": 12,
+     "notes": "90° tilt"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-hydraulic-tilters",
+   "stem": "blue-giant-wbett60",
+   "title": "Wide Base Tilter WBETT60",
+   "source": "https://www.bluegiant.com/getattachment/3302aa09-2282-4985-8e53-02f3e33081b8/In-Plant_Lifts_Catalog_2025.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "WBETT60-20",
+     "capacity_lbs": 2000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "notes": "60° tilt"
+    },
+    {
+     "model": "WBETT60-40",
+     "capacity_lbs": 4000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "notes": "60° tilt"
+    },
+    {
+     "model": "WBETT60-60",
+     "capacity_lbs": 6000,
+     "platform": "60 x 60 to 96 x 96 in",
+     "notes": "60° tilt"
+    }
+   ]
+  },
+  {
+   "brand": "blue-giant",
+   "line": "blue-giant-pl4-automatic-pallet-positioner",
+   "stem": "blue-giant-pl4",
+   "title": "PL4 Automatic Pallet Positioner",
+   "source": "https://www.bluegiant.com/getattachment/0754b8c6-dd4a-40aa-8e92-be03db7052c3/PL4_Automatic_Pallet_Positioner_Brochure_2024.pdf?lang=en-us&ext=.pdf",
+   "rows": [
+    {
+     "model": "PL4",
+     "capacity_lbs": 4000,
+     "platform": "43 in round",
+     "lowered_height_in": 10.5,
+     "raised_height_in": 33.5,
+     "notes": "self-levels 400–3,500 lb, 23 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-pro-series-lift-tables",
+   "stem": "pentalift-pro-series-lift",
+   "title": "Pro-Series Lift Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf",
+   "rows": [
+    {
+     "model": "7P242.5",
+     "capacity_lbs": 2500,
+     "platform": "24 x 36 to 48 x 60 in",
+     "lowered_height_in": 7,
+     "raised_height_in": 31,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "7P362.5",
+     "capacity_lbs": 2500,
+     "platform": "24 x 48 to 48 x 72 in",
+     "lowered_height_in": 7,
+     "raised_height_in": 43,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "7P482.5",
+     "capacity_lbs": 2500,
+     "platform": "24 x 64 to 48 x 88 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "7P244",
+     "capacity_lbs": 4000,
+     "platform": "24 x 36 to 48 x 60 in",
+     "lowered_height_in": 7,
+     "raised_height_in": 31,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "7P364",
+     "capacity_lbs": 4000,
+     "platform": "24 x 48 to 48 x 72 in",
+     "lowered_height_in": 7,
+     "raised_height_in": 43,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "7P484",
+     "capacity_lbs": 4000,
+     "platform": "24 x 64 to 48 x 88 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    },
+    {
+     "model": "7P246",
+     "capacity_lbs": 6000,
+     "platform": "24 x 36 to 48 x 60 in",
+     "lowered_height_in": 7,
+     "raised_height_in": 31,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "7P366",
+     "capacity_lbs": 6000,
+     "platform": "24 x 48 to 48 x 72 in",
+     "lowered_height_in": 7,
+     "raised_height_in": 43,
+     "notes": "36 in travel"
+    },
+    {
+     "model": "7P486",
+     "capacity_lbs": 6000,
+     "platform": "24 x 64 to 48 x 88 in",
+     "lowered_height_in": 7.5,
+     "raised_height_in": 55.5,
+     "notes": "48 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-pro-series-tilters",
+   "stem": "pentalift-pro-series-tilt",
+   "title": "Pro-Series Tilt Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf",
+   "rows": [
+    {
+     "model": "PT302544",
+     "capacity_lbs": 2500,
+     "platform": "30 x 44 to 48 x 48 in",
+     "lowered_height_in": 7,
+     "notes": "30° tilt"
+    },
+    {
+     "model": "PT302550",
+     "capacity_lbs": 2500,
+     "platform": "30 x 48 to 50 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "30° tilt"
+    },
+    {
+     "model": "PT452544",
+     "capacity_lbs": 2500,
+     "platform": "30 x 44 to 48 x 48 in",
+     "lowered_height_in": 7,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "PT452550",
+     "capacity_lbs": 2500,
+     "platform": "30 x 48 to 50 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "PT304044",
+     "capacity_lbs": 4000,
+     "platform": "30 x 44 to 48 x 48 in",
+     "lowered_height_in": 7,
+     "notes": "30° tilt"
+    },
+    {
+     "model": "PT304050",
+     "capacity_lbs": 4000,
+     "platform": "30 x 48 to 50 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "30° tilt"
+    },
+    {
+     "model": "PT454044",
+     "capacity_lbs": 4000,
+     "platform": "30 x 44 to 48 x 48 in",
+     "lowered_height_in": 7,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "PT454050",
+     "capacity_lbs": 4000,
+     "platform": "30 x 48 to 50 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "PT306044",
+     "capacity_lbs": 6000,
+     "platform": "30 x 44 to 48 x 48 in",
+     "lowered_height_in": 7,
+     "notes": "30° tilt"
+    },
+    {
+     "model": "PT306050",
+     "capacity_lbs": 6000,
+     "platform": "30 x 48 to 50 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "30° tilt"
+    },
+    {
+     "model": "PT456044",
+     "capacity_lbs": 6000,
+     "platform": "30 x 44 to 48 x 48 in",
+     "lowered_height_in": 7,
+     "notes": "45° tilt"
+    },
+    {
+     "model": "PT456050",
+     "capacity_lbs": 6000,
+     "platform": "30 x 48 to 50 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "45° tilt"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-pro-series-lift-and-tilt-tables",
+   "stem": "pentalift-pro-series-lift-and-tilt",
+   "title": "Pro-Series Lift & Tilt Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/lift-tilt-sheet.pdf",
+   "rows": [
+    {
+     "model": "PLT24302.5",
+     "capacity_lbs": 2500,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "24 in travel, 30° tilt"
+    },
+    {
+     "model": "PLT24452.5",
+     "capacity_lbs": 2500,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "24 in travel, 45° tilt"
+    },
+    {
+     "model": "PLT36302.5",
+     "capacity_lbs": 2500,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "36 in travel, 30° tilt"
+    },
+    {
+     "model": "PLT36452.5",
+     "capacity_lbs": 2500,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "36 in travel, 45° tilt"
+    },
+    {
+     "model": "PLT24304",
+     "capacity_lbs": 4000,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "24 in travel, 30° tilt, remote power unit only"
+    },
+    {
+     "model": "PLT24454",
+     "capacity_lbs": 4000,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "24 in travel, 45° tilt, remote power unit only"
+    },
+    {
+     "model": "PLT36304",
+     "capacity_lbs": 4000,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "36 in travel, 30° tilt"
+    },
+    {
+     "model": "PLT36454",
+     "capacity_lbs": 4000,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "36 in travel, 45° tilt"
+    },
+    {
+     "model": "PLT24305",
+     "capacity_lbs": 5000,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "24 in travel, 30° tilt, remote power unit only"
+    },
+    {
+     "model": "PLT36305",
+     "capacity_lbs": 5000,
+     "platform": "36 x 44 to 50 x 54 in",
+     "lowered_height_in": 14,
+     "notes": "36 in travel, 30° tilt"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-pro-series-lift-and-rotate-tables",
+   "stem": "pentalift-pro-series-lift-and-rotate",
+   "title": "Pro-Series Lift & Rotate Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/lift-and-rotate-sheet.pdf",
+   "rows": [
+    {
+     "model": "PLR24362",
+     "capacity_lbs": 2000,
+     "platform": "36 x 36 to 41 x 41 in",
+     "lowered_height_in": 9.4375,
+     "notes": "24 in travel, rotating top"
+    },
+    {
+     "model": "PLR24422",
+     "capacity_lbs": 2000,
+     "platform": "36 x 42 to 47 x 47 in",
+     "lowered_height_in": 9.4375,
+     "notes": "24 in travel, rotating top"
+    },
+    {
+     "model": "PLR24482",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 48 x 48 in",
+     "lowered_height_in": 9.4375,
+     "notes": "24 in travel, rotating top"
+    },
+    {
+     "model": "PLR36362",
+     "capacity_lbs": 2000,
+     "platform": "36 x 36 to 41 x 41 in",
+     "lowered_height_in": 9.4375,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR36422",
+     "capacity_lbs": 2000,
+     "platform": "36 x 42 to 47 x 47 in",
+     "lowered_height_in": 9.4375,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR36482",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 48 x 48 in",
+     "lowered_height_in": 9.4375,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR24363.5",
+     "capacity_lbs": 3500,
+     "platform": "36 x 36 to 41 x 41 in",
+     "lowered_height_in": 9.4375,
+     "notes": "24 in travel, rotating top"
+    },
+    {
+     "model": "PLR24423.5",
+     "capacity_lbs": 3500,
+     "platform": "36 x 42 to 47 x 47 in",
+     "lowered_height_in": 9.4375,
+     "notes": "24 in travel, rotating top"
+    },
+    {
+     "model": "PLR24483.5",
+     "capacity_lbs": 3500,
+     "platform": "36 x 48 to 48 x 48 in",
+     "lowered_height_in": 9.4375,
+     "notes": "24 in travel, rotating top"
+    },
+    {
+     "model": "PLR36363.5",
+     "capacity_lbs": 3500,
+     "platform": "36 x 36 to 41 x 41 in",
+     "lowered_height_in": 9.4375,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR36423.5",
+     "capacity_lbs": 3500,
+     "platform": "36 x 42 to 47 x 47 in",
+     "lowered_height_in": 9.4375,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR36483.5",
+     "capacity_lbs": 3500,
+     "platform": "36 x 48 to 48 x 48 in",
+     "lowered_height_in": 9.4375,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR24365.5",
+     "capacity_lbs": 5500,
+     "platform": "36 x 36 to 41 x 41 in",
+     "lowered_height_in": 9.625,
+     "notes": "24 in travel, rotating top, remote power unit only"
+    },
+    {
+     "model": "PLR24425.5",
+     "capacity_lbs": 5500,
+     "platform": "36 x 42 to 47 x 47 in",
+     "lowered_height_in": 9.625,
+     "notes": "24 in travel, rotating top, remote power unit only"
+    },
+    {
+     "model": "PLR24485.5",
+     "capacity_lbs": 5500,
+     "platform": "36 x 48 to 48 x 48 in",
+     "lowered_height_in": 9.625,
+     "notes": "24 in travel, rotating top, remote power unit only"
+    },
+    {
+     "model": "PLR36365.5",
+     "capacity_lbs": 5500,
+     "platform": "36 x 36 to 41 x 41 in",
+     "lowered_height_in": 9.625,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR36425.5",
+     "capacity_lbs": 5500,
+     "platform": "36 x 42 to 47 x 47 in",
+     "lowered_height_in": 9.625,
+     "notes": "36 in travel, rotating top"
+    },
+    {
+     "model": "PLR36485.5",
+     "capacity_lbs": 5500,
+     "platform": "36 x 48 to 48 x 48 in",
+     "lowered_height_in": 9.625,
+     "notes": "36 in travel, rotating top"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-pro-series-lift-and-rotate-tables",
+   "stem": "pentalift-pro-series-rotating-top",
+   "title": "Pro-Series Manual Rotating Top",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/ProSeries.pdf",
+   "rows": [
+    {
+     "model": "RP3625",
+     "capacity_lbs": 2500,
+     "platform": "36 x 36 to 41 x 41 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP4225",
+     "capacity_lbs": 2500,
+     "platform": "36 x 42 to 47 x 47 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP4825",
+     "capacity_lbs": 2500,
+     "platform": "36 x 48 to 48 x 48 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP3640",
+     "capacity_lbs": 4000,
+     "platform": "36 x 36 to 41 x 41 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP4240",
+     "capacity_lbs": 4000,
+     "platform": "36 x 42 to 47 x 47 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP4840",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 to 48 x 48 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP3660",
+     "capacity_lbs": 6000,
+     "platform": "36 x 36 to 41 x 41 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP4260",
+     "capacity_lbs": 6000,
+     "platform": "36 x 42 to 47 x 47 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    },
+    {
+     "model": "RP4860",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 to 48 x 48 in",
+     "notes": "rotating top only, 2-7/16 in overall height"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-proair-pneumatic-lift-tables",
+   "stem": "pentalift-proair-lift",
+   "title": "ProAir Lift Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
+   "rows": [
+    {
+     "model": "PAL2-2548",
+     "capacity_lbs": 2000,
+     "platform": "25 x 48 to 48 x 72 in",
+     "lowered_height_in": 9,
+     "raised_height_in": 33,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PAL2-3648",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 60 x 72 in",
+     "lowered_height_in": 9,
+     "raised_height_in": 33,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PAL2-4248",
+     "capacity_lbs": 2000,
+     "platform": "42 x 48 to 66 x 72 in",
+     "lowered_height_in": 9,
+     "raised_height_in": 33,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PAL4-2548",
+     "capacity_lbs": 4000,
+     "platform": "25 x 48 to 48 x 72 in",
+     "lowered_height_in": 9,
+     "raised_height_in": 33,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PAL4-3648",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 to 60 x 72 in",
+     "lowered_height_in": 9,
+     "raised_height_in": 33,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PAL4-4248",
+     "capacity_lbs": 4000,
+     "platform": "42 x 48 to 66 x 72 in",
+     "lowered_height_in": 9,
+     "raised_height_in": 33,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PAL6-4248",
+     "capacity_lbs": 6000,
+     "platform": "42 x 48 to 66 x 72 in",
+     "lowered_height_in": 9,
+     "raised_height_in": 33,
+     "notes": "24 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-proair-pneumatic-lift-and-tilt-tables",
+   "stem": "pentalift-proair-lift-and-tilt",
+   "title": "ProAir Lift & Tilt Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
+   "rows": [
+    {
+     "model": "PALT2-2548",
+     "capacity_lbs": 2000,
+     "platform": "30 x 48 to 50 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, tray thrust"
+    },
+    {
+     "model": "PALT2-3648",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 60 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, tray thrust"
+    },
+    {
+     "model": "PALT2-4248",
+     "capacity_lbs": 2000,
+     "platform": "42 x 48 to 66 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, tray thrust"
+    },
+    {
+     "model": "PALT4-2548",
+     "capacity_lbs": 4000,
+     "platform": "30 x 48 to 50 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, tray thrust"
+    },
+    {
+     "model": "PALT4-3648",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 to 60 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, tray thrust"
+    },
+    {
+     "model": "PALT4-4248",
+     "capacity_lbs": 4000,
+     "platform": "42 x 48 to 66 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, tray thrust"
+    },
+    {
+     "model": "PALT6-4248",
+     "capacity_lbs": 6000,
+     "platform": "42 x 48 to 66 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, tray thrust"
+    },
+    {
+     "model": "PAFT2-2548",
+     "capacity_lbs": 2000,
+     "platform": "30 x 48 to 50 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, floor thrust"
+    },
+    {
+     "model": "PAFT2-3948",
+     "capacity_lbs": 2000,
+     "platform": "39 x 48 to 60 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, floor thrust"
+    },
+    {
+     "model": "PAFT4-3948",
+     "capacity_lbs": 4000,
+     "platform": "39 x 48 to 60 x 60 in",
+     "lowered_height_in": 16,
+     "notes": "24 in travel, floor thrust"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-proair-pneumatic-lift-and-rotate-tables",
+   "stem": "pentalift-proair-lift-and-rotate",
+   "title": "ProAir Lift & Rotate Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
+   "rows": [
+    {
+     "model": "PALR2-2548",
+     "capacity_lbs": 2000,
+     "platform": "25 x 48 to 48 x 54 in",
+     "lowered_height_in": 11.4375,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PALR2-3648",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 to 56 x 60 in",
+     "lowered_height_in": 11.4375,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PALR2-4248",
+     "capacity_lbs": 2000,
+     "platform": "42 x 48 to 62 x 70 in",
+     "lowered_height_in": 11.4375,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PALR4-2548",
+     "capacity_lbs": 4000,
+     "platform": "25 x 48 to 48 x 54 in",
+     "lowered_height_in": 11.4375,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PALR4-3648",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 to 56 x 60 in",
+     "lowered_height_in": 11.4375,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PALR4-4248",
+     "capacity_lbs": 4000,
+     "platform": "42 x 48 to 62 x 70 in",
+     "lowered_height_in": 11.4375,
+     "notes": "24 in travel"
+    },
+    {
+     "model": "PALR6-4248",
+     "capacity_lbs": 6000,
+     "platform": "42 x 48 to 62 x 70 in",
+     "lowered_height_in": 11.4375,
+     "notes": "24 in travel"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-proair-pneumatic-tilters",
+   "stem": "pentalift-proair-tilt",
+   "title": "ProAir Tilt Table",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/L020.pdf",
+   "rows": [
+    {
+     "model": "PAT2",
+     "capacity_lbs": 2000,
+     "platform": "30 x 36 to 66 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "30 or 40° tilt"
+    },
+    {
+     "model": "PAT4",
+     "capacity_lbs": 4000,
+     "platform": "30 x 36 to 66 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "30 or 40° tilt"
+    },
+    {
+     "model": "PAT6",
+     "capacity_lbs": 6000,
+     "platform": "48 x 44 to 66 x 54 in",
+     "lowered_height_in": 7,
+     "notes": "30 or 40° tilt"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-portable-bin-tilters",
+   "stem": "pentalift-bin-tilter",
+   "title": "Bin Tilter",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/Portable-Bin-Tilter-New-Design-01-16-18.pdf",
+   "rows": [
+    {
+     "model": "XPBT2",
+     "capacity_lbs": 2000,
+     "notes": "portable"
+    },
+    {
+     "model": "XPBT4",
+     "capacity_lbs": 4000,
+     "notes": "portable"
+    },
+    {
+     "model": "XSBT2",
+     "capacity_lbs": 2000,
+     "notes": "stationary"
+    },
+    {
+     "model": "XSBT4",
+     "capacity_lbs": 4000,
+     "notes": "stationary"
+    }
+   ]
+  },
+  {
+   "brand": "pentalift",
+   "line": "pentalift-pentaloader-self-leveling-pallet-lift-tables",
+   "stem": "pentalift-pentaloader",
+   "title": "Pentaloader",
+   "source": "https://www.pentalift.com/wp-content/uploads/2020/10/modelselection-1.pdf",
+   "rows": [
+    {
+     "model": "XPL1",
+     "capacity_lbs": 4500,
+     "platform": "48 x 48 in",
+     "notes": "begins lowering at 175 lb; fully lowered at 600–1,350 lb depending on setting"
+    },
+    {
+     "model": "XPL2",
+     "capacity_lbs": 4500,
+     "platform": "48 x 48 in",
+     "notes": "begins lowering at 175 lb; fully lowered at 600–2,175 lb depending on setting"
+    },
+    {
+     "model": "PL1",
+     "capacity_lbs": 4500,
+     "platform": "48 x 48 in",
+     "notes": "begins lowering at 350 lb; fully lowered at 1,400–2,525 lb depending on setting"
+    },
+    {
+     "model": "PL2",
+     "capacity_lbs": 4500,
+     "platform": "48 x 48 in",
+     "notes": "begins lowering at 350 lb; fully lowered at 1,400–4,100 lb depending on setting"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-standard-scissor-lift-tables",
+   "stem": "superlift-sl24",
+   "title": "SL24 Standard Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "SL24-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 31,
+     "notes": "24 in lift, 1 hp"
+    },
+    {
+     "model": "SL24-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 32,
+     "notes": "24 in lift, 1 hp"
+    },
+    {
+     "model": "SL24-60",
+     "capacity_lbs": 6000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 32,
+     "notes": "24 in lift, 1 hp"
+    },
+    {
+     "model": "SL24-80",
+     "capacity_lbs": 8000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 36,
+     "notes": "24 in lift, 3 hp"
+    },
+    {
+     "model": "SL24-100",
+     "capacity_lbs": 10000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 36,
+     "notes": "24 in lift, 3 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-standard-scissor-lift-tables",
+   "stem": "superlift-sl36",
+   "title": "SL36 Standard Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "SL36-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 43,
+     "notes": "36 in lift, 1 hp"
+    },
+    {
+     "model": "SL36-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 45,
+     "notes": "36 in lift, 1 hp"
+    },
+    {
+     "model": "SL36-60",
+     "capacity_lbs": 6000,
+     "platform": "24 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 45,
+     "notes": "36 in lift, 1 hp"
+    },
+    {
+     "model": "SL36-80",
+     "capacity_lbs": 8000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 48,
+     "notes": "36 in lift, 3 hp"
+    },
+    {
+     "model": "SL36-100",
+     "capacity_lbs": 10000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 48,
+     "notes": "36 in lift, 3 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-standard-scissor-lift-tables",
+   "stem": "superlift-sl48",
+   "title": "SL48 Standard Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "SL48-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 72 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 56,
+     "notes": "48 in lift, 1 hp"
+    },
+    {
+     "model": "SL48-40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 72 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 57,
+     "notes": "48 in lift, 1 hp"
+    },
+    {
+     "model": "SL48-60",
+     "capacity_lbs": 6000,
+     "platform": "24 x 72 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 57,
+     "notes": "48 in lift, 1 hp"
+    },
+    {
+     "model": "SL48-80",
+     "capacity_lbs": 8000,
+     "platform": "36 x 72 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 60,
+     "notes": "48 in lift, 3 hp"
+    },
+    {
+     "model": "SL48-100",
+     "capacity_lbs": 10000,
+     "platform": "36 x 72 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 60,
+     "notes": "48 in lift, 3 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-double-and-triple-scissor-lift-tables",
+   "stem": "superlift-dsl-60",
+   "title": "DSL-60 Double Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/double-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "DSL-60-20",
+     "capacity_lbs": 2000,
+     "platform": "30 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 70,
+     "notes": "60 in lift, 1 hp"
+    },
+    {
+     "model": "DSL-60-40",
+     "capacity_lbs": 4000,
+     "platform": "30 x 48 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 74,
+     "notes": "60 in lift, 1 hp"
+    },
+    {
+     "model": "DSL-60-60",
+     "capacity_lbs": 6000,
+     "platform": "30 x 48 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 76,
+     "notes": "60 in lift, 1 hp"
+    },
+    {
+     "model": "DSL-60-80",
+     "capacity_lbs": 8000,
+     "platform": "30 x 48 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 76,
+     "notes": "60 in lift, 3 hp"
+    },
+    {
+     "model": "DSL-60-100",
+     "capacity_lbs": 10000,
+     "platform": "30 x 48 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 76,
+     "notes": "60 in lift, 3 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-double-and-triple-scissor-lift-tables",
+   "stem": "superlift-dsl-84",
+   "title": "DSL-84 Double Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/double-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "DSL-84-20",
+     "capacity_lbs": 2000,
+     "platform": "30 x 72 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 94,
+     "notes": "84 in lift, 1 hp"
+    },
+    {
+     "model": "DSL-84-40",
+     "capacity_lbs": 4000,
+     "platform": "30 x 72 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 88,
+     "notes": "84 in lift, 1 hp"
+    },
+    {
+     "model": "DSL-84-60",
+     "capacity_lbs": 6000,
+     "platform": "30 x 72 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 90,
+     "notes": "84 in lift, 3 hp"
+    },
+    {
+     "model": "DSL-84-80",
+     "capacity_lbs": 8000,
+     "platform": "30 x 72 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 90,
+     "notes": "84 in lift, 3 hp"
+    },
+    {
+     "model": "DSL-84-100",
+     "capacity_lbs": 10000,
+     "platform": "30 x 72 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 90,
+     "notes": "84 in lift, 3 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-double-and-triple-scissor-lift-tables",
+   "stem": "superlift-dsl-120",
+   "title": "DSL-120 Double Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/double-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "DSL-120-20",
+     "capacity_lbs": 2000,
+     "platform": "48 x 96 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 134,
+     "notes": "120 in lift, 5 hp"
+    },
+    {
+     "model": "DSL-120-40",
+     "capacity_lbs": 4000,
+     "platform": "48 x 96 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 134,
+     "notes": "120 in lift, 5 hp"
+    },
+    {
+     "model": "DSL-120-60",
+     "capacity_lbs": 6000,
+     "platform": "48 x 96 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 136,
+     "notes": "120 in lift, 5 hp"
+    },
+    {
+     "model": "DSL-120-80",
+     "capacity_lbs": 8000,
+     "platform": "48 x 96 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 136,
+     "notes": "120 in lift, 5 hp"
+    },
+    {
+     "model": "DSL-120-100",
+     "capacity_lbs": 10000,
+     "platform": "48 x 96 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 136,
+     "notes": "120 in lift, 5 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-heavy-capacity-scissor-lift-tables",
+   "stem": "superlift-slhd-36",
+   "title": "SLHD-36 Heavy Duty Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "SLHD-36-12",
+     "capacity_lbs": 12000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 50,
+     "notes": "36 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-36-15",
+     "capacity_lbs": 15000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 50,
+     "notes": "36 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-36-18",
+     "capacity_lbs": 18000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 52,
+     "notes": "36 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-36-20",
+     "capacity_lbs": 20000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 52,
+     "notes": "36 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-36-25",
+     "capacity_lbs": 25000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 54,
+     "notes": "36 in lift, 10 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-heavy-capacity-scissor-lift-tables",
+   "stem": "superlift-slhd-72x96",
+   "title": "SLHD 72 x 96 in Heavy Duty Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "SLHD-1",
+     "capacity_lbs": 12000,
+     "platform": "72 x 96 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 74,
+     "notes": "60 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-2",
+     "capacity_lbs": 15000,
+     "platform": "72 x 96 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 74,
+     "notes": "60 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-3",
+     "capacity_lbs": 18000,
+     "platform": "72 x 96 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 76,
+     "notes": "60 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-4",
+     "capacity_lbs": 20000,
+     "platform": "72 x 96 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 76,
+     "notes": "60 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-5",
+     "capacity_lbs": 25000,
+     "platform": "72 x 96 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "60 in lift, 10 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-heavy-capacity-scissor-lift-tables",
+   "stem": "superlift-slhd-96x96",
+   "title": "SLHD 96 x 96 in Heavy Duty Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "SLHD-11",
+     "capacity_lbs": 12000,
+     "platform": "96 x 96 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 74,
+     "notes": "60 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-12",
+     "capacity_lbs": 15000,
+     "platform": "96 x 96 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 74,
+     "notes": "60 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-13",
+     "capacity_lbs": 18000,
+     "platform": "96 x 96 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 76,
+     "notes": "60 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-14",
+     "capacity_lbs": 20000,
+     "platform": "96 x 96 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 76,
+     "notes": "60 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-15",
+     "capacity_lbs": 25000,
+     "platform": "96 x 96 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "60 in lift, 10 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-heavy-capacity-scissor-lift-tables",
+   "stem": "superlift-slhd-72x144",
+   "title": "SLHD 72 x 144 in Heavy Duty Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf",
+   "rows": [
+    {
+     "model": "SLHD-21",
+     "capacity_lbs": 12000,
+     "platform": "72 x 144 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 73,
+     "notes": "60 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-22",
+     "capacity_lbs": 15000,
+     "platform": "72 x 144 in",
+     "lowered_height_in": 14,
+     "raised_height_in": 73,
+     "notes": "60 in lift, 5 hp"
+    },
+    {
+     "model": "SLHD-23",
+     "capacity_lbs": 18000,
+     "platform": "72 x 144 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 75,
+     "notes": "60 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-24",
+     "capacity_lbs": 20000,
+     "platform": "72 x 144 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 75,
+     "notes": "60 in lift, 7.5 hp"
+    },
+    {
+     "model": "SLHD-25",
+     "capacity_lbs": 25000,
+     "platform": "72 x 144 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 77,
+     "notes": "60 in lift, 10 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-pneumatic-lift-and-tilt-tables",
+   "stem": "superlift-slalt-lift",
+   "title": "SLALT Pneumatic Lift Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_lEofile_tables.pdf",
+   "rows": [
+    {
+     "model": "SLALT 2 3648",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 32,
+     "notes": "24 in lift"
+    },
+    {
+     "model": "SLALT 2 4848",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 32,
+     "notes": "24 in lift"
+    },
+    {
+     "model": "SLALT 2 5648",
+     "capacity_lbs": 2000,
+     "platform": "56 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 32,
+     "notes": "24 in lift"
+    },
+    {
+     "model": "SLALT 2 6048",
+     "capacity_lbs": 2000,
+     "platform": "60 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 32,
+     "notes": "24 in lift"
+    },
+    {
+     "model": "SLALT 4 4848",
+     "capacity_lbs": 4000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 32,
+     "notes": "24 in lift"
+    },
+    {
+     "model": "SLALT 4 5648",
+     "capacity_lbs": 4000,
+     "platform": "56 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 32,
+     "notes": "24 in lift"
+    },
+    {
+     "model": "SLALT 4 6048",
+     "capacity_lbs": 4000,
+     "platform": "60 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": 32,
+     "notes": "24 in lift"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-pneumatic-lift-and-tilt-tables",
+   "stem": "superlift-slalt-lift-tilt",
+   "title": "SLALT Pneumatic Lift and Tilt Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_LifEilt_table_24.pdf",
+   "rows": [
+    {
+     "model": "SLALT 23648",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 39,
+     "notes": "24 in lift, tilts 35°"
+    },
+    {
+     "model": "SLALT 24848",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 39,
+     "notes": "24 in lift, tilts 35°"
+    },
+    {
+     "model": "SLALT 25648",
+     "capacity_lbs": 2000,
+     "platform": "56 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 39,
+     "notes": "24 in lift, tilts 35°"
+    },
+    {
+     "model": "SLALT 26048",
+     "capacity_lbs": 2000,
+     "platform": "60 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 39,
+     "notes": "24 in lift, tilts 35°"
+    },
+    {
+     "model": "SLALT 4 4848",
+     "capacity_lbs": 4000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 39,
+     "notes": "24 in lift, tilts 35°"
+    },
+    {
+     "model": "SLALT 4 5648",
+     "capacity_lbs": 4000,
+     "platform": "56 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 39,
+     "notes": "24 in lift, tilts 35°"
+    },
+    {
+     "model": "SLALT 4 6048",
+     "capacity_lbs": 4000,
+     "platform": "60 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 39,
+     "notes": "24 in lift, tilts 35°"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-low-profile-lift-tables",
+   "stem": "superlift-sllp",
+   "title": "SLLP Low Profile Lift Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_lEofile_tables.pdf",
+   "rows": [
+    {
+     "model": "SLLP 20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 48 in",
+     "lowered_height_in": 3.5,
+     "raised_height_in": 36,
+     "notes": "32 in lift, optional 36 x 30 in ramp"
+    },
+    {
+     "model": "SLLP 40",
+     "capacity_lbs": 4000,
+     "platform": "24 x 48 in",
+     "lowered_height_in": 4.5,
+     "raised_height_in": 37,
+     "notes": "32 in lift, optional 36 x 30 in ramp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-ground-level-scissor-lifts",
+   "stem": "superlift-slgl-32",
+   "title": "SLGL 32 Ground Level Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/ground_level_Esor_lift_32.pdf",
+   "rows": [
+    {
+     "model": "SLGL 32-20",
+     "capacity_lbs": 2000,
+     "platform": "44 x 48 in",
+     "lowered_height_in": 0.375,
+     "raised_height_in": 32,
+     "notes": "63 x 54 in base"
+    },
+    {
+     "model": "SLGL 32-201",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 0.375,
+     "raised_height_in": 32,
+     "notes": "67 x 54 in base"
+    },
+    {
+     "model": "SLGL 32-40",
+     "capacity_lbs": 4000,
+     "platform": "42 x 48 in",
+     "lowered_height_in": 0.5,
+     "raised_height_in": 32,
+     "notes": "63 x 54 in base"
+    },
+    {
+     "model": "SLGL 32-401",
+     "capacity_lbs": 4000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 0.5,
+     "raised_height_in": 32,
+     "notes": "67 x 54 in base"
+    },
+    {
+     "model": "SLGL 32-60",
+     "capacity_lbs": 6000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 0.5,
+     "raised_height_in": 32,
+     "notes": "63 x 54 in base"
+    },
+    {
+     "model": "SLGL 32-601",
+     "capacity_lbs": 6000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 0.5,
+     "raised_height_in": 32,
+     "notes": "67 x 54 in base"
+    },
+    {
+     "model": "SLGL 32-80",
+     "capacity_lbs": 8000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 0.5,
+     "raised_height_in": 32,
+     "notes": "72 x 54 in base"
+    },
+    {
+     "model": "SLGL 32-801",
+     "capacity_lbs": 8000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 0.5,
+     "raised_height_in": 32,
+     "notes": "72 x 54 in base"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-ground-level-scissor-lifts",
+   "stem": "superlift-slssgl-32",
+   "title": "SLSSGL32 Stainless Ground Level Scissor Lift",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Ground_Level_Scissor_Lifts_2.pdf",
+   "rows": [
+    {
+     "model": "SLSSGL32-30",
+     "capacity_lbs": 3000,
+     "platform": "44 x 48 in",
+     "lowered_height_in": 0.25,
+     "raised_height_in": 32,
+     "notes": "304 stainless steel, 61.25 x 56.25 in base"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-lift-and-tilt-tables",
+   "stem": "superlift-sllt",
+   "title": "SLLT Standard Lift and Tilt Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard_liftE_tilt_30_40.pdf",
+   "rows": [
+    {
+     "model": "SLLT 30-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 42,
+     "notes": "30 in lift, tilts 15° to 90°, to 48 x 60 in platform"
+    },
+    {
+     "model": "SLLT 30-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 42,
+     "notes": "30 in lift, tilts 15° to 90°, to 48 x 60 in platform"
+    },
+    {
+     "model": "SLLT 30-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 42,
+     "notes": "30 in lift, tilts 15° to 90°, to 48 x 60 in platform"
+    },
+    {
+     "model": "SLLT 40-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 52,
+     "notes": "40 in lift, tilts 15° to 90°, to 48 x 72 in platform"
+    },
+    {
+     "model": "SLLT 40-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 52,
+     "notes": "40 in lift, tilts 15° to 90°, to 48 x 72 in platform"
+    },
+    {
+     "model": "SLLT 40-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 60 in",
+     "lowered_height_in": 12,
+     "raised_height_in": 52,
+     "notes": "40 in lift, tilts 15° to 90°, to 48 x 72 in platform"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-tilt-tables",
+   "stem": "superlift-slst",
+   "title": "SLST Standard Tilts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standad_tilt_Eneumatic_tilt.pdf",
+   "rows": [
+    {
+     "model": "SLST 20",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": null,
+     "notes": "tilts 10° to 90°"
+    },
+    {
+     "model": "SLST 40",
+     "capacity_lbs": 4000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": null,
+     "notes": "tilts 10° to 90°"
+    },
+    {
+     "model": "SLST 60",
+     "capacity_lbs": 6000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 9,
+     "raised_height_in": null,
+     "notes": "tilts 10° to 90°"
+    },
+    {
+     "model": "SLST 80",
+     "capacity_lbs": 8000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 10,
+     "raised_height_in": null,
+     "notes": "tilts 10° to 90°"
+    },
+    {
+     "model": "SLST 100",
+     "capacity_lbs": 10000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": null,
+     "notes": "tilts 10° to 90°"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-tilt-tables",
+   "stem": "superlift-slat",
+   "title": "SLAT Pneumatic Tilts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standad_tilt_Eneumatic_tilt.pdf",
+   "rows": [
+    {
+     "model": "SLAT 20",
+     "capacity_lbs": 2000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": null,
+     "notes": "airbag, tilts 35°"
+    },
+    {
+     "model": "SLAT 40",
+     "capacity_lbs": 4000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": null,
+     "notes": "airbag, tilts 35°"
+    },
+    {
+     "model": "SLAT 60",
+     "capacity_lbs": 6000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": null,
+     "notes": "airbag, tilts 35°"
+    },
+    {
+     "model": "SLAT 80",
+     "capacity_lbs": 8000,
+     "platform": "48 x 48 in",
+     "lowered_height_in": 12,
+     "raised_height_in": null,
+     "notes": "airbag, tilts 35°"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-lift-tables",
+   "stem": "superlift-ss30",
+   "title": "SL SS30 Stainless Wash Down Lift Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-wash-down-lift-table_ede2c22c-d44d-4861-ace0-6e1b1b1a6424.pdf",
+   "rows": [
+    {
+     "model": "SL SS30-20",
+     "capacity_lbs": 2000,
+     "platform": "42 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 40,
+     "notes": "30 in lift, 1 hp"
+    },
+    {
+     "model": "SL SS30-25",
+     "capacity_lbs": 2500,
+     "platform": "42 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 40,
+     "notes": "30 in lift, 1 hp"
+    },
+    {
+     "model": "SL SS30-30",
+     "capacity_lbs": 3000,
+     "platform": "42 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 40,
+     "notes": "30 in lift, 1 hp"
+    },
+    {
+     "model": "SL SS30-40",
+     "capacity_lbs": 4000,
+     "platform": "42 x 48 in",
+     "lowered_height_in": 8,
+     "raised_height_in": 40,
+     "notes": "30 in lift, 1 hp"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-lift-tables",
+   "stem": "superlift-ss50",
+   "title": "SL B SS50 Stainless Economy Lift Table",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-economy-lift-tables.pdf",
+   "rows": [
+    {
+     "model": "SL B SS50",
+     "capacity_lbs": 1102,
+     "platform": "32.6 x 19.7 in",
+     "lowered_height_in": 13,
+     "raised_height_in": 37.4,
+     "notes": "304 stainless steel, 500 kg; the sheet prints the 950 mm raised height as 6 in"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-portable-lift-tables",
+   "stem": "superlift-ss34",
+   "title": "SL SS34 Foot Pump Portable Lift Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf",
+   "rows": [
+    {
+     "model": "SL SS34-05",
+     "capacity_lbs": 500,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 34,
+     "notes": "foot pump, to 36 x 48 in platform"
+    },
+    {
+     "model": "SL SS34-10",
+     "capacity_lbs": 1000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 34,
+     "notes": "foot pump, to 36 x 48 in platform"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-portable-lift-tables",
+   "stem": "superlift-ssd54",
+   "title": "SL SSD54 Double Foot Pump Portable Lift Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf",
+   "rows": [
+    {
+     "model": "SL SSD54-05",
+     "capacity_lbs": 500,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 72,
+     "notes": "double scissor, foot pump, to 36 x 48 in platform"
+    },
+    {
+     "model": "SL SSD54-10",
+     "capacity_lbs": 1000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 72,
+     "notes": "double scissor, foot pump, to 36 x 48 in platform"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-portable-lift-tables",
+   "stem": "superlift-ssp34",
+   "title": "SL SSP34 Powered Portable Lift Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf",
+   "rows": [
+    {
+     "model": "SL SSP34-05",
+     "capacity_lbs": 500,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 34,
+     "notes": "powered, to 48 x 60 in platform"
+    },
+    {
+     "model": "SL SSP34-10",
+     "capacity_lbs": 1000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 34,
+     "notes": "powered, to 48 x 60 in platform"
+    },
+    {
+     "model": "SL SSP34-15",
+     "capacity_lbs": 1500,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 34,
+     "notes": "powered, to 48 x 60 in platform"
+    },
+    {
+     "model": "SL SSP34-20",
+     "capacity_lbs": 2000,
+     "platform": "24 x 36 in",
+     "lowered_height_in": 16,
+     "raised_height_in": 34,
+     "notes": "powered, to 48 x 60 in platform"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-portable-lift-tables",
+   "stem": "superlift-ssp60",
+   "title": "SL SSP60 Double Powered Portable Lift Tables",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf",
+   "rows": [
+    {
+     "model": "SL SSP60-05",
+     "capacity_lbs": 500,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "double scissor, powered, to 60 x 72 in platform"
+    },
+    {
+     "model": "SL SSP60-10",
+     "capacity_lbs": 1000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "double scissor, powered, to 60 x 72 in platform"
+    },
+    {
+     "model": "SL SSP60-15",
+     "capacity_lbs": 1500,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "double scissor, powered, to 60 x 72 in platform"
+    },
+    {
+     "model": "SL SSP60-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "double scissor, powered, to 60 x 72 in platform"
+    },
+    {
+     "model": "SL SSP60-30",
+     "capacity_lbs": 3000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "double scissor, powered, to 60 x 72 in platform"
+    },
+    {
+     "model": "SL SSP60-40",
+     "capacity_lbs": 4000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 78,
+     "notes": "double scissor, powered, to 60 x 72 in platform"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-high-lift-scissor-tables",
+   "stem": "superlift-tsl-stainless-72",
+   "title": "TSL-72 Stainless Triple Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Triple-Scissors-Lift-Table_84b670f9-f3b0-4224-9e36-cdb9a465cce1.pdf",
+   "rows": [
+    {
+     "model": "TSL 72-10",
+     "capacity_lbs": 1000,
+     "platform": "36 x 42 in",
+     "lowered_height_in": 20,
+     "raised_height_in": 92,
+     "notes": "72 in lift"
+    },
+    {
+     "model": "TSL 72-20",
+     "capacity_lbs": 2000,
+     "platform": "36 x 42 in",
+     "lowered_height_in": 20,
+     "raised_height_in": 92,
+     "notes": "72 in lift"
+    },
+    {
+     "model": "TSL 72-30",
+     "capacity_lbs": 3000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 20,
+     "raised_height_in": 92,
+     "notes": "72 in lift"
+    },
+    {
+     "model": "TSL 72-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 20,
+     "raised_height_in": 92,
+     "notes": "72 in lift"
+    },
+    {
+     "model": "TSL 72-100",
+     "capacity_lbs": 10000,
+     "platform": "36 x 72 in",
+     "lowered_height_in": 24,
+     "raised_height_in": 96,
+     "notes": "72 in lift"
+    }
+   ]
+  },
+  {
+   "brand": "superlift",
+   "line": "superlift-stainless-steel-high-lift-scissor-tables",
+   "stem": "superlift-tsl-stainless-96",
+   "title": "TSL-96 Stainless Triple Scissor Lifts",
+   "source": "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Triple-Scissors-Lift-Table_84b670f9-f3b0-4224-9e36-cdb9a465cce1.pdf",
+   "rows": [
+    {
+     "model": "TSL 96-30",
+     "capacity_lbs": 3000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 15,
+     "raised_height_in": 116,
+     "notes": "96 in lift"
+    },
+    {
+     "model": "TSL 96-60",
+     "capacity_lbs": 6000,
+     "platform": "36 x 48 in",
+     "lowered_height_in": 18,
+     "raised_height_in": 116,
+     "notes": "96 in lift"
+    },
+    {
+     "model": "TSL 96-100",
+     "capacity_lbs": 10000,
+     "platform": "36 x 72 in",
+     "lowered_height_in": 24,
+     "raised_height_in": 116,
+     "notes": "96 in lift"
+    }
+   ]
+  }
+ ]
 }

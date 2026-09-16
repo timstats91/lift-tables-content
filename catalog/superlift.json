@@ -24,7 +24,8 @@
             ],
             "sources": [
                 "https://superlift.net/products/standard-scissor-lifts"
-            ]
+            ],
+            "capacity_range": "2,000–10,000 lbs"
         },
         {
             "slug": "superlift-double-and-triple-scissor-lift-tables",
@@ -72,7 +73,8 @@
             ],
             "sources": [
                 "https://superlift.net/products/heavy-duty-scissor-lifts"
-            ]
+            ],
+            "capacity_range": "12,000–25,000 lbs"
         },
         {
             "slug": "superlift-low-profile-lift-tables",
@@ -94,7 +96,8 @@
             ],
             "sources": [
                 "https://superlift.net/products/low-profile-lift-table"
-            ]
+            ],
+            "capacity_range": "2,000–4,000 lbs"
         },
         {
             "slug": "superlift-ground-level-scissor-lifts",
@@ -121,7 +124,8 @@
                 "https://superlift.net/products/ground-level-scissor-lifts",
                 "https://superlift.net/products/stainless-steel-ground-level-scissor",
                 "https://superlift.net/products/stainless-steel-semi-portable-ground-level-lift"
-            ]
+            ],
+            "capacity_range": "2,000–8,000 lbs"
         },
         {
             "slug": "superlift-pneumatic-lift-and-tilt-tables",
@@ -146,7 +150,8 @@
                 "https://superlift.net/products/pneumatic-lift-and-tilt-tables",
                 "https://superlift.net/products/pneumatic-tilts",
                 "https://superlift.net/products/stainless-steel-pneumatic-tilter"
-            ]
+            ],
+            "capacity_range": "2,000–4,000 lbs"
         },
         {
             "slug": "superlift-lift-and-tilt-tables",
@@ -171,7 +176,8 @@
             "sources": [
                 "https://superlift.net/products/standard-lift-and-tilts",
                 "https://superlift.net/products/stainless-steel-scissor-lift-and-tilt-table"
-            ]
+            ],
+            "capacity_range": "2,000–6,000 lbs"
         },
         {
             "slug": "superlift-tilt-tables",
@@ -192,7 +198,8 @@
             ],
             "sources": [
                 "https://superlift.net/products/standard-tilts"
-            ]
+            ],
+            "capacity_range": "2,000–10,000 lbs"
         },
         {
             "slug": "superlift-ground-level-tilters",
@@ -268,7 +275,8 @@
                 "https://superlift.net/products/stainless-steel-economy-lift-tables",
                 "https://superlift.net/products/stainless-steel-stationary-lift-table",
                 "https://superlift.net/products/stainless-steel-electric-lift-tables"
-            ]
+            ],
+            "capacity_range": "1,102–4,000 lbs"
         },
         {
             "slug": "superlift-stainless-steel-portable-lift-tables",
@@ -296,7 +304,8 @@
                 "https://superlift.net/products/stainless-steel-portable-double-scissor-lift-table",
                 "https://superlift.net/products/cleanroom-powered-drive-electric-lift-table",
                 "https://superlift.net/products/portable-lift-and-tilt"
-            ]
+            ],
+            "capacity_range": "500–4,000 lbs"
         },
         {
             "slug": "superlift-stainless-steel-high-lift-scissor-tables",
@@ -320,7 +329,8 @@
             "sources": [
                 "https://superlift.net/products/stainless-steel-double-and-triple-lift-table",
                 "https://superlift.net/products/stainless-steel-triple-scissors-lift-tables"
-            ]
+            ],
+            "capacity_range": "1,000–10,000 lbs"
         },
         {
             "slug": "superlift-stainless-steel-low-profile-lift-tables",
@@ -373,6 +383,1391 @@
                 "https://superlift.net/products/stainless-steel-spring-actuated-level-loader",
                 "https://superlift.net/products/stainless-steel-self-adjusting-pallet-positioners",
                 "https://superlift.net/products/stainless-steel-pneumatic-lift-table"
+            ]
+        }
+    ],
+    "product_defaults": {
+        "status": "draft"
+    },
+    "products": [
+        {
+            "slug": "superlift-sl24-models",
+            "title": "Superlift SL24 Standard Scissor Lifts Models",
+            "line": "superlift-standard-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "SL24-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 31,
+                    "notes": "24 in lift, 1 hp"
+                },
+                {
+                    "model": "SL24-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift, 1 hp"
+                },
+                {
+                    "model": "SL24-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift, 1 hp"
+                },
+                {
+                    "model": "SL24-80",
+                    "capacity_lbs": 8000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in lift, 3 hp"
+                },
+                {
+                    "model": "SL24-100",
+                    "capacity_lbs": 10000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 36,
+                    "notes": "24 in lift, 3 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-sl36-models",
+            "title": "Superlift SL36 Standard Scissor Lifts Models",
+            "line": "superlift-standard-scissor-lift-tables",
+            "menu_order": 20,
+            "excerpt": "5 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "SL36-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 43,
+                    "notes": "36 in lift, 1 hp"
+                },
+                {
+                    "model": "SL36-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 45,
+                    "notes": "36 in lift, 1 hp"
+                },
+                {
+                    "model": "SL36-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 45,
+                    "notes": "36 in lift, 1 hp"
+                },
+                {
+                    "model": "SL36-80",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in lift, 3 hp"
+                },
+                {
+                    "model": "SL36-100",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 48,
+                    "notes": "36 in lift, 3 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-sl48-models",
+            "title": "Superlift SL48 Standard Scissor Lifts Models",
+            "line": "superlift-standard-scissor-lift-tables",
+            "menu_order": 30,
+            "excerpt": "5 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "SL48-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 72 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 56,
+                    "notes": "48 in lift, 1 hp"
+                },
+                {
+                    "model": "SL48-40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 72 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 57,
+                    "notes": "48 in lift, 1 hp"
+                },
+                {
+                    "model": "SL48-60",
+                    "capacity_lbs": 6000,
+                    "platform": "24 x 72 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 57,
+                    "notes": "48 in lift, 1 hp"
+                },
+                {
+                    "model": "SL48-80",
+                    "capacity_lbs": 8000,
+                    "platform": "36 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in lift, 3 hp"
+                },
+                {
+                    "model": "SL48-100",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 72 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 60,
+                    "notes": "48 in lift, 3 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-dsl-60-models",
+            "title": "Superlift DSL-60 Double Scissor Lifts Models",
+            "line": "superlift-double-and-triple-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "DSL-60-20",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 70,
+                    "notes": "60 in lift, 1 hp"
+                },
+                {
+                    "model": "DSL-60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 48 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 74,
+                    "notes": "60 in lift, 1 hp"
+                },
+                {
+                    "model": "DSL-60-60",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 48 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in lift, 1 hp"
+                },
+                {
+                    "model": "DSL-60-80",
+                    "capacity_lbs": 8000,
+                    "platform": "30 x 48 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in lift, 3 hp"
+                },
+                {
+                    "model": "DSL-60-100",
+                    "capacity_lbs": 10000,
+                    "platform": "30 x 48 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in lift, 3 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/double-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-dsl-84-models",
+            "title": "Superlift DSL-84 Double Scissor Lifts Models",
+            "line": "superlift-double-and-triple-scissor-lift-tables",
+            "menu_order": 20,
+            "excerpt": "5 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "DSL-84-20",
+                    "capacity_lbs": 2000,
+                    "platform": "30 x 72 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 94,
+                    "notes": "84 in lift, 1 hp"
+                },
+                {
+                    "model": "DSL-84-40",
+                    "capacity_lbs": 4000,
+                    "platform": "30 x 72 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 88,
+                    "notes": "84 in lift, 1 hp"
+                },
+                {
+                    "model": "DSL-84-60",
+                    "capacity_lbs": 6000,
+                    "platform": "30 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 90,
+                    "notes": "84 in lift, 3 hp"
+                },
+                {
+                    "model": "DSL-84-80",
+                    "capacity_lbs": 8000,
+                    "platform": "30 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 90,
+                    "notes": "84 in lift, 3 hp"
+                },
+                {
+                    "model": "DSL-84-100",
+                    "capacity_lbs": 10000,
+                    "platform": "30 x 72 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 90,
+                    "notes": "84 in lift, 3 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/double-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-dsl-120-models",
+            "title": "Superlift DSL-120 Double Scissor Lifts Models",
+            "line": "superlift-double-and-triple-scissor-lift-tables",
+            "menu_order": 30,
+            "excerpt": "5 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "DSL-120-20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 134,
+                    "notes": "120 in lift, 5 hp"
+                },
+                {
+                    "model": "DSL-120-40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 134,
+                    "notes": "120 in lift, 5 hp"
+                },
+                {
+                    "model": "DSL-120-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 136,
+                    "notes": "120 in lift, 5 hp"
+                },
+                {
+                    "model": "DSL-120-80",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 136,
+                    "notes": "120 in lift, 5 hp"
+                },
+                {
+                    "model": "DSL-120-100",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 136,
+                    "notes": "120 in lift, 5 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/double-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slhd-36-models",
+            "title": "Superlift SLHD-36 Heavy Duty Scissor Lifts Models",
+            "line": "superlift-heavy-capacity-scissor-lift-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 12,000–25,000 lb.",
+            "models": [
+                {
+                    "model": "SLHD-36-12",
+                    "capacity_lbs": 12000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 50,
+                    "notes": "36 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-36-15",
+                    "capacity_lbs": 15000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 50,
+                    "notes": "36 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-36-18",
+                    "capacity_lbs": 18000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 52,
+                    "notes": "36 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-36-20",
+                    "capacity_lbs": 20000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 52,
+                    "notes": "36 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-36-25",
+                    "capacity_lbs": 25000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 54,
+                    "notes": "36 in lift, 10 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slhd-72x96-models",
+            "title": "Superlift SLHD 72 x 96 in Heavy Duty Scissor Lifts Models",
+            "line": "superlift-heavy-capacity-scissor-lift-tables",
+            "menu_order": 20,
+            "excerpt": "5 models rated 12,000–25,000 lb.",
+            "models": [
+                {
+                    "model": "SLHD-1",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 74,
+                    "notes": "60 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-2",
+                    "capacity_lbs": 15000,
+                    "platform": "72 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 74,
+                    "notes": "60 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-3",
+                    "capacity_lbs": 18000,
+                    "platform": "72 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-4",
+                    "capacity_lbs": 20000,
+                    "platform": "72 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-5",
+                    "capacity_lbs": 25000,
+                    "platform": "72 x 96 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "60 in lift, 10 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slhd-96x96-models",
+            "title": "Superlift SLHD 96 x 96 in Heavy Duty Scissor Lifts Models",
+            "line": "superlift-heavy-capacity-scissor-lift-tables",
+            "menu_order": 30,
+            "excerpt": "5 models rated 12,000–25,000 lb.",
+            "models": [
+                {
+                    "model": "SLHD-11",
+                    "capacity_lbs": 12000,
+                    "platform": "96 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 74,
+                    "notes": "60 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-12",
+                    "capacity_lbs": 15000,
+                    "platform": "96 x 96 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 74,
+                    "notes": "60 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-13",
+                    "capacity_lbs": 18000,
+                    "platform": "96 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-14",
+                    "capacity_lbs": 20000,
+                    "platform": "96 x 96 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 76,
+                    "notes": "60 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-15",
+                    "capacity_lbs": 25000,
+                    "platform": "96 x 96 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "60 in lift, 10 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slhd-72x144-models",
+            "title": "Superlift SLHD 72 x 144 in Heavy Duty Scissor Lifts Models",
+            "line": "superlift-heavy-capacity-scissor-lift-tables",
+            "menu_order": 40,
+            "excerpt": "5 models rated 12,000–25,000 lb.",
+            "models": [
+                {
+                    "model": "SLHD-21",
+                    "capacity_lbs": 12000,
+                    "platform": "72 x 144 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 73,
+                    "notes": "60 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-22",
+                    "capacity_lbs": 15000,
+                    "platform": "72 x 144 in",
+                    "lowered_height_in": 14,
+                    "raised_height_in": 73,
+                    "notes": "60 in lift, 5 hp"
+                },
+                {
+                    "model": "SLHD-23",
+                    "capacity_lbs": 18000,
+                    "platform": "72 x 144 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 75,
+                    "notes": "60 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-24",
+                    "capacity_lbs": 20000,
+                    "platform": "72 x 144 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 75,
+                    "notes": "60 in lift, 7.5 hp"
+                },
+                {
+                    "model": "SLHD-25",
+                    "capacity_lbs": 25000,
+                    "platform": "72 x 144 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 77,
+                    "notes": "60 in lift, 10 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Heavy Duty Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/heavy-duty-scissor-lifts.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slalt-lift-models",
+            "title": "Superlift SLALT Pneumatic Lift Tables Models",
+            "line": "superlift-pneumatic-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "7 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "SLALT 2 3648",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift"
+                },
+                {
+                    "model": "SLALT 2 4848",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift"
+                },
+                {
+                    "model": "SLALT 2 5648",
+                    "capacity_lbs": 2000,
+                    "platform": "56 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift"
+                },
+                {
+                    "model": "SLALT 2 6048",
+                    "capacity_lbs": 2000,
+                    "platform": "60 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift"
+                },
+                {
+                    "model": "SLALT 4 4848",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift"
+                },
+                {
+                    "model": "SLALT 4 5648",
+                    "capacity_lbs": 4000,
+                    "platform": "56 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift"
+                },
+                {
+                    "model": "SLALT 4 6048",
+                    "capacity_lbs": 4000,
+                    "platform": "60 x 48 in",
+                    "lowered_height_in": 10,
+                    "raised_height_in": 32,
+                    "notes": "24 in lift"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_lEofile_tables.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slalt-lift-tilt-models",
+            "title": "Superlift SLALT Pneumatic Lift and Tilt Tables Models",
+            "line": "superlift-pneumatic-lift-and-tilt-tables",
+            "menu_order": 20,
+            "excerpt": "4 models rated 2,000 lb.",
+            "models": [
+                {
+                    "model": "SLALT 23648",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in lift, tilts 35°"
+                },
+                {
+                    "model": "SLALT 24848",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in lift, tilts 35°"
+                },
+                {
+                    "model": "SLALT 25648",
+                    "capacity_lbs": 2000,
+                    "platform": "56 x 48 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in lift, tilts 35°"
+                },
+                {
+                    "model": "SLALT 26048",
+                    "capacity_lbs": 2000,
+                    "platform": "60 x 48 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 39,
+                    "notes": "24 in lift, tilts 35°"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Pneumatic Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_LifEilt_table_24.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-sllp-models",
+            "title": "Superlift SLLP Low Profile Lift Tables Models",
+            "line": "superlift-low-profile-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "SLLP 20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 3.5,
+                    "raised_height_in": 36,
+                    "notes": "32 in lift, optional 36 x 30 in ramp"
+                },
+                {
+                    "model": "SLLP 40",
+                    "capacity_lbs": 4000,
+                    "platform": "24 x 48 in",
+                    "lowered_height_in": 4.5,
+                    "raised_height_in": 37,
+                    "notes": "32 in lift, optional 36 x 30 in ramp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Low Profile Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/pneumatic_lEofile_tables.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slgl-32-models",
+            "title": "Superlift SLGL 32 Ground Level Scissor Lifts Models",
+            "line": "superlift-ground-level-scissor-lifts",
+            "menu_order": 10,
+            "excerpt": "8 models rated 2,000–8,000 lb.",
+            "models": [
+                {
+                    "model": "SLGL 32-20",
+                    "capacity_lbs": 2000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "raised_height_in": 32,
+                    "notes": "63 x 54 in base"
+                },
+                {
+                    "model": "SLGL 32-201",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 0.375,
+                    "raised_height_in": 32,
+                    "notes": "67 x 54 in base"
+                },
+                {
+                    "model": "SLGL 32-40",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 32,
+                    "notes": "63 x 54 in base"
+                },
+                {
+                    "model": "SLGL 32-401",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 32,
+                    "notes": "67 x 54 in base"
+                },
+                {
+                    "model": "SLGL 32-60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 32,
+                    "notes": "63 x 54 in base"
+                },
+                {
+                    "model": "SLGL 32-601",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 32,
+                    "notes": "67 x 54 in base"
+                },
+                {
+                    "model": "SLGL 32-80",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 32,
+                    "notes": "72 x 54 in base"
+                },
+                {
+                    "model": "SLGL 32-801",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 0.5,
+                    "raised_height_in": 32,
+                    "notes": "72 x 54 in base"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/ground_level_Esor_lift_32.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slssgl-32-models",
+            "title": "Superlift SLSSGL32 Stainless Ground Level Scissor Lift Models",
+            "line": "superlift-ground-level-scissor-lifts",
+            "menu_order": 20,
+            "excerpt": "1 model rated 3,000 lb.",
+            "models": [
+                {
+                    "model": "SLSSGL32-30",
+                    "capacity_lbs": 3000,
+                    "platform": "44 x 48 in",
+                    "lowered_height_in": 0.25,
+                    "raised_height_in": 32,
+                    "notes": "304 stainless steel, 61.25 x 56.25 in base"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Floor Level Lift Tables",
+                "Lift Tables > Pallet Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless_Steel_Ground_Level_Scissor_Lifts_2.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-sllt-models",
+            "title": "Superlift SLLT Standard Lift and Tilt Tables Models",
+            "line": "superlift-lift-and-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "6 models rated 2,000–6,000 lb.",
+            "models": [
+                {
+                    "model": "SLLT 30-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 42,
+                    "notes": "30 in lift, tilts 15° to 90°, to 48 x 60 in platform"
+                },
+                {
+                    "model": "SLLT 30-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 42,
+                    "notes": "30 in lift, tilts 15° to 90°, to 48 x 60 in platform"
+                },
+                {
+                    "model": "SLLT 30-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 42,
+                    "notes": "30 in lift, tilts 15° to 90°, to 48 x 60 in platform"
+                },
+                {
+                    "model": "SLLT 40-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 52,
+                    "notes": "40 in lift, tilts 15° to 90°, to 48 x 72 in platform"
+                },
+                {
+                    "model": "SLLT 40-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 52,
+                    "notes": "40 in lift, tilts 15° to 90°, to 48 x 72 in platform"
+                },
+                {
+                    "model": "SLLT 40-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 60 in",
+                    "lowered_height_in": 12,
+                    "raised_height_in": 52,
+                    "notes": "40 in lift, tilts 15° to 90°, to 48 x 72 in platform"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standard_liftE_tilt_30_40.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slst-models",
+            "title": "Superlift SLST Standard Tilts Models",
+            "line": "superlift-tilt-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 2,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "SLST 20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "notes": "tilts 10° to 90°"
+                },
+                {
+                    "model": "SLST 40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 8,
+                    "notes": "tilts 10° to 90°"
+                },
+                {
+                    "model": "SLST 60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 9,
+                    "notes": "tilts 10° to 90°"
+                },
+                {
+                    "model": "SLST 80",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 10,
+                    "notes": "tilts 10° to 90°"
+                },
+                {
+                    "model": "SLST 100",
+                    "capacity_lbs": 10000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 12,
+                    "notes": "tilts 10° to 90°"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standad_tilt_Eneumatic_tilt.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-slat-models",
+            "title": "Superlift SLAT Pneumatic Tilts Models",
+            "line": "superlift-tilt-tables",
+            "menu_order": 20,
+            "excerpt": "4 models rated 2,000–8,000 lb.",
+            "models": [
+                {
+                    "model": "SLAT 20",
+                    "capacity_lbs": 2000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 12,
+                    "notes": "airbag, tilts 35°"
+                },
+                {
+                    "model": "SLAT 40",
+                    "capacity_lbs": 4000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 12,
+                    "notes": "airbag, tilts 35°"
+                },
+                {
+                    "model": "SLAT 60",
+                    "capacity_lbs": 6000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 12,
+                    "notes": "airbag, tilts 35°"
+                },
+                {
+                    "model": "SLAT 80",
+                    "capacity_lbs": 8000,
+                    "platform": "48 x 48 in",
+                    "lowered_height_in": 12,
+                    "notes": "airbag, tilts 35°"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Tilt Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/standad_tilt_Eneumatic_tilt.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-ss30-models",
+            "title": "Superlift SL SS30 Stainless Wash Down Lift Tables Models",
+            "line": "superlift-stainless-steel-lift-tables",
+            "menu_order": 10,
+            "excerpt": "4 models rated 2,000–4,000 lb.",
+            "models": [
+                {
+                    "model": "SL SS30-20",
+                    "capacity_lbs": 2000,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "30 in lift, 1 hp"
+                },
+                {
+                    "model": "SL SS30-25",
+                    "capacity_lbs": 2500,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "30 in lift, 1 hp"
+                },
+                {
+                    "model": "SL SS30-30",
+                    "capacity_lbs": 3000,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "30 in lift, 1 hp"
+                },
+                {
+                    "model": "SL SS30-40",
+                    "capacity_lbs": 4000,
+                    "platform": "42 x 48 in",
+                    "lowered_height_in": 8,
+                    "raised_height_in": 40,
+                    "notes": "30 in lift, 1 hp"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-wash-down-lift-table_ede2c22c-d44d-4861-ace0-6e1b1b1a6424.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-ss50-models",
+            "title": "Superlift SL B SS50 Stainless Economy Lift Table Models",
+            "line": "superlift-stainless-steel-lift-tables",
+            "menu_order": 20,
+            "excerpt": "1 model rated 1,102 lb.",
+            "models": [
+                {
+                    "model": "SL B SS50",
+                    "capacity_lbs": 1102,
+                    "platform": "32.6 x 19.7 in",
+                    "lowered_height_in": 13,
+                    "raised_height_in": 37.4,
+                    "notes": "304 stainless steel, 500 kg; the sheet prints the 950 mm raised height as 6 in"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/stainless-steel-economy-lift-tables.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-ss34-models",
+            "title": "Superlift SL SS34 Foot Pump Portable Lift Tables Models",
+            "line": "superlift-stainless-steel-portable-lift-tables",
+            "menu_order": 10,
+            "excerpt": "2 models rated 500–1,000 lb.",
+            "models": [
+                {
+                    "model": "SL SS34-05",
+                    "capacity_lbs": 500,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 34,
+                    "notes": "foot pump, to 36 x 48 in platform"
+                },
+                {
+                    "model": "SL SS34-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 34,
+                    "notes": "foot pump, to 36 x 48 in platform"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-ssd54-models",
+            "title": "Superlift SL SSD54 Double Foot Pump Portable Lift Tables Models",
+            "line": "superlift-stainless-steel-portable-lift-tables",
+            "menu_order": 20,
+            "excerpt": "2 models rated 500–1,000 lb.",
+            "models": [
+                {
+                    "model": "SL SSD54-05",
+                    "capacity_lbs": 500,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 72,
+                    "notes": "double scissor, foot pump, to 36 x 48 in platform"
+                },
+                {
+                    "model": "SL SSD54-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 72,
+                    "notes": "double scissor, foot pump, to 36 x 48 in platform"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-ssp34-models",
+            "title": "Superlift SL SSP34 Powered Portable Lift Tables Models",
+            "line": "superlift-stainless-steel-portable-lift-tables",
+            "menu_order": 30,
+            "excerpt": "4 models rated 500–2,000 lb.",
+            "models": [
+                {
+                    "model": "SL SSP34-05",
+                    "capacity_lbs": 500,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 34,
+                    "notes": "powered, to 48 x 60 in platform"
+                },
+                {
+                    "model": "SL SSP34-10",
+                    "capacity_lbs": 1000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 34,
+                    "notes": "powered, to 48 x 60 in platform"
+                },
+                {
+                    "model": "SL SSP34-15",
+                    "capacity_lbs": 1500,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 34,
+                    "notes": "powered, to 48 x 60 in platform"
+                },
+                {
+                    "model": "SL SSP34-20",
+                    "capacity_lbs": 2000,
+                    "platform": "24 x 36 in",
+                    "lowered_height_in": 16,
+                    "raised_height_in": 34,
+                    "notes": "powered, to 48 x 60 in platform"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-ssp60-models",
+            "title": "Superlift SL SSP60 Double Powered Portable Lift Tables Models",
+            "line": "superlift-stainless-steel-portable-lift-tables",
+            "menu_order": 40,
+            "excerpt": "6 models rated 500–4,000 lb.",
+            "models": [
+                {
+                    "model": "SL SSP60-05",
+                    "capacity_lbs": 500,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "double scissor, powered, to 60 x 72 in platform"
+                },
+                {
+                    "model": "SL SSP60-10",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "double scissor, powered, to 60 x 72 in platform"
+                },
+                {
+                    "model": "SL SSP60-15",
+                    "capacity_lbs": 1500,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "double scissor, powered, to 60 x 72 in platform"
+                },
+                {
+                    "model": "SL SSP60-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "double scissor, powered, to 60 x 72 in platform"
+                },
+                {
+                    "model": "SL SSP60-30",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "double scissor, powered, to 60 x 72 in platform"
+                },
+                {
+                    "model": "SL SSP60-40",
+                    "capacity_lbs": 4000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 78,
+                    "notes": "double scissor, powered, to 60 x 72 in platform"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Mobile Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Manual Lift Tables",
+                "Lift Tables > Battery Powered Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Portable-Lift-Table-1.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-tsl-stainless-72-models",
+            "title": "Superlift TSL-72 Stainless Triple Scissor Lifts Models",
+            "line": "superlift-stainless-steel-high-lift-scissor-tables",
+            "menu_order": 10,
+            "excerpt": "5 models rated 1,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "TSL 72-10",
+                    "capacity_lbs": 1000,
+                    "platform": "36 x 42 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in lift"
+                },
+                {
+                    "model": "TSL 72-20",
+                    "capacity_lbs": 2000,
+                    "platform": "36 x 42 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in lift"
+                },
+                {
+                    "model": "TSL 72-30",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in lift"
+                },
+                {
+                    "model": "TSL 72-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 20,
+                    "raised_height_in": 92,
+                    "notes": "72 in lift"
+                },
+                {
+                    "model": "TSL 72-100",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 72 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 96,
+                    "notes": "72 in lift"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Triple-Scissors-Lift-Table_84b670f9-f3b0-4224-9e36-cdb9a465cce1.pdf"
+            ]
+        },
+        {
+            "slug": "superlift-tsl-stainless-96-models",
+            "title": "Superlift TSL-96 Stainless Triple Scissor Lifts Models",
+            "line": "superlift-stainless-steel-high-lift-scissor-tables",
+            "menu_order": 20,
+            "excerpt": "3 models rated 3,000–10,000 lb.",
+            "models": [
+                {
+                    "model": "TSL 96-30",
+                    "capacity_lbs": 3000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 15,
+                    "raised_height_in": 116,
+                    "notes": "96 in lift"
+                },
+                {
+                    "model": "TSL 96-60",
+                    "capacity_lbs": 6000,
+                    "platform": "36 x 48 in",
+                    "lowered_height_in": 18,
+                    "raised_height_in": 116,
+                    "notes": "96 in lift"
+                },
+                {
+                    "model": "TSL 96-100",
+                    "capacity_lbs": 10000,
+                    "platform": "36 x 72 in",
+                    "lowered_height_in": 24,
+                    "raised_height_in": 116,
+                    "notes": "96 in lift"
+                }
+            ],
+            "categories": [
+                "Lift Tables > Scissor Lift Tables",
+                "Lift Tables > Double Scissor Lift Tables",
+                "Lift Tables > Stainless Steel Lift Tables",
+                "Lift Tables > Hydraulic Lift Tables",
+                "Lift Tables > Electric Lift Tables"
+            ],
+            "sources": [
+                "https://cdn.shopify.com/s/files/1/0249/4133/0485/files/Stainless-Steel-Triple-Scissors-Lift-Table_84b670f9-f3b0-4224-9e36-cdb9a465cce1.pdf"
             ]
         }
     ]

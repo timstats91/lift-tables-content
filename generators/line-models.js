@@ -1123,6 +1123,7 @@ const plan = {
   ].map(([line, stem, title, path]) => P(line, stem, title, `https://www.phsinc.com/${path}/`, () => phs(path))),
   'blue-giant': pdfPlan('blue-giant'),
   pentalift: pdfPlan('pentalift'),
+  superlift: pdfPlan('superlift'),
   lexco: [
     ['lexco-lzl-zero-lift-tables', 'lexco-lzl', 'LZL Zero Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/ic-lift-tables-die-handlers-lexco-zero-lift-tables'],
     ['lexco-ht-fr-rotating-hydraulic-lift-tables', 'lexco-ht-fr', 'HT-FR Foot Operated Hydraulic Lift Tables', 'lexco-hydraulic-lift-tables-die-handlers/lexco--foot-operated-hydraulic-lift-table'],
@@ -1133,7 +1134,7 @@ const plan = {
   ].map(([line, stem, title, group]) => P(line, stem, title, `https://catalog.wescomfg.com/viewitems/${group}`, () => wesco(group))),
 };
 
-const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries', 'southworth-products': 'Southworth', 'presto-lifts': 'Presto', ecoa: 'ECOA', vestil: 'Vestil', 'lift-products': 'Lift Products', 'beacon-industries': 'Beacon', 'wesco-industrial-products': 'Wesco', lexco: 'Lexco', 'econo-lift': 'Econo Lift', 'premier-handling-solutions': 'Premier Handling', 'blue-giant': 'Blue Giant', pentalift: 'Pentalift' };
+const brandName = { autoquip: 'Autoquip', 'american-lifts': 'American Lifts', 'advance-lifts': 'Advance Lifts', 'air-technical-industries': 'Air Technical Industries', 'southworth-products': 'Southworth', 'presto-lifts': 'Presto', ecoa: 'ECOA', vestil: 'Vestil', 'lift-products': 'Lift Products', 'beacon-industries': 'Beacon', 'wesco-industrial-products': 'Wesco', lexco: 'Lexco', 'econo-lift': 'Econo Lift', 'premier-handling-solutions': 'Premier Handling', 'blue-giant': 'Blue Giant', pentalift: 'Pentalift', superlift: 'Superlift' };
 
 // --brands=a,b limits the run to those catalogs.
 const only = (process.argv.find(a => a.startsWith('--brands=')) || '').slice(9).split(',').filter(Boolean);
