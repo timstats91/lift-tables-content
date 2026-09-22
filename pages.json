@@ -13,6 +13,12 @@
       "excerpt": "List your distributorship in the Lift Tables directory and receive quote requests for the brands you carry."
     },
     {
+      "slug": "claim-listing",
+      "title": "Claim a listing",
+      "template": "page-templates/claim-listing.php",
+      "excerpt": "Confirm you work at a company already listed in the Lift Tables directory, and upgrade its listing."
+    },
+    {
       "slug": "about",
       "title": "About Lift Tables",
       "excerpt": "What this directory covers, where its specifications come from, and how it makes money.",
