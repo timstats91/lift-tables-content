@@ -10,14 +10,50 @@
       "slug": "scissor-lift-tables",
       "image": "images/categories/scissor-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Scissor lift tables raise a platform on one or more pairs of crossed steel legs. As a hydraulic cylinder or air bag pushes the legs toward vertical, the platform rises while staying level. The design folds down to a compact lowered height and spreads the load across a wide base, which is why it is the most common lift table construction.</p>\n<p>Stationary scissor tables are bolted or set in place at a workstation and are typically electric-hydraulic for frequent cycling. Key specifications to compare are capacity, platform size, lowered height, vertical travel and the rated duty cycle. For loads that must be rolled on with a pallet jack, look at low-profile or floor-level scissor tables.</p>"
+      "description": "<p>Scissor lift tables raise a platform on one or more pairs of crossed steel legs. As a hydraulic cylinder or air bag pushes the legs toward vertical, the platform rises while staying level. The design folds down to a compact lowered height and spreads the load across a wide base, which is why it is the most common lift table construction.</p>\n<p>Stationary scissor tables are bolted or set in place at a workstation and are typically electric-hydraulic for frequent cycling. Key specifications to compare are capacity, platform size, lowered height, vertical travel and the rated duty cycle. For loads that must be rolled on with a pallet jack, look at low-profile or floor-level scissor tables.</p>",
+      "how_to_choose": [
+        {
+          "title": "Start with how the load arrives",
+          "text": "A standard scissor table sits 7 to 12 inches off the floor, so anything rolled on with a pallet jack will not reach it. If loads arrive on a jack or a cart, you need a low-profile or floor-level table — those go down to about a quarter of an inch — or a pit-mounted install."
+        },
+        {
+          "title": "Check capacity at full height, not just the badge",
+          "text": "A rating is usually quoted at the lowered position. Some designs derate as the legs approach vertical, and off-centre or edge loading derates them further. If the load will sit toward one end of the platform, ask for the rating in that condition."
+        },
+        {
+          "title": "Match the duty cycle to how often it runs",
+          "text": "A table cycling every two minutes on an assembly line needs a different pump and motor from one raised twice a shift. Duty cycle is the specification most often overlooked and the one that decides whether the table is still working in five years."
+        },
+        {
+          "title": "Single, double or triple scissor",
+          "text": "A single scissor’s travel is limited by its lowered height. Stacking mechanisms buys height — this category reaches past fifty feet — at the cost of footprint, stability at full extension and price. Do not buy travel you will not use."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Mobile Lift Tables",
       "slug": "mobile-lift-tables",
       "image": "images/categories/mobile-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Mobile lift tables combine a lifting platform with casters so a load can be raised to working height and then moved to where it is needed. They are often called lift carts or portable lift tables, and are used to carry dies, parts, tooling and cartons between workstations, shelves and machines.</p>\n<p>Most are manually operated with a foot pump, which keeps them self-contained and simple, while heavier or higher-cycle models use battery power. When comparing mobile tables, look at capacity, deck size, lowered and raised height, caster size and type, and whether the casters lock. Check that the lowered height suits the shelf, bench or machine the table will load from.</p>"
+      "description": "<p>Mobile lift tables combine a lifting platform with casters so a load can be raised to working height and then moved to where it is needed. They are often called lift carts or portable lift tables, and are used to carry dies, parts, tooling and cartons between workstations, shelves and machines.</p>\n<p>Most are manually operated with a foot pump, which keeps them self-contained and simple, while heavier or higher-cycle models use battery power. When comparing mobile tables, look at capacity, deck size, lowered and raised height, caster size and type, and whether the casters lock. Check that the lowered height suits the shelf, bench or machine the table will load from.</p>",
+      "how_to_choose": [
+        {
+          "title": "Pick the power source from the cycle rate",
+          "text": "Manual hydraulic tables are raised by a foot pump — entirely self-contained, nothing to charge, and tiring if the table is raised many times a day. Battery tables suit repeated cycling and heavier loads. This category runs from 200 to 6,000 lb, and the heavier end is almost always powered."
+        },
+        {
+          "title": "Decide whether it moves loaded or empty",
+          "text": "Pushing a loaded table takes considerably more force than pushing an empty one, and it changes the caster size, the wheel material and the floor surface you can use. If it will be moved loaded, say so when specifying."
+        },
+        {
+          "title": "Insist on a floor lock",
+          "text": "A table that rolls while somebody is loading it is a hazard, not an inconvenience. Foot-operated floor locks or brake casters are standard on good mobile tables and should not be treated as an option."
+        },
+        {
+          "title": "Measure the doorways",
+          "text": "Overall width, not platform width, is what has to pass through an aisle, a doorway and into a lift. Mobile tables are bought to travel, and the narrowest point on their route is the real constraint."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Post Lift Tables",
@@ -45,7 +81,25 @@
       "slug": "tilt-tables",
       "image": "images/categories/tilt-tables.svg",
       "group": "Table type",
-      "description": "<p>Tilt tables angle the platform toward the operator so that the contents of a bin, box or gaylord can be reached without leaning over the side. Lift-and-tilt tables combine vertical lifting with tilting, letting the load be raised to working height and then presented at an angle.</p>\n<p>They are widely used for parts picking, container unloading and kitting, where repeatedly reaching into the bottom of a deep container is a common cause of strain. Compare the tilt angle, whether the table lifts as well as tilts, how the load is retained when angled, and the capacity rating at full tilt.</p>"
+      "description": "<p>Tilt tables angle the platform toward the operator so that the contents of a bin, box or gaylord can be reached without leaning over the side. Lift-and-tilt tables combine vertical lifting with tilting, letting the load be raised to working height and then presented at an angle.</p>\n<p>They are widely used for parts picking, container unloading and kitting, where repeatedly reaching into the bottom of a deep container is a common cause of strain. Compare the tilt angle, whether the table lifts as well as tilts, how the load is retained when angled, and the capacity rating at full tilt.</p>",
+      "how_to_choose": [
+        {
+          "title": "Work out the angle from the container, not the catalogue",
+          "text": "Tilt angle is set by how deep the container is and how far the operator would otherwise have to reach. Shallow totes may need 30 degrees; deep stillages and gaylords often need 45 or more. Too little tilt and the table solves nothing."
+        },
+        {
+          "title": "Decide whether you also need height",
+          "text": "A tilt-only table angles the load at a fixed height. A lift-and-tilt does both, which is what most picking and kitting stations actually need — the operator wants the work at the right height and angled toward them at the same time."
+        },
+        {
+          "title": "Make sure the load cannot slide",
+          "text": "Angling a load is only safe if something holds it. Look for a lip, backstop or retaining edge rated for the load, and confirm it works with your container rather than only with a pallet."
+        },
+        {
+          "title": "Read the capacity at full tilt",
+          "text": "Ratings are sometimes quoted flat. The load a tilter can hold at maximum angle is the number that matters, because that is the position it will spend its working life in."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Pallet Lift Tables",
@@ -87,14 +141,50 @@
       "slug": "hydraulic-lift-tables",
       "image": "images/categories/hydraulic-lift-tables.svg",
       "group": "Power and drive",
-      "description": "<p>Hydraulic lift tables use a cylinder filled with hydraulic fluid to raise the platform, and they are the most widely used type. The fluid can be pressurized by a hand or foot pump, an electric motor, an air motor, or a battery-powered pump, so hydraulic tables cover everything from simple manual carts to high-cycle production lifts.</p>\n<p>Hydraulics give smooth, controlled lifting and can hold a load at any height. When comparing hydraulic tables, look at how the pump is powered, how fast the table raises and lowers, whether lowering speed is adjustable, and which safety features are fitted, such as velocity fuses that limit descent if a hose fails.</p>"
+      "description": "<p>Hydraulic lift tables use a cylinder filled with hydraulic fluid to raise the platform, and they are the most widely used type. The fluid can be pressurized by a hand or foot pump, an electric motor, an air motor, or a battery-powered pump, so hydraulic tables cover everything from simple manual carts to high-cycle production lifts.</p>\n<p>Hydraulics give smooth, controlled lifting and can hold a load at any height. When comparing hydraulic tables, look at how the pump is powered, how fast the table raises and lowers, whether lowering speed is adjustable, and which safety features are fitted, such as velocity fuses that limit descent if a hose fails.</p>",
+      "how_to_choose": [
+        {
+          "title": "Decide how the pump is powered",
+          "text": "Electric-hydraulic suits frequent cycling and is the default on a production line. A hand or foot pump is self-contained and fine for occasional use. Air-over-hydraulic needs no electricity at the table, which matters in wash-down areas and where a cord would be a hazard."
+        },
+        {
+          "title": "Look for a maintenance prop",
+          "text": "Hydraulics hold a load at any height, which is the reason to choose them. If anyone will ever reach under the platform, the table needs a mechanical safety prop or maintenance bar — hydraulic pressure is not a substitute for a physical stop."
+        },
+        {
+          "title": "Match the fluid to the environment",
+          "text": "Standard hydraulic oil is wrong for food production and for freezers. Food-grade fluid and low-temperature fluid are both normally available as options, but they have to be specified at order rather than swapped later."
+        },
+        {
+          "title": "Ask what is serviceable in place",
+          "text": "Hoses, seals and the power unit are the parts that eventually need attention. A table whose power unit can be reached without lifting the platform is one a technician can fix on the floor instead of removing."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Electric Lift Tables",
       "slug": "electric-lift-tables",
       "image": "images/categories/electric-lift-tables.svg",
       "group": "Power and drive",
-      "description": "<p>Electric lift tables use an electric motor, usually driving a hydraulic pump, to raise the platform at the press of a button or foot switch. They suit production work where a table is raised and lowered many times a shift and manual pumping would slow the operator down.</p>\n<p>Motors range from single-phase units that plug into a standard outlet to three-phase motors for heavy or high-cycle tables. Compare voltage and phase against the power available at the workstation, the controls (hand pendant, foot switch or fixed push buttons), lift and lower speed, the rated duty cycle, and whether the electrical enclosure is suited to the environment.</p>"
+      "description": "<p>Electric lift tables use an electric motor, usually driving a hydraulic pump, to raise the platform at the press of a button or foot switch. They suit production work where a table is raised and lowered many times a shift and manual pumping would slow the operator down.</p>\n<p>Motors range from single-phase units that plug into a standard outlet to three-phase motors for heavy or high-cycle tables. Compare voltage and phase against the power available at the workstation, the controls (hand pendant, foot switch or fixed push buttons), lift and lower speed, the rated duty cycle, and whether the electrical enclosure is suited to the environment.</p>",
+      "how_to_choose": [
+        {
+          "title": "Confirm the supply before anything else",
+          "text": "Electric tables ship for a specific voltage and phase — commonly 115V single-phase or 230/460V three-phase. Getting this wrong means a transformer or a return, and it is the single most common ordering mistake in this category."
+        },
+        {
+          "title": "Choose the control that fits the job",
+          "text": "A hand pendant suits an operator standing beside the table. A foot switch keeps both hands on the load. Fixed push buttons suit a fixed station. Constant-pressure controls — where the table stops the moment the button is released — matter wherever someone could be caught by the platform."
+        },
+        {
+          "title": "Check the motor rating against the cycle rate",
+          "text": "Continuous-duty and intermittent-duty motors are priced differently for a reason. A table specified for intermittent duty and run continuously will overheat, and thermal cutouts stopping a line mid-shift is an expensive way to discover this."
+        },
+        {
+          "title": "Corded or battery",
+          "text": "If the table stays put, mains power is simpler and cheaper. If it has to move, a battery unit removes the trailing cord, which is both a trip hazard and the part that fails first on a table that is dragged around."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Pneumatic Lift Tables",
