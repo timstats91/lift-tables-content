@@ -98,7 +98,7 @@ $e = static function ( $s ) {
 };
 
 $label = static function ( $text ) use ( $mono, $mute ) {
-	return '<td style="padding:0 12px 4px 0;width:44px;font-family:' . $mono . ';font-size:10px;line-height:18px;letter-spacing:1px;color:' . $mute . ';vertical-align:top;">' . $text . '</td>';
+	return '<td style="padding:0 12px 4px 0;width:44px;font-family:' . $mono . ';font-size:10px;line-height:18px;letter-spacing:1px;color:' . $mute . ';vertical-align:baseline;" valign="baseline">' . $text . '</td>';
 };
 
 $link = static function ( $href, $text ) use ( $sans, $ink ) {
@@ -124,17 +124,9 @@ $signature = '<table role="presentation" cellpadding="0" cellspacing="0" border=
 
 	. '<tr><td>'
 	. '<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">'
-	. '<tr>' . $label( 'EMAIL' ) . '<td style="padding:0 0 4px 0;">' . $link( 'mailto:' . $person['email'], $e( $person['email'] ) ) . '</td></tr>'
-	. '<tr>' . $label( 'WEB' ) . '<td style="padding:0 0 4px 0;">' . $link( SITE_URL . $track, 'lifttables.us' ) . '</td></tr>'
+	. '<tr>' . $label( 'EMAIL' ) . '<td valign="baseline" style="padding:0 0 4px 0;vertical-align:baseline;">' . $link( 'mailto:' . $person['email'], $e( $person['email'] ) ) . '</td></tr>'
+	. '<tr>' . $label( 'WEB' ) . '<td valign="baseline" style="padding:0 0 4px 0;vertical-align:baseline;">' . $link( SITE_URL . $track, 'lifttables.us' ) . '</td></tr>'
 	. '</table>'
-	. '</td></tr>'
-
-	// Safety Yellow is for quote buttons, and this is one.
-	. '<tr><td style="padding:12px 0 0 0;">'
-	. '<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;"><tr>'
-	. '<td bgcolor="#F5B800" style="background:#F5B800;padding:8px 14px;">'
-	. '<a href="' . SITE_URL . 'request-a-quote/' . $track . '" style="font-family:' . $sans . ';font-size:12px;line-height:16px;font-weight:bold;letter-spacing:1px;color:' . $ink . ';text-decoration:none;">REQUEST A QUOTE &rarr;</a>'
-	. '</td></tr></table>'
 	. '</td></tr>'
 
 	. '<tr><td style="padding:10px 0 0 0;font-family:' . $sans . ';font-size:12px;line-height:17px;color:' . $mute . ';">Compare lift tables by capacity, height and manufacturer.</td></tr>'
