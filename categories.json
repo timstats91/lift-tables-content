@@ -21,7 +21,8 @@
           "title": "Match the build to the environment",
           "text": "Washdown, food production, freezers, spray booths and outdoor use all rule out the standard painted carbon steel table with a general-purpose power unit. Stainless construction, food-grade fluid, low-temperature fluid and sealed enclosures have to be specified at order, not retrofitted."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/lift-tables.png"
     },
     {
       "path": "Lift Tables > Scissor Lift Tables",
@@ -46,7 +47,8 @@
           "title": "Single, double or triple scissor",
           "text": "A single scissor’s travel is limited by its lowered height. Stacking mechanisms buys height — this category reaches past fifty feet — at the cost of footprint, stability at full extension and price. Do not buy travel you will not use."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/scissor-lift-tables.png"
     },
     {
       "path": "Lift Tables > Mobile Lift Tables",
@@ -71,7 +73,8 @@
           "title": "Measure the doorways",
           "text": "Overall width, not platform width, is what has to pass through an aisle, a doorway and into a lift. Mobile tables are bought to travel, and the narrowest point on their route is the real constraint."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/mobile-lift-tables.png"
     },
     {
       "path": "Lift Tables > Post Lift Tables",
@@ -96,7 +99,8 @@
           "title": "Plan the mounting before you order",
           "text": "That same bending moment has to go somewhere, which normally means anchoring the base to the slab. Confirm the anchor pattern, the slab thickness the manufacturer expects, and whether a free-standing base is offered at the capacity you need."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/post-lift-tables.png"
     },
     {
       "path": "Lift Tables > Double Scissor Lift Tables",
@@ -121,7 +125,8 @@
           "title": "Budget for guarding and fall protection",
           "text": "Two stages mean more pinch points, and a platform someone stands on or loads at height brings handrails, gates and toe guards into scope. Bellows skirts, toe-sensing bars and guardrails are options on most lines. They are cheaper ordered with the table than added afterward."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/double-scissor-lift-tables.png"
     },
     {
       "path": "Lift Tables > Rotating Lift Tables",
@@ -146,7 +151,8 @@
           "title": "Confirm the deck can be locked",
           "text": "Welding, drilling and machining all apply force to the work, and a deck that creeps under that force is worse than a fixed one. A positive lock or brake — not just a friction detent — is what holds the deck still while the work is being done."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/rotating-lift-tables.png"
     },
     {
       "path": "Lift Tables > Tilt Tables",
@@ -171,7 +177,8 @@
           "title": "Read the capacity at full tilt",
           "text": "Ratings are sometimes quoted flat. The load a tilter can hold at maximum angle is the number that matters, because that is the position it will spend its working life in."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/tilt-tables.png"
     },
     {
       "path": "Lift Tables > Pallet Lift Tables",
@@ -196,7 +203,8 @@
           "title": "Add rotation if pickers work more than one face",
           "text": "A turntable on top of a pallet positioner lets an operator bring the far side of the stack to the near edge instead of reaching across it. Combined with self-leveling, this is the standard hand palletizing station, and it is the single biggest reduction in reaching that this category offers."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/pallet-lift-tables.png"
     },
     {
       "path": "Lift Tables > Low Profile Lift Tables",
@@ -221,7 +229,8 @@
           "title": "Price a pit before you rule it out",
           "text": "A low profile table exists to avoid concrete work. If you are cutting concrete anyway, or if you need true floor level with no ramp and full capacity, a pit-mounted standard table does it better and is often not much more once the table price difference is counted. Get both quotes."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/low-profile-lift-tables.png"
     },
     {
       "path": "Lift Tables > Floor Level Lift Tables",
@@ -246,7 +255,8 @@
           "title": "Check the slab is flat where the table will sit",
           "text": "A deck designed to close on the floor will rock, bind or fail to seal on a slab that slopes or is out of level. Floor level tables are the type most sensitive to the concrete under them. Level the area or shim the base as part of the install, not after."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/floor-level-lift-tables.png"
     },
     {
       "path": "Lift Tables > Heavy Duty Lift Tables",
@@ -271,7 +281,8 @@
           "title": "Expect drawings and a real lead time",
           "text": "Made-to-order tables come with approval drawings, and reviewing them is the buyer's opportunity to catch a mistake while it is still cheap. Ask for the drawing stage and the build time up front; comparing a stock price against a custom price without them compares nothing."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/heavy-duty-lift-tables.png"
     },
     {
       "path": "Lift Tables > Stainless Steel Lift Tables",
@@ -296,7 +307,8 @@
           "title": "Match the power unit to the washdown",
           "text": "A stainless table with a general-purpose power unit fails at the enclosure. Washdown environments need a sealed rating such as NEMA 4X on the electrics, and food production normally needs food-grade hydraulic fluid. Both have to be ordered with the table."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/stainless-steel-lift-tables.png"
     },
     {
       "path": "Lift Tables > Hydraulic Lift Tables",
@@ -321,7 +333,8 @@
           "title": "Ask what is serviceable in place",
           "text": "Hoses, seals and the power unit are the parts that eventually need attention. A table whose power unit can be reached without lifting the platform is one a technician can fix on the floor instead of removing."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/hydraulic-lift-tables.png"
     },
     {
       "path": "Lift Tables > Electric Lift Tables",
@@ -346,7 +359,8 @@
           "title": "Corded or battery",
           "text": "If the table stays put, mains power is simpler and cheaper. If it has to move, a battery unit removes the trailing cord, which is both a trip hazard and the part that fails first on a table that is dragged around."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/electric-lift-tables.png"
     },
     {
       "path": "Lift Tables > Pneumatic Lift Tables",
@@ -371,7 +385,8 @@
           "title": "Be clear why you are buying air",
           "text": "Spray booths, wash areas, classified locations and plants that would rather not run power to the table are all good reasons. If none of them apply, an electric table usually costs less, controls better and holds position more accurately."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/pneumatic-lift-tables.png"
     },
     {
       "path": "Lift Tables > Manual Lift Tables",
@@ -396,7 +411,8 @@
           "title": "Check where the pedal is",
           "text": "The foot pump has to be reachable with the load in place, from the side the operator actually stands on, without leaning over the platform. On mobile carts, check it is still reachable when the handle is in the way."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/manual-lift-tables.png"
     },
     {
       "path": "Lift Tables > Battery Powered Lift Tables",
@@ -421,7 +437,8 @@
           "title": "Confirm it can be lowered without power",
           "text": "A dead battery with a load in the air is the failure mode specific to this category. A manual lowering valve or a hand pump backup turns that from a problem into an inconvenience. Ask which one the table has."
         }
-      ]
+      ],
+      "share_image": "images/categories/png/battery-powered-lift-tables.png"
     }
   ]
 }
