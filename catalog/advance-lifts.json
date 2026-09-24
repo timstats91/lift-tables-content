@@ -104,6 +104,9 @@
                 "https://www.advancelifts.com/scissors-lift-tables/high-ultra-high-cycle-lifts/",
                 "https://www.advancelifts.com/scissors-lift-tables/high-cycle-hc-series-lifts/",
                 "https://www.advancelifts.com/scissors-lift-tables/ultra-high-cycle-uhc-series-lift-tables/"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -128,6 +131,9 @@
             "sources": [
                 "https://www.advancelifts.com/scissors-lifts-tables/air-spring-actuated-at-series-lift-tables/",
                 "https://www.advancelifts.com/scissors-lift-tables/air-spring-actuated-at-series/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -154,6 +160,9 @@
                 "https://www.advancelifts.com/scissors-lifts-tables/multi-stage-msl-scissors-lifts-tables/",
                 "https://www.advancelifts.com/scissors-lift-tables/multi-stage-msl-series-lift-tables/",
                 "https://www.advancelifts.com/scissors-lift-tables/big-friggin-bfl-series-lift-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -183,6 +192,9 @@
                 "https://www.advancelifts.com/palletizer/model-sl-s-mechanical-self-leveling-palletizer/",
                 "https://www.advancelifts.com/palletizer-self-leveling-lifts/model-sl-p-pneumatic-self-leveling-palletizer/",
                 "https://www.advancelifts.com/palletizer-self-leveling-lifts/model-pl-2524-pl-4024-series-electrichydraulic-palletizer/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -254,6 +266,9 @@
             ],
             "sources": [
                 "https://www.advancelifts.com/tilt-tables-upenders/electric-tilters-tt/"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -300,6 +315,9 @@
             ],
             "sources": [
                 "https://www.advancelifts.com/tilt-tables-upenders/bin-tilters-bt/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {

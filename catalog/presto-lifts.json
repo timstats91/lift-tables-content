@@ -24,7 +24,10 @@
             "sources": [
                 "https://prestolifts.com/products/scissor-lift-tables/hydraulic-lift-tables/xl-series-standard-duty-scissor-lifts-2"
             ],
-            "capacity_range": "2,000–8,000 lbs"
+            "capacity_range": "2,000–8,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "presto-xw-series-wide-base-lift-tables",
@@ -69,7 +72,11 @@
             "sources": [
                 "https://prestolifts.com/products/scissor-lift-tables/hydraulic-lift-tables/dxs-series-double-scissor-lift-2"
             ],
-            "capacity_range": "500–5,000 lbs"
+            "capacity_range": "500–5,000 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "presto-tandem-scissor-lifts",
@@ -138,7 +145,10 @@
             "sources": [
                 "https://prestolifts.com/products/scissor-lift-tables/floor-height-lift-tables"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-xzt-series-floor-level-lift-and-tilt-tables",
@@ -162,7 +172,10 @@
             "sources": [
                 "https://prestolifts.com/products/lift-tilt-tables/xzt-series-floor-level"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-hydraulic-scissor-lift-and-tilt-tables",
@@ -277,7 +290,10 @@
                 "https://prestolifts.com/products/scissor-lift-tables/pneumatic-lifts/axr-series-turntable-lifts-2",
                 "https://prestolifts.com/products/scissor-lift-tables/pneumatic-lifts/axsr-series-heavy-duty-turntable-lifts-2"
             ],
-            "capacity_range": "1,000–8,000 lbs"
+            "capacity_range": "1,000–8,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-dbp-portable-double-scissor-lifts",
@@ -300,7 +316,10 @@
             "sources": [
                 "https://prestolifts.com/products/scissor-lift-tables/portable-lifts/dbp-series-double-scissor-high-lift-2"
             ],
-            "capacity_range": "1,000–1,500 lbs"
+            "capacity_range": "1,000–1,500 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "presto-xbp-wbp-battery-portable-lift-tables",
@@ -346,7 +365,10 @@
             "sources": [
                 "https://prestolifts.com/products/scissor-lift-tables/portable-lifts/xp-wxp-manual-foot-pump-lift-tables-mobile-lift-tables"
             ],
-            "capacity_range": "300–2,000 lbs"
+            "capacity_range": "300–2,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "presto-pt-pts-portable-container-tilters",
@@ -388,7 +410,10 @@
             "sources": [
                 "https://prestolifts.com/products/tilters/container-tilters/srt-series-stationary-container-tilters"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-tz-floor-level-45-degree-tilters",
@@ -408,7 +433,10 @@
             "sources": [
                 "https://prestolifts.com/products/tilters/container-tilters/tz-series-45-degree-tilters"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-zrt-floor-level-container-tilters",
@@ -428,7 +456,10 @@
             "sources": [
                 "https://prestolifts.com/products/tilters/container-tilters/zrt-series-floor-level-container-tilters"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-at-series-pneumatic-tilt-tables",
@@ -469,7 +500,10 @@
             "sources": [
                 "https://prestolifts.com/products/tilters/fixed-height-platform-tilters/tt-series-standard-tilt-tables"
             ],
-            "capacity_range": "1,000–6,000 lbs"
+            "capacity_range": "1,000–6,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "presto-wt-series-wide-base-tilt-tables",
@@ -515,7 +549,10 @@
                 "https://prestolifts.com/products/pallet-handling-equipment/p3-all-around-spring",
                 "https://prestolifts.com/products/pallet-handling-equipment/p3-operator-controlled-load-leveler"
             ],
-            "capacity_range": "2,000–4,500 lbs"
+            "capacity_range": "2,000–4,500 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-p4-floor-height-load-levelers",
@@ -540,7 +577,10 @@
                 "https://prestolifts.com/products/pallet-handling-equipment/p4-floor-height-load-leveler",
                 "https://prestolifts.com/products/pallet-handling-equipment/p4-floor-height-load-leveler-with-built-in-turntable"
             ],
-            "capacity_range": "2,500–4,000 lbs"
+            "capacity_range": "2,500–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-lp-low-profile-lift-tables",
@@ -565,7 +605,10 @@
             "sources": [
                 "https://prestolifts.com/products/pallet-handling-equipment/low-profile-lift-turntable-lift"
             ],
-            "capacity_range": "1,950–2,200 lbs"
+            "capacity_range": "1,950–2,200 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-u-lift-roll-in-levelers",
@@ -589,7 +632,10 @@
             "sources": [
                 "https://prestolifts.com/products/pallet-handling-equipment/u-lift-roll-in-leveler"
             ],
-            "capacity_range": "2,200 lbs"
+            "capacity_range": "2,200 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "presto-post-lift-tables",

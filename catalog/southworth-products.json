@@ -26,7 +26,11 @@
             "sources": [
                 "https://www.southworthproducts.com/products/backsaver-hydraulic-lift-tables/"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "southworth-backsaver-lite-lift-tables",
@@ -120,7 +124,11 @@
             "sources": [
                 "https://www.southworthproducts.com/products/ls-series-hydraulic-lift-tables/"
             ],
-            "capacity_range": "2,000–12,000 lbs"
+            "capacity_range": "2,000–12,000 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "southworth-lsd-series-dual-lift-tables",
@@ -238,7 +246,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/spacesaver-lsh-series-lift-tables/"
             ],
-            "capacity_range": "1,000–12,000 lbs"
+            "capacity_range": "1,000–12,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-stainless-steel-lift-tables",
@@ -261,7 +272,11 @@
             "sources": [
                 "https://www.southworthproducts.com/products/stainless-steel-lift-tables/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "southworth-pneumatic-lift-tables",
@@ -306,7 +321,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/floor-height-lift-tables/"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-liftmat-low-profile-lift-tables",
@@ -331,7 +349,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/liftmat-low-profile-lift-tables/"
             ],
-            "capacity_range": "1,950–2,200 lbs"
+            "capacity_range": "1,950–2,200 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-flush-mount-turntable-lifts",
@@ -376,7 +397,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/manual-dandy-lift-tables/"
             ],
-            "capacity_range": "330–1,760 lbs"
+            "capacity_range": "330–1,760 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "southworth-powered-dandy-lift-tables",
@@ -420,7 +444,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/dandy-levelers/"
             ],
-            "capacity_range": "330–1,100 lbs"
+            "capacity_range": "330–1,100 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-lift-and-tilt-tables",
@@ -468,7 +495,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/low-profile-lift-and-tilt-table/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-fixed-height-tilters",
@@ -514,7 +544,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/pan-style-container-tilters/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-portable-container-tilters",
@@ -538,7 +571,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/portable-container-tilters/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "southworth-roll-on-container-tilters",
@@ -561,7 +597,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/roll-on-container-tilters/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-palletpal-360-level-loaders",
@@ -586,7 +625,11 @@
                 "https://www.southworthproducts.com/products/palletpal-360-air/",
                 "https://www.southworthproducts.com/products/stainless-steel-palletpal/"
             ],
-            "capacity_range": "4,500 lbs"
+            "capacity_range": "4,500 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "southworth-powered-palletpal-levelers",
@@ -611,7 +654,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/powered-palletpal-levelers-lifters/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-palletpal-roll-in-level-loaders",
@@ -635,7 +681,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/palletpal-roll-in-roll-e/"
             ],
-            "capacity_range": "2,200 lbs"
+            "capacity_range": "2,200 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-palletpal-roll-on-level-loaders",
@@ -661,7 +710,10 @@
                 "https://www.southworthproducts.com/products/palletpal-roll-on-level-loader/",
                 "https://www.southworthproducts.com/products/palletpal-roll-on-leveler-with-turntable/"
             ],
-            "capacity_range": "2,500–4,000 lbs"
+            "capacity_range": "2,500–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "southworth-mast-lift-26",
@@ -683,7 +735,11 @@
             "sources": [
                 "https://www.southworthproducts.com/products/mast-lift-26/"
             ],
-            "capacity_range": "1,800 lbs"
+            "capacity_range": "1,800 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "southworth-stackbox-positioners",
@@ -705,7 +761,10 @@
             "sources": [
                 "https://www.southworthproducts.com/products/stackbox-positioners/"
             ],
-            "capacity_range": "1,000 lbs"
+            "capacity_range": "1,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         }
     ],
     "product_defaults": {

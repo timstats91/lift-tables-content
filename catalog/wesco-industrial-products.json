@@ -75,7 +75,10 @@
             "sources": [
                 "https://catalog.wescomfg.com/viewitems/lift-equipment/wesco-hclt-series-precision-lift-tables"
             ],
-            "capacity_range": "2,200 lbs"
+            "capacity_range": "2,200 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "wesco-ppl-pallet-leveler",
@@ -96,6 +99,9 @@
             ],
             "sources": [
                 "https://catalog.wescomfg.com/viewitems/lift-equipment/pallet-leveler"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         }
     ],

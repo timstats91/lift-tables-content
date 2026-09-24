@@ -25,6 +25,10 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/pro-series-lift-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
             ]
         },
         {
@@ -72,6 +76,10 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/pro-series-hydraulic-lift-and-rotate/"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
             ]
         },
         {
@@ -156,6 +164,9 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/pro-air-pneumatic-lift-and-rotate/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -289,6 +300,9 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/4-3-low-height-lift-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -360,6 +374,10 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/nl-series-no-low-lift-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
             ]
         },
         {
@@ -385,6 +403,9 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/no-low-lift-and-tilt-tables-2/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -408,6 +429,9 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/double-scissor-lift-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -522,6 +546,9 @@
             ],
             "sources": [
                 "https://www.pentalift.com/solutions/pentaloader-automatic-self-leveling-palletizer-2/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         }
     ],

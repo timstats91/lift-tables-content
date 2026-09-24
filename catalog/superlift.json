@@ -51,6 +51,9 @@
             "sources": [
                 "https://superlift.net/products/double-scissor-lifts",
                 "https://superlift.net/products/triple-scissor-lifts"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -97,7 +100,10 @@
             "sources": [
                 "https://superlift.net/products/low-profile-lift-table"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "superlift-ground-level-scissor-lifts",
@@ -125,7 +131,11 @@
                 "https://superlift.net/products/stainless-steel-ground-level-scissor",
                 "https://superlift.net/products/stainless-steel-semi-portable-ground-level-lift"
             ],
-            "capacity_range": "2,000–8,000 lbs"
+            "capacity_range": "2,000–8,000 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "superlift-pneumatic-lift-and-tilt-tables",
@@ -151,7 +161,10 @@
                 "https://superlift.net/products/pneumatic-tilts",
                 "https://superlift.net/products/stainless-steel-pneumatic-tilter"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "superlift-lift-and-tilt-tables",
@@ -177,7 +190,10 @@
                 "https://superlift.net/products/standard-lift-and-tilts",
                 "https://superlift.net/products/stainless-steel-scissor-lift-and-tilt-table"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "superlift-tilt-tables",
@@ -225,6 +241,10 @@
             "sources": [
                 "https://superlift.net/products/ground-level-tilters",
                 "https://superlift.net/products/stainless-steel-sanitary-ground-level-tilter"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
             ]
         },
         {
@@ -248,6 +268,9 @@
             "sources": [
                 "https://superlift.net/products/portable-tote-box-tilters",
                 "https://superlift.net/products/stainless-combo-tilters"
+            ],
+            "applications": [
+                "Food and Beverage"
             ]
         },
         {
@@ -276,7 +299,11 @@
                 "https://superlift.net/products/stainless-steel-stationary-lift-table",
                 "https://superlift.net/products/stainless-steel-electric-lift-tables"
             ],
-            "capacity_range": "1,102–4,000 lbs"
+            "capacity_range": "1,102–4,000 lbs",
+            "applications": [
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "superlift-stainless-steel-portable-lift-tables",
@@ -305,7 +332,11 @@
                 "https://superlift.net/products/cleanroom-powered-drive-electric-lift-table",
                 "https://superlift.net/products/portable-lift-and-tilt"
             ],
-            "capacity_range": "500–4,000 lbs"
+            "capacity_range": "500–4,000 lbs",
+            "applications": [
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "superlift-stainless-steel-high-lift-scissor-tables",
@@ -330,7 +361,11 @@
                 "https://superlift.net/products/stainless-steel-double-and-triple-lift-table",
                 "https://superlift.net/products/stainless-steel-triple-scissors-lift-tables"
             ],
-            "capacity_range": "1,000–10,000 lbs"
+            "capacity_range": "1,000–10,000 lbs",
+            "applications": [
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "superlift-stainless-steel-low-profile-lift-tables",
@@ -356,6 +391,11 @@
             "sources": [
                 "https://superlift.net/products/stainless-steel-low-profile-table",
                 "https://superlift.net/products/stainless-steel-e-low-profile-lift-table"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
             ]
         },
         {
@@ -383,6 +423,10 @@
                 "https://superlift.net/products/stainless-steel-spring-actuated-level-loader",
                 "https://superlift.net/products/stainless-steel-self-adjusting-pallet-positioners",
                 "https://superlift.net/products/stainless-steel-pneumatic-lift-table"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
             ]
         }
     ],

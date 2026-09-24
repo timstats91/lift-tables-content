@@ -27,7 +27,10 @@
                 "https://www.beacontechnology.com/lifting-tables/scissor-lift/hydraulic-lift/",
                 "https://www.beacontechnology.com/lifting-tables/scissor-lift/narrow-scissor-lift/"
             ],
-            "capacity_range": "1,000–12,000 lbs"
+            "capacity_range": "1,000–12,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "beacon-behlt-ws-economy-scissor-lift-tables",
@@ -49,7 +52,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/scissor-lift/economy-scissor-lift/"
             ],
-            "capacity_range": "1,500 lbs"
+            "capacity_range": "1,500 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "beacon-compact-scissor-lift-tables",
@@ -145,7 +151,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/scissor-lift/low-scissor-lift/"
             ],
-            "capacity_range": "1,000–3,500 lbs"
+            "capacity_range": "1,000–3,500 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-behu-u-shaped-lift-tables",
@@ -173,7 +182,11 @@
                 "https://www.beacontechnology.com/lifting-tables/scissor-lift/stationary-scissor-lift/",
                 "https://www.beacontechnology.com/lifting-tables/scissor-lift/stainless-steel-adjustable-u-table/"
             ],
-            "capacity_range": "1,200–3,000 lbs"
+            "capacity_range": "1,200–3,000 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "beacon-behltg-ground-lift-tables",
@@ -198,7 +211,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/scissor-lift/ground-lift-table/"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-behlt-tl-long-scissor-lift-tables",
@@ -325,7 +341,10 @@
                 "https://www.beacontechnology.com/lifting-tables/tilt-table/lift-and-tilt-table/",
                 "https://www.beacontechnology.com/lifting-tables/tilt-table/portable-tilt-table/"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "beacon-behltt-lift-and-tilt-tables",
@@ -349,7 +368,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/tilt-table/lift-tilt-table/"
             ],
-            "capacity_range": "1,000–5,000 lbs"
+            "capacity_range": "1,000–5,000 lbs",
+            "applications": [
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "beacon-bzltt-ground-lift-and-tilt-tables",
@@ -375,7 +397,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/tilt-table/ground-lift-and-tilt/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-bhtt-hydraulic-tilt-tables",
@@ -399,7 +424,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/tilt-table/hydraulic-tilt-table/"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "beacon-behtt-tilt-platforms",
@@ -447,7 +475,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/tilt-table/ground-tilters/"
             ],
-            "capacity_range": "4,000 lbs"
+            "capacity_range": "4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-bem1-industrial-tilt-tables",
@@ -471,7 +502,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/tilt-table/industrial-tilt-table/"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-bemc-corner-tilters",
@@ -542,7 +576,10 @@
                 "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/lift-table-cart/",
                 "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/mobile-elevating-table/"
             ],
-            "capacity_range": "220–4,000 lbs"
+            "capacity_range": "220–4,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "beacon-bcart-lp-low-profile-lift-cart",
@@ -566,7 +603,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/low-scissor-lift-cart/"
             ],
-            "capacity_range": "900 lbs"
+            "capacity_range": "900 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-bcart-pn-pneumatic-tire-lift-carts",
@@ -663,7 +703,10 @@
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/portable-scissor-lift/portable-lift-table/"
             ],
-            "capacity_range": "1,000–5,000 lbs"
+            "capacity_range": "1,000–5,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-bcart-la-linear-actuated-lift-carts",
@@ -735,7 +778,11 @@
                 "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/scissor-cart-mostly-stainless-steel/",
                 "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/elevating-cart-linear-actuated-mostly-stainless-steel/"
             ],
-            "capacity_range": "200–2,000 lbs"
+            "capacity_range": "200–2,000 lbs",
+            "applications": [
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "beacon-self-elevating-spring-carts-and-tables",
@@ -760,7 +807,10 @@
                 "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/self-adjusting-cart/",
                 "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/self-elevating-table/"
             ],
-            "capacity_range": "230–2,000 lbs"
+            "capacity_range": "230–2,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "beacon-bsst-spring-scissor-lift",
@@ -784,6 +834,10 @@
             ],
             "sources": [
                 "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/spring-scissor-lift-mostly-stainless-steel/"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
             ]
         },
         {
@@ -809,7 +863,10 @@
                 "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/pneumatic-scissor-lift/",
                 "https://www.beacontechnology.com/lifting-tables/air-and-mechanical-scissor-lift/air-scissor-lift/"
             ],
-            "capacity_range": "200–2,000 lbs"
+            "capacity_range": "200–2,000 lbs",
+            "applications": [
+                "Pharmaceutical and Cleanroom"
+            ]
         }
     ],
     "product_defaults": {

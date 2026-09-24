@@ -163,7 +163,10 @@
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/scissor-lift-tables/zero-ground-level-scissor-lift/"
             ],
-            "capacity_range": "2,000–4,000 lbs"
+            "capacity_range": "2,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "blue-giant-hydraulic-tilters",
@@ -253,6 +256,9 @@
             ],
             "sources": [
                 "https://www.bluegiant.com/en/products/ergonomics/in-plant-lifts/pallet_handling/pl4_automatic_pallet_positioner/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         }
     ],

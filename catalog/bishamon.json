@@ -50,6 +50,9 @@
             ],
             "sources": [
                 "https://bishamon.com/ezup-en/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -74,6 +77,9 @@
             ],
             "sources": [
                 "https://bishamon.com/loprofile-en/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -96,6 +102,9 @@
             ],
             "sources": [
                 "https://bishamon.com/compaclift-en/"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -140,6 +149,9 @@
             ],
             "sources": [
                 "https://bishamon.com/ez-loader-en/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -164,6 +176,9 @@
             ],
             "sources": [
                 "https://bishamon.com/ezoff-en/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {

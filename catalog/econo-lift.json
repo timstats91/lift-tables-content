@@ -25,7 +25,11 @@
             "sources": [
                 "https://econolift.net/lifts-tilts/lift-tables/"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "econo-lift-double-scissor-lift-tables",
@@ -119,7 +123,11 @@
             "sources": [
                 "https://econolift.net/lifts-tilts/low-profile-scissor-lifts/"
             ],
-            "capacity_range": "500–4,000 lbs"
+            "capacity_range": "500–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "econo-lift-light-duty-portable-lifts",
@@ -278,6 +286,9 @@
             ],
             "sources": [
                 "https://econolift.net/lifts-tilts/spring-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -323,6 +334,9 @@
             ],
             "sources": [
                 "https://econolift.net/air-bags/air-bag-ergo-self-leveller/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -351,7 +365,10 @@
                 "https://econolift.net/drive-on/drive-on-lifttilt-tables/",
                 "https://econolift.net/drive-on/drive-on-tilt-tables/"
             ],
-            "capacity_range": "1,000–4,000 lbs"
+            "capacity_range": "1,000–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "econo-lift-container-tilters",

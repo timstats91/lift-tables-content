@@ -26,7 +26,10 @@
                 "https://www.liftproducts.com/lifttables/guardian_lift_tables.html",
                 "https://www.liftproducts.com/lifttables/standard.html"
             ],
-            "capacity_range": "1,100 lbs"
+            "capacity_range": "1,100 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "lift-products-g-series-lift-tables",
@@ -192,7 +195,11 @@
             "sources": [
                 "https://www.liftproducts.com/liftcarts/mml.html"
             ],
-            "capacity_range": "330–2,200 lbs"
+            "capacity_range": "330–2,200 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "lift-products-mml-pss-stainless-steel-lift-carts",
@@ -216,7 +223,10 @@
             "sources": [
                 "https://www.liftproducts.com/liftcarts/mml-pss.html"
             ],
-            "capacity_range": "400–1,000 lbs"
+            "capacity_range": "400–1,000 lbs",
+            "applications": [
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "lift-products-mmle-battery-powered-lift-carts",
@@ -240,7 +250,11 @@
             "sources": [
                 "https://www.liftproducts.com/liftcarts/mmle.html"
             ],
-            "capacity_range": "1,100–2,200 lbs"
+            "capacity_range": "1,100–2,200 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "lift-products-mmla-linear-actuated-lift-carts",
@@ -264,7 +278,10 @@
             "sources": [
                 "https://www.liftproducts.com/liftcarts/mmla.html"
             ],
-            "capacity_range": "330–550 lbs"
+            "capacity_range": "330–550 lbs",
+            "applications": [
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "lift-products-lpmc-self-propelled-lift-carts",
@@ -314,7 +331,10 @@
             "sources": [
                 "https://www.liftproducts.com/lifttables/mobile/mgv.html"
             ],
-            "capacity_range": "2,000–6,000 lbs"
+            "capacity_range": "2,000–6,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "lift-products-moto-cart-jr-lift-carts",
@@ -366,7 +386,11 @@
                 "https://www.liftproducts.com/lifttables/rotating/roto_max.html",
                 "https://www.liftproducts.com/lifttables/stainless/roto-max-ss.html"
             ],
-            "capacity_range": "2,500–3,500 lbs"
+            "capacity_range": "2,500–3,500 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "lift-products-guardian-lift-n-spin",
@@ -392,7 +416,10 @@
             "sources": [
                 "https://www.liftproducts.com/lifttables/rotating/guardian_lift_spin.html"
             ],
-            "capacity_range": "2,000 lbs"
+            "capacity_range": "2,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "lift-products-lpsl-level-loaders",
@@ -416,6 +443,10 @@
             "sources": [
                 "https://www.liftproducts.com/lifttables/rotating/spring-level-loader.html",
                 "https://www.liftproducts.com/lifttables/rotating/air-bag-level-loader.html"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
             ]
         },
         {
@@ -443,7 +474,11 @@
                 "https://www.liftproducts.com/lifttables/lowprofile/guardian.html",
                 "https://www.liftproducts.com/lifttables/stainless/lpbl-sg.html"
             ],
-            "capacity_range": "1,100–3,300 lbs"
+            "capacity_range": "1,100–3,300 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "lift-products-guardian-e-lift-tables",
@@ -471,7 +506,11 @@
                 "https://www.liftproducts.com/lifttables/lowprofile/elift.html",
                 "https://www.liftproducts.com/lifttables/stainless/lpble-sg.html"
             ],
-            "capacity_range": "2,200 lbs"
+            "capacity_range": "2,200 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "lift-products-guardian-u-lift-tables",
@@ -499,7 +538,11 @@
                 "https://www.liftproducts.com/lifttables/lowprofile/ulift.html",
                 "https://www.liftproducts.com/lifttables/stainless/lpblu-sg.html"
             ],
-            "capacity_range": "2,200–3,300 lbs"
+            "capacity_range": "2,200–3,300 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "lift-products-sxt-stainless-steel-lift-tables",
@@ -523,7 +566,11 @@
             "sources": [
                 "https://www.liftproducts.com/lifttables/stainless/sxt.html"
             ],
-            "capacity_range": "4,000 lbs"
+            "capacity_range": "4,000 lbs",
+            "applications": [
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "lift-products-sxtlp-stainless-steel-ground-entry-lift-tables",
@@ -548,7 +595,11 @@
             "sources": [
                 "https://www.liftproducts.com/lifttables/stainless/sxtlp.html"
             ],
-            "capacity_range": "2,500 lbs"
+            "capacity_range": "2,500 lbs",
+            "applications": [
+                "Warehouse and Distribution",
+                "Food and Beverage"
+            ]
         },
         {
             "slug": "lift-products-level-lifter-ground-entry-lift-tables",
@@ -572,7 +623,10 @@
             "sources": [
                 "https://www.liftproducts.com/lifttables/groundentry/level_lifter.html"
             ],
-            "capacity_range": "2,500–4,000 lbs"
+            "capacity_range": "2,500–4,000 lbs",
+            "applications": [
+                "Warehouse and Distribution"
+            ]
         },
         {
             "slug": "lift-products-max-lift-and-tilt-tables",
@@ -595,7 +649,10 @@
             "sources": [
                 "https://www.liftproducts.com/lifttables/tilting/max-lift-tilt.html"
             ],
-            "capacity_range": "2,000–5,000 lbs"
+            "capacity_range": "2,000–5,000 lbs",
+            "applications": [
+                "Assembly and Production"
+            ]
         },
         {
             "slug": "lift-products-compact-lift-and-tilt-tables",
@@ -664,7 +721,10 @@
             "sources": [
                 "https://www.liftproducts.com/tilters/max-ergo-tilter.html"
             ],
-            "capacity_range": "2,000–3,000 lbs"
+            "capacity_range": "2,000–3,000 lbs",
+            "applications": [
+                "Pharmaceutical and Cleanroom"
+            ]
         },
         {
             "slug": "lift-products-work-positioners",

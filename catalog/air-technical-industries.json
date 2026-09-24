@@ -26,6 +26,10 @@
             "sources": [
                 "https://airtechnical.com/product/zero-low-scissors-lift-tables/",
                 "https://airtechnical.com/shop/lift-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
             ]
         },
         {
@@ -51,6 +55,9 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/low-profile-zero-low-lift-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -72,6 +79,10 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/zero-low-lift-tilt-tables/"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
             ]
         },
         {
@@ -96,6 +107,9 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/zero-low-3-point-entry-lift-tables-2/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -117,6 +131,9 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/zero-low-crate-positioners/"
+            ],
+            "applications": [
+                "Warehouse and Distribution"
             ]
         },
         {
@@ -138,6 +155,10 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/hydraulic-lift-table/"
+            ],
+            "applications": [
+                "Warehouse and Distribution",
+                "Assembly and Production"
             ]
         },
         {
@@ -162,6 +183,10 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/vertical-column-lift-tables/"
+            ],
+            "applications": [
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
             ]
         },
         {
@@ -186,6 +211,11 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/mini-scissors-lift-tables/"
+            ],
+            "applications": [
+                "Assembly and Production",
+                "Food and Beverage",
+                "Pharmaceutical and Cleanroom"
             ]
         },
         {
@@ -231,6 +261,9 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/double-scissors-lift-tables/"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -253,6 +286,9 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/lift-and-tilt-tables/"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -294,6 +330,9 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/mechanical-lift-tables/"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -317,6 +356,9 @@
             ],
             "sources": [
                 "https://airtechnical.com/product/post-lift-tables/"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         }
     ],

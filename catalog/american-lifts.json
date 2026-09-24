@@ -55,6 +55,9 @@
             "sources": [
                 "https://autoquip.com/products/scissor-lift-tables/torklift-t2-double-pantograph/",
                 "https://autoquip.com/wp-json/lifts/v1/filter?productLine=torklift-t2-double-pantograph&per_page=-1"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -160,6 +163,9 @@
                 "https://autoquip.com/products/american-lifts/",
                 "https://autoquip.com/products/tilters/tiltlift/",
                 "https://autoquip.com/wp-json/lifts/v1/filter?productLine=tiltlift&per_page=-1"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
@@ -185,6 +191,9 @@
                 "https://autoquip.com/products/american-lifts/",
                 "https://autoquip.com/products/tilters/90-degree-tilter/",
                 "https://autoquip.com/wp-json/lifts/v1/filter?productLine=90-degree-tilter&per_page=-1"
+            ],
+            "applications": [
+                "Assembly and Production"
             ]
         },
         {
