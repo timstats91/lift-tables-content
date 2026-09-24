@@ -56,16 +56,21 @@ function moment_arc( $cx, $cy, $r ) {
 $images = array();
 
 // What is a lift table: the deck in both positions, which is the whole idea.
-$low = scissor_table( array( 'h' => 26, 'leg' => 240 ) );
-$t   = scissor_table( array( 'h' => 120, 'leg' => 240 ) );
+// Only the lowered deck is ghosted, not a whole second mechanism, so this is
+// a height rather than a table: base top, less the lift, less the deck. Built
+// as a table it would have failed the feet-on-base check -- a scissor lowered
+// to 26px spans almost its full leg length, far wider than a standard base.
+$lowered_top = 252 - 26 - 20;
+
+$t = scissor_table( array( 'h' => 120, 'leg' => 240 ) );
 $images['what-is-a-lift-table'] = array(
 	'A lift table platform shown lowered and raised',
 	ground()
-		. ghost_crate( 170, $low['top'], 140, 74 )
-		. rect( 100, $low['top'], 280, 20, 'none', LINE, 2.5 )
+		. ghost_crate( 170, $lowered_top, 140, 74 )
+		. rect( 100, $lowered_top, 280, 20, 'none', LINE, 2.5 )
 		. $t['svg']
 		. crate( 170, $t['top'], 140, 74 )
-		. dim_v( 424, $low['top'], $t['top'] ),
+		. dim_v( 424, $lowered_top, $t['top'] ),
 );
 
 // Capacity: the same weight, centred and then out at the end, with the moment
@@ -84,7 +89,9 @@ $images['lift-table-capacity-selection-guide'] = array(
 // one, so both decks are drawn.
 $t = scissor_table(
 	array(
-		'pin'      => 196,
+		// 188, not 196: at a 6px lift the legs are almost flat and span
+		// nearly their full 210, so the roller needs the base to reach it.
+		'pin'      => 188,
 		'base_top' => 264,
 		'base_h'   => 12,
 		'base_x'   => array( 176, 404 ),

@@ -180,9 +180,9 @@ $images['assembly-and-production'] = array(
 // on the deck.
 $t = scissor_table(
 	array(
-		'pin'      => 148,
-		'base_x'   => array( 128, 352 ),
-		'plat_x'   => array( 108, 372 ),
+		'pin'      => 140,
+		'base_x'   => array( 120, 368 ),
+		'plat_x'   => array( 100, 388 ),
 		'h'        => 96,
 	)
 );
@@ -192,15 +192,15 @@ $images['food-and-beverage'] = array(
 		. ground()
 		. floor_drain( 376 )
 		. $t['svg']
-		. tote( 168, $t['top'], 144, 62 ),
+		. tote( 172, $t['top'], 144, 62 ),
 );
 
 // Cleanroom: the same table under a ceiling filter, between panel joints.
 $t = scissor_table(
 	array(
-		'pin'      => 148,
-		'base_x'   => array( 128, 352 ),
-		'plat_x'   => array( 108, 372 ),
+		'pin'      => 140,
+		'base_x'   => array( 120, 368 ),
+		'plat_x'   => array( 100, 388 ),
 		'h'        => 96,
 	)
 );
@@ -208,10 +208,10 @@ $images['pharmaceutical-and-cleanroom'] = array(
 	'Lift table under a cleanroom ceiling filter, between wall panel joints',
 	line( 54, 0, 54, GROUND, LINE, 2.5 )
 		. line( 426, 0, 426, GROUND, LINE, 2.5 )
-		. ceiling_filter( 150, 330, 34 )
+		. ceiling_filter( 154, 334, 34 )
 		. ground()
 		. $t['svg']
-		. tote( 176, $t['top'], 128, 58 ),
+		. tote( 180, $t['top'], 128, 58 ),
 );
 
 /* ------------------------------------------------------------------ */

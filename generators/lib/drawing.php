@@ -112,6 +112,39 @@ function pallet( $x, $bottom, $w ) {
 }
 
 /**
+ * Fail if the mechanism does not stand on its own base.
+ *
+ * The span of a scissor is sqrt(leg^2 - height^2), so lowering a table makes
+ * the legs more horizontal and the span WIDER. Narrow the base at the same
+ * time as lowering the deck -- an easy thing to do, because a lower table
+ * looks like it should be a smaller one -- and the right-hand roller ends up
+ * past the end of the base, hanging in mid air.
+ *
+ * It is a quiet error: the drawing still renders, and at tile size the gap is
+ * a few pixels. So it is checked here rather than left to the eye.
+ *
+ * @param float $x1     Fixed pin, the left foot.
+ * @param float $x2     Roller, the right foot.
+ * @param array $base_x [left, right] of the base frame.
+ */
+function edc_assert_feet_on_base( $x1, $x2, $base_x ) {
+	if ( $x1 < $base_x[0] || $x2 > $base_x[1] ) {
+		fwrite(
+			STDERR,
+			sprintf(
+				"Scissor feet are off the base: feet at %.1f and %.1f, base %.1f to %.1f.\n"
+				. "A lower deck needs a WIDER base, not a narrower one.\n",
+				$x1,
+				$x2,
+				$base_x[0],
+				$base_x[1]
+			)
+		);
+		exit( 1 );
+	}
+}
+
+/**
  * A scissor lift table.
  *
  * Fixed pins on the left, rollers on the right; the span follows from the
@@ -146,6 +179,8 @@ function scissor_table( $o = array() ) {
 	$x2      = $x1 + $span;
 	$top_bot = $yb - $o['h'];
 	$top     = $top_bot - $o['plat_t'];
+
+	edc_assert_feet_on_base( $x1, $x2, $o['base_x'] );
 
 	$out = '';
 
