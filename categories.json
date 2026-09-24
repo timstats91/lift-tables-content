@@ -3,7 +3,25 @@
     {
       "path": "Lift Tables",
       "image": "images/categories/lift-tables.svg",
-      "description": "<p>A lift table raises and lowers a load so that people can work on it, or move it, at a comfortable height instead of bending, reaching or lifting by hand. They are used at assembly stations, packing lines, machine tools, loading areas and anywhere heavy parts are handled repeatedly.</p>\n<p>Most lift tables use a scissor mechanism driven by a hydraulic cylinder, but the category also includes single-column mobile tables, pneumatic air-bag lifts, multi-stage tables for extra height, and tables that tilt or rotate the load as well as lifting it. Power ranges from a simple foot pump to electric, air and battery units.</p>\n<p>Browse by type or by power source below, compare models from each manufacturer, and request quotes from distributors who sell and service them.</p>"
+      "description": "<p>A lift table raises and lowers a load so that people can work on it, or move it, at a comfortable height instead of bending, reaching or lifting by hand. They are used at assembly stations, packing lines, machine tools, loading areas and anywhere heavy parts are handled repeatedly.</p>\n<p>Most lift tables use a scissor mechanism driven by a hydraulic cylinder, but the category also includes single-column mobile tables, pneumatic air-bag lifts, multi-stage tables for extra height, and tables that tilt or rotate the load as well as lifting it. Power ranges from a simple foot pump to electric, air and battery units.</p>\n<p>Browse by type or by power source below, compare models from each manufacturer, and request quotes from distributors who sell and service them.</p>",
+      "how_to_choose": [
+        {
+          "title": "Start with the load and how far it has to travel",
+          "text": "Capacity and vertical travel narrow the field faster than anything else. Published models on this site run from 50 lb to 135,000 lb and from a few inches of travel to over fifty feet, so a real weight and a real working height eliminate most of the catalog immediately."
+        },
+        {
+          "title": "Work out how the load gets on and off",
+          "text": "This is the decision most buyers reach last and should reach first. A forklift can place a load on a standard table sitting 7 to 12 inches up; a pallet jack cannot, which sends you to a low profile or floor level table, or to a pit-mounted install. Nothing else about the table matters if the load cannot be loaded."
+        },
+        {
+          "title": "Pick the power source from the duty cycle",
+          "text": "A table raised twice a shift can be a manual foot pump. One cycling every two minutes needs an electric power unit rated for it. Air suits areas where electricity is not allowed, and battery suits tables that move. The cycle rate, not the price, should decide this."
+        },
+        {
+          "title": "Match the build to the environment",
+          "text": "Washdown, food production, freezers, spray booths and outdoor use all rule out the standard painted carbon steel table with a general-purpose power unit. Stainless construction, food-grade fluid, low-temperature fluid and sealed enclosures have to be specified at order, not retrofitted."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Scissor Lift Tables",
@@ -18,7 +36,7 @@
         },
         {
           "title": "Check capacity at full height, not just the badge",
-          "text": "A rating is usually quoted at the lowered position. Some designs derate as the legs approach vertical, and off-centre or edge loading derates them further. If the load will sit toward one end of the platform, ask for the rating in that condition."
+          "text": "A rating is usually quoted at the lowered position. Some designs derate as the legs approach vertical, and off-center or edge loading derates them further. If the load will sit toward one end of the platform, ask for the rating in that condition."
         },
         {
           "title": "Match the duty cycle to how often it runs",
@@ -60,21 +78,75 @@
       "slug": "post-lift-tables",
       "image": "images/categories/post-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Post lift tables raise the deck on a single central hydraulic column rather than a scissor mechanism. With nothing folding beneath the deck, the column sits in the middle of a compact base, and the deck can often rotate freely around it and lock at any height, which suits welding, machining and assembly work where the operator turns the part while working on it.</p>\n<p>Most post lift tables are mobile, rolling on casters with a floor lock, and they typically offer a working-height range rather than floor-level loading, because the column and base set a minimum lowered height. Compare deck size and shape, capacity, lowered and raised height, how the deck rotates and locks, and whether the table is powered by a foot pump, electric motor, air or battery.</p>"
+      "description": "<p>Post lift tables raise the deck on a single central hydraulic column rather than a scissor mechanism. With nothing folding beneath the deck, the column sits in the middle of a compact base, and the deck can often rotate freely around it and lock at any height, which suits welding, machining and assembly work where the operator turns the part while working on it.</p>\n<p>Most post lift tables are mobile, rolling on casters with a floor lock, and they typically offer a working-height range rather than floor-level loading, because the column and base set a minimum lowered height. Compare deck size and shape, capacity, lowered and raised height, how the deck rotates and locks, and whether the table is powered by a foot pump, electric motor, air or battery.</p>",
+      "how_to_choose": [
+        {
+          "title": "Accept that nothing rolls onto a post lift",
+          "text": "The lowest deck in this category sits just under 20 inches off the floor, because the column and its base occupy the space a scissor mechanism would fold into. A post lift is a work-positioning table, not a load-transfer table. If a pallet jack has to reach it, you are in the wrong category."
+        },
+        {
+          "title": "Decide whether you need the deck to rotate",
+          "text": "A freely rotating deck is the reason most people buy a post lift: the operator brings each face of the work to the front instead of walking around it. Some decks spin on bearings, some lock at intervals, some are fixed. Rotation is normally an option rather than a given, so state it."
+        },
+        {
+          "title": "Check the off-center load rating",
+          "text": "A single column carries the load as a cantilever, so an eccentric load applies a bending moment the column has to resist. This limits post lifts far more sharply than it limits scissor tables. If the work will sit toward one edge of the deck, ask for the rating in that condition rather than the badge figure."
+        },
+        {
+          "title": "Plan the mounting before you order",
+          "text": "That same bending moment has to go somewhere, which normally means anchoring the base to the slab. Confirm the anchor pattern, the slab thickness the manufacturer expects, and whether a free-standing base is offered at the capacity you need."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Double Scissor Lift Tables",
       "slug": "double-scissor-lift-tables",
       "image": "images/categories/double-scissor-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Double scissor lift tables stack two scissor mechanisms on top of each other to reach a much greater raised height from the same compact footprint. Where a single scissor table may lift a load to around waist or chest height, a double scissor design can reach mezzanines, raised work platforms and tall machine loading points.</p>\n<p>Designs with three or more scissor stages exist for even greater travel. Because the extra height changes how the table carries a load, compare capacity at full height, platform stability, the length of the platform relative to its travel, and the safety features required for the height involved, such as toe guards, skirts and handrails.</p>"
+      "description": "<p>Double scissor lift tables stack two scissor mechanisms on top of each other to reach a much greater raised height from the same compact footprint. Where a single scissor table may lift a load to around waist or chest height, a double scissor design can reach mezzanines, raised work platforms and tall machine loading points.</p>\n<p>Designs with three or more scissor stages exist for even greater travel. Because the extra height changes how the table carries a load, compare capacity at full height, platform stability, the length of the platform relative to its travel, and the safety features required for the height involved, such as toe guards, skirts and handrails.</p>",
+      "how_to_choose": [
+        {
+          "title": "Buy the height you need and no more",
+          "text": "A second scissor stage exists to clear the geometric limit of a single one, and it reaches mezzanine and platform height — past fifty feet at the top of this category. Every additional foot of travel costs footprint, stability at full extension, guarding and money. Measure the destination deck height and stop there."
+        },
+        {
+          "title": "Expect a lower capacity ceiling than a single scissor",
+          "text": "Single-stage tables on this site reach 135,000 lb; double scissors top out around 12,000. Stacking mechanisms trades load capacity for travel, and a double scissor rated for your weight on paper may be near the top of its range rather than comfortably inside it."
+        },
+        {
+          "title": "Ask for the rating at full extension",
+          "text": "A tall, narrow mechanism is at its least stable fully raised, and side loading matters much more than it does on a squat table. Get the capacity and the permitted side load at maximum height, and say whether anything will be pushed or rolled on or off up there."
+        },
+        {
+          "title": "Budget for guarding and fall protection",
+          "text": "Two stages mean more pinch points, and a platform someone stands on or loads at height brings handrails, gates and toe guards into scope. Bellows skirts, toe-sensing bars and guardrails are options on most lines. They are cheaper ordered with the table than added afterward."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Rotating Lift Tables",
       "slug": "rotating-lift-tables",
       "image": "images/categories/rotating-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Rotating lift tables add a turntable top to a lifting base, so the operator can bring any side of the load to the front instead of walking around it or reaching across it. They are common at welding, assembly and packing stations and wherever a large part needs work on several faces.</p>\n<p>Rotation may be free-spinning with a lock, indexed at set positions, or powered. Some mobile tables also rotate their deck a full 360 degrees and lock it at any height. When comparing models, check how the top locks in position, whether it rotates at every height, and how capacity is rated when the load sits off-center on the turntable.</p>"
+      "description": "<p>Rotating lift tables add a turntable top to a lifting base, so the operator can bring any side of the load to the front instead of walking around it or reaching across it. They are common at welding, assembly and packing stations and wherever a large part needs work on several faces.</p>\n<p>Rotation may be free-spinning with a lock, indexed at set positions, or powered. Some mobile tables also rotate their deck a full 360 degrees and lock it at any height. When comparing models, check how the top locks in position, whether it rotates at every height, and how capacity is rated when the load sits off-center on the turntable.</p>",
+      "how_to_choose": [
+        {
+          "title": "Decide how the rotation is driven and how it stops",
+          "text": "Decks either spin freely on a bearing, turn by hand against a detent that holds them at set positions, or rotate under power. Free rotation suits a welder turning a part continuously; indexed stops at 90 or 180 degrees suit repeated assembly steps. These are different machines at different prices."
+        },
+        {
+          "title": "Check the turntable rating separately from the lift rating",
+          "text": "The bearing that carries the rotating deck has its own capacity, and it is often lower than the table underneath it — especially for off-center loads, which load the bearing unevenly. Ask for both numbers rather than assuming the platform inherits the table capacity."
+        },
+        {
+          "title": "Lay out the swing circle, not the platform",
+          "text": "A rotating deck sweeps a circle whose diameter is set by the platform diagonal, not its width. That circle has to clear benches, columns, racking and the operator. It is the most common layout mistake in this category and it is discovered after delivery."
+        },
+        {
+          "title": "Confirm the deck can be locked",
+          "text": "Welding, drilling and machining all apply force to the work, and a deck that creeps under that force is worse than a fixed one. A positive lock or brake — not just a friction detent — is what holds the deck still while the work is being done."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Tilt Tables",
@@ -84,7 +156,7 @@
       "description": "<p>Tilt tables angle the platform toward the operator so that the contents of a bin, box or gaylord can be reached without leaning over the side. Lift-and-tilt tables combine vertical lifting with tilting, letting the load be raised to working height and then presented at an angle.</p>\n<p>They are widely used for parts picking, container unloading and kitting, where repeatedly reaching into the bottom of a deep container is a common cause of strain. Compare the tilt angle, whether the table lifts as well as tilts, how the load is retained when angled, and the capacity rating at full tilt.</p>",
       "how_to_choose": [
         {
-          "title": "Work out the angle from the container, not the catalogue",
+          "title": "Work out the angle from the container, not the catalog",
           "text": "Tilt angle is set by how deep the container is and how far the operator would otherwise have to reach. Shallow totes may need 30 degrees; deep stillages and gaylords often need 45 or more. Too little tilt and the table solves nothing."
         },
         {
@@ -106,35 +178,125 @@
       "slug": "pallet-lift-tables",
       "image": "images/categories/pallet-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Pallet lift tables raise a full pallet to a comfortable loading or unloading height. They include pallet positioners built as lifting tables: platforms that rise automatically as the load gets lighter, or that the operator raises in steps, so the top layer always stays at the same working height.</p>\n<p>Spring and pneumatic pallet positioners respond to the weight on them without controls, while hydraulic and air-powered models are raised on demand. Many include a turntable so the operator can rotate the pallet rather than reach across it. Compare capacity, platform size relative to the pallets used, lowered height, and how the pallet is loaded, whether by forklift or pallet jack.</p>"
+      "description": "<p>Pallet lift tables raise a full pallet to a comfortable loading or unloading height. They include pallet positioners built as lifting tables: platforms that rise automatically as the load gets lighter, or that the operator raises in steps, so the top layer always stays at the same working height.</p>\n<p>Spring and pneumatic pallet positioners respond to the weight on them without controls, while hydraulic and air-powered models are raised on demand. Many include a turntable so the operator can rotate the pallet rather than reach across it. Compare capacity, platform size relative to the pallets used, lowered height, and how the pallet is loaded, whether by forklift or pallet jack.</p>",
+      "how_to_choose": [
+        {
+          "title": "Decide whether the table should level itself",
+          "text": "A pallet positioner with a spring or pneumatic mechanism sinks as each layer goes on and rises as each layer comes off, holding the top of the stack at a constant height with no controls at all. A powered table does the same under operator command. Self-leveling suits hand stacking; powered suits mixed or unpredictable loads."
+        },
+        {
+          "title": "Match the platform to the pallet, with overhang",
+          "text": "A 48 by 40 inch GMA pallet, a 48 by 48 and a Euro pallet are three different footprints, and cartons routinely overhang the pallet they sit on. Size the platform to the largest load you will actually put on it rather than to the pallet dimension."
+        },
+        {
+          "title": "Work out how the pallet gets onto the table",
+          "text": "A forklift can place a pallet on any of these. A pallet jack needs a floor level or U-shaped platform it can drive into. A conveyor-fed station needs matching deck height and roller or ball transfer top. This choice constrains the rest of the specification."
+        },
+        {
+          "title": "Add rotation if pickers work more than one face",
+          "text": "A turntable on top of a pallet positioner lets an operator bring the far side of the stack to the near edge instead of reaching across it. Combined with self-leveling, this is the standard hand palletizing station, and it is the single biggest reduction in reaching that this category offers."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Low Profile Lift Tables",
       "slug": "low-profile-lift-tables",
       "image": "images/categories/low-profile-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Low profile lift tables are built to fold down to a very low lowered height, low enough that a pallet jack can roll a load straight onto the platform, often with a short ramp. That removes the need for a forklift to place the load and avoids cutting a pit into the floor.</p>\n<p>They are used at packing, shipping and assembly stations where loads arrive on pallet jacks. Because the mechanism has to fit in very little space, compare the actual lowered height, ramp length and slope, capacity, vertical travel, and whether the platform shape leaves room for the pallet jack forks.</p>"
+      "description": "<p>Low profile lift tables are built to fold down to a very low lowered height, low enough that a pallet jack can roll a load straight onto the platform, often with a short ramp. That removes the need for a forklift to place the load and avoids cutting a pit into the floor.</p>\n<p>They are used at packing, shipping and assembly stations where loads arrive on pallet jacks. Because the mechanism has to fit in very little space, compare the actual lowered height, ramp length and slope, capacity, vertical travel, and whether the platform shape leaves room for the pallet jack forks.</p>",
+      "how_to_choose": [
+        {
+          "title": "Measure the pallet jack, not the pallet",
+          "text": "Whether a loaded jack can roll onto the platform depends on its wheel diameter and the height of its frame when lowered. The lowest decks in this category close to just over three-eighths of an inch, which clears most jacks with a short ramp. Get the jack specification before the table specification."
+        },
+        {
+          "title": "Accept the capacity ceiling that comes with a thin mechanism",
+          "text": "Low profile tables on this site run to about 4,400 lb, against 135,000 for scissor tables generally. Folding into a few inches means shallow leg sections and small pins. If you need to lift a die, this is not the category, however convenient the loading would be."
+        },
+        {
+          "title": "Plan the approach ramp",
+          "text": "Most low profile tables need a short ramp, and a loaded pallet jack has a limited grade it can climb. Check the ramp length and angle, whether it is fixed or removable, and whether it will sit in a traffic aisle when the table is not in use."
+        },
+        {
+          "title": "Price a pit before you rule it out",
+          "text": "A low profile table exists to avoid concrete work. If you are cutting concrete anyway, or if you need true floor level with no ramp and full capacity, a pit-mounted standard table does it better and is often not much more once the table price difference is counted. Get both quotes."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Floor Level Lift Tables",
       "slug": "floor-level-lift-tables",
       "image": "images/categories/floor-level-lift-tables.svg",
       "group": "Table type",
-      "description": "<p>Floor level lift tables, sometimes called ground entry or floor height lifts, lower their platform all the way to the floor so a pallet jack or hand cart can roll straight on with no ramp and no pit. Many use a U-shaped or E-shaped platform with an open side so the pallet jack can be driven in and withdrawn once the pallet is down.</p>\n<p>They suit sites where loads arrive by pallet jack and a pit is not practical. Compare the platform opening width against the pallets and jacks in use, the capacity, the vertical travel, and how the table keeps a pallet stable when the platform has an open side.</p>"
+      "description": "<p>Floor level lift tables, sometimes called ground entry or floor height lifts, lower their platform all the way to the floor so a pallet jack or hand cart can roll straight on with no ramp and no pit. Many use a U-shaped or E-shaped platform with an open side so the pallet jack can be driven in and withdrawn once the pallet is down.</p>\n<p>They suit sites where loads arrive by pallet jack and a pit is not practical. Compare the platform opening width against the pallets and jacks in use, the capacity, the vertical travel, and how the table keeps a pallet stable when the platform has an open side.</p>",
+      "how_to_choose": [
+        {
+          "title": "Choose the platform shape from the approach direction",
+          "text": "A U-shaped deck opens on one side so a pallet jack can drive straight in; an E-shaped deck straddles the jack differently again. The open side has to face the direction the operator approaches from, which sounds obvious and is routinely got wrong on the order."
+        },
+        {
+          "title": "Confirm the jack fits inside the opening",
+          "text": "The throat of a U-shaped platform has to clear the width of the pallet truck, not just the pallet. Measure the truck across its widest point, including the wheels, and compare it against the platform opening rather than the outside dimension."
+        },
+        {
+          "title": "Ask where the mechanism goes at floor level",
+          "text": "A table that closes to a quarter of an inch has to put its legs and cylinder somewhere, usually outside or alongside the deck. That changes the footprint and it raises the stakes on pinch protection: toe guards and bellows are more important on a table that closes fully to the floor."
+        },
+        {
+          "title": "Check the slab is flat where the table will sit",
+          "text": "A deck designed to close on the floor will rock, bind or fail to seal on a slab that slopes or is out of level. Floor level tables are the type most sensitive to the concrete under them. Level the area or shim the base as part of the install, not after."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Heavy Duty Lift Tables",
       "slug": "heavy-duty-lift-tables",
       "image": "images/categories/heavy-duty-lift-tables.svg",
       "group": "Build",
-      "description": "<p>Heavy duty lift tables are built for loads beyond the range of typical workstation tables. On this site the category covers tables rated for 6,000 lb or more, used for dies, molds, machinery components, heavy castings and full loads of dense material.</p>\n<p>At higher capacities, construction details matter as much as the headline rating. Compare the capacity at full raised height, whether the rating allows for off-center or edge loading, the platform deflection, the number and size of cylinders, and whether the table is rated for rolling loads onto it. Many heavy duty tables are built to order around the application.</p>"
+      "description": "<p>Heavy duty lift tables are built for loads beyond the range of typical workstation tables. On this site the category covers tables rated for 6,000 lb or more, used for dies, molds, machinery components, heavy castings and full loads of dense material.</p>\n<p>At higher capacities, construction details matter as much as the headline rating. Compare the capacity at full raised height, whether the rating allows for off-center or edge loading, the platform deflection, the number and size of cylinders, and whether the table is rated for rolling loads onto it. Many heavy duty tables are built to order around the application.</p>",
+      "how_to_choose": [
+        {
+          "title": "Describe the load case, not the weight",
+          "text": "At these capacities how the load arrives governs the design more than how much it weighs. A 20,000 lb die rolled on from one end, a point load on a small footprint and a distributed load all produce different tables. Send the load, its footprint, where it sits on the deck and how it gets there."
+        },
+        {
+          "title": "Ask about the structure, not the cylinder",
+          "text": "Everything above about 20,000 lb is engineered per order, and the part that determines whether it lasts is the weldment: leg section, pin and bushing sizes, bearing surfaces. A quote that describes the power unit in detail and the frame vaguely is telling you where the attention went."
+        },
+        {
+          "title": "Check the floor can take it",
+          "text": "A table rated at 60,000 lb transmits the load and its own considerable weight into the slab through a small number of points. Slab thickness, concrete strength and any anchoring have to be confirmed against the manufacturer's reaction loads before the table ships, not when it arrives."
+        },
+        {
+          "title": "Expect drawings and a real lead time",
+          "text": "Made-to-order tables come with approval drawings, and reviewing them is the buyer's opportunity to catch a mistake while it is still cheap. Ask for the drawing stage and the build time up front; comparing a stock price against a custom price without them compares nothing."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Stainless Steel Lift Tables",
       "slug": "stainless-steel-lift-tables",
       "image": "images/categories/stainless-steel-lift-tables.svg",
       "group": "Build",
-      "description": "<p>Stainless steel lift tables are made for environments where painted carbon steel would corrode or contaminate the work area, including food and beverage processing, pharmaceutical manufacturing, cleanrooms and washdown areas. Stainless construction resists rust and stands up to repeated cleaning with water and chemical cleaners.</p>\n<p>Tables may be fully stainless or use stainless platforms and exposed parts on a coated base. Compare which components are stainless and in what grade, whether hydraulic and electrical parts are sealed for washdown, whether a food-grade hydraulic fluid is used, and how easy the design is to clean around the scissor legs and base.</p>"
+      "description": "<p>Stainless steel lift tables are made for environments where painted carbon steel would corrode or contaminate the work area, including food and beverage processing, pharmaceutical manufacturing, cleanrooms and washdown areas. Stainless construction resists rust and stands up to repeated cleaning with water and chemical cleaners.</p>\n<p>Tables may be fully stainless or use stainless platforms and exposed parts on a coated base. Compare which components are stainless and in what grade, whether hydraulic and electrical parts are sealed for washdown, whether a food-grade hydraulic fluid is used, and how easy the design is to clean around the scissor legs and base.</p>",
+      "how_to_choose": [
+        {
+          "title": "Establish how much of it has to be stainless",
+          "text": "There is a wide gap between a stainless deck and covers on a painted carbon steel frame, and a table where every component including the scissor legs and hardware is stainless. Both are sold as stainless lift tables. This is the largest price difference in the category and the first thing to pin down."
+        },
+        {
+          "title": "Pick the grade for the chemistry, not the label",
+          "text": "304 handles most food and beverage work. 316 resists chlorides, so it is the grade for salt, brine, seawater and aggressive cleaning agents. Ask which grade is quoted; if the answer is just \"stainless,\" ask again."
+        },
+        {
+          "title": "Specify the finish and how water leaves it",
+          "text": "Cleanability is the reason for the purchase, so the details that deliver it are not optional extras: a finish that does not trap soil, sloped or open decks, continuous welds ground smooth, and no closed tubes or pockets that hold water. Say whether the table will be pressure washed and how often."
+        },
+        {
+          "title": "Match the power unit to the washdown",
+          "text": "A stainless table with a general-purpose power unit fails at the enclosure. Washdown environments need a sealed rating such as NEMA 4X on the electrics, and food production normally needs food-grade hydraulic fluid. Both have to be ordered with the table."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Hydraulic Lift Tables",
@@ -191,21 +353,75 @@
       "slug": "pneumatic-lift-tables",
       "image": "images/categories/pneumatic-lift-tables.svg",
       "group": "Power and drive",
-      "description": "<p>Pneumatic lift tables are powered by compressed air, either through an air bag that inflates to lift the platform or an air motor that drives a hydraulic pump. Because they need no electricity at the table, they are chosen for spray booths and other areas where electrical equipment is not allowed, and for plants that already run compressed air to every workstation.</p>\n<p>Air bag tables are simple and have few moving parts, while air-over-hydraulic designs give firmer, more precise positioning. Compare the required air pressure and flow against the shop supply, the controls, how the table holds its height under load, and the capacity and travel of the design.</p>"
+      "description": "<p>Pneumatic lift tables are powered by compressed air, either through an air bag that inflates to lift the platform or an air motor that drives a hydraulic pump. Because they need no electricity at the table, they are chosen for spray booths and other areas where electrical equipment is not allowed, and for plants that already run compressed air to every workstation.</p>\n<p>Air bag tables are simple and have few moving parts, while air-over-hydraulic designs give firmer, more precise positioning. Compare the required air pressure and flow against the shop supply, the controls, how the table holds its height under load, and the capacity and travel of the design.</p>",
+      "how_to_choose": [
+        {
+          "title": "Choose between an air bag and air-over-hydraulic",
+          "text": "An air bag table inflates a bellows directly: few moving parts, no fluid to leak, easy to clean, and travel limited by how tall the bag can get. Air-over-hydraulic uses air to drive a hydraulic pump, giving the full travel and holding behavior of a hydraulic table with no electricity at the table."
+        },
+        {
+          "title": "Check the air you have at the table, not at the compressor",
+          "text": "Lifting speed depends on volume, and a long or undersized line will raise a table slowly however large the compressor is. Get the required cfm and psi from the manufacturer and compare them against what the drop actually delivers under load."
+        },
+        {
+          "title": "Expect the platform to give under load",
+          "text": "Air is compressible, so an air bag table settles slightly when a load is placed on it and holds height less precisely than hydraulics or a screw. For most loading and positioning work this does not matter. For work that has to stop at an exact height, it does."
+        },
+        {
+          "title": "Be clear why you are buying air",
+          "text": "Spray booths, wash areas, classified locations and plants that would rather not run power to the table are all good reasons. If none of them apply, an electric table usually costs less, controls better and holds position more accurately."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Manual Lift Tables",
       "slug": "manual-lift-tables",
       "image": "images/categories/manual-lift-tables.svg",
       "group": "Power and drive",
-      "description": "<p>Manual lift tables are raised by hand or foot, usually with a hydraulic foot pump, and need no power supply of any kind. That makes them inexpensive, self-contained and easy to move, and they are the standard choice for mobile lift carts and for workstations where a table is adjusted occasionally rather than cycled constantly.</p>\n<p>The trade-off is effort and speed: every lift takes a number of pump strokes, which becomes tiring when a table is raised many times a day. Compare the number of strokes to full height, capacity, lowered and raised height, and how lowering is controlled. For frequent cycling, compare against electric, air or battery models.</p>"
+      "description": "<p>Manual lift tables are raised by hand or foot, usually with a hydraulic foot pump, and need no power supply of any kind. That makes them inexpensive, self-contained and easy to move, and they are the standard choice for mobile lift carts and for workstations where a table is adjusted occasionally rather than cycled constantly.</p>\n<p>The trade-off is effort and speed: every lift takes a number of pump strokes, which becomes tiring when a table is raised many times a day. Compare the number of strokes to full height, capacity, lowered and raised height, and how lowering is controlled. For frequent cycling, compare against electric, air or battery models.</p>",
+      "how_to_choose": [
+        {
+          "title": "Count the pumps, not the price",
+          "text": "Each stroke of a foot pump moves the platform a fixed amount, so full travel with a heavy load can be thirty strokes or more. Ask for the strokes to full height at rated load. It is the number that decides whether the operator will accept the table."
+        },
+        {
+          "title": "Look at how it comes down",
+          "text": "Descent is where a manual table is safe or is not. You want a controlled lowering valve with a flow restrictor so the platform cannot drop when the release is opened, and an adjustable descent speed is worth having. A load that falls the last few inches will eventually catch someone."
+        },
+        {
+          "title": "Be honest about the cycle rate",
+          "text": "Manual tables are right for occasional adjustment: a workstation reset a few times a day, a cart raised when it is loaded. Past a handful of lifts an hour the operator becomes the bottleneck, and the money saved on the power unit is spent on labor within months."
+        },
+        {
+          "title": "Check where the pedal is",
+          "text": "The foot pump has to be reachable with the load in place, from the side the operator actually stands on, without leaning over the platform. On mobile carts, check it is still reachable when the handle is in the way."
+        }
+      ]
     },
     {
       "path": "Lift Tables > Battery Powered Lift Tables",
       "slug": "battery-powered-lift-tables",
       "image": "images/categories/battery-powered-lift-tables.svg",
       "group": "Power and drive",
-      "description": "<p>Battery powered lift tables carry their own rechargeable battery and pump, so they give push-button lifting with no power cord or air hose. They suit mobile tables that move around a facility, work far from electrical outlets, and outdoor use, while avoiding the repeated pumping of a manual table.</p>\n<p>The battery powers a motor, usually driving a hydraulic pump, and is recharged from a standard outlet between shifts. Compare the number of lift cycles per charge, how long a full recharge takes, whether the charger is built in, how battery level is shown, and the capacity and travel of the table itself.</p>"
+      "description": "<p>Battery powered lift tables carry their own rechargeable battery and pump, so they give push-button lifting with no power cord or air hose. They suit mobile tables that move around a facility, work far from electrical outlets, and outdoor use, while avoiding the repeated pumping of a manual table.</p>\n<p>The battery powers a motor, usually driving a hydraulic pump, and is recharged from a standard outlet between shifts. Compare the number of lift cycles per charge, how long a full recharge takes, whether the charger is built in, how battery level is shown, and the capacity and travel of the table itself.</p>",
+      "how_to_choose": [
+        {
+          "title": "Size the battery to the shift, not to the lift",
+          "text": "The number to ask for is lifts per charge at rated load, not amp-hours. Compare it against a real shift with a margin, then decide whether the table charges overnight or needs a second battery to swap. This is the specification that determines whether the table is usable."
+        },
+        {
+          "title": "Find out where the charger lives",
+          "text": "An onboard charger means the table plugs into any outlet and there is nothing separate to lose or share. An external charger is cheaper and keeps weight off a mobile table but has to be kept somewhere and is often shared between units. Decide which fits how the table will be used."
+        },
+        {
+          "title": "Choose the chemistry deliberately",
+          "text": "Sealed lead-acid is inexpensive, heavy, and wants to be fully recharged each time; partial charging shortens its life. Lithium is lighter, charges faster, tolerates topping up between uses and costs more up front. If flooded cells are offered at all, they need a ventilated charging area."
+        },
+        {
+          "title": "Confirm it can be lowered without power",
+          "text": "A dead battery with a load in the air is the failure mode specific to this category. A manual lowering valve or a hand pump backup turns that from a problem into an inconvenience. Ask which one the table has."
+        }
+      ]
     }
   ]
 }
