@@ -114,6 +114,52 @@ $images['lift-table-loading-options'] = array(
 		. pallet( 196, $t['top'], 150 ),
 );
 
+// Power: one table, and the choice of what drives it. The mains power unit is
+// drawn; an air supply, the usual alternative, is ghosted on the other side.
+$t = scissor_table( array( 'h' => 110 ) );
+$images['lift-table-power-options'] = array(
+	'A lift table with its hydraulic power unit, and an air supply shown as the alternative',
+	ground()
+		. path( 'M120 268 C100 268 98 250 78 250', 'none', LINE, 4 )
+		. rect( 54, 238, 24, 24, 'none', LINE, 2.5 )
+		. line( 30, 250, 54, 250, LINE, 4 )
+		. $t['svg']
+		. path( 'M360 266 C372 266 376 252 388 252', 'none', MUTED, 5 )
+		. rect( 388, 222, 60, 54 )
+		. rect( 402, 210, 32, 12 )
+		. circle( 418, 250, 11, PAPER, INK, 2.5 ),
+);
+
+// Duty cycle: the deck at both ends of its stroke, and the loop it runs.
+$t = scissor_table( array( 'h' => 120 ) );
+$images['lift-table-duty-cycle'] = array(
+	'A lift table deck shown lowered and raised, with arrows for the repeating cycle',
+	ground()
+		. rect( 100, 202, 280, 20, 'none', LINE, 2.5 )
+		. $t['svg']
+		. path( 'M420 130 A 28 28 0 0 1 420 186', 'none', MUTED, 3 )
+		. path( 'M428 180 L420 186 L428 192', 'none', MUTED, 3 )
+		. path( 'M420 186 A 28 28 0 0 1 420 130', 'none', MUTED, 3 )
+		. path( 'M412 124 L420 130 L412 136', 'none', MUTED, 3 ),
+);
+
+// ANSI MH29.1: the table held up on its maintenance prop, with its toe guard
+// and a locked-out disconnect -- the moment the standard cares most about.
+$t = scissor_table( array( 'h' => 120 ) );
+$images['ansi-mh29-1-lift-table-standard'] = array(
+	'A raised lift table held on its maintenance prop, with a toe guard and a locked power disconnect',
+	ground()
+		. $t['svg']
+		. line( 302, 252, 290, 166, MUTED, 8, ' stroke-linecap="round"' )
+		// The guard hangs in front of the legs; the two top pins go back on over it.
+		. rect( 104, 133, 272, 6, PAPER, INK, 2 )
+		. circle( 140, 132, 6 )
+		. circle( $t['x2'], 132, 8 )
+		. rect( 396, 226, 48, 50 )
+		. path( 'M412 244 V236 A8 8 0 0 1 428 236 V244', 'none', INK, 2.5 )
+		. rect( 408, 244, 24, 16, PAPER, INK, 2.5 ),
+);
+
 /* ------------------------------------------------------------------ */
 
 $dir = dirname( __DIR__ ) . '/images/guides';
