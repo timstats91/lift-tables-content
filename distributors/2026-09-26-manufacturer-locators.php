@@ -60,9 +60,9 @@ $rows = array(
 	// --- Listed by several manufacturers ---
 	array( 'Motion Industries', 'Birmingham', 'AL', 'motion.com', 'ALW', 'HQ; branches on each locator' ),
 	array( 'Indoff Incorporated', 'St. Louis', 'MO', 'indoff.com', 'ALS', 'HQ; Advance lists Frisco TX, Bishamon links Indoff FL' ),
-	array( 'A Plus Warehouse Equipment & Supply', 'Lynn', 'MA', 'apluswhs.com', 'LWB', '' ),
+	array( 'A Plus Warehouse Equipment & Supply', 'Beverly', 'MA', 'apluswhs.com', 'LWB', 'Lift Products and Wesco list Lynn, MA; moved to Beverly 27 Sep 2026' ),
 	array( 'Northwest Handling Systems', 'Renton', 'WA', '', 'AL', 'also Spokane and Union Gap, WA' ),
-	array( 'DACO Corporation', 'Seattle', 'WA', '', 'AL', 'Advance lists Kent, WA' ),
+	array( 'DACO Corporation', 'Kent', 'WA', 'dacocorp.com', 'AL', 'HQ; Lift Products lists Seattle' ),
 	array( 'Beaton Industrial', 'Utica', 'NY', 'beatonindustrial.com', 'AL', 'Advance factory-certified' ),
 	array( 'Bastian Solutions', 'Carmel', 'IN', '', 'AL', 'HQ; many branches' ),
 	array( 'DMI North', 'Granger', 'IN', '', 'AL', '' ),
@@ -90,7 +90,7 @@ $rows = array(
 	array( 'Material Handling Solutions', 'Mission', 'TX', '', 'A', '' ),
 	array( 'Medley Material Handling', 'Amarillo', 'TX', '', 'A', '' ),
 	array( 'Smock Material Handling Co.', 'Indianapolis', 'IN', '', 'A', '' ),
-	array( 'Wolter', 'Goshen', 'IN', '', 'A', '' ),
+	array( 'Wolter', 'Brookfield', 'WI', 'wolterinc.com', 'AW', 'HQ; Advance lists Goshen, IN; Wesco lists it as Wisconsin Lift Truck, rebranded Wolter in 2022' ),
 	array( 'Robert Dietrick Co., Inc.', 'Fishers', 'IN', '', 'A', '' ),
 	array( 'B & C Industrial Products', 'Garrett', 'IN', 'bandcip.com', 'A', 'publishes an Advance Lifts page' ),
 	array( 'Wiese USA', 'Indianapolis', 'IN', '', 'A', 'also Peru, IL' ),
@@ -100,7 +100,7 @@ $rows = array(
 
 	// --- Lift Products ---
 	array( 'Applied Industrial Technologies', 'Cleveland', 'OH', '', 'L', 'HQ; 26 branches on the locator' ),
-	array( 'Associated Solutions', 'Indianapolis', 'IN', '', 'L', 'also Addison, IL and Eagan, MN' ),
+	array( 'Associated Solutions', 'Hanover Park', 'IL', 'associated-solutions.com', 'L', 'HQ; Lift Products lists Indianapolis, IN, Addison, IL and Eagan, MN' ),
 	array( 'Associates Material Handling', 'Denver', 'CO', '', 'L', '' ),
 	array( 'California Caster', 'Oakland', 'CA', '', 'L', '' ),
 	array( 'Cranston Material Handling', 'McKees Rocks', 'PA', '', 'L', '' ),
@@ -131,7 +131,6 @@ $rows = array(
 	array( 'Material Handling Sales', 'Yarmouth', 'ME', '', 'W', '' ),
 	array( 'Meyer Material Handling', 'Indianapolis', 'IN', '', 'W', '' ),
 	array( 'RMH Systems', 'Bellevue', 'NE', '', 'W', '' ),
-	array( 'Wisconsin Lift Truck', 'Brookfield', 'WI', '', 'W', '' ),
 
 	// --- Blue Giant ---
 	array( 'A M Industrial, Inc.', 'Middletown', 'CT', 'am-ind.com', 'B', 'also NJ, NH and PA' ),
